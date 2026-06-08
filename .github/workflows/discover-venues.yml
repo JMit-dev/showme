@@ -28,6 +28,9 @@ jobs:
           GOOGLE_PLACES_API_KEY: ${{ secrets.GOOGLE_PLACES_API_KEY }}
         run: cd scraper && node discover.js
 
+      - name: Verify and update venue URLs
+        run: cd scraper && node verify-urls.js
+
       - name: Commit updated venues if changed
         run: |
           git config user.name 'github-actions[bot]'

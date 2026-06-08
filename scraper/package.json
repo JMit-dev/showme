@@ -1,0 +1,20 @@
+{
+  "name": "showme-scraper",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Nightly scrapers for LI rock and metal venue shows",
+  "main": "index.js",
+  "scripts": {
+    "scrape": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.2",
+    "axios-retry": "^4.5.0",
+    "cheerio": "^1.0.0",
+    "date-fns": "^3.6.0"
+  },
+  "devDependencies": {
+    "puppeteer-core": "^22.0.0",
+    "@sparticuz/chromium": "^123.0.0"
+  }
+}

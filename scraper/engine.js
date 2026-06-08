@@ -382,6 +382,19 @@ function scrapeGenericHtml($, venueConfig, pageUrl) {
 // Only used when static strategies all fail. Dynamically imported to keep
 // startup fast for venues that don't need it.
 
+const MONTH_MAP = { Jan:'01',Feb:'02',Mar:'03',Apr:'04',May:'05',Jun:'06',Jul:'07',Aug:'08',Sep:'09',Oct:'10',Nov:'11',Dec:'12' }
+
+// Parse Wix Events date string: "Jun 11, 2026, 8:00 PM – 10:00 PM"
+// Parses date parts directly to avoid UTC offset issues.
+function parseWixDate(str) {
+  const m = str.match(/^(\w{3})\s+(\d{1,2}),\s+(\d{4}),\s+(\d{1,2}:\d{2}\s+[AP]M)/)
+  if (!m) return { date: null, time: null }
+  const [, mon, day, year, time] = m
+  const mm = MONTH_MAP[mon]
+  if (!mm) return { date: null, time: null }
+  return { date: `${year}-${mm}-${day.padStart(2,'0')}`, time }
+}
+
 async function scrapeWithPuppeteer(url, venueConfig) {
   let puppeteer, chromium
   try {
@@ -400,28 +413,61 @@ async function scrapeWithPuppeteer(url, venueConfig) {
     const executablePath = process.env.CHROMIUM_PATH || await chromium.executablePath()
 
     browser = await puppeteer.launch({
-      args: chromium.args,
-      defaultViewport: chromium.defaultViewport,
+      args: [...chromium.args, '--window-size=1920,1080'],
+      defaultViewport: { width: 1920, height: 1080 },
       executablePath,
       headless: chromium.headless,
     })
 
     const page = await browser.newPage()
     await page.setExtraHTTPHeaders(DEFAULT_HEADERS)
-    await page.goto(url, { waitUntil: 'networkidle2', timeout: 30000 })
+    await page.goto(url, { waitUntil: 'networkidle0', timeout: 35000 })
+    await page.evaluate(() => window.scrollTo(0, document.body.scrollHeight))
+    await new Promise(r => setTimeout(r, 3000))
 
-    // Wait a bit for any lazy-loaded events to appear
-    await new Promise(r => setTimeout(r, 2000))
+    // Wix Events: stable data-hook attributes survive obfuscated class names
+    const wixEvents = await page.evaluate(() => {
+      const items = [...document.querySelectorAll('[data-hook="event-list-item"]')]
+      return items.map(item => ({
+        title: item.querySelector('[data-hook="ev-list-item-title"]')?.textContent?.trim(),
+        date: item.querySelector('[data-hook="date"]')?.textContent?.trim(),
+        ticketUrl: item.querySelector('[data-hook="ev-rsvp-button"]')?.href || null,
+      })).filter(e => e.title && e.date)
+    })
+
+    if (wixEvents.length) {
+      const shows = []
+      for (const ev of wixEvents) {
+        const { date: dateStr, time } = parseWixDate(ev.date)
+        if (!isUpcoming(dateStr)) continue
+        shows.push(normalizeShow({
+          id: makeShowId(venueConfig.id, dateStr, ev.title),
+          title: ev.title,
+          date: dateStr,
+          time,
+          ticketUrl: ev.ticketUrl || null,
+          imageUrl: null,
+          sourceUrl: ev.ticketUrl || venueConfig.eventsUrl,
+        }))
+      }
+      if (shows.length) {
+        console.log(`    ✓ Wix Events: ${shows.length} shows`)
+        return shows
+      }
+    }
 
     const html = await page.content()
     const $ = cheerio.load(html)
 
-    // Run all static strategies on the rendered HTML
+    // Run static strategies on the rendered HTML
     const jsonLd = scrapeJsonLd(html, $, venueConfig)
     if (jsonLd) return jsonLd
 
     const bt = await scrapeBandsintown(html, $, venueConfig)
     if (bt) return bt
+
+    const nextData = scrapeNextData(html, venueConfig)
+    if (nextData) return nextData
 
     const generic = scrapeGenericHtml($, venueConfig, url)
     if (generic) return generic

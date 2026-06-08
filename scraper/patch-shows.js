@@ -17,6 +17,7 @@ const SHOWS_JSON  = path.join(__dirname, '../public/data/shows.json')
 const TARGET_IDS = [
   '89north',
   'gp-RZmkkLSJKP0M', // Stephen Talkhouse
+  'gp-Rd5KA853eGSQ', // My Father's Place (Wix Events)
 ]
 
 const allVenues = JSON.parse(fs.readFileSync(VENUES_JSON, 'utf8')).venues

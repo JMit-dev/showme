@@ -1,206 +1,226 @@
-import { useState } from 'react'
-import { format, parseISO } from 'date-fns'
-import { RefreshCw, Music, AlertCircle, Map } from 'lucide-react'
+import { useState, useCallback } from 'react'
+import { format, parseISO, addDays } from 'date-fns'
+import { Search, X, Music, MapPin } from 'lucide-react'
 import { useShows, useVenues } from './hooks/useShows'
 import { getAllShows, filterShows } from './lib/utils'
-import ShowCard from './components/ShowCard'
-import VenueCard from './components/VenueCard'
-import FilterBar from './components/FilterBar'
 import MapView from './components/MapView'
-import { VenueCardSkeleton } from './components/SkeletonCard'
+import ShowRow from './components/ShowRow'
 
-const TABS = [
-  { id: 'all',    label: 'All Shows' },
-  { id: 'venues', label: 'By Venue'  },
-  { id: 'week',   label: 'This Week' },
-  { id: 'map',    label: 'Map',  icon: Map },
+const DATE_FILTERS = [
+  { value: 'all',   label: 'All'   },
+  { value: 'today', label: 'Today' },
+  { value: 'week',  label: 'Week'  },
+  { value: 'month', label: 'Month' },
 ]
 
+function groupByDate(shows) {
+  const today = format(new Date(), 'yyyy-MM-dd')
+  const tomorrow = format(addDays(new Date(), 1), 'yyyy-MM-dd')
+
+  const groups = new Map()
+  for (const show of shows) {
+    const date = show.date
+    if (!date) continue
+    if (!groups.has(date)) groups.set(date, [])
+    groups.get(date).push(show)
+  }
+
+  return [...groups.entries()].map(([date, shows]) => {
+    let prefix
+    if (date === today) prefix = 'Today · '
+    else if (date === tomorrow) prefix = 'Tomorrow · '
+    else prefix = ''
+    let label
+    try { label = prefix + format(parseISO(date), 'EEE, MMM d') }
+    catch { label = date }
+    return { date, label, shows }
+  })
+}
+
 export default function App() {
-  const { data: showsData, isLoading: showsLoading, isError, refetch, isFetching } = useShows()
+  const { data: showsData, isLoading, isError, refetch } = useShows()
   const { data: venuesData } = useVenues()
 
-  const [activeTab, setActiveTab] = useState('all')
-  const [filters, setFilters] = useState({ venueIds: [], dateRange: 'all', search: '' })
+  const [search, setSearch] = useState('')
+  const [dateFilter, setDateFilter] = useState('all')
+  const [selectedVenueId, setSelectedVenueId] = useState(null)
+  const [mapVisible, setMapVisible] = useState(true)
 
-  // Build the merged venue list:
-  // venues.json (all venues incl. map-only) + shows.json (show data per venue)
   const allVenuesFromRegistry = venuesData?.venues || []
   const showVenues = showsData?.venues ? Object.values(showsData.venues) : []
-
-  // For filter bar and By Venue tab — only venues that have been scraped (appear in shows.json)
-  const scrapedVenues = showVenues
-
-  // For map — every venue in the registry with coords
-  const mapVenues = allVenuesFromRegistry.length > 0
-    ? allVenuesFromRegistry
-    : showVenues  // fallback if discovery hasn't run yet
+  const mapVenues = allVenuesFromRegistry.length > 0 ? allVenuesFromRegistry : showVenues
 
   const allShows = getAllShows(showsData?.venues)
-  const activeFilters = activeTab === 'week' ? { ...filters, dateRange: 'week' } : filters
-  const filteredShows = filterShows(allShows, activeFilters)
+  const filteredShows = filterShows(allShows, {
+    venueIds: selectedVenueId ? [selectedVenueId] : [],
+    dateRange: dateFilter,
+    search,
+  })
+  const showGroups = groupByDate(filteredShows)
 
-  const lastUpdated = showsData?.lastUpdated
-    ? (() => { try { return format(parseISO(showsData.lastUpdated), 'MMM d, h:mm a') } catch { return null } })()
+  const selectedVenueName = selectedVenueId
+    ? (mapVenues.find(v => v.id === selectedVenueId)?.name || showsData?.venues?.[selectedVenueId]?.name)
     : null
 
-  return (
-    <div className="min-h-screen bg-[#0d0d0d]">
-      {/* Header */}
-      <header className="border-b border-[#2a2a2a] bg-[#0d0d0d]/90 backdrop-blur-sm sticky top-0 z-40">
-        <div className="max-w-5xl mx-auto px-4 py-4">
-          <div className="flex items-center justify-between">
-            <div className="flex items-center gap-3">
-              <div className="w-8 h-8 rounded-lg bg-[#e53e3e] flex items-center justify-center">
-                <Music size={16} className="text-white" />
-              </div>
-              <div>
-                <h1 className="font-display font-black text-2xl text-white tracking-widest uppercase">
-                  ShowMe
-                </h1>
-                <p className="text-[10px] font-mono text-[#555] -mt-0.5 uppercase tracking-widest">
-                  LI Rock &amp; Metal
-                </p>
-              </div>
-            </div>
+  const handleVenueClick = useCallback((venueId) => {
+    setSelectedVenueId(prev => prev === venueId ? null : venueId)
+  }, [])
 
-            <div className="flex items-center gap-3">
-              {lastUpdated && (
-                <span className="hidden sm:block text-[10px] font-mono text-[#444]">
-                  Updated {lastUpdated}
-                </span>
-              )}
-              <button
-                onClick={() => refetch()}
-                disabled={isFetching}
-                className="p-2 rounded-lg border border-[#2a2a2a] text-[#555] hover:text-[#e53e3e] hover:border-[#e53e3e]/30 transition-colors disabled:opacity-40"
-              >
-                <RefreshCw size={14} className={isFetching ? 'animate-spin' : ''} />
-              </button>
+  const clearVenue = useCallback(() => setSelectedVenueId(null), [])
+
+  const totalCount = filteredShows.length
+
+  return (
+    <div className="h-screen flex flex-col overflow-hidden bg-[#0d0d0d]">
+      {/* ── Header ───────────────────────────────────────────────────────── */}
+      <header className="flex-none bg-[#0a0a0a] border-b border-[#1e1e1e] z-50">
+        {/* Row 1: logo + search + filters (single row on md+, wraps on mobile) */}
+        <div className="px-3 py-2 flex flex-wrap items-center gap-2">
+          {/* Logo */}
+          <div className="flex items-center gap-2 flex-none">
+            <div className="w-6 h-6 rounded bg-[#e53e3e] flex items-center justify-center">
+              <Music size={11} className="text-white" />
             </div>
+            <div className="flex flex-col leading-none">
+              <span className="font-display font-black text-white text-sm tracking-widest uppercase">
+                ShowMe
+              </span>
+              <span className="text-[#333] text-[8px] font-mono uppercase tracking-widest hidden sm:block">
+                LI Show Tracker
+              </span>
+            </div>
+          </div>
+
+          {/* Search — grows to fill available space */}
+          <div className="relative flex-1 min-w-[120px]">
+            <Search size={11} className="absolute left-2.5 top-1/2 -translate-y-1/2 text-[#3a3a3a]" />
+            <input
+              type="text"
+              placeholder="Search…"
+              value={search}
+              onChange={e => setSearch(e.target.value)}
+              className="w-full pl-7 pr-6 py-1.5 bg-[#131313] border border-[#222] rounded text-xs text-[#e0e0e0] placeholder-[#3a3a3a] focus:outline-none focus:border-[#e53e3e]/30 transition-colors"
+            />
+            {search && (
+              <button onClick={() => setSearch('')} className="absolute right-2 top-1/2 -translate-y-1/2 text-[#444] hover:text-[#888]">
+                <X size={10} />
+              </button>
+            )}
+          </div>
+
+          {/* Date filters */}
+          <div className="flex gap-0.5 flex-none">
+            {DATE_FILTERS.map(({ value, label }) => (
+              <button
+                key={value}
+                onClick={() => setDateFilter(value)}
+                className={`px-2 py-1.5 rounded text-[11px] font-mono transition-colors ${
+                  dateFilter === value
+                    ? 'bg-[#e53e3e] text-white'
+                    : 'text-[#444] hover:text-[#aaa]'
+                }`}
+              >
+                {label}
+              </button>
+            ))}
           </div>
         </div>
       </header>
 
-      <main className="max-w-5xl mx-auto px-4 py-6">
-        {/* Tab bar */}
-        <div className="flex gap-1 mb-2 p-1 rounded-xl bg-[#111111] border border-[#2a2a2a] w-fit">
-          {TABS.map(tab => (
-            <button
-              key={tab.id}
-              onClick={() => setActiveTab(tab.id)}
-              className={`flex items-center gap-1.5 px-4 py-2 rounded-lg text-sm font-mono transition-colors ${
-                activeTab === tab.id
-                  ? 'bg-[#e53e3e] text-white'
-                  : 'text-[#666] hover:text-[#e8e8e8]'
-              }`}
-            >
-              {tab.icon && <tab.icon size={13} />}
-              {tab.label}
-            </button>
-          ))}
+      {/* ── Body: Map + List ─────────────────────────────────────────────── */}
+      <div className="flex-1 flex flex-col lg:flex-row overflow-hidden min-h-0">
+
+        {/* Map panel */}
+        <div
+          className={`flex-none border-b lg:border-b-0 lg:border-r border-[#1a1a1a] transition-all duration-300 lg:w-[45%] ${
+            mapVisible ? 'h-[220px] sm:h-[280px] lg:h-full' : 'h-0 lg:h-full lg:w-0 overflow-hidden'
+          }`}
+        >
+          <MapView
+            allVenues={mapVenues}
+            showsData={showsData}
+            selectedVenueId={selectedVenueId}
+            onVenueClick={handleVenueClick}
+          />
         </div>
 
-        {/* Filter bar — not on Map or This Week */}
-        {activeTab !== 'map' && activeTab !== 'week' && (
-          <FilterBar
-            venues={scrapedVenues}
-            filters={filters}
-            onFilterChange={setFilters}
-          />
-        )}
-
-        {activeTab === 'week' && (
-          <div className="py-3 mb-1">
-            <p className="text-xs font-mono text-[#555]">Shows in the next 7 days across all LI venues</p>
-          </div>
-        )}
-
-        {/* ── Map tab ─────────────────────────────────────────────────────── */}
-        {activeTab === 'map' && (
-          <div className="mt-4">
-            <MapView allVenues={mapVenues} showsData={showsData} />
-          </div>
-        )}
-
-        {/* ── Loading ──────────────────────────────────────────────────────── */}
-        {showsLoading && activeTab !== 'map' && (
-          <div className="space-y-4 mt-4">
-            {[...Array(3)].map((_, i) => <VenueCardSkeleton key={i} />)}
-          </div>
-        )}
-
-        {/* ── Error ────────────────────────────────────────────────────────── */}
-        {isError && !showsLoading && activeTab !== 'map' && (
-          <div className="mt-8 flex flex-col items-center gap-4 text-center">
-            <AlertCircle size={40} className="text-[#e53e3e]/50" />
-            <div>
-              <p className="font-display font-bold text-xl text-[#e8e8e8]">Couldn&apos;t load shows</p>
-              <p className="text-sm text-[#555] font-mono mt-1">Check your connection or try again</p>
-            </div>
+        {/* List panel */}
+        <div className="flex-1 flex flex-col overflow-hidden min-h-0">
+          {/* List toolbar */}
+          <div className="flex-none flex items-center gap-2 px-4 py-1.5 border-b border-[#1a1a1a] bg-[#0a0a0a]">
+            {/* Mobile map toggle */}
             <button
-              onClick={() => refetch()}
-              className="px-4 py-2 rounded-lg bg-[#e53e3e] hover:bg-[#c53030] text-white text-sm font-mono transition-colors"
+              onClick={() => setMapVisible(v => !v)}
+              className="lg:hidden flex items-center gap-1 text-[10px] font-mono text-[#444] hover:text-[#888] transition-colors"
             >
-              Try again
+              <MapPin size={10} />
+              {mapVisible ? 'Hide map' : 'Show map'}
             </button>
-          </div>
-        )}
 
-        {/* ── All Shows / This Week ────────────────────────────────────────── */}
-        {!showsLoading && !isError && (activeTab === 'all' || activeTab === 'week') && (
-          filteredShows.length === 0 ? (
-            <div className="mt-12 text-center">
-              <p className="font-display font-bold text-2xl text-[#333]">No shows found</p>
-              <p className="text-sm font-mono text-[#444] mt-2">
-                {activeTab === 'week' ? 'Nothing on the calendar this week.' : 'Try adjusting your filters.'}
-              </p>
-              {activeTab !== 'week' && (
-                <button
-                  onClick={() => setFilters({ venueIds: [], dateRange: 'all', search: '' })}
-                  className="mt-4 px-4 py-2 rounded-lg border border-[#2a2a2a] text-sm font-mono text-[#666] hover:text-[#e8e8e8] transition-colors"
-                >
-                  Reset filters
+            {selectedVenueName ? (
+              <div className="flex items-center gap-1.5 text-xs font-mono">
+                <MapPin size={10} className="text-[#e53e3e]" />
+                <span className="text-[#e53e3e]">{selectedVenueName}</span>
+                <button onClick={clearVenue} className="text-[#444] hover:text-[#888] ml-1">
+                  <X size={11} />
                 </button>
-              )}
-            </div>
-          ) : (
-            <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
-              {filteredShows.map(show => (
-                <ShowCard key={show.id} show={show} venueName={show.venueName} />
-              ))}
-            </div>
-          )
-        )}
+              </div>
+            ) : (
+              <span className="text-[10px] font-mono text-[#2a2a2a]">
+                {isLoading ? 'Loading…' : `${totalCount} show${totalCount !== 1 ? 's' : ''}`}
+              </span>
+            )}
+          </div>
 
-        {/* ── By Venue ─────────────────────────────────────────────────────── */}
-        {!showsLoading && !isError && activeTab === 'venues' && (
-          scrapedVenues.length === 0 ? (
-            <div className="mt-12 text-center">
-              <p className="font-display font-bold text-2xl text-[#333]">No venue data yet</p>
-              <p className="text-sm font-mono text-[#444] mt-2">Run the scraper to populate shows.</p>
-            </div>
-          ) : (
-            <div className="space-y-4 mt-2">
-              {scrapedVenues
-                .filter(v => !filters.venueIds.length || filters.venueIds.includes(v.id))
-                .map(venue => {
-                  const vShows = filterShows(
-                    (venue.shows || []).map(s => ({ ...s, venueId: venue.id, venueName: venue.name })),
-                    filters
-                  )
-                  return <VenueCard key={venue.id} venue={venue} shows={vShows} />
-                })}
-            </div>
-          )
-        )}
-      </main>
+          {/* Show list */}
+          <div className="flex-1 overflow-y-auto">
+            {isLoading && (
+              <div className="flex items-center justify-center h-32 text-[#333] text-sm font-mono">
+                Loading shows…
+              </div>
+            )}
 
-      <footer className="mt-16 border-t border-[#1a1a1a] py-6 text-center">
-        <p className="text-xs font-mono text-[#333]">
-          showme · LI rock &amp; metal shows · data updated nightly
-        </p>
-      </footer>
+            {isError && (
+              <div className="flex flex-col items-center justify-center h-32 gap-3">
+                <p className="text-[#555] text-sm font-mono">Couldn't load shows</p>
+                <button
+                  onClick={() => refetch()}
+                  className="px-3 py-1.5 rounded bg-[#e53e3e] text-white text-xs font-mono hover:bg-[#c53030] transition-colors"
+                >
+                  Retry
+                </button>
+              </div>
+            )}
+
+            {!isLoading && !isError && showGroups.length === 0 && (
+              <div className="flex flex-col items-center justify-center h-32 gap-2">
+                <p className="text-[#333] text-sm font-mono">No shows found</p>
+                {(search || selectedVenueId || dateFilter !== 'all') && (
+                  <button
+                    onClick={() => { setSearch(''); clearVenue(); setDateFilter('all') }}
+                    className="text-[10px] font-mono text-[#444] hover:text-[#888] underline underline-offset-2"
+                  >
+                    Clear filters
+                  </button>
+                )}
+              </div>
+            )}
+
+            {!isLoading && !isError && showGroups.map(({ date, label, shows }) => (
+              <div key={date}>
+                <div className="sticky top-0 z-10 px-4 py-1.5 bg-[#0a0a0a]/95 backdrop-blur-sm border-b border-[#1a1a1a]">
+                  <span className="text-[10px] font-mono font-bold text-[#e53e3e] uppercase tracking-widest">
+                    {label}
+                  </span>
+                </div>
+                {shows.map(show => (
+                  <ShowRow key={show.id} show={show} onVenueClick={handleVenueClick} />
+                ))}
+              </div>
+            ))}
+          </div>
+        </div>
+      </div>
     </div>
   )
 }

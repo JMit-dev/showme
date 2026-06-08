@@ -745,7 +745,7 @@
       "genre": [
         "performing arts"
       ],
-      "active": true,
+      "active": false,
       "source": "google-places"
     },
     {
@@ -858,10 +858,10 @@
         -73.6457695
       ],
       "url": "https://www.facebook.com/barnumballroom",
-      "eventsUrl": "https://www.facebook.com/events",
+      "eventsUrl": null,
       "facebook": null,
       "instagram": null,
-      "scraper": "auto",
+      "scraper": null,
       "genre": [
         "live music"
       ],
@@ -1218,10 +1218,10 @@
         -73.8136576
       ],
       "url": "https://www.instagram.com/cheapshotsqueens/?hl=en",
-      "eventsUrl": "https://www.instagram.com/events",
+      "eventsUrl": null,
       "facebook": null,
       "instagram": null,
-      "scraper": "auto",
+      "scraper": null,
       "genre": [
         "live music"
       ],
@@ -2379,10 +2379,10 @@
         -73.2322669
       ],
       "url": "https://www.facebook.com/lacabanarest/",
-      "eventsUrl": "https://www.facebook.com/events",
+      "eventsUrl": null,
       "facebook": null,
       "instagram": null,
-      "scraper": "auto",
+      "scraper": null,
       "genre": [
         "live music"
       ],
@@ -2926,7 +2926,7 @@
       "genre": [
         "performing arts"
       ],
-      "active": true,
+      "active": false,
       "source": "google-places"
     },
     {
@@ -3499,10 +3499,10 @@
         -73.210055
       ],
       "url": "https://www.instagram.com/spaceloungesmithtown?igsh=MTl0bTE0cDcycWY5dw==",
-      "eventsUrl": "https://www.instagram.com/events",
+      "eventsUrl": null,
       "facebook": null,
       "instagram": null,
-      "scraper": "auto",
+      "scraper": null,
       "genre": [
         "live music"
       ],
@@ -3559,10 +3559,10 @@
         -72.6623747
       ],
       "url": "https://www.facebook.com/spotlighteastend?rdid=VOLVZLmIEVp6zAzx&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1MbPMbNGeK%2F",
-      "eventsUrl": "https://www.facebook.com/events",
+      "eventsUrl": null,
       "facebook": null,
       "instagram": null,
-      "scraper": "auto",
+      "scraper": null,
       "genre": [
         "performing arts"
       ],
@@ -3606,7 +3606,7 @@
       "genre": [
         "performing arts"
       ],
-      "active": true,
+      "active": false,
       "source": "google-places"
     },
     {
@@ -4141,10 +4141,10 @@
         -73.0288602
       ],
       "url": "https://tikijoes.com/",
-      "eventsUrl": "https://tikijoes.com/specialty-catering-packages/",
+      "eventsUrl": null,
       "facebook": null,
       "instagram": null,
-      "scraper": "auto",
+      "scraper": null,
       "genre": [
         "live music"
       ],
@@ -4161,10 +4161,10 @@
         -72.8614976
       ],
       "url": "https://tikijoes.com/",
-      "eventsUrl": "https://tikijoes.com/specialty-catering-packages/",
+      "eventsUrl": null,
       "facebook": null,
       "instagram": null,
-      "scraper": "auto",
+      "scraper": null,
       "genre": [
         "live music"
       ],
@@ -4228,7 +4228,7 @@
       "genre": [
         "performing arts"
       ],
-      "active": true,
+      "active": false,
       "source": "google-places"
     },
     {
@@ -4321,10 +4321,10 @@
         -72.6624338
       ],
       "url": "https://www.instagram.com/vailleavitt/?hl=en",
-      "eventsUrl": "https://www.instagram.com/events",
+      "eventsUrl": null,
       "facebook": null,
       "instagram": null,
-      "scraper": "auto",
+      "scraper": null,
       "genre": [
         "live music"
       ],
@@ -4442,10 +4442,10 @@
         -73.8174269
       ],
       "url": "https://www.instagram.com/xscape_nyc/",
-      "eventsUrl": "https://www.instagram.com/events",
+      "eventsUrl": null,
       "facebook": null,
       "instagram": null,
-      "scraper": "auto",
+      "scraper": null,
       "genre": [
         "live music"
       ],

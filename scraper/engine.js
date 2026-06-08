@@ -123,6 +123,83 @@ function scrapeJsonLd(html, $, venueConfig) {
   return shows.length ? shows : null
 }
 
+// ─── Strategy 1b: Next.js __NEXT_DATA__ ────────────────────────────────────
+// Handles venues using Next.js SSG where event data is embedded as JSON.
+// Currently covers Stephen Talkhouse (allEventsV2 / Tixr integration).
+
+function scrapeNextData(html, venueConfig) {
+  const match = html.match(/<script id="__NEXT_DATA__" type="application\/json">([\s\S]+?)<\/script>/)
+  if (!match) return null
+
+  let json
+  try { json = JSON.parse(match[1]) } catch { return null }
+
+  const pageProps = json.props?.pageProps || {}
+
+  // Pattern: allEventsV2 (Stephen Talkhouse / Tixr)
+  const events = pageProps.allEventsV2 || pageProps.events || pageProps.upcomingEvents || []
+  if (!Array.isArray(events) || !events.length) return null
+
+  const shows = []
+  for (const ev of events) {
+    // fullDate is "M/D/YYYY" or startDate ISO
+    const rawDate = ev.fullDate || ev.startDate || ev.date || ''
+    const dateStr = parseDate(rawDate)
+    if (!isUpcoming(dateStr)) continue
+
+    const price = ev.prices?.minPrice != null
+      ? `$${Number(ev.prices.minPrice).toFixed(0)}`
+      : null
+
+    shows.push(normalizeShow({
+      id: makeShowId(venueConfig.id, dateStr, ev.name || ev.title),
+      title: ev.name || ev.title || 'TBA',
+      date: dateStr,
+      time: ev.hour || ev.startTime || null,
+      ticketUrl: ev.url || null,
+      imageUrl: ev.image || null,
+      price,
+      sourceUrl: ev.url || venueConfig.eventsUrl,
+    }))
+  }
+
+  return shows.length ? shows : null
+}
+
+// ─── Strategy 1c: Booketing.com (UrVenue) ──────────────────────────────────
+// 89 North and other venues on booketing.com embed events in a static
+// calendar table: td[class*="uvtddate-YYYY-MM-DD"] > a.flyer > .name
+
+function scrapeBooketing(html, $, venueConfig) {
+  if (!venueConfig.eventsUrl?.includes('booketing.com')) return null
+
+  const shows = []
+  $('td[class*="uvtddate-"]').each((_, td) => {
+    const cls = $(td).attr('class') || ''
+    const dateMatch = cls.match(/uvtddate-(\d{4}-\d{2}-\d{2})/)
+    if (!dateMatch) return
+    const dateStr = dateMatch[1]
+    if (!isUpcoming(dateStr)) return
+    $(td).find('a.flyer').each((_, a) => {
+      const name = $(a).find('.name').text().trim()
+      const href = $(a).attr('href')
+      if (!name) return
+      const ticketUrl = href ? `https://booketing.com${href}` : null
+      shows.push(normalizeShow({
+        id: makeShowId(venueConfig.id, dateStr, name),
+        title: name,
+        date: dateStr,
+        time: null,
+        ticketUrl,
+        imageUrl: null,
+        sourceUrl: ticketUrl || venueConfig.eventsUrl,
+      }))
+    })
+  })
+
+  return shows.length ? shows : null
+}
+
 // ─── Strategy 2: Bandsintown widget ─────────────────────────────────────────
 
 async function scrapeBandsintown(html, $, venueConfig) {
@@ -398,6 +475,20 @@ export async function scrapeVenue(venueConfig) {
   if (jsonLdShows) {
     console.log(`    ✓ JSON-LD: ${jsonLdShows.length} shows`)
     return sortAndDedup(jsonLdShows)
+  }
+
+  // Strategy 1b: Booketing.com calendar table
+  const booketingShows = scrapeBooketing(html, $, venueConfig)
+  if (booketingShows) {
+    console.log(`    ✓ Booketing.com: ${booketingShows.length} shows`)
+    return sortAndDedup(booketingShows)
+  }
+
+  // Strategy 1c: Next.js __NEXT_DATA__ embedded JSON
+  const nextShows = scrapeNextData(html, venueConfig)
+  if (nextShows) {
+    console.log(`    ✓ Next.js data: ${nextShows.length} shows`)
+    return sortAndDedup(nextShows)
   }
 
   // Strategy 2: Bandsintown widget

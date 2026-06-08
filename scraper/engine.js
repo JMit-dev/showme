@@ -308,10 +308,9 @@ function scrapeGenericHtml($, venueConfig, pageUrl) {
 async function scrapeWithPuppeteer(url, venueConfig) {
   let puppeteer, chromium
   try {
-    // Dynamic import — if not installed, skip silently
     const [pCore, chrom] = await Promise.all([
       import('puppeteer-core'),
-      import('@sparticuz/chromium-min'),
+      import('@sparticuz/chromium'),
     ])
     puppeteer = pCore.default
     chromium = chrom.default
@@ -321,16 +320,13 @@ async function scrapeWithPuppeteer(url, venueConfig) {
 
   let browser
   try {
-    // In GitHub Actions, chromium.executablePath() downloads a small binary
-    // Locally, point to your system Chromium if CHROMIUM_PATH is set
-    const executablePath = process.env.CHROMIUM_PATH
-      || await chromium.executablePath('https://github.com/Sparticuz/chromium/releases/download/v149.0.0/chromium-v149.0.0-pack.tar')
+    const executablePath = process.env.CHROMIUM_PATH || await chromium.executablePath()
 
     browser = await puppeteer.launch({
       args: chromium.args,
       defaultViewport: chromium.defaultViewport,
       executablePath,
-      headless: true,
+      headless: chromium.headless,
     })
 
     const page = await browser.newPage()

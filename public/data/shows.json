@@ -1,1 +1,92 @@
-{ "lastUpdated": null, "venues": {} }
+{
+  "lastUpdated": "2026-06-08T12:00:00Z",
+  "totalShows": 4,
+  "errors": 0,
+  "venues": {
+    "89north": {
+      "id": "89north",
+      "name": "89 North",
+      "location": "Patchogue, NY",
+      "url": "https://www.89north.com",
+      "coords": [40.7637, -73.0163],
+      "shows": [
+        {
+          "id": "89north-2026-06-14-converge",
+          "title": "Converge / Cult Leader",
+          "date": "2026-06-14",
+          "time": "7:00 PM",
+          "doors": "6:00 PM",
+          "ticketUrl": "https://www.89north.com/events",
+          "imageUrl": null,
+          "price": "$20",
+          "ages": "18+",
+          "description": null,
+          "sourceUrl": "https://www.89north.com/events"
+        },
+        {
+          "id": "89north-2026-06-21-turnstile",
+          "title": "Turnstile",
+          "date": "2026-06-21",
+          "time": "8:00 PM",
+          "doors": "7:00 PM",
+          "ticketUrl": "https://www.89north.com/events",
+          "imageUrl": null,
+          "price": "$25",
+          "ages": "18+",
+          "description": null,
+          "sourceUrl": "https://www.89north.com/events"
+        }
+      ],
+      "scrapedAt": "2026-06-08T12:00:00Z",
+      "error": null
+    },
+    "paramount": {
+      "id": "paramount",
+      "name": "The Paramount",
+      "location": "Huntington, NY",
+      "url": "https://www.paramounthuntington.com",
+      "coords": [40.8682, -73.4257],
+      "shows": [
+        {
+          "id": "paramount-2026-06-18-spiritbox",
+          "title": "Spiritbox",
+          "date": "2026-06-18",
+          "time": "7:30 PM",
+          "doors": "6:30 PM",
+          "ticketUrl": "https://www.paramounthuntington.com/events",
+          "imageUrl": null,
+          "price": "$30",
+          "ages": "All Ages",
+          "description": null,
+          "sourceUrl": "https://www.paramounthuntington.com/events"
+        }
+      ],
+      "scrapedAt": "2026-06-08T12:00:00Z",
+      "error": null
+    },
+    "revolution": {
+      "id": "revolution",
+      "name": "Revolution Bar & Music Hall",
+      "location": "Amityville, NY",
+      "url": "https://www.revolutionbar.com",
+      "coords": [40.6645, -73.4151],
+      "shows": [
+        {
+          "id": "revolution-2026-06-20-badwolves",
+          "title": "Bad Wolves",
+          "date": "2026-06-20",
+          "time": "8:00 PM",
+          "doors": "7:00 PM",
+          "ticketUrl": "https://www.revolutionbar.com/events",
+          "imageUrl": null,
+          "price": "$22",
+          "ages": "21+",
+          "description": null,
+          "sourceUrl": "https://www.revolutionbar.com/events"
+        }
+      ],
+      "scrapedAt": "2026-06-08T12:00:00Z",
+      "error": null
+    }
+  }
+}

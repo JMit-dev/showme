@@ -8,6 +8,7 @@
  *   3. Songkick widget  (detects sk-widget embed, reads event list)
  *   4. Eventbrite embed  (detects EB iframe/script, fetches their public JSON)
  *   5. Generic HTML  (tries a battery of common event-list CSS patterns)
+ *   6. Puppeteer  (JS-rendered pages — last resort)
  */
 
 import * as cheerio from 'cheerio'
@@ -20,12 +21,64 @@ import {
 
 axiosRetry(axios, { retries: 2, retryDelay: axiosRetry.exponentialDelay })
 
-async function fetchHtml(url) {
-  const { data } = await axios.get(url, {
-    timeout: 12000,
-    headers: DEFAULT_HEADERS,
-  })
+// Nav link text that signals an events/calendar page
+const EVENTS_NAV_PATTERNS = /^(events?|shows?|calendar|concerts?|tickets?|schedule|gigs?|performances?)$/i
+// Common path segments for events pages
+const EVENTS_PATHS = ['/events', '/shows', '/calendar', '/concerts', '/tickets', '/schedule', '/live']
+
+async function fetchHtml(url, timeout = 12000) {
+  const { data } = await axios.get(url, { timeout, headers: DEFAULT_HEADERS })
   return data
+}
+
+/**
+ * Crawl the venue homepage to find the real events URL.
+ * Returns the URL that contains event data, or null.
+ */
+async function findEventsUrl(venueConfig) {
+  const base = venueConfig.url
+  if (!base) return null
+
+  let homepageHtml
+  try {
+    homepageHtml = await fetchHtml(base)
+  } catch {
+    return null
+  }
+
+  const $ = cheerio.load(homepageHtml)
+
+  // 1. Look for nav/menu links whose visible text matches events keywords
+  const candidates = new Set()
+  $('a[href]').each((_, el) => {
+    const text = $(el).text().trim()
+    const href = $(el).attr('href')
+    if (!href || href.startsWith('#') || href.startsWith('mailto:') || href.startsWith('tel:')) return
+    if (EVENTS_NAV_PATTERNS.test(text)) {
+      candidates.add(resolveUrl(href, base))
+    }
+  })
+
+  // 2. Try known common paths
+  for (const p of EVENTS_PATHS) {
+    try {
+      const u = new URL(p, base).href
+      candidates.add(u)
+    } catch {}
+  }
+
+  // Try each candidate — return first one that actually loads and has content
+  for (const url of candidates) {
+    if (url === base) continue
+    try {
+      const html = await fetchHtml(url, 8000)
+      if (html && html.length > 500) return { url, html }
+    } catch {}
+    await sleep(300)
+  }
+
+  // Fall back: homepage itself might have event data
+  return { url: base, html: homepageHtml }
 }
 
 // ─── Strategy 1: JSON-LD ────────────────────────────────────────────────────
@@ -71,8 +124,6 @@ function scrapeJsonLd(html, $, venueConfig) {
 }
 
 // ─── Strategy 2: Bandsintown widget ─────────────────────────────────────────
-// Many venues embed: <div class="bt-widget" data-artist="..." data-app-id="...">
-// We read the artist slug and hit Bandsintown's public API.
 
 async function scrapeBandsintown(html, $, venueConfig) {
   const widget = $('[class*="bt-widget"], [data-app-id][data-artist], script[src*="bandsintown"]').first()
@@ -118,9 +169,11 @@ async function scrapeSongkick($, venueConfig) {
     || $('[data-venue-id]').first().attr('data-venue-id')
   if (!skId) return null
 
-  const url = `https://www.songkick.com/venues/${skId}/calendar.json`
   try {
-    const { data } = await axios.get(url, { timeout: 8000, headers: DEFAULT_HEADERS })
+    const { data } = await axios.get(
+      `https://www.songkick.com/venues/${skId}/calendar.json`,
+      { timeout: 8000, headers: DEFAULT_HEADERS }
+    )
     const events = data?.resultsPage?.results?.event || []
     if (!events.length) return null
 
@@ -145,20 +198,14 @@ async function scrapeSongkick($, venueConfig) {
 }
 
 // ─── Strategy 4: Eventbrite embed ───────────────────────────────────────────
-// Detect Eventbrite organizer ID or event IDs embedded in page, fetch their API.
 
 async function scrapeEventbrite(html, $, venueConfig) {
-  // Look for organizer ID in EB widget script
   const orgMatch = html.match(/organizer[_-]?id["'\s:=]+(\d+)/i)
   const orgId = orgMatch?.[1]
   if (!orgId) return null
 
-  const url = `https://www.eventbriteapi.com/v3/organizers/${orgId}/events/?status=live&order_by=start_asc&expand=venue`
-  // Note: Eventbrite's public organizer event pages don't require a token for read
-  // However their API does — so we scrape their public HTML instead
-  const ebUrl = `https://www.eventbrite.com/o/${orgId}/`
   try {
-    const ebHtml = await fetchHtml(ebUrl)
+    const ebHtml = await fetchHtml(`https://www.eventbrite.com/o/${orgId}/`)
     const $eb = cheerio.load(ebHtml)
     const shows = []
 
@@ -187,11 +234,8 @@ async function scrapeEventbrite(html, $, venueConfig) {
 }
 
 // ─── Strategy 5: Generic HTML ───────────────────────────────────────────────
-// Battery of common event-list patterns. Tries each selector set and picks
-// whichever returns the most results.
 
 const GENERIC_PATTERNS = [
-  // Pattern A — explicit event item classes
   {
     wrap: '.event-item, .event-listing, .show-item, .show-listing, .concert-item',
     title: 'h1, h2, h3, h4, .event-title, .show-title, .title, .name',
@@ -199,7 +243,6 @@ const GENERIC_PATTERNS = [
     link: 'a[href]',
     img: 'img',
   },
-  // Pattern B — article/section cards
   {
     wrap: 'article, .card, [class*="event-card"], [class*="show-card"]',
     title: 'h1, h2, h3, h4',
@@ -207,7 +250,6 @@ const GENERIC_PATTERNS = [
     link: 'a[href]',
     img: 'img',
   },
-  // Pattern C — list items
   {
     wrap: 'li[class*="event"], li[class*="show"], li[class*="concert"]',
     title: 'h2, h3, h4, strong, b, .title',
@@ -215,7 +257,6 @@ const GENERIC_PATTERNS = [
     link: 'a[href]',
     img: 'img',
   },
-  // Pattern D — table rows (some venue sites use tables)
   {
     wrap: 'tr[class*="event"], tr[class*="show"], tbody > tr',
     title: 'td:first-child, .artist, .show-name',
@@ -225,12 +266,12 @@ const GENERIC_PATTERNS = [
   },
 ]
 
-function scrapeGenericHtml($, venueConfig) {
+function scrapeGenericHtml($, venueConfig, pageUrl) {
   let best = []
 
   for (const pattern of GENERIC_PATTERNS) {
     const items = $(pattern.wrap)
-    if (items.length < 2) continue  // skip if too few matches — likely wrong selector
+    if (items.length < 2) continue
 
     const shows = []
     items.each((_, el) => {
@@ -238,8 +279,7 @@ function scrapeGenericHtml($, venueConfig) {
       const dateEl = $(el).find(pattern.date).first()
       const rawDate = dateEl.attr('datetime') || dateEl.text().trim()
       const dateStr = parseDate(rawDate)
-      if (!title || title.length < 3) return
-      if (!isUpcoming(dateStr)) return
+      if (!title || title.length < 3 || !isUpcoming(dateStr)) return
 
       const href = $(el).find(pattern.link).first().attr('href')
       const src = pattern.img ? $(el).find(pattern.img).first().attr('src') : null
@@ -249,9 +289,9 @@ function scrapeGenericHtml($, venueConfig) {
         title,
         date: dateStr,
         time: null,
-        ticketUrl: resolveUrl(href, venueConfig.eventsUrl),
-        imageUrl: resolveUrl(src, venueConfig.eventsUrl),
-        sourceUrl: resolveUrl(href, venueConfig.eventsUrl) || venueConfig.eventsUrl,
+        ticketUrl: resolveUrl(href, pageUrl),
+        imageUrl: resolveUrl(src, pageUrl),
+        sourceUrl: resolveUrl(href, pageUrl) || pageUrl,
       }))
     })
 
@@ -261,27 +301,98 @@ function scrapeGenericHtml($, venueConfig) {
   return best.length ? best : null
 }
 
+// ─── Strategy 6: Puppeteer ──────────────────────────────────────────────────
+// Only used when static strategies all fail. Dynamically imported to keep
+// startup fast for venues that don't need it.
+
+async function scrapeWithPuppeteer(url, venueConfig) {
+  let puppeteer, chromium
+  try {
+    // Dynamic import — if not installed, skip silently
+    const [pCore, chrom] = await Promise.all([
+      import('puppeteer-core'),
+      import('@sparticuz/chromium-min'),
+    ])
+    puppeteer = pCore.default
+    chromium = chrom.default
+  } catch {
+    return null
+  }
+
+  let browser
+  try {
+    // In GitHub Actions, chromium.executablePath() downloads a small binary
+    // Locally, point to your system Chromium if CHROMIUM_PATH is set
+    const executablePath = process.env.CHROMIUM_PATH
+      || await chromium.executablePath('https://github.com/Sparticuz/chromium/releases/download/v149.0.0/chromium-v149.0.0-pack.tar')
+
+    browser = await puppeteer.launch({
+      args: chromium.args,
+      defaultViewport: chromium.defaultViewport,
+      executablePath,
+      headless: true,
+    })
+
+    const page = await browser.newPage()
+    await page.setExtraHTTPHeaders(DEFAULT_HEADERS)
+    await page.goto(url, { waitUntil: 'networkidle2', timeout: 30000 })
+
+    // Wait a bit for any lazy-loaded events to appear
+    await new Promise(r => setTimeout(r, 2000))
+
+    const html = await page.content()
+    const $ = cheerio.load(html)
+
+    // Run all static strategies on the rendered HTML
+    const jsonLd = scrapeJsonLd(html, $, venueConfig)
+    if (jsonLd) return jsonLd
+
+    const bt = await scrapeBandsintown(html, $, venueConfig)
+    if (bt) return bt
+
+    const generic = scrapeGenericHtml($, venueConfig, url)
+    if (generic) return generic
+
+    return null
+  } catch (err) {
+    console.log(`    Puppeteer error: ${err.message}`)
+    return null
+  } finally {
+    if (browser) await browser.close()
+  }
+}
+
 // ─── Main engine entry point ─────────────────────────────────────────────────
 
 export async function scrapeVenue(venueConfig) {
-  if (!venueConfig.eventsUrl) {
-    return []  // map-only venue, no scraping
+  if (!venueConfig.eventsUrl && !venueConfig.url) return []
+
+  // Step 1: get HTML. Try eventsUrl first, then crawl homepage to find real events URL.
+  let html = null
+  let pageUrl = venueConfig.eventsUrl
+
+  if (venueConfig.eventsUrl) {
+    try {
+      html = await fetchHtml(venueConfig.eventsUrl)
+    } catch {
+      // eventsUrl failed — fall through to homepage crawl
+    }
   }
 
-  let html
-  try {
-    html = await fetchHtml(venueConfig.eventsUrl)
-  } catch (err) {
-    // Try homepage events path as fallback
-    if (venueConfig.url && venueConfig.eventsUrl !== venueConfig.url + '/events') {
-      try {
-        html = await fetchHtml(venueConfig.url + '/events')
-      } catch {
-        throw new Error(`Failed to fetch ${venueConfig.eventsUrl}: ${err.message}`)
+  // If direct fetch failed or eventsUrl was just a guess, crawl homepage for real link
+  if (!html || html.length < 500) {
+    const found = await findEventsUrl(venueConfig)
+    if (found) {
+      html = found.html
+      pageUrl = found.url
+      if (pageUrl !== venueConfig.eventsUrl) {
+        console.log(`    → found events at ${pageUrl}`)
       }
-    } else {
-      throw err
     }
+  }
+
+  if (!html) {
+    throw new Error(`Could not load any page for ${venueConfig.name}`)
   }
 
   const $ = cheerio.load(html)
@@ -315,13 +426,21 @@ export async function scrapeVenue(venueConfig) {
   }
 
   // Strategy 5: Generic HTML
-  const genericShows = scrapeGenericHtml($, venueConfig)
+  const genericShows = scrapeGenericHtml($, venueConfig, pageUrl)
   if (genericShows) {
     console.log(`    ✓ Generic HTML: ${genericShows.length} shows`)
     return sortAndDedup(genericShows)
   }
 
-  console.log('    ✗ No shows found (page may require JS rendering)')
+  // Strategy 6: Puppeteer — JS-rendered page
+  console.log('    → static scraping failed, trying Puppeteer...')
+  const puppeteerShows = await scrapeWithPuppeteer(pageUrl, venueConfig)
+  if (puppeteerShows) {
+    console.log(`    ✓ Puppeteer: ${puppeteerShows.length} shows`)
+    return sortAndDedup(puppeteerShows)
+  }
+
+  console.log('    ✗ No shows found')
   return []
 }
 

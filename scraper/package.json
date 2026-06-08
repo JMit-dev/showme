@@ -8,13 +8,14 @@
     "scrape": "node index.js"
   },
   "dependencies": {
+    "@sparticuz/chromium-min": "^149.0.0",
     "axios": "^1.7.2",
     "axios-retry": "^4.5.0",
     "cheerio": "^1.0.0",
     "date-fns": "^3.6.0"
   },
   "devDependencies": {
-    "puppeteer-core": "^22.0.0",
-    "@sparticuz/chromium": "^123.0.0"
+    "@sparticuz/chromium": "^123.0.0",
+    "puppeteer-core": "^22.15.0"
   }
 }

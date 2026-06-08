@@ -277,7 +277,8 @@ async function scrapeSongkick($, venueConfig) {
 // ─── Strategy 4: Eventbrite embed ───────────────────────────────────────────
 
 async function scrapeEventbrite(html, $, venueConfig) {
-  const orgMatch = html.match(/organizer[_-]?id["'\s:=]+(\d+)/i)
+  // Match "organization":"265799640839", "organizer_id":123, organizerId=123, etc.
+  const orgMatch = html.match(/(?:organizer[_-]?id|organization)["'\s:=]+(\d{8,})/i)
   const orgId = orgMatch?.[1]
   if (!orgId) return null
 
@@ -313,6 +314,14 @@ async function scrapeEventbrite(html, $, venueConfig) {
 // ─── Strategy 5: Generic HTML ───────────────────────────────────────────────
 
 const GENERIC_PATTERNS = [
+  // Squarespace event list (Lily's Babylon, etc.)
+  {
+    wrap: 'article[class*="eventlist-event"]',
+    title: '[class*="eventlist-title"]',
+    date: 'time.event-date[datetime]',
+    link: 'a[class*="eventlist-title"]',
+    img: 'img',
+  },
   {
     wrap: '.event-item, .event-listing, .show-item, .show-listing, .concert-item',
     title: 'h1, h2, h3, h4, .event-title, .show-title, .title, .name',
@@ -353,7 +362,9 @@ function scrapeGenericHtml($, venueConfig, pageUrl) {
     const shows = []
     items.each((_, el) => {
       const title = $(el).find(pattern.title).first().text().trim()
-      const dateEl = $(el).find(pattern.date).first()
+      // Try datetime attribute first (avoids picking up container elements)
+      const timeEl = $(el).find('time[datetime]').first()
+      const dateEl = timeEl.length ? timeEl : $(el).find(pattern.date).first()
       const rawDate = dateEl.attr('datetime') || dateEl.text().trim()
       const dateStr = parseDate(rawDate)
       if (!title || title.length < 3 || !isUpcoming(dateStr)) return

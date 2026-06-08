@@ -28,3 +28,9 @@ scraper/node_modules
 
 # Keep shows.json even if empty
 !public/data/shows.json
+
+# Environment / secrets — never commit
+.env
+.env.local
+scraper/.env
+scraper/.env.local

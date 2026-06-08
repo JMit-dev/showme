@@ -18,6 +18,16 @@ import { fileURLToPath } from 'url'
 import { venues as manualVenues } from './venues.js'
 import { sleep, slugify } from './utils.js'
 
+// Load .env if present (local dev convenience — not needed in CI)
+const __envPath = path.join(path.dirname(fileURLToPath(import.meta.url)), '.env')
+if (fs.existsSync(__envPath)) {
+  const lines = fs.readFileSync(__envPath, 'utf8').split('\n')
+  for (const line of lines) {
+    const [key, ...rest] = line.split('=')
+    if (key && rest.length) process.env[key.trim()] = rest.join('=').trim()
+  }
+}
+
 const __dirname = path.dirname(fileURLToPath(import.meta.url))
 const OUTPUT_PATH = path.join(__dirname, '../public/data/venues.json')
 

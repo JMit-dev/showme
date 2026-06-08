@@ -10,8 +10,8 @@
         40.7637,
         -73.0163
       ],
-      "url": "https://www.89north.com",
-      "eventsUrl": "https://www.89north.com/events",
+      "url": "https://89northmusic.com/",
+      "eventsUrl": "https://booketing.com/microsite/89northmusicvenue/events/1767/864976/89-north-music-venue",
       "facebook": "https://www.facebook.com/89northmusic",
       "instagram": "https://www.instagram.com/89northmusic",
       "scraper": "auto",
@@ -31,11 +31,11 @@
         40.6789,
         -73.4142
       ],
-      "url": "https://www.amityvillemusichall.com",
-      "eventsUrl": "https://www.amityvillemusichall.com/events",
+      "url": null,
+      "eventsUrl": null,
       "facebook": "https://www.facebook.com/amityvillemusichall",
       "instagram": "https://www.instagram.com/amityvillemusichall",
-      "scraper": "auto",
+      "scraper": null,
       "genre": [
         "rock",
         "metal",
@@ -53,7 +53,7 @@
         40.7282,
         -73.2449
       ],
-      "url": "https://www.boultoncenter.org",
+      "url": "https://www.boultoncenter.org/",
       "eventsUrl": "https://www.boultoncenter.org/events",
       "facebook": "https://www.facebook.com/BoultonCenter",
       "instagram": null,
@@ -151,7 +151,7 @@
         40.8329,
         -73.6946
       ],
-      "url": "https://www.louiesoysterbar.com",
+      "url": null,
       "eventsUrl": null,
       "facebook": "https://www.facebook.com/louiesoysterbar",
       "instagram": null,
@@ -170,7 +170,7 @@
         40.8701,
         -73.4278
       ],
-      "url": "https://www.macsteakhouse.com",
+      "url": null,
       "eventsUrl": null,
       "facebook": "https://www.facebook.com/MacsSteakhouse",
       "instagram": null,
@@ -190,11 +190,11 @@
         40.6743,
         -73.5087
       ],
-      "url": "https://www.mulcahys.com",
-      "eventsUrl": "https://www.mulcahys.com/concerts",
+      "url": null,
+      "eventsUrl": null,
       "facebook": "https://www.facebook.com/MulcahysWantagh",
       "instagram": null,
-      "scraper": "auto",
+      "scraper": null,
       "genre": [
         "rock",
         "cover bands",
@@ -231,7 +231,7 @@
         40.7228,
         -73.5932
       ],
-      "url": "https://www.nassaucoliseum.com",
+      "url": "https://www.nassaucoliseum.com/",
       "eventsUrl": "https://www.nassaucoliseum.com/events",
       "facebook": "https://www.facebook.com/NassauColiseum",
       "instagram": "https://www.instagram.com/nassaucoliseum",
@@ -252,8 +252,8 @@
         40.5895,
         -73.5095
       ],
-      "url": "https://www.jonesbeachtheater.com",
-      "eventsUrl": "https://www.jonesbeachtheater.com/events",
+      "url": "https://www.northwellatjonesbeachtheater.com/",
+      "eventsUrl": "https://www.northwellatjonesbeachtheater.com/shows",
       "facebook": "https://www.facebook.com/JonesBeachTheater",
       "instagram": "https://www.instagram.com/jonesbeachtheater",
       "scraper": "auto",
@@ -292,11 +292,11 @@
         40.6645,
         -73.4151
       ],
-      "url": "https://www.revolutionbar.com",
-      "eventsUrl": "https://www.revolutionbar.com/events",
+      "url": null,
+      "eventsUrl": null,
       "facebook": "https://www.facebook.com/RevolutionBarAndMusicHall",
       "instagram": "https://www.instagram.com/revolutionbarmusichall",
-      "scraper": "auto",
+      "scraper": null,
       "genre": [
         "rock",
         "metal",
@@ -332,11 +332,11 @@
         40.7548,
         -73.4903
       ],
-      "url": "https://www.ritassoundstage.com",
-      "eventsUrl": "https://www.ritassoundstage.com/events",
+      "url": null,
+      "eventsUrl": null,
       "facebook": "https://www.facebook.com/ritassoundstage",
       "instagram": null,
-      "scraper": "auto",
+      "scraper": null,
       "genre": [
         "rock",
         "cover bands",
@@ -411,11 +411,11 @@
         40.9165,
         -72.662
       ],
-      "url": "https://www.suffolktheater.com",
-      "eventsUrl": "https://www.suffolktheater.com/events",
+      "url": null,
+      "eventsUrl": null,
       "facebook": "https://www.facebook.com/SuffolkTheater",
       "instagram": "https://www.instagram.com/suffolktheater",
-      "scraper": "auto",
+      "scraper": null,
       "genre": [
         "rock",
         "folk",
@@ -471,8 +471,8 @@
         40.8682,
         -73.4257
       ],
-      "url": "https://www.paramounthuntington.com",
-      "eventsUrl": "https://www.paramounthuntington.com/events",
+      "url": "https://www.paramountny.com/",
+      "eventsUrl": "https://www.paramountny.com/shows",
       "facebook": "https://www.facebook.com/TheParamountNY",
       "instagram": "https://www.instagram.com/theparamountny",
       "scraper": "auto",
@@ -492,11 +492,11 @@
         40.7268,
         -73.6348
       ],
-      "url": "https://www.republicnyc.com",
-      "eventsUrl": "https://www.republicnyc.com/events",
+      "url": null,
+      "eventsUrl": null,
       "facebook": "https://www.facebook.com/RepublicNYC",
       "instagram": "https://www.instagram.com/republicnyc",
-      "scraper": "auto",
+      "scraper": null,
       "genre": [
         "rock",
         "metal",
@@ -513,8 +513,8 @@
         40.7548,
         -73.5766
       ],
-      "url": "https://www.thespaceatwestbury.com",
-      "eventsUrl": "https://www.thespaceatwestbury.com/events",
+      "url": "https://www.thespaceatwestbury.com/",
+      "eventsUrl": "https://www.thespaceatwestbury.com/concert-seatng",
       "facebook": "https://www.facebook.com/TheSpaceAtWestbury",
       "instagram": "https://www.instagram.com/thespaceatwestbury",
       "scraper": "auto",
@@ -535,8 +535,8 @@
         40.704,
         -73.7259
       ],
-      "url": "https://www.ubsarena.com",
-      "eventsUrl": "https://www.ubsarena.com/events",
+      "url": "https://www.ubsarena.com/",
+      "eventsUrl": "https://www.ubsarena.com/",
       "facebook": "https://www.facebook.com/UBSArena",
       "instagram": "https://www.instagram.com/ubsarena",
       "scraper": "auto",
@@ -577,15 +577,15 @@
         40.7673139,
         -73.0148361
       ],
-      "url": "http://89northmusic.com/",
-      "eventsUrl": "http://89northmusic.com/events",
+      "url": "https://89northmusic.com/",
+      "eventsUrl": "https://booketing.com/microsite/89northmusicvenue/events/1767/864976/89-north-music-venue",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
       "genre": [
         "live music"
       ],
-      "active": true,
+      "active": false,
       "source": "google-places"
     },
     {
@@ -598,14 +598,14 @@
         -73.45534359999999
       ],
       "url": "https://www.astepaboveperformingarts.com/",
-      "eventsUrl": "https://www.astepaboveperformingarts.com/events",
+      "eventsUrl": "https://www.astepaboveperformingarts.com/schedule",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
       "genre": [
         "performing arts"
       ],
-      "active": true,
+      "active": false,
       "source": "google-places"
     },
     {
@@ -617,8 +617,8 @@
         40.719353399999996,
         -73.6522686
       ],
-      "url": "http://pac.adelphi.edu/",
-      "eventsUrl": "http://pac.adelphi.edu/events",
+      "url": "https://www.adelphi.edu/pac/",
+      "eventsUrl": "https://www.adelphi.edu/events/",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -638,7 +638,7 @@
         -73.7923212
       ],
       "url": "https://www.aa.com/i18n/travelInformation/airportAmenities/jfk-club.jsp",
-      "eventsUrl": "https://www.aa.com/events",
+      "eventsUrl": "https://www.aa.com/i18n/travelInformation/airportAmenities/jfk-club.jsp",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -657,8 +657,8 @@
         40.805922699999996,
         -73.124423
       ],
-      "url": "http://www.afterhoursent.com/",
-      "eventsUrl": "http://www.afterhoursent.com/events",
+      "url": "https://www.afterhoursent.com/",
+      "eventsUrl": "https://www.afterhoursent.com/dj_showcase_performances.php",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -677,15 +677,15 @@
         40.839335899999995,
         -73.3147188
       ],
-      "url": "https://www.amctheatres.com/movie-theatres/new-york-city/amc-huntington-square-12?utm_medium=organic&utm_source=google&utm_campaign=local",
-      "eventsUrl": "https://www.amctheatres.com/events",
+      "url": "https://queue.amctheatres.com/?c=amctheatres&e=globalsafetynetweb&ver=javascript-4.1.0&cver=96&man=Global%20Safety%20Net%20-%20Web%20Prod&enqueuetoken=eyJ0eXAiOiJRVDEiLCJlbmMiOiJBRVMyNTYiLCJpc3MiOjE3ODA5NDMyMTc3NTQsImV4cCI6MTc4MDk0MzQ1Nzc1NCwidGkiOiI4ZDBjNmZlMC1lNDk5LTQ3MDQtOTA1My1iZTlkYTI0YjRlMDEiLCJjIjoiYW1jdGhlYXRyZXMiLCJlIjoiZ2xvYmFsc2FmZXR5bmV0d2ViIiwiaXAiOiIxMzAuMTk5LjI1MS4xIn0.09VtgzNfIIGn1XK-UvOggw.qwL1TnsSEHXhWkUGr7R-LkR0P3mYRs0yB2Isq1COsGQ&t=https%3A%2F%2Fwww.amctheatres.com%2Fmovie-theatres%2Fnew-york-city%2Famc-huntington-square-12%3Futm_medium%3Dorganic%26utm_source%3Dgoogle%26utm_campaign%3Dlocal&kupver=cloudflare-4.1.1",
+      "eventsUrl": "https://queue.amctheatres.com/?c=amctheatres&e=globalsafetynetweb&ver=javascript-4.1.0&cver=96&man=Global%20Safety%20Net%20-%20Web%20Prod&enqueuetoken=eyJ0eXAiOiJRVDEiLCJlbmMiOiJBRVMyNTYiLCJpc3MiOjE3ODA5NDMyMTc3NTQsImV4cCI6MTc4MDk0MzQ1Nzc1NCwidGkiOiI4ZDBjNmZlMC1lNDk5LTQ3MDQtOTA1My1iZTlkYTI0YjRlMDEiLCJjIjoiYW1jdGhlYXRyZXMiLCJlIjoiZ2xvYmFsc2FmZXR5bmV0d2ViIiwiaXAiOiIxMzAuMTk5LjI1MS4xIn0.09VtgzNfIIGn1XK-UvOggw.qwL1TnsSEHXhWkUGr7R-LkR0P3mYRs0yB2Isq1COsGQ&t=https%3A%2F%2Fwww.amctheatres.com%2Fmovie-theatres%2Fnew-york-city%2Famc-huntington-square-12%3Futm_medium%3Dorganic%26utm_source%3Dgoogle%26utm_campaign%3Dlocal&kupver=cloudflare-4.1.1",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
       "genre": [
         "performing arts"
       ],
-      "active": true,
+      "active": false,
       "source": "google-places"
     },
     {
@@ -697,15 +697,15 @@
         40.728201,
         -73.50286679999999
       ],
-      "url": "https://www.amctheatres.com/movie-theatres/new-york-city/amc-levittown-10?utm_medium=organic&utm_source=google&utm_campaign=local",
-      "eventsUrl": "https://www.amctheatres.com/events",
+      "url": "https://queue.amctheatres.com/?c=amctheatres&e=globalsafetynetweb&ver=javascript-4.1.0&cver=96&man=Global%20Safety%20Net%20-%20Web%20Prod&enqueuetoken=eyJ0eXAiOiJRVDEiLCJlbmMiOiJBRVMyNTYiLCJpc3MiOjE3ODA5NDMyMjEzMTcsImV4cCI6MTc4MDk0MzQ2MTMxNywidGkiOiIxMjNjNWU2Ny01NjEwLTQ3YTgtODkwMy0yMDA2Yjg0ZTAzNWQiLCJjIjoiYW1jdGhlYXRyZXMiLCJlIjoiZ2xvYmFsc2FmZXR5bmV0d2ViIiwiaXAiOiIxMzAuMTk5LjI1MS4xIn0.TRvZWQ6w7Mha0BjB-jnP2A.VlHhyZOo-292VNzfB6u3PjP5ONjyKIVvIQf-YxP9d-M&t=https%3A%2F%2Fwww.amctheatres.com%2Fmovie-theatres%2Fnew-york-city%2Famc-levittown-10%3Futm_medium%3Dorganic%26utm_source%3Dgoogle%26utm_campaign%3Dlocal&kupver=cloudflare-4.1.1",
+      "eventsUrl": "https://queue.amctheatres.com/?c=amctheatres&e=globalsafetynetweb&ver=javascript-4.1.0&cver=96&man=Global%20Safety%20Net%20-%20Web%20Prod&enqueuetoken=eyJ0eXAiOiJRVDEiLCJlbmMiOiJBRVMyNTYiLCJpc3MiOjE3ODA5NDMyMjEzMTcsImV4cCI6MTc4MDk0MzQ2MTMxNywidGkiOiIxMjNjNWU2Ny01NjEwLTQ3YTgtODkwMy0yMDA2Yjg0ZTAzNWQiLCJjIjoiYW1jdGhlYXRyZXMiLCJlIjoiZ2xvYmFsc2FmZXR5bmV0d2ViIiwiaXAiOiIxMzAuMTk5LjI1MS4xIn0.TRvZWQ6w7Mha0BjB-jnP2A.VlHhyZOo-292VNzfB6u3PjP5ONjyKIVvIQf-YxP9d-M&t=https%3A%2F%2Fwww.amctheatres.com%2Fmovie-theatres%2Fnew-york-city%2Famc-levittown-10%3Futm_medium%3Dorganic%26utm_source%3Dgoogle%26utm_campaign%3Dlocal&kupver=cloudflare-4.1.1",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
       "genre": [
         "performing arts"
       ],
-      "active": true,
+      "active": false,
       "source": "google-places"
     },
     {
@@ -717,11 +717,11 @@
         40.6468004,
         -73.79066329999999
       ],
-      "url": "https://www.britishairways.com/en-us/information/airport-information/new-york-jfk",
-      "eventsUrl": "https://www.britishairways.com/events",
+      "url": null,
+      "eventsUrl": null,
       "facebook": null,
       "instagram": null,
-      "scraper": "auto",
+      "scraper": null,
       "genre": [
         "live music"
       ],
@@ -738,7 +738,7 @@
         -73.1154071
       ],
       "url": "https://anthonyslive.com/",
-      "eventsUrl": "https://anthonyslive.com/events",
+      "eventsUrl": "https://anthonyslive.com/upcoming-events/",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -757,8 +757,8 @@
         40.822207399999996,
         -73.1223748
       ],
-      "url": "http://anthonyslive.com/",
-      "eventsUrl": "http://anthonyslive.com/events",
+      "url": "https://anthonyslive.com/",
+      "eventsUrl": "https://anthonyslive.com/upcoming-events/",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -777,8 +777,8 @@
         40.80957,
         -73.1066013
       ],
-      "url": "https://www.artemisspeakeasy.com/",
-      "eventsUrl": "https://www.artemisspeakeasy.com/events",
+      "url": "https://artemisspeakeasy.com/",
+      "eventsUrl": "https://www.exploretock.com/artemisspeakeasy",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -798,7 +798,7 @@
         -72.4435625
       ],
       "url": "https://www.stonybrook.edu/commcms/southampton/avram/",
-      "eventsUrl": "https://www.stonybrook.edu/events",
+      "eventsUrl": "https://www.stonybrook.edu/commcms/southampton/avram/events",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -817,8 +817,8 @@
         40.6877661,
         -73.37479549999999
       ],
-      "url": "http://www.babylonarts.org/",
-      "eventsUrl": "http://www.babylonarts.org/events",
+      "url": "https://www.babylonarts.org/",
+      "eventsUrl": "https://www.babylonarts.org/35th-annual-judged-art-show",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -837,8 +837,8 @@
         40.651600099999996,
         -73.6114516
       ],
-      "url": "http://baldwinbowl.com/",
-      "eventsUrl": "http://baldwinbowl.com/events",
+      "url": "https://baldwinbowl.com/",
+      "eventsUrl": "https://baldwinbowl.com/bowling/",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -857,8 +857,8 @@
         40.61081790000001,
         -73.6457695
       ],
-      "url": "http://facebook.com/barnumballroom",
-      "eventsUrl": "http://facebook.com/events",
+      "url": "https://www.facebook.com/barnumballroom",
+      "eventsUrl": "https://www.facebook.com/events",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -877,11 +877,11 @@
         40.700456900000006,
         -73.3259898
       ],
-      "url": "https://bartinibar.com/",
-      "eventsUrl": "https://bartinibar.com/events",
+      "url": null,
+      "eventsUrl": null,
       "facebook": null,
       "instagram": null,
-      "scraper": "auto",
+      "scraper": null,
       "genre": [
         "live music"
       ],
@@ -897,8 +897,8 @@
         41.0024932,
         -72.295628
       ],
-      "url": "http://www.baystreet.org/",
-      "eventsUrl": "http://www.baystreet.org/events",
+      "url": "https://www.baystreet.org/",
+      "eventsUrl": "https://my.baystreet.org/events",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -918,7 +918,7 @@
         -73.179489
       ],
       "url": "https://www.baywayartscenter.com/",
-      "eventsUrl": "https://www.baywayartscenter.com/events",
+      "eventsUrl": "https://www.onthestage.tickets/show/sunrise-theatre-company1/6a1efc9395abf4105b280df8/tickets#/productions-view",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -937,8 +937,8 @@
         40.8549224,
         -72.5052603
       ],
-      "url": "https://beachbarhamptons.com/",
-      "eventsUrl": "https://beachbarhamptons.com/events",
+      "url": "https://www.beachbarhamptons.com/",
+      "eventsUrl": "https://www.beachbarhamptons.com/events",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -957,8 +957,8 @@
         40.869731,
         -73.365021
       ],
-      "url": "http://www.beausbar.com/",
-      "eventsUrl": "http://www.beausbar.com/events",
+      "url": "https://www.beausbar.com/",
+      "eventsUrl": "https://www.beausbar.com/events",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -978,7 +978,7 @@
         -73.4257059
       ],
       "url": "https://www.besitomexican.com/huntingtonny",
-      "eventsUrl": "https://www.besitomexican.com/events",
+      "eventsUrl": "https://www.besitomexican.com/event",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -998,7 +998,7 @@
         -72.7208529
       ],
       "url": "http://www.bistro-72.com/",
-      "eventsUrl": "http://www.bistro-72.com/events",
+      "eventsUrl": "http://www.bistro-72.com/",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -1017,8 +1017,8 @@
         40.6955354,
         -73.8206519
       ],
-      "url": "http://blendloungeny.com/",
-      "eventsUrl": "http://blendloungeny.com/events",
+      "url": "https://blendloungeny.com/",
+      "eventsUrl": "https://blendloungeny.com/event/",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -1037,8 +1037,8 @@
         40.9267682,
         -73.1180294
       ],
-      "url": "http://blissli.com/",
-      "eventsUrl": "http://blissli.com/events",
+      "url": "https://blissli.com/",
+      "eventsUrl": "https://blissli.com/menu",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -1077,15 +1077,15 @@
         40.721085699999996,
         -73.24866639999999
       ],
-      "url": "http://boultoncenter.org/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=14771832058250565160",
-      "eventsUrl": "http://boultoncenter.org/events",
+      "url": "https://www.boultoncenter.org/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=14771832058250565160",
+      "eventsUrl": "https://www.boultoncenter.org/events",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
       "genre": [
         "performing arts"
       ],
-      "active": true,
+      "active": false,
       "source": "google-places"
     },
     {
@@ -1098,7 +1098,7 @@
         -73.1227136
       ],
       "url": "https://calendar.stonybrook.edu/location/090542c8-65d0-4dd3-8ca3-5ce3536752ad/",
-      "eventsUrl": "https://calendar.stonybrook.edu/events",
+      "eventsUrl": "https://www.stonybrook.edu/",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -1117,8 +1117,8 @@
         40.8334267,
         -73.33872339999999
       ],
-      "url": "http://cantinaazull.com/",
-      "eventsUrl": "http://cantinaazull.com/events",
+      "url": "https://cantinaazull.com/",
+      "eventsUrl": "https://cantinaazull.com/huntington-cantina-azul-events",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -1137,8 +1137,8 @@
         40.6741995,
         -73.73609189999999
       ],
-      "url": "http://caribbeansoulnyc.com/",
-      "eventsUrl": "http://caribbeansoulnyc.com/events",
+      "url": "https://www.caribbeansoulnyc.com/",
+      "eventsUrl": "https://www.caribbeansoulnyc.com/privatedining",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -1158,7 +1158,7 @@
         -73.0219261
       ],
       "url": "https://www.champbaldhill.com/",
-      "eventsUrl": "https://www.champbaldhill.com/events",
+      "eventsUrl": "https://www.champbaldhill.com/tickets/",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -1177,15 +1177,15 @@
         40.8084755,
         -72.82812899999999
       ],
-      "url": "http://www.cbdboss.org/",
-      "eventsUrl": "http://www.cbdboss.org/events",
+      "url": "https://cbdboss.org/",
+      "eventsUrl": "https://cbdboss.org/shop/",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
       "genre": [
         "live music"
       ],
-      "active": true,
+      "active": false,
       "source": "google-places"
     },
     {
@@ -1197,8 +1197,8 @@
         40.7323933,
         -73.4460003
       ],
-      "url": "http://charlottesspeakeasy.com/",
-      "eventsUrl": "http://charlottesspeakeasy.com/events",
+      "url": "https://www.charlottesspeakeasy.com/",
+      "eventsUrl": "https://www.charlottesspeakeasy.com/events/",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -1238,7 +1238,7 @@
         -73.0905422
       ],
       "url": "https://www.artsprojectcg.org/",
-      "eventsUrl": "https://www.artsprojectcg.org/events",
+      "eventsUrl": "http://app.arts-people.com/index.php?ticketing=apcg",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -1257,8 +1257,8 @@
         40.684276200000006,
         -73.43022169999999
       ],
-      "url": "http://cinnabarsushi.com/",
-      "eventsUrl": "http://cinnabarsushi.com/events",
+      "url": "https://www.cinnabarsushi.com/",
+      "eventsUrl": "https://www.cinnabarsushi.com/gallery/",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -1277,11 +1277,11 @@
         40.7774358,
         -73.0238727
       ],
-      "url": "https://www.sjny.edu/long-island/student-life/clarerose",
-      "eventsUrl": "https://www.sjny.edu/events",
+      "url": null,
+      "eventsUrl": null,
       "facebook": null,
       "instagram": null,
-      "scraper": "auto",
+      "scraper": null,
       "genre": [
         "performing arts"
       ],
@@ -1317,8 +1317,8 @@
         40.7385999,
         -73.11967849999999
       ],
-      "url": "http://www.cmpac.com/",
-      "eventsUrl": "http://www.cmpac.com/events",
+      "url": "https://www.cmpac.com/",
+      "eventsUrl": "https://www.cmpac.com/shows/education-showcases/",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -1337,11 +1337,11 @@
         40.736383599999996,
         -73.495013
       ],
-      "url": "https://www.cocobongolilounge.com/",
-      "eventsUrl": "https://www.cocobongolilounge.com/events",
+      "url": null,
+      "eventsUrl": null,
       "facebook": null,
       "instagram": null,
-      "scraper": "auto",
+      "scraper": null,
       "genre": [
         "live music"
       ],
@@ -1378,7 +1378,7 @@
         -73.3366831
       ],
       "url": "https://communityplayhousenorthport.org/",
-      "eventsUrl": "https://communityplayhousenorthport.org/events",
+      "eventsUrl": "https://communityplayhousenorthport.org/tickets/",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -1397,8 +1397,8 @@
         40.8051215,
         -73.51660319999999
       ],
-      "url": "http://www.culturalartsplayhouse.com/",
-      "eventsUrl": "http://www.culturalartsplayhouse.com/events",
+      "url": "https://www.culturalartsplayhouse.com/",
+      "eventsUrl": "https://www.culturalartsplayhouse.com/reservations",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -1418,7 +1418,7 @@
         -73.6457981
       ],
       "url": "https://www.darkhorsetavern.net/",
-      "eventsUrl": "https://www.darkhorsetavern.net/events",
+      "eventsUrl": "https://www.darkhorsetavern.net/popmenu-order",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -1477,15 +1477,15 @@
         40.7071513,
         -73.7528071
       ],
-      "url": "http://www.devoredancecenter.com/",
-      "eventsUrl": "http://www.devoredancecenter.com/events",
+      "url": "https://www.devoredancecenter.com/",
+      "eventsUrl": "https://www.devoredancecenter.com/calendar",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
       "genre": [
         "performing arts"
       ],
-      "active": true,
+      "active": false,
       "source": "google-places"
     },
     {
@@ -1498,7 +1498,7 @@
         -73.5686602
       ],
       "url": "https://discofreestyleplatinumseries.com/",
-      "eventsUrl": "https://discofreestyleplatinumseries.com/events",
+      "eventsUrl": "https://discofreestyleplatinumseries.com/events/",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -1518,7 +1518,7 @@
         -73.369372
       ],
       "url": "https://www.ftc.edu/ftcpac/",
-      "eventsUrl": "https://www.ftc.edu/events",
+      "eventsUrl": "https://www.ftc.edu/student-life/events/",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -1537,8 +1537,8 @@
         40.854453199999995,
         -73.20580559999999
       ],
-      "url": "http://www.dramakids.com/ny6",
-      "eventsUrl": "http://www.dramakids.com/events",
+      "url": "https://dramakids.com/find-locations/",
+      "eventsUrl": "https://dramakids.com/camps-events/",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -1546,7 +1546,7 @@
         "folk",
         "performing arts"
       ],
-      "active": true,
+      "active": false,
       "source": "google-places"
     },
     {
@@ -1558,8 +1558,8 @@
         40.8897621,
         -72.5004227
       ],
-      "url": "http://www.dreamhamptonsny.com/",
-      "eventsUrl": "http://www.dreamhamptonsny.com/events",
+      "url": "https://dreamhamptonsny.com/",
+      "eventsUrl": "https://dreamhamptonsny.com/",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -1578,11 +1578,11 @@
         40.7333132,
         -73.1792876
       ],
-      "url": "http://www.driftinnli.com/",
-      "eventsUrl": "http://www.driftinnli.com/events",
+      "url": null,
+      "eventsUrl": null,
       "facebook": null,
       "instagram": null,
-      "scraper": "auto",
+      "scraper": null,
       "genre": [
         "live music"
       ],
@@ -1619,7 +1619,7 @@
         -73.1350403
       ],
       "url": "https://eleanorslounge.com/",
-      "eventsUrl": "https://eleanorslounge.com/events",
+      "eventsUrl": "https://eleanorslounge.com/events/bingo-night-every-tuesday/",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -1658,11 +1658,11 @@
         40.773369599999995,
         -73.5589498
       ],
-      "url": "https://www.westburymusicfair.com/?utm_source=GMBlisting&utm_medium=organic",
-      "eventsUrl": "https://www.westburymusicfair.com/events",
+      "url": null,
+      "eventsUrl": null,
       "facebook": null,
       "instagram": null,
-      "scraper": "auto",
+      "scraper": null,
       "genre": [
         "performing arts"
       ],
@@ -1679,14 +1679,14 @@
         -73.4331964
       ],
       "url": "https://www.fromstagetoscreenli.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=7580075549293197431",
-      "eventsUrl": "https://www.fromstagetoscreenli.com/events",
+      "eventsUrl": "https://www.fromstagetoscreenli.com/s-projects-side-by-side",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
       "genre": [
         "performing arts"
       ],
-      "active": true,
+      "active": false,
       "source": "google-places"
     },
     {
@@ -1699,14 +1699,14 @@
         -73.61959829999999
       ],
       "url": "https://fyhrehibachi.com/",
-      "eventsUrl": "https://fyhrehibachi.com/events",
+      "eventsUrl": "https://twitter.com/intent/tweet?text=Check%20out%20our%20website%20",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
       "genre": [
         "live music"
       ],
-      "active": true,
+      "active": false,
       "source": "google-places"
     },
     {
@@ -1718,8 +1718,8 @@
         40.7624107,
         -72.9325911
       ],
-      "url": "http://www.thegateway.org/",
-      "eventsUrl": "http://www.thegateway.org/events",
+      "url": "https://www.thegateway.org/Online/default.asp",
+      "eventsUrl": "https://www.thegateway.org/online/article/BuyTickets",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -1759,7 +1759,7 @@
         -72.292221
       ],
       "url": "https://www.goatonaboat.org/",
-      "eventsUrl": "https://www.goatonaboat.org/events",
+      "eventsUrl": "https://www.goatonaboat.org/upcoming-events",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -1778,8 +1778,8 @@
         40.6947847,
         -73.826307
       ],
-      "url": "http://goldenterracenyc.com/",
-      "eventsUrl": "http://goldenterracenyc.com/events",
+      "url": "https://goldenterracenyc.com/",
+      "eventsUrl": "https://goldenterracenyc.com/richmond-hill-golden-terrace-banquet-hall-events",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -1798,8 +1798,8 @@
         40.7377877,
         -73.8152595
       ],
-      "url": "http://www.qc.cuny.edu/Academics/Degrees/DAH/DramaTheatreDance/Pages/GoldsteinTheatre.aspx",
-      "eventsUrl": "http://www.qc.cuny.edu/events",
+      "url": "https://www.qc.cuny.edu/ab/new-qc/",
+      "eventsUrl": "https://www.qc.cuny.edu/communications/calendar-page/",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -1838,11 +1838,11 @@
         40.6481845,
         -73.79121169999999
       ],
-      "url": "http://google.com/url?q=https://business.google.com/website_shared/launch_bw.html?f=https://amzn.to/3z59xjF",
-      "eventsUrl": "http://google.com/events",
+      "url": null,
+      "eventsUrl": null,
       "facebook": null,
       "instagram": null,
-      "scraper": "auto",
+      "scraper": null,
       "genre": [
         "live music"
       ],
@@ -1859,7 +1859,7 @@
         -72.19034189999999
       ],
       "url": "https://www.guildhall.org/?utm_source=gbp&utm_medium=websiteoption&utm_campaign=googlebusinessprofile",
-      "eventsUrl": "https://www.guildhall.org/events",
+      "eventsUrl": "https://www.guildhall.org/events/month",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -1879,14 +1879,14 @@
         -73.20232589999999
       ],
       "url": "https://smithtown.h2oseafoodsushi.com/",
-      "eventsUrl": "https://smithtown.h2oseafoodsushi.com/events",
+      "eventsUrl": "https://smithtown.h2oseafoodsushi.com/private-events/",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
       "genre": [
         "live music"
       ],
-      "active": true,
+      "active": false,
       "source": "google-places"
     },
     {
@@ -1898,8 +1898,8 @@
         40.817193599999996,
         -72.60874120000001
       ],
-      "url": "http://hamptontheatre.org/",
-      "eventsUrl": "http://hamptontheatre.org/events",
+      "url": "https://www.hamptontheatre.org/",
+      "eventsUrl": "https://www.hamptontheatre.org/?page_id=3042",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -1919,14 +1919,14 @@
         -73.804616
       ],
       "url": "https://happykaraokeny.com/",
-      "eventsUrl": "https://happykaraokeny.com/events",
+      "eventsUrl": "https://happykaraokeny.com/menu/",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
       "genre": [
         "live music"
       ],
-      "active": true,
+      "active": false,
       "source": "google-places"
     },
     {
@@ -1939,7 +1939,7 @@
         -73.4617559
       ],
       "url": "https://www.harbormistrestaurantli.com/",
-      "eventsUrl": "https://www.harbormistrestaurantli.com/events",
+      "eventsUrl": "https://www.harbormistrestaurantli.com/catering-events",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -1998,11 +1998,11 @@
         40.786313,
         -73.729185
       ],
-      "url": "http://www.innatgreatneck.com/",
-      "eventsUrl": "http://www.innatgreatneck.com/events",
+      "url": null,
+      "eventsUrl": null,
       "facebook": null,
       "instagram": null,
-      "scraper": "auto",
+      "scraper": null,
       "genre": [
         "live music"
       ],
@@ -2019,7 +2019,7 @@
         -73.5047846
       ],
       "url": "https://www.jadeeatery.com/",
-      "eventsUrl": "https://www.jadeeatery.com/events",
+      "eventsUrl": "https://www.jadeeatery.com/private-events",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -2058,15 +2058,15 @@
         40.625017899999996,
         -73.6279342
       ],
-      "url": "http://jdslimos.com/",
-      "eventsUrl": "http://jdslimos.com/events",
+      "url": "https://jdslimos.com/",
+      "eventsUrl": "https://jdslimos.com/about-jds-limousines/",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
       "genre": [
         "performing arts"
       ],
-      "active": true,
+      "active": false,
       "source": "google-places"
     },
     {
@@ -2078,15 +2078,15 @@
         40.703095,
         -73.69109279999999
       ],
-      "url": "http://jdslimos.com/",
-      "eventsUrl": "http://jdslimos.com/events",
+      "url": "https://jdslimos.com/",
+      "eventsUrl": "https://jdslimos.com/about-jds-limousines/",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
       "genre": [
         "performing arts"
       ],
-      "active": true,
+      "active": false,
       "source": "google-places"
     },
     {
@@ -2099,7 +2099,7 @@
         -73.69637709999999
       ],
       "url": "https://www.landmarkonmainstreet.org/",
-      "eventsUrl": "https://www.landmarkonmainstreet.org/events",
+      "eventsUrl": "https://landmarkonmainstreet.org/events/",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -2126,7 +2126,7 @@
       "genre": [
         "live music"
       ],
-      "active": true,
+      "active": false,
       "source": "google-places"
     },
     {
@@ -2138,8 +2138,8 @@
         40.7129383,
         -73.6020711
       ],
-      "url": "http://events.hofstra.edu/index.php?com=location&lID=86",
-      "eventsUrl": "http://events.hofstra.edu/events",
+      "url": "https://news.hofstra.edu/events/",
+      "eventsUrl": "https://news.hofstra.edu/shows",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -2158,8 +2158,8 @@
         40.7130389,
         -73.6007261
       ],
-      "url": "https://www.hofstra.edu/visitors/playhouse/index.html",
-      "eventsUrl": "https://www.hofstra.edu/events",
+      "url": "https://www.hofstra.edu/about/playhouse/",
+      "eventsUrl": "https://events.hofstra.edu/",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -2178,8 +2178,8 @@
         40.9006967,
         -73.34662569999999
       ],
-      "url": "http://www.engemantheater.com/",
-      "eventsUrl": "http://www.engemantheater.com/events",
+      "url": "https://www.engemantheater.com/",
+      "eventsUrl": "https://www.engemantheater.com/events",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -2198,8 +2198,8 @@
         40.696111099999996,
         -73.8041667
       ],
-      "url": "http://www.jouvaynightclub.com/",
-      "eventsUrl": "http://www.jouvaynightclub.com/events",
+      "url": "http://jouvaynightclub.com/",
+      "eventsUrl": "http://jouvaynightclub.com/event/",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -2218,8 +2218,8 @@
         40.8556966,
         -73.1997222
       ],
-      "url": "http://www.katiesofsmithtown.com/",
-      "eventsUrl": "http://www.katiesofsmithtown.com/events",
+      "url": "https://www.katiesofsmithtown.com/",
+      "eventsUrl": "https://www.katiesofsmithtown.com/events",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -2239,7 +2239,7 @@
         -72.38938759999999
       ],
       "url": "https://www.ketchybeach.com/",
-      "eventsUrl": "https://www.ketchybeach.com/events",
+      "eventsUrl": "https://www.ketchybeach.com/music",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -2259,14 +2259,14 @@
         -73.6355809
       ],
       "url": "https://kinhasushiny.com/",
-      "eventsUrl": "https://kinhasushiny.com/events",
+      "eventsUrl": "https://kinhasushiny.com/about.html",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
       "genre": [
         "live music"
       ],
-      "active": true,
+      "active": false,
       "source": "google-places"
     },
     {
@@ -2279,14 +2279,14 @@
         -73.24722419999999
       ],
       "url": "https://www.kisekiny.com/",
-      "eventsUrl": "https://www.kisekiny.com/events",
+      "eventsUrl": "https://www.kisekiny.com/",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
       "genre": [
         "live music"
       ],
-      "active": true,
+      "active": false,
       "source": "google-places"
     },
     {
@@ -2299,7 +2299,7 @@
         -73.8194013
       ],
       "url": "https://kissultraloungeny.com/",
-      "eventsUrl": "https://kissultraloungeny.com/events",
+      "eventsUrl": "https://kissultraloungeny.com/event/",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -2318,8 +2318,8 @@
         40.728297399999995,
         -73.2276615
       ],
-      "url": "http://kittymulligans.com/",
-      "eventsUrl": "http://kittymulligans.com/events",
+      "url": "https://kittymulligans.com/",
+      "eventsUrl": "https://kittymulligans.com/bay-shore-kitty-mulligans-irish-pub-events",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -2339,14 +2339,14 @@
         -73.0841063
       ],
       "url": "http://www.koisushisayville.com/",
-      "eventsUrl": "http://www.koisushisayville.com/events",
+      "eventsUrl": "http://www.koisushisayville.com/",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
       "genre": [
         "live music"
       ],
-      "active": true,
+      "active": false,
       "source": "google-places"
     },
     {
@@ -2358,8 +2358,8 @@
         40.737677,
         -73.8156561
       ],
-      "url": "http://kupferbergcenter.org/",
-      "eventsUrl": "http://kupferbergcenter.org/events",
+      "url": "https://kupferbergcenter.org/",
+      "eventsUrl": "https://kupferbergcenter.org/events/",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -2398,8 +2398,8 @@
         40.640633699999995,
         -73.66288759999999
       ],
-      "url": "http://www.lafavoritagourmet.com/",
-      "eventsUrl": "http://www.lafavoritagourmet.com/events",
+      "url": "https://lafavoritagourmet.com/",
+      "eventsUrl": "https://lafavoritagourmet.com/index.php",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -2438,8 +2438,8 @@
         40.8962661,
         -73.11222719999999
       ],
-      "url": "http://lepetitsalon.org/",
-      "eventsUrl": "http://lepetitsalon.org/events",
+      "url": "https://lepetitsalon.org/",
+      "eventsUrl": "https://lepetitsalon.org/tickets/",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -2458,11 +2458,11 @@
         40.738277499999995,
         -73.81595109999999
       ],
-      "url": "http://qcpages.qc.cuny.edu/music/index.php?L=0&M=3",
-      "eventsUrl": "http://qcpages.qc.cuny.edu/events",
+      "url": null,
+      "eventsUrl": null,
       "facebook": null,
       "instagram": null,
-      "scraper": "auto",
+      "scraper": null,
       "genre": [
         "performing arts"
       ],
@@ -2479,7 +2479,7 @@
         -73.3218583
       ],
       "url": "https://www.lilyflanaganspub.com/",
-      "eventsUrl": "https://www.lilyflanaganspub.com/events",
+      "eventsUrl": "https://www.lilyflanaganspub.com/musicevents",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -2499,7 +2499,7 @@
         -73.295793
       ],
       "url": "https://lipstixgentlemenclub.com/",
-      "eventsUrl": "https://lipstixgentlemenclub.com/events",
+      "eventsUrl": "https://lipstixgentlemenclub.com/about/",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -2538,8 +2538,8 @@
         40.755451699999995,
         -73.1155958
       ],
-      "url": "http://www.lizardloungeli.com/",
-      "eventsUrl": "http://www.lizardloungeli.com/events",
+      "url": "https://www.lizardloungeli.com/",
+      "eventsUrl": "https://www.lizardloungeli.com/",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -2558,8 +2558,8 @@
         40.9554216,
         -72.2535355
       ],
-      "url": "http://www.ltveh.org/",
-      "eventsUrl": "http://www.ltveh.org/events",
+      "url": "https://www.ltveh.org/",
+      "eventsUrl": "https://www.ltveh.org/events",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -2579,7 +2579,7 @@
         -72.9682388
       ],
       "url": "https://www.estonianhouseny.org/eng/long-island-estonian-home",
-      "eventsUrl": "https://www.estonianhouseny.org/events",
+      "eventsUrl": "https://www.estonianhouseny.org/eng/events-eng",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -2599,7 +2599,7 @@
         -73.144784
       ],
       "url": "https://www.limusichalloffame.org/",
-      "eventsUrl": "https://www.limusichalloffame.org/events",
+      "eventsUrl": "https://www.limusichalloffame.org/events/",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -2619,7 +2619,7 @@
         -73.27791429999999
       ],
       "url": "http://limusicfest.com/about-us",
-      "eventsUrl": "http://limusicfest.com/events",
+      "eventsUrl": "http://limusicfest.com/about-us",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -2638,8 +2638,8 @@
         40.992039,
         -72.53477
       ],
-      "url": "http://www.lovelanekitchen.com/",
-      "eventsUrl": "http://www.lovelanekitchen.com/events",
+      "url": "https://www.lovelanekitchen.com/",
+      "eventsUrl": "https://www.toasttab.com/love-lane-kitchen-240-love-ln/v3#!/",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -2658,8 +2658,8 @@
         40.686367,
         -73.62740149999999
       ],
-      "url": "http://madisontheatreny.org/",
-      "eventsUrl": "http://madisontheatreny.org/events",
+      "url": "https://madisontheatreny.org/",
+      "eventsUrl": "https://madisontheatreny.org/events/list/",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -2679,7 +2679,7 @@
         -73.2840216
       ],
       "url": "http://manninoscommack.com/?utm_source=google%20my%20business&utm_medium=organic&utm_campaign=gmb",
-      "eventsUrl": "http://manninoscommack.com/events",
+      "eventsUrl": "https://manninoscommack.com/commack/#commack-calendar",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -2718,11 +2718,11 @@
         40.932892700000004,
         -73.0574067
       ],
-      "url": "https://maryhaven.chsli.org/maryhaven-performing-arts-day-habilitation",
-      "eventsUrl": "https://maryhaven.chsli.org/events",
+      "url": null,
+      "eventsUrl": null,
       "facebook": null,
       "instagram": null,
-      "scraper": "auto",
+      "scraper": null,
       "genre": [
         "performing arts"
       ],
@@ -2738,8 +2738,8 @@
         40.6641416,
         -73.55017840000001
       ],
-      "url": "http://www.merricktheatreforthearts.com/",
-      "eventsUrl": "http://www.merricktheatreforthearts.com/events",
+      "url": "https://merricktheatreforthearts.com/",
+      "eventsUrl": "https://merricktheatreforthearts.com/tickets/",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -2818,11 +2818,11 @@
         40.8295483,
         -73.686236
       ],
-      "url": "http://shlomomintzviolin.com/",
-      "eventsUrl": "http://shlomomintzviolin.com/events",
+      "url": null,
+      "eventsUrl": null,
       "facebook": null,
       "instagram": null,
-      "scraper": "auto",
+      "scraper": null,
       "genre": [
         "performing arts"
       ],
@@ -2838,11 +2838,11 @@
         40.8157813,
         -73.47636949999999
       ],
-      "url": "http://www.mocaasianbistro.com/",
-      "eventsUrl": "http://www.mocaasianbistro.com/events",
+      "url": null,
+      "eventsUrl": null,
       "facebook": null,
       "instagram": null,
-      "scraper": "auto",
+      "scraper": null,
       "genre": [
         "live music"
       ],
@@ -2859,7 +2859,7 @@
         -73.48753909999999
       ],
       "url": "http://www.mrbeerys.com/",
-      "eventsUrl": "http://www.mrbeerys.com/events",
+      "eventsUrl": "http://www.mrbeerys.com/calendar.html",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -2878,8 +2878,8 @@
         40.916882099999995,
         -72.66187810000001
       ],
-      "url": "http://mugsonmain.com/",
-      "eventsUrl": "http://mugsonmain.com/events",
+      "url": "https://mugsonmain.com/",
+      "eventsUrl": "https://mugsonmain.com/private-events",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -2899,7 +2899,7 @@
         -73.6522872
       ],
       "url": "https://www.mfpproductions.com/",
-      "eventsUrl": "https://www.mfpproductions.com/events",
+      "eventsUrl": "https://www.mfpproductions.com/blank-2",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -2938,8 +2938,8 @@
         40.731807499999995,
         -73.4454744
       ],
-      "url": "http://www.thenuttyirishman.com/",
-      "eventsUrl": "http://www.thenuttyirishman.com/events",
+      "url": "https://www.thenuttyirishman.com/",
+      "eventsUrl": "https://www.thenuttyirishman.com/live-music",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -2959,7 +2959,7 @@
         -73.8100746
       ],
       "url": "http://www.nycarena.com/",
-      "eventsUrl": "http://www.nycarena.com/events",
+      "eventsUrl": "http://www.nycarena.com/",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -2978,8 +2978,8 @@
         40.828421,
         -73.3021673
       ],
-      "url": "http://www.ohmanballet.org/",
-      "eventsUrl": "http://www.ohmanballet.org/events",
+      "url": "https://ohmanballet.org/",
+      "eventsUrl": "https://ohmanballet.org/calendar/",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -2999,7 +2999,7 @@
         -73.8122027
       ],
       "url": "https://onebarandloungenyc.com/",
-      "eventsUrl": "https://onebarandloungenyc.com/events",
+      "eventsUrl": "https://onebarandloungenyc.com/upcoming-events/",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -3019,14 +3019,14 @@
         -73.4259385
       ],
       "url": "https://www.paramountny.com/",
-      "eventsUrl": "https://www.paramountny.com/events",
+      "eventsUrl": "https://www.paramountny.com/shows",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
       "genre": [
         "performing arts"
       ],
-      "active": true,
+      "active": false,
       "source": "google-places"
     },
     {
@@ -3038,8 +3038,8 @@
         40.833116700000005,
         -73.1237477
       ],
-      "url": "http://www.theparsniplakehouse.com/",
-      "eventsUrl": "http://www.theparsniplakehouse.com/events",
+      "url": "https://www.theparsniplakehouse.com/",
+      "eventsUrl": "https://www.facebook.com/Parsnip-Lake-House-108847530981437",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -3059,7 +3059,7 @@
         -73.0134775
       ],
       "url": "http://www.patchoguetheatre.org/",
-      "eventsUrl": "http://www.patchoguetheatre.org/events",
+      "eventsUrl": "https://www.patchoguetheatre.org/events",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -3078,8 +3078,8 @@
         40.79969,
         -73.11959399999999
       ],
-      "url": "http://proprentalsny.com/",
-      "eventsUrl": "http://proprentalsny.com/events",
+      "url": "https://proprentalsny.com/",
+      "eventsUrl": "https://proprentalsny.com/events",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -3099,7 +3099,7 @@
         -73.75562459999999
       ],
       "url": "https://qpac.qcc.cuny.edu/",
-      "eventsUrl": "https://qpac.qcc.cuny.edu/events",
+      "eventsUrl": "https://qpac.qcc.cuny.edu/all-events.html",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -3138,8 +3138,8 @@
         40.7245412,
         -73.5503095
       ],
-      "url": "http://www.rcdugans.com/",
-      "eventsUrl": "http://www.rcdugans.com/events",
+      "url": "https://www.rcdugans.com/",
+      "eventsUrl": "https://www.rcdugans.com/shows",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -3178,11 +3178,11 @@
         40.7276476,
         -73.63463430000002
       ],
-      "url": "http://www.revelrestaurant.com/",
-      "eventsUrl": "http://www.revelrestaurant.com/events",
+      "url": null,
+      "eventsUrl": null,
       "facebook": null,
       "instagram": null,
-      "scraper": "auto",
+      "scraper": null,
       "genre": [
         "live music"
       ],
@@ -3198,8 +3198,8 @@
         40.9453629,
         -73.0676936
       ],
-      "url": "http://rootskavabarny.com/",
-      "eventsUrl": "http://rootskavabarny.com/events",
+      "url": "https://www.rootskavabarny.com/",
+      "eventsUrl": "https://www.rootskavabarny.com/post/the-calming-root-kava",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -3219,14 +3219,14 @@
         -73.5954951
       ],
       "url": "https://www.rycosescape.com/",
-      "eventsUrl": "https://www.rycosescape.com/events",
+      "eventsUrl": "https://www.rycosescape.com/parties",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
       "genre": [
         "live music"
       ],
-      "active": true,
+      "active": false,
       "source": "google-places"
     },
     {
@@ -3239,7 +3239,7 @@
         -73.52522080000001
       ],
       "url": "https://www.sakurabellmore.com/",
-      "eventsUrl": "https://www.sakurabellmore.com/events",
+      "eventsUrl": "https://www.sakurabellmore.com/",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -3259,7 +3259,7 @@
         -73.3421237
       ],
       "url": "https://saltshackny.com/",
-      "eventsUrl": "https://saltshackny.com/events",
+      "eventsUrl": "https://saltshackny.com/events/",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -3278,8 +3278,8 @@
         40.8473162,
         -73.2595236
       ],
-      "url": "http://www.sangria71.com/",
-      "eventsUrl": "http://www.sangria71.com/events",
+      "url": "https://www.sangria71.com/",
+      "eventsUrl": "https://www.sangria71.com/location/sangria-71-island-park/",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -3298,8 +3298,8 @@
         40.9472577,
         -72.92300209999999
       ],
-      "url": "http://seabasin.com/",
-      "eventsUrl": "http://seabasin.com/events",
+      "url": "https://www.seabasin.com/",
+      "eventsUrl": "https://www.seabasin.com/menu",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -3338,8 +3338,8 @@
         40.7325612,
         -73.1855241
       ],
-      "url": "http://www.shandoncourt.com/",
-      "eventsUrl": "http://www.shandoncourt.com/events",
+      "url": "https://shandoncourt.com/",
+      "eventsUrl": "https://shandoncourt.com/special-events",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -3359,7 +3359,7 @@
         -73.0585004
       ],
       "url": "https://www.sunysuffolk.edu/explore-academics/majors-and-programs/theatre-arts/theatre-spaces.jsp",
-      "eventsUrl": "https://www.sunysuffolk.edu/events",
+      "eventsUrl": "https://www.sunysuffolk.edu/explore-academics/academic-calendar/index.jsp?1.8.5",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -3378,8 +3378,8 @@
         40.8052257,
         -73.63803159999999
       ],
-      "url": "http://www.sjjcc.org/",
-      "eventsUrl": "http://www.sjjcc.org/events",
+      "url": "https://www.sjjcc.org/",
+      "eventsUrl": "https://www.sjjcc.org/events",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -3398,11 +3398,11 @@
         40.6652869,
         -73.0697453
       ],
-      "url": "https://pinesfi.com/SipnTwirl",
-      "eventsUrl": "https://pinesfi.com/events",
+      "url": null,
+      "eventsUrl": null,
       "facebook": null,
       "instagram": null,
-      "scraper": "auto",
+      "scraper": null,
       "genre": [
         "live music"
       ],
@@ -3419,7 +3419,7 @@
         -73.1940995
       ],
       "url": "http://www.smithtownpac.org/",
-      "eventsUrl": "http://www.smithtownpac.org/events",
+      "eventsUrl": "http://www.smithtownpac.org/",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -3439,7 +3439,7 @@
         -73.7016271
       ],
       "url": "https://www.sousamemorialbandshell.org/",
-      "eventsUrl": "https://www.sousamemorialbandshell.org/events",
+      "eventsUrl": "https://www.sousamemorialbandshell.org/concert-schedules/",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -3458,8 +3458,8 @@
         40.686478,
         -73.373475
       ],
-      "url": "http://www.southshoretheatre.com/",
-      "eventsUrl": "http://www.southshoretheatre.com/events",
+      "url": "https://www.southshoretheatre.com/",
+      "eventsUrl": "https://events.ticketleap.com/tickets/south-shore-theatre-experience/the-rainmaker-by-n-richard-nash",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -3518,8 +3518,8 @@
         40.634704,
         -73.5820633
       ],
-      "url": "http://sparkleonstage.org/",
-      "eventsUrl": "http://sparkleonstage.org/events",
+      "url": "https://www.sparkleonstage.org/",
+      "eventsUrl": "https://www.sparkleonstage.org/news",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -3538,8 +3538,8 @@
         40.9453524,
         -72.95408479999999
       ],
-      "url": "http://www.spiros.com/",
-      "eventsUrl": "http://www.spiros.com/events",
+      "url": "https://spiros.com/",
+      "eventsUrl": "https://spiros.com/menu",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -3558,7 +3558,7 @@
         40.9165661,
         -72.6623747
       ],
-      "url": "https://www.facebook.com/share/1MbPMbNGeK/",
+      "url": "https://www.facebook.com/spotlighteastend?rdid=VOLVZLmIEVp6zAzx&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1MbPMbNGeK%2F",
       "eventsUrl": "https://www.facebook.com/events",
       "facebook": null,
       "instagram": null,
@@ -3579,7 +3579,7 @@
         -73.1215066
       ],
       "url": "https://www.stallercenter.com/",
-      "eventsUrl": "https://www.stallercenter.com/events",
+      "eventsUrl": "https://www.stallercenter.com/Calendar.php",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -3599,7 +3599,7 @@
         -73.1215586
       ],
       "url": "https://www.stallercenter.com/techinfo/index.php",
-      "eventsUrl": "https://www.stallercenter.com/events",
+      "eventsUrl": "https://www.stallercenter.com/Calendar.php",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -3618,8 +3618,8 @@
         40.6862312,
         -73.3731591
       ],
-      "url": "http://www.studiotheatrelongisland.com/",
-      "eventsUrl": "http://www.studiotheatrelongisland.com/events",
+      "url": "https://studiotheatrelongisland.com/",
+      "eventsUrl": "https://studiotheatrelongisland.thundertix.com/events/252530",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -3658,8 +3658,8 @@
         40.8292314,
         -73.3033343
       ],
-      "url": "http://www.syjcc.org/",
-      "eventsUrl": "http://www.syjcc.org/events",
+      "url": "https://www.syjcc.org/",
+      "eventsUrl": "https://www.syjcc.org/events",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -3678,8 +3678,8 @@
         41.1015908,
         -72.3640866
       ],
-      "url": "http://www.greenporterhotel.com/restaurant/terra",
-      "eventsUrl": "http://www.greenporterhotel.com/events",
+      "url": "https://www.greenporterhotel.com/restaurant/terra",
+      "eventsUrl": "https://www.greenporterhotel.com/",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -3698,8 +3698,8 @@
         40.696212100000004,
         -73.32371169999999
       ],
-      "url": "http://argyletheatre.com/",
-      "eventsUrl": "http://argyletheatre.com/events",
+      "url": "https://www.argyletheatre.com/",
+      "eventsUrl": "https://www.argyletheatre.com/event-details/strange-magic-ny",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -3739,7 +3739,7 @@
         -72.2443713
       ],
       "url": "https://duryeas.com/pages/duryeas-beach-club",
-      "eventsUrl": "https://duryeas.com/events",
+      "eventsUrl": "https://duryeas.com/pages/duryeas-private-events",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -3798,8 +3798,8 @@
         40.7353193,
         -73.5975952
       ],
-      "url": "http://www.thecubanny.com/",
-      "eventsUrl": "http://www.thecubanny.com/events",
+      "url": "https://thecubanny.com/",
+      "eventsUrl": "https://thecubanny.com/menus/",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -3819,7 +3819,7 @@
         -73.5980719
       ],
       "url": "https://www.hofstra.edu/visitors/theaters.html",
-      "eventsUrl": "https://www.hofstra.edu/events",
+      "eventsUrl": "https://news.hofstra.edu/events/",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -3838,8 +3838,8 @@
         40.659897199999996,
         -73.0900719
       ],
-      "url": "https://www.icepalace.club/",
-      "eventsUrl": "https://www.icepalace.club/events",
+      "url": "https://icepalace.club/",
+      "eventsUrl": "https://icepalace.club/events/",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -3858,8 +3858,8 @@
         41.07085,
         -72.3722767
       ],
-      "url": "http://www.perlmanmusicprogram.org/",
-      "eventsUrl": "http://www.perlmanmusicprogram.org/events",
+      "url": "https://www.perlmanmusicprogram.org/",
+      "eventsUrl": "https://www.perlmanmusicprogram.org/calendar",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -3898,8 +3898,8 @@
         41.1015867,
         -72.3626068
       ],
-      "url": "https://www.themenhaden.com/",
-      "eventsUrl": "https://www.themenhaden.com/events",
+      "url": "https://themenhaden.com/",
+      "eventsUrl": "https://hotels.cloudbeds.com/reservation/YcpeiX?&_ga=2.55433195.1150488890.1684196148-296320951",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -3918,8 +3918,8 @@
         40.7945894,
         -72.957469
       ],
-      "url": "http://www.thenextlevelband.com/",
-      "eventsUrl": "http://www.thenextlevelband.com/events",
+      "url": "http://thenextlevelband.com/",
+      "eventsUrl": "http://thenextlevelband.com/event-tips/",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -3938,8 +3938,8 @@
         40.9904875,
         -72.535708
       ],
-      "url": "http://www.nfct.com/",
-      "eventsUrl": "http://www.nfct.com/events",
+      "url": "https://nfct.com/",
+      "eventsUrl": "https://nfct.com/events/month/",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -3958,8 +3958,8 @@
         40.757583499999996,
         -73.7845339
       ],
-      "url": "https://theoasiscafe.com/",
-      "eventsUrl": "https://theoasiscafe.com/events",
+      "url": "https://www.theoasiscafe.com/",
+      "eventsUrl": "https://www.theoasiscafe.com/events",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -3978,8 +3978,8 @@
         40.5136879,
         -74.1963332
       ],
-      "url": "http://www.therockhouserocks.com/",
-      "eventsUrl": "http://www.therockhouserocks.com/events",
+      "url": "https://therockhouserocks.com/",
+      "eventsUrl": "https://therockhouserocks.com/shop?olsPage=cart",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -3999,8 +3999,8 @@
         40.9748488,
         -72.1423204
       ],
-      "url": "http://stephentalkhouse.com/",
-      "eventsUrl": "http://stephentalkhouse.com/events",
+      "url": "https://www.stephentalkhouse.com/",
+      "eventsUrl": "https://www.stephentalkhouse.com/calendar",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -4019,8 +4019,8 @@
         40.91759750000001,
         -72.6604274
       ],
-      "url": "http://www.thesuffolk.org/",
-      "eventsUrl": "http://www.thesuffolk.org/events",
+      "url": "https://www.thesuffolk.org/",
+      "eventsUrl": "https://thesuffolk.org/events/",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -4040,8 +4040,8 @@
         40.7534255,
         -72.9862442
       ],
-      "url": "http://www.thetikibaratsunsetharbour.com/",
-      "eventsUrl": "http://www.thetikibaratsunsetharbour.com/events",
+      "url": "https://thetikibaratsunsetharbour.com/",
+      "eventsUrl": "https://thetikibaratsunsetharbour.com/happy-hour-1",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -4060,8 +4060,8 @@
         40.8438148,
         -72.99747459999999
       ],
-      "url": "http://www.vintagebeanoandvinolounge.com/",
-      "eventsUrl": "http://www.vintagebeanoandvinolounge.com/events",
+      "url": "https://vintagebeanoandvinolounge.com/",
+      "eventsUrl": "https://vintagebeanoandvinolounge.com/events/",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -4081,7 +4081,7 @@
         -73.4171066
       ],
       "url": "https://www.thewarehouseli.com/",
-      "eventsUrl": "https://www.thewarehouseli.com/events",
+      "eventsUrl": "https://www.thewarehouseli.com/#sample",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -4101,7 +4101,7 @@
         -73.0675371
       ],
       "url": "http://theaterthree.com/",
-      "eventsUrl": "http://theaterthree.com/events",
+      "eventsUrl": "http://theaterthree.com/",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -4120,15 +4120,15 @@
         40.7649566,
         -73.0149486
       ],
-      "url": "http://www.thinkbigtheaterarts.org/",
-      "eventsUrl": "http://www.thinkbigtheaterarts.org/events",
+      "url": "https://www.thinkbigtheaterarts.org/",
+      "eventsUrl": "https://ticketpeak.co/thinkbig/events",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
       "genre": [
         "performing arts"
       ],
-      "active": true,
+      "active": false,
       "source": "google-places"
     },
     {
@@ -4140,8 +4140,8 @@
         40.9649305,
         -73.0288602
       ],
-      "url": "https://tikijoesbeachclub.com/",
-      "eventsUrl": "https://tikijoesbeachclub.com/events",
+      "url": "https://tikijoes.com/",
+      "eventsUrl": "https://tikijoes.com/specialty-catering-packages/",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -4161,7 +4161,7 @@
         -72.8614976
       ],
       "url": "https://tikijoes.com/",
-      "eventsUrl": "https://tikijoes.com/events",
+      "eventsUrl": "https://tikijoes.com/specialty-catering-packages/",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -4180,8 +4180,8 @@
         40.817394199999995,
         -73.59724419999999
       ],
-      "url": "https://tillescenter.org/",
-      "eventsUrl": "https://tillescenter.org/events",
+      "url": "https://www.tillescenter.org/",
+      "eventsUrl": "https://www.tillescenter.org/calendar",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -4200,8 +4200,8 @@
         40.7893472,
         -72.8354974
       ],
-      "url": "http://tipicannacafe.com/",
-      "eventsUrl": "http://tipicannacafe.com/events",
+      "url": "https://tipicannacafe.com/",
+      "eventsUrl": "https://tipicannacafe.com/events/",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -4220,8 +4220,8 @@
         40.7130352,
         -73.60073899999999
       ],
-      "url": "https://www.hofstra.edu/visitors/playhouse/",
-      "eventsUrl": "https://www.hofstra.edu/events",
+      "url": "https://www.hofstra.edu/about/playhouse/",
+      "eventsUrl": "https://events.hofstra.edu/",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -4240,8 +4240,8 @@
         40.945128,
         -72.8202061
       ],
-      "url": "http://topguncigars.com/",
-      "eventsUrl": "http://topguncigars.com/events",
+      "url": "https://www.topguncigars.com/",
+      "eventsUrl": "https://www.topguncigars.com/blog",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -4261,14 +4261,14 @@
         -73.3035604
       ],
       "url": "https://tutuschool.com/commack/",
-      "eventsUrl": "https://tutuschool.com/events",
+      "eventsUrl": "https://tutuschool.com/commack/events",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
       "genre": [
         "performing arts"
       ],
-      "active": true,
+      "active": false,
       "source": "google-places"
     },
     {
@@ -4281,14 +4281,14 @@
         -73.074907
       ],
       "url": "https://tutuschool.com/sayville/",
-      "eventsUrl": "https://tutuschool.com/events",
+      "eventsUrl": "https://tutuschool.com/sayville/events",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
       "genre": [
         "performing arts"
       ],
-      "active": true,
+      "active": false,
       "source": "google-places"
     },
     {
@@ -4300,11 +4300,11 @@
         40.8927361,
         -72.424602
       ],
-      "url": "https://www.ultrahamptons.com/",
-      "eventsUrl": "https://www.ultrahamptons.com/events",
+      "url": null,
+      "eventsUrl": null,
       "facebook": null,
       "instagram": null,
-      "scraper": "auto",
+      "scraper": null,
       "genre": [
         "live music"
       ],
@@ -4341,7 +4341,7 @@
         -73.2747241
       ],
       "url": "https://www.sunysuffolk.edu/explore-academics/majors-and-programs/theatre-arts/box-office/index.jsp",
-      "eventsUrl": "https://www.sunysuffolk.edu/events",
+      "eventsUrl": "https://www.sunysuffolk.edu/explore-academics/majors-and-programs/theatre-arts/box-office/ticket-information.jsp",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -4360,8 +4360,8 @@
         40.8094471,
         -72.6444479
       ],
-      "url": "http://www.whbpac.org/",
-      "eventsUrl": "http://www.whbpac.org/events",
+      "url": "https://whbpac.org/",
+      "eventsUrl": "https://secure.whbpac.org/events?k=Special_Events",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -4421,15 +4421,15 @@
         40.8378836,
         -73.2845853
       ],
-      "url": "http://playxgolf.com/locations/commack",
-      "eventsUrl": "http://playxgolf.com/events",
+      "url": "https://playxgolf.com/locations/commack/",
+      "eventsUrl": "https://playxgolf.com/events/",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
       "genre": [
         "live music"
       ],
-      "active": true,
+      "active": false,
       "source": "google-places"
     },
     {
@@ -4472,5 +4472,7 @@
       "active": true,
       "source": "google-places"
     }
-  ]
+  ],
+  "lastVerified": "2026-06-08T18:33:31.141Z",
+  "active": 198
 }

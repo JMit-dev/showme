@@ -1,0 +1,37 @@
+name: Discover Venues
+
+on:
+  schedule:
+    - cron: '0 8 * * 1'   # 4am ET every Monday
+  workflow_dispatch:        # manual trigger from Actions tab
+
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+          cache-dependency-path: scraper/package-lock.json
+
+      - name: Install scraper dependencies
+        run: cd scraper && npm ci
+
+      - name: Discover venues via Google Places API
+        env:
+          GOOGLE_PLACES_API_KEY: ${{ secrets.GOOGLE_PLACES_API_KEY }}
+        run: cd scraper && node discover.js
+
+      - name: Commit updated venues if changed
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git add public/data/venues.json
+          git diff --staged --quiet || git commit -m 'chore: update venue registry from Google Places [skip ci]'
+          git push

@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-06-08T19:36:23.889Z",
-  "totalShows": 364,
-  "errors": 0,
+  "lastUpdated": "2026-06-09T09:49:21.577Z",
+  "totalShows": 339,
+  "errors": 13,
   "venues": {
     "89north": {
       "id": "89north",
@@ -13,19 +13,6 @@
         -73.0163
       ],
       "shows": [
-        {
-          "id": "89north-2026-06-08-dead-mondays-craig-privett-freinds",
-          "title": "Dead Mondays - Craig Privett & Freinds",
-          "date": "2026-06-08",
-          "time": null,
-          "doors": null,
-          "ticketUrl": "https://booketing.com/microsite/89northmusicvenue/event/1767/864976/dead-mondays-craig-privett-freinds?eventcode=EVE86497600020260608",
-          "imageUrl": null,
-          "price": null,
-          "ages": null,
-          "description": null,
-          "sourceUrl": "https://booketing.com/microsite/89northmusicvenue/event/1767/864976/dead-mondays-craig-privett-freinds?eventcode=EVE86497600020260608"
-        },
         {
           "id": "89north-2026-06-10-country-wednesday-with-leslie",
           "title": "Country Wednesday with Leslie",
@@ -339,7 +326,7 @@
           "sourceUrl": "https://booketing.com/microsite/89northmusicvenue/event/1767/864976/nobody-starves-on-long-island-fundraiser?eventcode=EVE86497600020260719"
         }
       ],
-      "scrapedAt": "2026-06-08T19:25:53.696Z",
+      "scrapedAt": "2026-06-09T09:28:21.058Z",
       "error": null
     },
     "boulton": {
@@ -352,7 +339,7 @@
         -73.2449
       ],
       "shows": [],
-      "scrapedAt": "2026-06-08T18:43:30.979Z",
+      "scrapedAt": "2026-06-09T09:28:40.333Z",
       "error": null
     },
     "nassaucoliseum": {
@@ -365,7 +352,7 @@
         -73.5932
       ],
       "shows": [],
-      "scrapedAt": "2026-06-08T18:43:38.248Z",
+      "scrapedAt": "2026-06-09T09:28:47.486Z",
       "error": null
     },
     "jonesbeach": {
@@ -378,19 +365,6 @@
         -73.5095
       ],
       "shows": [
-        {
-          "id": "jonesbeach-2026-06-08-kesha-the-freedom-tour",
-          "title": "Kesha: The Freedom Tour",
-          "date": "2026-06-08",
-          "time": "7:00 PM",
-          "doors": null,
-          "ticketUrl": "https://www.ticketmaster.com/kesha-the-freedom-tour-wantagh-new-york-06-08-2026/event/1D006472AC5C552D",
-          "imageUrl": "https://s1.ticketm.net/dam/a/01e/0cecc46a-2a60-4448-9482-e6b26646101e_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-          "price": null,
-          "ages": null,
-          "description": null,
-          "sourceUrl": "https://www.ticketmaster.com/kesha-the-freedom-tour-wantagh-new-york-06-08-2026/event/1D006472AC5C552D"
-        },
         {
           "id": "jonesbeach-2026-06-18-ashanti-trey-songz",
           "title": "Ashanti & Trey Songz",
@@ -405,9 +379,9 @@
           "sourceUrl": "https://www.ticketmaster.com/ashanti-trey-songz-wantagh-new-york-06-18-2026/event/1D006491EF2BA6E6"
         },
         {
-          "id": "jonesbeach-2026-06-19-cann-presents-yacht-rock-revue-primetime",
+          "id": "jonesbeach-2026-06-20-cann-presents-yacht-rock-revue-primetime",
           "title": "CANN PRESENTS: YACHT ROCK REVUE - PRIMETIME",
-          "date": "2026-06-19",
+          "date": "2026-06-20",
           "time": "8:00 PM",
           "doors": null,
           "ticketUrl": "https://www.ticketmaster.com/cann-presents-yacht-rock-revue-primetime-wantagh-new-york-06-19-2026/event/1D006427985F1A77",
@@ -496,9 +470,9 @@
           "sourceUrl": "https://www.ticketmaster.com/santana-the-doobie-brothers-oneness-tour-wantagh-new-york-07-02-2026/event/1D00644CB8665572"
         },
         {
-          "id": "jonesbeach-2026-07-09-lindsey-stirling-duality-untamed-tour",
+          "id": "jonesbeach-2026-07-10-lindsey-stirling-duality-untamed-tour",
           "title": "LINDSEY STIRLING - DUALITY UNTAMED TOUR",
-          "date": "2026-07-09",
+          "date": "2026-07-10",
           "time": "8:00 PM",
           "doors": null,
           "ticketUrl": "https://www.ticketmaster.com/lindsey-stirling-duality-untamed-tour-wantagh-new-york-07-09-2026/event/1D006437DB2F4C87",
@@ -574,9 +548,9 @@
           "sourceUrl": "https://www.ticketmaster.com/dave-matthews-band-wantagh-new-york-07-21-2026/event/1D0063829B113A30"
         },
         {
-          "id": "jonesbeach-2026-07-22-ne-yo-akon-nights-like-this-tour-2026",
+          "id": "jonesbeach-2026-07-23-ne-yo-akon-nights-like-this-tour-2026",
           "title": "NE-YO & AKON: Nights Like This Tour 2026",
-          "date": "2026-07-22",
+          "date": "2026-07-23",
           "time": "8:00 PM",
           "doors": null,
           "ticketUrl": "https://www.ticketmaster.com/neyo-akon-nights-like-this-tour-wantagh-new-york-07-22-2026/event/1D0064339FF3185A",
@@ -626,9 +600,9 @@
           "sourceUrl": "https://www.ticketmaster.com/muse-the-wow-signal-tour-wantagh-new-york-07-25-2026/event/1D0064781B6BFC6D"
         },
         {
-          "id": "jonesbeach-2026-07-26-john-mellencamp-dancing-words-tour-the-greatest-hits",
+          "id": "jonesbeach-2026-07-27-john-mellencamp-dancing-words-tour-the-greatest-hits",
           "title": "John Mellencamp Dancing Words Tour The Greatest Hits",
-          "date": "2026-07-26",
+          "date": "2026-07-27",
           "time": "8:00 PM",
           "doors": null,
           "ticketUrl": "https://www.ticketmaster.com/john-mellencamp-dancing-words-tour-the-wantagh-new-york-07-26-2026/event/1D00642CB7382883",
@@ -743,9 +717,9 @@
           "sourceUrl": "https://www.ticketmaster.com/zach-top-cold-beer-country-music-wantagh-new-york-08-13-2026/event/1D006487E9089B1F"
         },
         {
-          "id": "jonesbeach-2026-08-14-sebastian-maniscalco-live",
+          "id": "jonesbeach-2026-08-15-sebastian-maniscalco-live",
           "title": "Sebastian Maniscalco Live",
-          "date": "2026-08-14",
+          "date": "2026-08-15",
           "time": "8:00 PM",
           "doors": null,
           "ticketUrl": "https://www.ticketmaster.com/sebastian-maniscalco-live-wantagh-new-york-08-14-2026/event/1D00646391AF3072",
@@ -756,9 +730,9 @@
           "sourceUrl": "https://www.ticketmaster.com/sebastian-maniscalco-live-wantagh-new-york-08-14-2026/event/1D00646391AF3072"
         },
         {
-          "id": "jonesbeach-2026-08-15-sebastian-maniscalco-live",
+          "id": "jonesbeach-2026-08-16-sebastian-maniscalco-live",
           "title": "Sebastian Maniscalco Live",
-          "date": "2026-08-15",
+          "date": "2026-08-16",
           "time": "8:00 PM",
           "doors": null,
           "ticketUrl": "https://www.ticketmaster.com/sebastian-maniscalco-live-wantagh-new-york-08-15-2026/event/1D006465E45699F5",
@@ -821,9 +795,9 @@
           "sourceUrl": "https://www.ticketmaster.com/the-fray-summer-of-light-tour-wantagh-new-york-08-22-2026/event/1D006437635B0CAE"
         },
         {
-          "id": "jonesbeach-2026-08-25-pitbull-i-m-back-with-special-guest-lil-jon",
+          "id": "jonesbeach-2026-08-26-pitbull-i-m-back-with-special-guest-lil-jon",
           "title": "Pitbull - I'm Back with special guest Lil Jon",
-          "date": "2026-08-25",
+          "date": "2026-08-26",
           "time": "8:00 PM",
           "doors": null,
           "ticketUrl": "https://www.ticketmaster.com/pitbull-im-back-with-special-guest-wantagh-new-york-08-25-2026/event/1D00642E99E72A42",
@@ -845,9 +819,22 @@
           "ages": null,
           "description": null,
           "sourceUrl": "https://www.ticketmaster.com/chris-stapletons-allamerican-road-show-wantagh-new-york-08-26-2026/event/1D00639EAD073B5D"
+        },
+        {
+          "id": "jonesbeach-2026-08-28-outlaw-festival-willie-nelson-avett-brothers-sheryl-crow-mor",
+          "title": "Outlaw Festival: Willie Nelson, Avett Brothers, Sheryl Crow & More!",
+          "date": "2026-08-28",
+          "time": "3:20 PM",
+          "doors": null,
+          "ticketUrl": "https://www.ticketmaster.com/outlaw-festival-willie-nelson-avett-brothers-wantagh-new-york-08-28-2026/event/1D006476CF358AF5",
+          "imageUrl": "https://s1.ticketm.net/dam/e/0e7/645f56c4-2c97-45a7-a21f-ea4f892d10e7_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+          "price": null,
+          "ages": null,
+          "description": null,
+          "sourceUrl": "https://www.ticketmaster.com/outlaw-festival-willie-nelson-avett-brothers-wantagh-new-york-08-28-2026/event/1D006476CF358AF5"
         }
       ],
-      "scrapedAt": "2026-06-08T18:43:40.482Z",
+      "scrapedAt": "2026-06-09T09:28:49.837Z",
       "error": null
     },
     "paramount": {
@@ -860,7 +847,7 @@
         -73.4257
       ],
       "shows": [],
-      "scrapedAt": "2026-06-08T18:43:49.749Z",
+      "scrapedAt": "2026-06-09T09:28:59.421Z",
       "error": null
     },
     "thespaceatwestbury": {
@@ -873,7 +860,7 @@
         -73.5766
       ],
       "shows": [],
-      "scrapedAt": "2026-06-08T18:43:59.931Z",
+      "scrapedAt": "2026-06-09T09:29:06.873Z",
       "error": null
     },
     "ubsarena": {
@@ -886,8 +873,8 @@
         -73.7259
       ],
       "shows": [],
-      "scrapedAt": "2026-06-08T18:44:08.244Z",
-      "error": null
+      "scrapedAt": "2026-06-09T09:29:08.687Z",
+      "error": "Could not load any page for UBS Arena"
     },
     "gp-Rze5NJj4yr6Y": {
       "id": "gp-Rze5NJj4yr6Y",
@@ -899,7 +886,7 @@
         -73.6522686
       ],
       "shows": [],
-      "scrapedAt": "2026-06-08T18:44:20.568Z",
+      "scrapedAt": "2026-06-09T09:29:19.135Z",
       "error": null
     },
     "gp-RIEghYHzWE98": {
@@ -912,7 +899,7 @@
         -73.7923212
       ],
       "shows": [],
-      "scrapedAt": "2026-06-08T18:44:29.808Z",
+      "scrapedAt": "2026-06-09T09:29:27.203Z",
       "error": null
     },
     "gp-RievEMhwOpBo": {
@@ -925,7 +912,7 @@
         -73.124423
       ],
       "shows": [],
-      "scrapedAt": "2026-06-08T18:44:38.031Z",
+      "scrapedAt": "2026-06-09T09:29:32.874Z",
       "error": null
     },
     "gp-RgPnfgbvGEMo": {
@@ -938,7 +925,7 @@
         -73.1223748
       ],
       "shows": [],
-      "scrapedAt": "2026-06-08T18:44:57.256Z",
+      "scrapedAt": "2026-06-09T09:29:40.478Z",
       "error": null
     },
     "gp-RazNIVr7JMZw": {
@@ -951,7 +938,7 @@
         -73.1066013
       ],
       "shows": [],
-      "scrapedAt": "2026-06-08T18:45:09.212Z",
+      "scrapedAt": "2026-06-09T09:29:51.180Z",
       "error": null
     },
     "gp-RwPUP6MQ02HQ": {
@@ -964,7 +951,7 @@
         -72.4435625
       ],
       "shows": [],
-      "scrapedAt": "2026-06-08T18:45:16.915Z",
+      "scrapedAt": "2026-06-09T09:29:58.694Z",
       "error": null
     },
     "gp-RkDGZh2q7wgA": {
@@ -977,7 +964,7 @@
         -73.37479549999999
       ],
       "shows": [],
-      "scrapedAt": "2026-06-08T18:45:24.559Z",
+      "scrapedAt": "2026-06-09T09:30:06.429Z",
       "error": null
     },
     "gp-ROaro9weorEo": {
@@ -990,20 +977,7 @@
         -73.6114516
       ],
       "shows": [],
-      "scrapedAt": "2026-06-08T18:45:33.539Z",
-      "error": null
-    },
-    "gp-RiFn0D_gR6k8": {
-      "id": "gp-RiFn0D_gR6k8",
-      "name": "Barnum Ballroom",
-      "location": "Island Park, NY",
-      "url": "https://www.facebook.com/barnumballroom",
-      "coords": [
-        40.61081790000001,
-        -73.6457695
-      ],
-      "shows": [],
-      "scrapedAt": "2026-06-08T18:45:43.057Z",
+      "scrapedAt": "2026-06-09T09:30:13.675Z",
       "error": null
     },
     "gp-R-TlA5z9K1E4": {
@@ -1016,7 +990,7 @@
         -72.295628
       ],
       "shows": [],
-      "scrapedAt": "2026-06-08T18:45:53.287Z",
+      "scrapedAt": "2026-06-09T09:30:24.164Z",
       "error": null
     },
     "gp-RBCnbdcQArMM": {
@@ -1029,7 +1003,7 @@
         -73.179489
       ],
       "shows": [],
-      "scrapedAt": "2026-06-08T18:46:03.678Z",
+      "scrapedAt": "2026-06-09T09:30:32.491Z",
       "error": null
     },
     "gp-Rei5cjo5MYxc": {
@@ -1042,7 +1016,7 @@
         -72.5052603
       ],
       "shows": [],
-      "scrapedAt": "2026-06-08T18:46:12.834Z",
+      "scrapedAt": "2026-06-09T09:30:39.269Z",
       "error": null
     },
     "gp-REP1_HX58bZQ": {
@@ -1055,7 +1029,7 @@
         -73.365021
       ],
       "shows": [],
-      "scrapedAt": "2026-06-08T18:46:23.031Z",
+      "scrapedAt": "2026-06-09T09:30:46.994Z",
       "error": null
     },
     "gp-R5pFSi09Vln4": {
@@ -1067,8 +1041,126 @@
         40.868654199999995,
         -73.4257059
       ],
-      "shows": [],
-      "scrapedAt": "2026-06-08T18:46:34.740Z",
+      "shows": [
+        {
+          "id": "gp-R5pFSi09Vln4-2026-06-14-sunday-brunch-and-2-for-1-margaritas-besito-mexican-west-isl",
+          "title": "Sunday Brunch and 2 for 1 Margaritas Besito Mexican West Islip",
+          "date": "2026-06-14",
+          "time": "12:00 PM",
+          "doors": null,
+          "ticketUrl": "https://www.besitomexican.com/event-details-registration/sunday-brunch-and-2-for-1-margaritas-besito-mexican-west-islip-2026-06-14-12-00",
+          "imageUrl": null,
+          "price": null,
+          "ages": null,
+          "description": null,
+          "sourceUrl": "https://www.besitomexican.com/event-details-registration/sunday-brunch-and-2-for-1-margaritas-besito-mexican-west-islip-2026-06-14-12-00"
+        },
+        {
+          "id": "gp-R5pFSi09Vln4-2026-06-14-sunday-brunch-and-2-for-1-margaritas-besito-mexican-huntingt",
+          "title": "Sunday Brunch and 2 for 1 Margaritas Besito Mexican Huntington",
+          "date": "2026-06-14",
+          "time": "12:00 PM",
+          "doors": null,
+          "ticketUrl": "https://www.besitomexican.com/event-details-registration/sunday-brunch-and-2-for-1-margaritas-besito-mexican-huntington-2026-06-14-12-00",
+          "imageUrl": null,
+          "price": null,
+          "ages": null,
+          "description": null,
+          "sourceUrl": "https://www.besitomexican.com/event-details-registration/sunday-brunch-and-2-for-1-margaritas-besito-mexican-huntington-2026-06-14-12-00"
+        },
+        {
+          "id": "gp-R5pFSi09Vln4-2026-06-14-sunday-brunch-and-2-for-1-margaritas-besito-mexican-roslyn",
+          "title": "Sunday Brunch and 2 for 1 Margaritas Besito Mexican Roslyn",
+          "date": "2026-06-14",
+          "time": "12:00 PM",
+          "doors": null,
+          "ticketUrl": "https://www.besitomexican.com/event-details-registration/sunday-brunch-and-2-for-1-margaritas-besito-mexican-roslyn-2026-06-14-12-00",
+          "imageUrl": null,
+          "price": null,
+          "ages": null,
+          "description": null,
+          "sourceUrl": "https://www.besitomexican.com/event-details-registration/sunday-brunch-and-2-for-1-margaritas-besito-mexican-roslyn-2026-06-14-12-00"
+        },
+        {
+          "id": "gp-R5pFSi09Vln4-2026-06-19-father-s-day-weekend-at-besito-mexican-huntington",
+          "title": "Father's Day Weekend At Besito Mexican Huntington",
+          "date": "2026-06-19",
+          "time": "12:00 PM",
+          "doors": null,
+          "ticketUrl": "https://www.besitomexican.com/event-details-registration/fathers-day-weekend-at-besito-mexican-huntington-2026-06-19-12-00",
+          "imageUrl": null,
+          "price": null,
+          "ages": null,
+          "description": null,
+          "sourceUrl": "https://www.besitomexican.com/event-details-registration/fathers-day-weekend-at-besito-mexican-huntington-2026-06-19-12-00"
+        },
+        {
+          "id": "gp-R5pFSi09Vln4-2026-06-19-father-s-day-weekend-at-besito-mexican-west-islip",
+          "title": "Father's Day Weekend At Besito Mexican West Islip",
+          "date": "2026-06-19",
+          "time": "12:00 PM",
+          "doors": null,
+          "ticketUrl": "https://www.besitomexican.com/event-details-registration/fathers-day-weekend-at-besito-mexican-west-islip-2026-06-19-12-00",
+          "imageUrl": null,
+          "price": null,
+          "ages": null,
+          "description": null,
+          "sourceUrl": "https://www.besitomexican.com/event-details-registration/fathers-day-weekend-at-besito-mexican-west-islip-2026-06-19-12-00"
+        },
+        {
+          "id": "gp-R5pFSi09Vln4-2026-06-19-father-s-day-weekend-at-besito-mexican-roslyn",
+          "title": "Father's Day Weekend At Besito Mexican Roslyn",
+          "date": "2026-06-19",
+          "time": "12:00 PM",
+          "doors": null,
+          "ticketUrl": "https://www.besitomexican.com/event-details-registration/fathers-day-weekend-at-besito-mexican-roslyn-2026-06-19-12-00",
+          "imageUrl": null,
+          "price": null,
+          "ages": null,
+          "description": null,
+          "sourceUrl": "https://www.besitomexican.com/event-details-registration/fathers-day-weekend-at-besito-mexican-roslyn-2026-06-19-12-00"
+        },
+        {
+          "id": "gp-R5pFSi09Vln4-2026-07-03-4th-of-july-weekend-at-besito-mexican-west-islip",
+          "title": "4th of July Weekend At Besito Mexican West Islip",
+          "date": "2026-07-03",
+          "time": "12:00 PM",
+          "doors": null,
+          "ticketUrl": "https://www.besitomexican.com/event-details-registration/4th-of-july-weekend-at-besito-mexican-west-islip-2026-07-03-12-00",
+          "imageUrl": null,
+          "price": null,
+          "ages": null,
+          "description": null,
+          "sourceUrl": "https://www.besitomexican.com/event-details-registration/4th-of-july-weekend-at-besito-mexican-west-islip-2026-07-03-12-00"
+        },
+        {
+          "id": "gp-R5pFSi09Vln4-2026-07-03-4th-of-july-weekend-at-besito-mexican-roslyn",
+          "title": "4th of July Weekend At Besito Mexican Roslyn",
+          "date": "2026-07-03",
+          "time": "12:00 PM",
+          "doors": null,
+          "ticketUrl": "https://www.besitomexican.com/event-details-registration/4th-of-july-weekend-at-besito-mexican-roslyn-2026-07-03-12-00",
+          "imageUrl": null,
+          "price": null,
+          "ages": null,
+          "description": null,
+          "sourceUrl": "https://www.besitomexican.com/event-details-registration/4th-of-july-weekend-at-besito-mexican-roslyn-2026-07-03-12-00"
+        },
+        {
+          "id": "gp-R5pFSi09Vln4-2026-07-03-4th-of-july-weekend-at-besito-mexican-huntington",
+          "title": "4th of July Weekend At Besito Mexican Huntington",
+          "date": "2026-07-03",
+          "time": "12:00 PM",
+          "doors": null,
+          "ticketUrl": "https://www.besitomexican.com/event-details-registration/4th-of-july-weekend-at-besito-mexican-huntington-2026-07-03-12-00",
+          "imageUrl": null,
+          "price": null,
+          "ages": null,
+          "description": null,
+          "sourceUrl": "https://www.besitomexican.com/event-details-registration/4th-of-july-weekend-at-besito-mexican-huntington-2026-07-03-12-00"
+        }
+      ],
+      "scrapedAt": "2026-06-09T09:30:56.639Z",
       "error": null
     },
     "gp-R5yLnFl34Lk4": {
@@ -1081,8 +1173,8 @@
         -72.7208529
       ],
       "shows": [],
-      "scrapedAt": "2026-06-08T18:46:43.751Z",
-      "error": null
+      "scrapedAt": "2026-06-09T09:30:58.439Z",
+      "error": "Could not load any page for Bistro 72"
     },
     "gp-RmaYnDwWsXm0": {
       "id": "gp-RmaYnDwWsXm0",
@@ -1094,7 +1186,7 @@
         -73.8206519
       ],
       "shows": [],
-      "scrapedAt": "2026-06-08T18:46:54.470Z",
+      "scrapedAt": "2026-06-09T09:31:04.071Z",
       "error": null
     },
     "gp-Rk3sBsPDf1Qs": {
@@ -1107,7 +1199,7 @@
         -73.1180294
       ],
       "shows": [],
-      "scrapedAt": "2026-06-08T18:47:01.852Z",
+      "scrapedAt": "2026-06-09T09:31:41.582Z",
       "error": null
     },
     "gp-R-iRShvv7Yq8": {
@@ -1120,7 +1212,7 @@
         -73.1227136
       ],
       "shows": [],
-      "scrapedAt": "2026-06-08T18:47:19.954Z",
+      "scrapedAt": "2026-06-09T09:32:03.702Z",
       "error": null
     },
     "gp-RKy9lcp2-tJU": {
@@ -1133,7 +1225,7 @@
         -73.33872339999999
       ],
       "shows": [],
-      "scrapedAt": "2026-06-08T18:47:27.250Z",
+      "scrapedAt": "2026-06-09T09:32:09.761Z",
       "error": null
     },
     "gp-RlIIomuKFEb8": {
@@ -1146,7 +1238,7 @@
         -73.73609189999999
       ],
       "shows": [],
-      "scrapedAt": "2026-06-08T18:48:02.631Z",
+      "scrapedAt": "2026-06-09T09:33:20.904Z",
       "error": null
     },
     "gp-RdOVvhkVJd4A": {
@@ -1159,7 +1251,7 @@
         -73.0219261
       ],
       "shows": [],
-      "scrapedAt": "2026-06-08T18:48:12.180Z",
+      "scrapedAt": "2026-06-09T09:33:28.220Z",
       "error": null
     },
     "gp-RNojI3z_v1wQ": {
@@ -1172,20 +1264,7 @@
         -73.4460003
       ],
       "shows": [],
-      "scrapedAt": "2026-06-08T18:48:20.624Z",
-      "error": null
-    },
-    "gp-RPr_aoOa_uBQ": {
-      "id": "gp-RPr_aoOa_uBQ",
-      "name": "Cheap Shots Sports Bar & Lounge",
-      "location": "Kew Gardens Hills, NY",
-      "url": "https://www.instagram.com/cheapshotsqueens/?hl=en",
-      "coords": [
-        40.7188545,
-        -73.8136576
-      ],
-      "shows": [],
-      "scrapedAt": "2026-06-08T18:48:28.490Z",
+      "scrapedAt": "2026-06-09T09:33:34.155Z",
       "error": null
     },
     "gp-RvfGPGmdyHP4": {
@@ -1198,7 +1277,7 @@
         -73.0905422
       ],
       "shows": [],
-      "scrapedAt": "2026-06-08T18:48:39.054Z",
+      "scrapedAt": "2026-06-09T09:33:42.359Z",
       "error": null
     },
     "gp-R0J5P-a1Gdf0": {
@@ -1211,7 +1290,7 @@
         -73.43022169999999
       ],
       "shows": [],
-      "scrapedAt": "2026-06-08T18:48:45.819Z",
+      "scrapedAt": "2026-06-09T09:33:49.359Z",
       "error": null
     },
     "gp-RDWv0HGLpaYc": {
@@ -1224,7 +1303,7 @@
         -73.11967849999999
       ],
       "shows": [],
-      "scrapedAt": "2026-06-08T18:48:55.364Z",
+      "scrapedAt": "2026-06-09T09:33:55.025Z",
       "error": null
     },
     "gp-RFriA6RCV50s": {
@@ -1237,7 +1316,7 @@
         -73.3366831
       ],
       "shows": [],
-      "scrapedAt": "2026-06-08T18:49:01.584Z",
+      "scrapedAt": "2026-06-09T09:34:01.139Z",
       "error": null
     },
     "gp-REwM-4VZxTmQ": {
@@ -1250,7 +1329,7 @@
         -73.51660319999999
       ],
       "shows": [],
-      "scrapedAt": "2026-06-08T18:49:09.438Z",
+      "scrapedAt": "2026-06-09T09:34:07.778Z",
       "error": null
     },
     "gp-RytI2Nkvd4Uw": {
@@ -1263,8 +1342,8 @@
         -73.6457981
       ],
       "shows": [],
-      "scrapedAt": "2026-06-08T18:49:17.713Z",
-      "error": null
+      "scrapedAt": "2026-06-09T09:34:09.477Z",
+      "error": "Could not load any page for Dark Horse Tavern, RVC"
     },
     "gp-RGM6d09fBUHY": {
       "id": "gp-RGM6d09fBUHY",
@@ -1276,7 +1355,7 @@
         -73.5686602
       ],
       "shows": [],
-      "scrapedAt": "2026-06-08T18:49:28.628Z",
+      "scrapedAt": "2026-06-09T09:34:19.040Z",
       "error": null
     },
     "gp-RN3kH0EWhJ20": {
@@ -1289,7 +1368,7 @@
         -73.369372
       ],
       "shows": [],
-      "scrapedAt": "2026-06-08T18:49:37.478Z",
+      "scrapedAt": "2026-06-09T09:34:26.442Z",
       "error": null
     },
     "gp-R8xMnNbLxUQI": {
@@ -1302,7 +1381,7 @@
         -72.5004227
       ],
       "shows": [],
-      "scrapedAt": "2026-06-08T18:49:50.072Z",
+      "scrapedAt": "2026-06-09T09:35:03.288Z",
       "error": null
     },
     "gp-RDHxkjWw9Jz4": {
@@ -1315,8 +1394,8 @@
         -73.0200499
       ],
       "shows": [],
-      "scrapedAt": "2026-06-08T18:49:58.210Z",
-      "error": null
+      "scrapedAt": "2026-06-09T09:35:05.056Z",
+      "error": "Could not load any page for Dublin Deck Tiki Bar and Grill"
     },
     "gp-RfSCIO0Dzy0w": {
       "id": "gp-RfSCIO0Dzy0w",
@@ -1328,8 +1407,8 @@
         -73.1350403
       ],
       "shows": [],
-      "scrapedAt": "2026-06-08T18:50:05.283Z",
-      "error": null
+      "scrapedAt": "2026-06-09T09:35:06.638Z",
+      "error": "Could not load any page for Eleanors Lounge"
     },
     "gp-Rx-qc0vORGJ8": {
       "id": "gp-Rx-qc0vORGJ8",
@@ -1341,7 +1420,7 @@
         -73.7882566
       ],
       "shows": [],
-      "scrapedAt": "2026-06-08T18:50:15.604Z",
+      "scrapedAt": "2026-06-09T09:35:17.893Z",
       "error": null
     },
     "gp-R1Y0CkYuHK5g": {
@@ -1354,8 +1433,8 @@
         -72.9325911
       ],
       "shows": [],
-      "scrapedAt": "2026-06-08T18:50:25.716Z",
-      "error": null
+      "scrapedAt": "2026-06-09T09:35:19.865Z",
+      "error": "Could not load any page for Gateway Playhouse"
     },
     "gp-RnHG1XFYplB0": {
       "id": "gp-RnHG1XFYplB0",
@@ -1589,7 +1668,7 @@
           "sourceUrl": "https://www.goatonaboat.org/upcoming-events/2026/10/25/bridgehasmpton-lions-club-2026-pumpkin-carving-contest"
         }
       ],
-      "scrapedAt": "2026-06-08T19:34:53.125Z",
+      "scrapedAt": "2026-06-09T09:35:22.098Z",
       "error": null
     },
     "gp-RXHXjVn97cpM": {
@@ -1602,7 +1681,7 @@
         -73.826307
       ],
       "shows": [],
-      "scrapedAt": "2026-06-08T18:50:41.974Z",
+      "scrapedAt": "2026-06-09T09:35:28.345Z",
       "error": null
     },
     "gp-RGUEyHZd8_c4": {
@@ -1615,7 +1694,7 @@
         -73.8152595
       ],
       "shows": [],
-      "scrapedAt": "2026-06-08T18:50:51.441Z",
+      "scrapedAt": "2026-06-09T09:35:40.989Z",
       "error": null
     },
     "gp-RzQvDTKYZaIo": {
@@ -1628,19 +1707,6 @@
         -72.19034189999999
       ],
       "shows": [
-        {
-          "id": "gp-RzQvDTKYZaIo-2026-06-08-art-social-watercolor-seashell-feather-038-more",
-          "title": "ART SOCIAL: WATERCOLOR—SEASHELL, FEATHER, &#038; MORE",
-          "date": "2026-06-08",
-          "time": "6:00 PM",
-          "doors": null,
-          "ticketUrl": "https://www.guildhall.org/events/art-social-watercolor-seashell-feather-more/",
-          "imageUrl": "https://www.guildhall.org/wp-content/uploads/2026/01/Shell-and-feather.jpg",
-          "price": null,
-          "ages": null,
-          "description": "&lt;p&gt;with Dr. Quincy Egginton SOLD OUT. Please email akirwin@guildhall.org to be added to the waitlist. Enjoy the pleasure of the watercolor painting experience in the Guild Hall garden and anticipate summer on the beach. All levels of art experience are welcomed. Select a seashell and other obj",
-          "sourceUrl": "https://www.guildhall.org/events/art-social-watercolor-seashell-feather-more/"
-        },
         {
           "id": "gp-RzQvDTKYZaIo-2026-06-12-cruce-de-caminos-crossroads-a-night-of-short-plays",
           "title": "CRUCE DE CAMINOS / CROSSROADS: A NIGHT OF SHORT PLAYS",
@@ -1811,9 +1877,9 @@
           "sourceUrl": "https://www.guildhall.org/events/kidfest-mario-the-maker-magician-3/"
         },
         {
-          "id": "gp-RzQvDTKYZaIo-2026-07-02-july-4th-weekend-silent-disco-dance-party",
+          "id": "gp-RzQvDTKYZaIo-2026-07-03-july-4th-weekend-silent-disco-dance-party",
           "title": "JULY 4TH WEEKEND SILENT DISCO DANCE PARTY",
-          "date": "2026-07-02",
+          "date": "2026-07-03",
           "time": "8:00 PM",
           "doors": null,
           "ticketUrl": "https://www.guildhall.org/events/july-4th-weekend-silent-disco-dance-party/",
@@ -1837,7 +1903,7 @@
           "sourceUrl": "https://www.guildhall.org/events/on-banjo-alison-brown-friends/"
         }
       ],
-      "scrapedAt": "2026-06-08T18:50:54.289Z",
+      "scrapedAt": "2026-06-09T09:35:43.824Z",
       "error": null
     },
     "gp-RjMWpVub1jGU": {
@@ -1850,7 +1916,7 @@
         -72.60874120000001
       ],
       "shows": [],
-      "scrapedAt": "2026-06-08T18:51:02.435Z",
+      "scrapedAt": "2026-06-09T09:35:51.312Z",
       "error": null
     },
     "gp-R905wyCfP6lg": {
@@ -1863,7 +1929,7 @@
         -73.4617559
       ],
       "shows": [],
-      "scrapedAt": "2026-06-08T18:51:11.076Z",
+      "scrapedAt": "2026-06-09T09:35:58.886Z",
       "error": null
     },
     "gp-RNVWCBc7bqkU": {
@@ -1876,7 +1942,7 @@
         -73.5047846
       ],
       "shows": [],
-      "scrapedAt": "2026-06-08T18:51:22.830Z",
+      "scrapedAt": "2026-06-09T09:36:08.276Z",
       "error": null
     },
     "gp-RkWAO8bJJPtA": {
@@ -1929,9 +1995,9 @@
           "sourceUrl": "https://www.landmarkonmainstreet.org/event/rock-the-fourth/"
         },
         {
-          "id": "gp-RkWAO8bJJPtA-2026-07-18-g-love-8211-lemonade-20th-anniversary-tour",
+          "id": "gp-RkWAO8bJJPtA-2026-07-19-g-love-8211-lemonade-20th-anniversary-tour",
           "title": "G. Love &#8211; Lemonade 20th Anniversary Tour",
-          "date": "2026-07-18",
+          "date": "2026-07-19",
           "time": "8:00 PM",
           "doors": null,
           "ticketUrl": "https://www.landmarkonmainstreet.org/event/g-love-lemonade-20th-anniversary-tour/",
@@ -1942,9 +2008,9 @@
           "sourceUrl": "https://www.landmarkonmainstreet.org/event/g-love-lemonade-20th-anniversary-tour/"
         },
         {
-          "id": "gp-RkWAO8bJJPtA-2026-07-25-an-evening-with-patty-griffin-special-guest-lucy-wainwright-",
+          "id": "gp-RkWAO8bJJPtA-2026-07-26-an-evening-with-patty-griffin-special-guest-lucy-wainwright-",
           "title": "An Evening with Patty Griffin | Special Guest Lucy Wainwright Roche",
-          "date": "2026-07-25",
+          "date": "2026-07-26",
           "time": "8:00 PM",
           "doors": null,
           "ticketUrl": "https://www.landmarkonmainstreet.org/event/an-evening-with-patty-griffin/",
@@ -1955,9 +2021,9 @@
           "sourceUrl": "https://www.landmarkonmainstreet.org/event/an-evening-with-patty-griffin/"
         },
         {
-          "id": "gp-RkWAO8bJJPtA-2026-10-10-five-for-fighting",
+          "id": "gp-RkWAO8bJJPtA-2026-10-11-five-for-fighting",
           "title": "Five for Fighting",
-          "date": "2026-10-10",
+          "date": "2026-10-11",
           "time": "8:00 PM",
           "doors": null,
           "ticketUrl": "https://www.landmarkonmainstreet.org/event/five-for-fighting/",
@@ -1981,7 +2047,7 @@
           "sourceUrl": "https://www.landmarkonmainstreet.org/event/daniel-donato-cosmic-country/"
         }
       ],
-      "scrapedAt": "2026-06-08T18:51:24.748Z",
+      "scrapedAt": "2026-06-09T09:36:10.276Z",
       "error": null
     },
     "gp-RlemO5hpI38s": {
@@ -1994,8 +2060,8 @@
         -73.6020711
       ],
       "shows": [],
-      "scrapedAt": "2026-06-08T18:51:30.811Z",
-      "error": null
+      "scrapedAt": "2026-06-09T09:36:12.182Z",
+      "error": "Could not load any page for Joan and Donald Schaeffer Black Box Theater"
     },
     "gp-Rj12H5uoF0JU": {
       "id": "gp-Rj12H5uoF0JU",
@@ -2007,7 +2073,7 @@
         -73.6007261
       ],
       "shows": [],
-      "scrapedAt": "2026-06-08T18:51:39.187Z",
+      "scrapedAt": "2026-06-09T09:36:26.792Z",
       "error": null
     },
     "gp-Rq8TbDjNMI90": {
@@ -2020,7 +2086,7 @@
         -73.34662569999999
       ],
       "shows": [],
-      "scrapedAt": "2026-06-08T18:51:48.913Z",
+      "scrapedAt": "2026-06-09T09:36:34.902Z",
       "error": null
     },
     "gp-Rv-A4gnJvRG0": {
@@ -2033,7 +2099,7 @@
         -73.8041667
       ],
       "shows": [],
-      "scrapedAt": "2026-06-08T18:51:58.019Z",
+      "scrapedAt": "2026-06-09T09:36:40.426Z",
       "error": null
     },
     "gp-RrEgrOH9iF1c": {
@@ -2046,7 +2112,7 @@
         -73.1997222
       ],
       "shows": [],
-      "scrapedAt": "2026-06-08T18:52:06.755Z",
+      "scrapedAt": "2026-06-09T09:36:48.496Z",
       "error": null
     },
     "gp-RtM9cjaDrqg0": {
@@ -2059,7 +2125,7 @@
         -72.38938759999999
       ],
       "shows": [],
-      "scrapedAt": "2026-06-08T18:52:14.812Z",
+      "scrapedAt": "2026-06-09T09:36:55.906Z",
       "error": null
     },
     "gp-RhUx792Wd48w": {
@@ -2072,7 +2138,7 @@
         -73.8194013
       ],
       "shows": [],
-      "scrapedAt": "2026-06-08T18:52:24.792Z",
+      "scrapedAt": "2026-06-09T09:37:01.718Z",
       "error": null
     },
     "gp-R6y9ID3AhDCM": {
@@ -2085,7 +2151,7 @@
         -73.2276615
       ],
       "shows": [],
-      "scrapedAt": "2026-06-08T18:52:32.140Z",
+      "scrapedAt": "2026-06-09T09:37:08.261Z",
       "error": null
     },
     "gp-R-GS0tjWk5Wc": {
@@ -2098,20 +2164,7 @@
         -73.8156561
       ],
       "shows": [],
-      "scrapedAt": "2026-06-08T18:52:41.414Z",
-      "error": null
-    },
-    "gp-RXgRP2ZVwJhw": {
-      "id": "gp-RXgRP2ZVwJhw",
-      "name": "La Cabaña Restaurant & Lounge",
-      "location": "Brentwood, NY",
-      "url": "https://www.facebook.com/lacabanarest/",
-      "coords": [
-        40.7840509,
-        -73.2322669
-      ],
-      "shows": [],
-      "scrapedAt": "2026-06-08T18:52:50.606Z",
+      "scrapedAt": "2026-06-09T09:37:15.118Z",
       "error": null
     },
     "gp-RO3Km8DCZytA": {
@@ -2124,7 +2177,7 @@
         -73.66288759999999
       ],
       "shows": [],
-      "scrapedAt": "2026-06-08T18:53:03.194Z",
+      "scrapedAt": "2026-06-09T09:37:21.068Z",
       "error": null
     },
     "gp-RCpc5jJ-HWJI": {
@@ -2137,7 +2190,7 @@
         -73.11222719999999
       ],
       "shows": [],
-      "scrapedAt": "2026-06-08T18:53:09.960Z",
+      "scrapedAt": "2026-06-09T09:37:31.108Z",
       "error": null
     },
     "gp-RCbIpRU7yyT0": {
@@ -2346,7 +2399,7 @@
           "sourceUrl": "https://www.lilyflanaganspub.com/musicevents/2026/8/29/saturday-night-dj-jeff"
         }
       ],
-      "scrapedAt": "2026-06-08T19:35:16.833Z",
+      "scrapedAt": "2026-06-09T09:37:32.930Z",
       "error": null
     },
     "gp-R0fSHmAXOsFU": {
@@ -2359,7 +2412,7 @@
         -73.295793
       ],
       "shows": [],
-      "scrapedAt": "2026-06-08T18:53:31.897Z",
+      "scrapedAt": "2026-06-09T09:37:38.869Z",
       "error": null
     },
     "gp-Rt2CLAmdEG3w": {
@@ -2372,7 +2425,7 @@
         -73.7950129
       ],
       "shows": [],
-      "scrapedAt": "2026-06-08T18:53:43.701Z",
+      "scrapedAt": "2026-06-09T09:37:48.905Z",
       "error": null
     },
     "gp-RR2GVdRIr-Tg": {
@@ -2385,7 +2438,7 @@
         -73.1155958
       ],
       "shows": [],
-      "scrapedAt": "2026-06-08T18:53:54.251Z",
+      "scrapedAt": "2026-06-09T09:37:58.403Z",
       "error": null
     },
     "gp-R-stedWO8WKg": {
@@ -2398,7 +2451,7 @@
         -72.2535355
       ],
       "shows": [],
-      "scrapedAt": "2026-06-08T18:54:02.498Z",
+      "scrapedAt": "2026-06-09T09:38:06.482Z",
       "error": null
     },
     "gp-RGue9M60p5Zo": {
@@ -2411,7 +2464,7 @@
         -72.9682388
       ],
       "shows": [],
-      "scrapedAt": "2026-06-08T18:54:12.729Z",
+      "scrapedAt": "2026-06-09T09:38:15.859Z",
       "error": null
     },
     "gp-R6ZFk3ock3J0": {
@@ -2424,7 +2477,7 @@
         -73.144784
       ],
       "shows": [],
-      "scrapedAt": "2026-06-08T18:54:24.684Z",
+      "scrapedAt": "2026-06-09T09:38:26.633Z",
       "error": null
     },
     "gp-RXmu74pgXMc0": {
@@ -2437,8 +2490,8 @@
         -73.27791429999999
       ],
       "shows": [],
-      "scrapedAt": "2026-06-08T18:54:33.051Z",
-      "error": null
+      "scrapedAt": "2026-06-09T09:38:28.283Z",
+      "error": "Could not load any page for Long Island Music Festival"
     },
     "gp-RQ5mL7h-Gj_k": {
       "id": "gp-RQ5mL7h-Gj_k",
@@ -2450,7 +2503,7 @@
         -72.53477
       ],
       "shows": [],
-      "scrapedAt": "2026-06-08T18:54:43.639Z",
+      "scrapedAt": "2026-06-09T09:38:39.392Z",
       "error": null
     },
     "gp-R-xFVaXVmWZs": {
@@ -2462,204 +2515,8 @@
         40.686367,
         -73.62740149999999
       ],
-      "shows": [
-        {
-          "id": "gp-R-xFVaXVmWZs-2026-06-26-madison-8217-s-house-of-style-presents-fashion-night-out",
-          "title": "Madison&#8217;s House of Style Presents: Fashion Night Out",
-          "date": "2026-06-26",
-          "time": "7:30 PM",
-          "doors": null,
-          "ticketUrl": "https://madisontheatreny.org/event/madisons-house-of-style-presents-fashion-night-out/",
-          "imageUrl": "https://madisontheatreny.org/revamp/wp-content/uploads/2026/02/Image-Feb-23-2026-at-09_23_12-PM.jpg",
-          "price": null,
-          "ages": null,
-          "description": null,
-          "sourceUrl": "https://madisontheatreny.org/event/madisons-house-of-style-presents-fashion-night-out/"
-        },
-        {
-          "id": "gp-R-xFVaXVmWZs-2026-06-28-gilbert-038-sullivan-8217-s-light-opera-yeomen-of-the-guard",
-          "title": "Gilbert &#038; Sullivan&#8217;s Light Opera: Yeomen of the Guard.",
-          "date": "2026-06-28",
-          "time": "3:00 PM",
-          "doors": null,
-          "ticketUrl": "https://madisontheatreny.org/event/gilbert-sullivans-light-opera-yeomen-of-the-guard/",
-          "imageUrl": "https://madisontheatreny.org/revamp/wp-content/uploads/2026/02/yeomen-th.jpg",
-          "price": null,
-          "ages": null,
-          "description": "&lt;p&gt;The Tower of London during the reign of Henry VIII is the dramatic setting for this story of love, loss and rediscovery. The handsome young soldier Colonel Fairfax, unjustly sentenced&hellip; &lt;a href=&quot;https://madisontheatreny.org/event/gilbert-sullivans-light-opera-yeomen-of-the-gua",
-          "sourceUrl": "https://madisontheatreny.org/event/gilbert-sullivans-light-opera-yeomen-of-the-guard/"
-        },
-        {
-          "id": "gp-R-xFVaXVmWZs-2026-07-10-joseph-and-the-amazing-technicolor-dreamcoat",
-          "title": "Joseph and the Amazing Technicolor Dreamcoat",
-          "date": "2026-07-10",
-          "time": "7:00 PM",
-          "doors": null,
-          "ticketUrl": "https://madisontheatreny.org/event/joseph-and-the-amazing-technicolor-dreamcoat/",
-          "imageUrl": "https://madisontheatreny.org/revamp/wp-content/uploads/2025/11/Joseph-th-2.jpg",
-          "price": null,
-          "ages": null,
-          "description": "&lt;p&gt;“Sha la la, Joseph, you’re doing fine! You and your dreamcoat, ahead of your time!” One of the most enduring shows of all time, Joseph and the Amazing Technicolor Dreamcoat is&hellip; &lt;a href=&quot;https://madisontheatreny.org/event/joseph-and-the-amazing-technicolor-dreamcoat/&quot; cla",
-          "sourceUrl": "https://madisontheatreny.org/event/joseph-and-the-amazing-technicolor-dreamcoat/"
-        },
-        {
-          "id": "gp-R-xFVaXVmWZs-2026-07-23-mom-8217-s-night-out-2026",
-          "title": "Mom&#8217;s Night Out 2026",
-          "date": "2026-07-23",
-          "time": "8:00 PM",
-          "doors": null,
-          "ticketUrl": "https://madisontheatreny.org/event/moms-night-out-2026/",
-          "imageUrl": "https://madisontheatreny.org/revamp/wp-content/uploads/2026/02/moms-night-out-th.png",
-          "price": null,
-          "ages": null,
-          "description": "&lt;p&gt;Ellen Karis NYC Comedy Scene; Greek Goddess of Comedy; Headliner &nbsp; Maria Walsh &quot;America\\'s Naughtiest Mommy&quot; National headliner &nbsp; Kerri Louise America\\'s Got Talent; Last Comic Standing; National Headliner &nbsp;&hellip; &lt;a href=&quot;https://madisontheatreny.org/even",
-          "sourceUrl": "https://madisontheatreny.org/event/moms-night-out-2026/"
-        },
-        {
-          "id": "gp-R-xFVaXVmWZs-2026-07-30-the-breakers-tribute-to-tom-petty-038-the-heartbreakers",
-          "title": "The Breakers: Tribute to Tom Petty &#038; The Heartbreakers",
-          "date": "2026-07-30",
-          "time": "8:00 PM",
-          "doors": null,
-          "ticketUrl": "https://madisontheatreny.org/event/the-breakers-tribute-to-tom-petty-the-heartbreakers/",
-          "imageUrl": "https://madisontheatreny.org/revamp/wp-content/uploads/2026/01/the_breakers-th.jpg",
-          "price": null,
-          "ages": null,
-          "description": "&lt;p&gt;The country\\'s premier Tom Petty &amp; the Heartbreakers tribute band. Established to let the fans of the late great Tom Petty continue to enjoy the live experience of TP &amp;&hellip; &lt;a href=&quot;https://madisontheatreny.org/event/the-breakers-tribute-to-tom-petty-the-heartbreakers/&q",
-          "sourceUrl": "https://madisontheatreny.org/event/the-breakers-tribute-to-tom-petty-the-heartbreakers/"
-        },
-        {
-          "id": "gp-R-xFVaXVmWZs-2026-08-21-the-world-famous-glenn-miller-orchestra",
-          "title": "The World Famous Glenn Miller Orchestra",
-          "date": "2026-08-21",
-          "time": "7:00 PM",
-          "doors": null,
-          "ticketUrl": "https://madisontheatreny.org/event/the-world-famous-glenn-miller-orchestra/",
-          "imageUrl": "https://madisontheatreny.org/revamp/wp-content/uploads/2026/05/GMO-th.jpg",
-          "price": null,
-          "ages": null,
-          "description": "&lt;p&gt;&quot;In The Mood” for swing music? Take a step back in time with the most popular and sought after big band of all time! The World-Famous Glenn Miller Orchestra will&hellip; &lt;a href=&quot;https://madisontheatreny.org/event/the-world-famous-glenn-miller-orchestra/&quot; class=&quot;read-",
-          "sourceUrl": "https://madisontheatreny.org/event/the-world-famous-glenn-miller-orchestra/"
-        },
-        {
-          "id": "gp-R-xFVaXVmWZs-2026-09-19-battle-of-the-decades",
-          "title": "Battle of the Decades",
-          "date": "2026-09-19",
-          "time": "7:30 PM",
-          "doors": null,
-          "ticketUrl": "https://madisontheatreny.org/event/battle-of-the-decades/",
-          "imageUrl": "https://madisontheatreny.org/revamp/wp-content/uploads/2026/04/Battle-of-the-Decades-th.jpg",
-          "price": null,
-          "ages": null,
-          "description": "&lt;p&gt;About The Concert Get ready for the ultimate throwback showdown as decades collide at Battle of the Decades. A high-energy tribute to themusic that defined the 70’s, 80’s, and 90’s!&hellip; &lt;a href=&quot;https://madisontheatreny.org/event/battle-of-the-decades/&quot; class=&quot;read-mor",
-          "sourceUrl": "https://madisontheatreny.org/event/battle-of-the-decades/"
-        },
-        {
-          "id": "gp-R-xFVaXVmWZs-2026-09-26-richard-elliot",
-          "title": "Richard Elliot",
-          "date": "2026-09-26",
-          "time": "8:00 PM",
-          "doors": null,
-          "ticketUrl": "https://madisontheatreny.org/event/richard-elliot/",
-          "imageUrl": "https://madisontheatreny.org/revamp/wp-content/uploads/2026/04/Richard-Elliott-th.jpg",
-          "price": null,
-          "ages": null,
-          "description": "&lt;p&gt;CHART-TOPPING GRAMMY-NOMINATED CONTEMPORARY JAZZ PIONEER RICHARD ELLIOT DELIVERS NEW MUSIC FROM THE HEART AND IT’S STRAIGHT UP DOWN HIS BEST YET Nine-Track Voyage Unites Elliot with All-Star Unit Including Labelmates&hellip; &lt;a href=&quot;https://madisontheatreny.org/event/richard-elliot",
-          "sourceUrl": "https://madisontheatreny.org/event/richard-elliot/"
-        },
-        {
-          "id": "gp-R-xFVaXVmWZs-2026-10-03-zeppelin-reimagined",
-          "title": "ZEPPELIN REIMAGINED",
-          "date": "2026-10-03",
-          "time": "8:00 PM",
-          "doors": null,
-          "ticketUrl": "https://madisontheatreny.org/event/zeppelin-reimagined/",
-          "imageUrl": "https://madisontheatreny.org/revamp/wp-content/uploads/2026/01/zepplin-th.jpg",
-          "price": null,
-          "ages": null,
-          "description": "&lt;p&gt;ZEPPELIN REIMAGINED by Magical Mystery Doors Zeppelin Reimagined is not just another Led Zeppelin tribute band. They are a groundbreaking experience that merges the timeless power of classic rock with&hellip; &lt;a href=&quot;https://madisontheatreny.org/event/zeppelin-reimagined/&quot; cla",
-          "sourceUrl": "https://madisontheatreny.org/event/zeppelin-reimagined/"
-        },
-        {
-          "id": "gp-R-xFVaXVmWZs-2026-10-04-give-our-regards-to-broadway-a-nbsp-salute-to-the-21st-centu",
-          "title": "Give our Regards to Broadway, A&nbsp;Salute to the 21st Century Musical",
-          "date": "2026-10-04",
-          "time": "3:00 PM",
-          "doors": null,
-          "ticketUrl": "https://madisontheatreny.org/event/give-our-regards-to-broadway-a-salute-to-the-21st-century-musical/",
-          "imageUrl": "https://madisontheatreny.org/revamp/wp-content/uploads/2025/06/give-our-regards-th.jpg",
-          "price": null,
-          "ages": null,
-          "description": "&lt;p&gt;Give our Regards to Broadway, A Salute to the 21st Century Musical With the South Shore Symphony &nbsp;&lt;/p&gt;\\n",
-          "sourceUrl": "https://madisontheatreny.org/event/give-our-regards-to-broadway-a-salute-to-the-21st-century-musical/"
-        },
-        {
-          "id": "gp-R-xFVaXVmWZs-2026-10-23-sweeney-todd-the-demon-barber-of-fleet-street",
-          "title": "Sweeney Todd: The Demon Barber of Fleet Street",
-          "date": "2026-10-23",
-          "time": "8:00 PM",
-          "doors": null,
-          "ticketUrl": "https://madisontheatreny.org/event/sweeney-todd-the-demon-barber-of-fleet-street/",
-          "imageUrl": "https://madisontheatreny.org/revamp/wp-content/uploads/2026/03/Sweeney-Todd-Poster.png",
-          "price": null,
-          "ages": null,
-          "description": "&lt;p&gt;An indisputable masterpiece by Broadway legend Stephen Sondheim, Sweeney Todd: The Demon Barber of Fleet Street is a gripping musical thriller that will leave your heart pounding. Filled with razor-sharp wit,&hellip; &lt;a href=&quot;https://madisontheatreny.org/event/sweeney-todd-the-demon",
-          "sourceUrl": "https://madisontheatreny.org/event/sweeney-todd-the-demon-barber-of-fleet-street/"
-        },
-        {
-          "id": "gp-R-xFVaXVmWZs-2026-10-30-the-south-shore-symphony-halloween-spooktacular",
-          "title": "The South Shore Symphony – Halloween Spooktacular",
-          "date": "2026-10-30",
-          "time": "7:30 PM",
-          "doors": null,
-          "ticketUrl": "https://madisontheatreny.org/event/the-south-shore-symphony-halloween-spooktacular-2026/",
-          "imageUrl": "https://madisontheatreny.org/revamp/wp-content/uploads/2025/06/SSS.png",
-          "price": null,
-          "ages": null,
-          "description": null,
-          "sourceUrl": "https://madisontheatreny.org/event/the-south-shore-symphony-halloween-spooktacular-2026/"
-        },
-        {
-          "id": "gp-R-xFVaXVmWZs-2026-11-20-rodgers-and-hammerstein-s-oklahoma",
-          "title": "Rodgers and Hammerstein’s Oklahoma!",
-          "date": "2026-11-20",
-          "time": "8:00 PM",
-          "doors": null,
-          "ticketUrl": "https://madisontheatreny.org/event/rodgers-and-hammersteins-oklahoma/",
-          "imageUrl": "https://madisontheatreny.org/revamp/wp-content/uploads/2026/03/OklahomaPoster-scaled.jpg",
-          "price": null,
-          "ages": null,
-          "description": "&lt;p&gt;One of the most beloved American musicals, Rodgers &amp; Hammerstein’s Oklahoma! tells the story of Curly, a confident cowboy, and Laurey, a spirited farm girl, as they navigate pride, romance, and&hellip; &lt;a href=&quot;https://madisontheatreny.org/event/rodgers-and-hammersteins-oklahoma",
-          "sourceUrl": "https://madisontheatreny.org/event/rodgers-and-hammersteins-oklahoma/"
-        },
-        {
-          "id": "gp-R-xFVaXVmWZs-2026-11-27-an-evening-with-vincent-ingala",
-          "title": "An Evening with Vincent Ingala",
-          "date": "2026-11-27",
-          "time": "8:00 PM",
-          "doors": null,
-          "ticketUrl": "https://madisontheatreny.org/event/an-evening-with-vincent-ingala-2026/",
-          "imageUrl": "https://madisontheatreny.org/revamp/wp-content/uploads/2025/02/VincentIngala-th.jpg",
-          "price": null,
-          "ages": null,
-          "description": "&lt;p&gt;A night of soulful saxophone and funky grooves from contemporary jazz saxophonist/multi-instrumentalist, Vincent Ingala and his electrifying band! Declared by Jazziz Magazine as “one of the most exciting artists to&hellip; &lt;a href=&quot;https://madisontheatreny.org/event/an-evening-with-",
-          "sourceUrl": "https://madisontheatreny.org/event/an-evening-with-vincent-ingala-2026/"
-        },
-        {
-          "id": "gp-R-xFVaXVmWZs-2026-11-28-we-three-kings-the-irish-dance-christmas-sensation",
-          "title": "We Three Kings The Irish Dance Christmas Sensation",
-          "date": "2026-11-28",
-          "time": "7:00 PM",
-          "doors": null,
-          "ticketUrl": "https://madisontheatreny.org/event/we-three-kings-the-irish-dance-christmas-sensation/",
-          "imageUrl": "https://madisontheatreny.org/revamp/wp-content/uploads/2026/04/WTKS-Show-th.jpg",
-          "price": null,
-          "ages": null,
-          "description": "&lt;p&gt;Experience the new magical Holiday spectacular, We Three Kings, The Irish Dance Christmas Sensation. We Three Kings, The Irish Dance Christmas Sensation takes the audience on an epic adventure inspired&hellip; &lt;a href=&quot;https://madisontheatreny.org/event/we-three-kings-the-irish-danc",
-          "sourceUrl": "https://madisontheatreny.org/event/we-three-kings-the-irish-dance-christmas-sensation/"
-        }
-      ],
-      "scrapedAt": "2026-06-08T18:54:46.322Z",
+      "shows": [],
+      "scrapedAt": "2026-06-09T09:38:44.827Z",
       "error": null
     },
     "gp-R7rdRjJMbdyA": {
@@ -2672,7 +2529,7 @@
         -73.2840216
       ],
       "shows": [],
-      "scrapedAt": "2026-06-08T18:54:58.462Z",
+      "scrapedAt": "2026-06-09T09:38:54.088Z",
       "error": null
     },
     "gp-RR5EaXRhhSYQ": {
@@ -2685,7 +2542,7 @@
         -73.55017840000001
       ],
       "shows": [],
-      "scrapedAt": "2026-06-08T18:55:07.535Z",
+      "scrapedAt": "2026-06-09T09:39:01.473Z",
       "error": null
     },
     "gp-RvBRP5klcaUA": {
@@ -2699,9 +2556,9 @@
       ],
       "shows": [
         {
-          "id": "gp-RvBRP5klcaUA-2026-06-12-jd-leonard",
+          "id": "gp-RvBRP5klcaUA-2026-06-13-jd-leonard",
           "title": "JD Leonard",
-          "date": "2026-06-12",
+          "date": "2026-06-13",
           "time": "8:00 PM",
           "doors": null,
           "ticketUrl": "https://dice.fm/event/dkp6kg-jd-leonard-12th-jun-mike-delguidices-live-on-the-porch-smithtown-tickets",
@@ -2725,9 +2582,9 @@
           "sourceUrl": "https://liveontheporch.com/events"
         },
         {
-          "id": "gp-RvBRP5klcaUA-2026-06-24-mike-delguidice-and-the-cans-band",
+          "id": "gp-RvBRP5klcaUA-2026-06-25-mike-delguidice-and-the-cans-band",
           "title": "Mike DelGuidice and the Cans Band",
-          "date": "2026-06-24",
+          "date": "2026-06-25",
           "time": "8:00 PM",
           "doors": null,
           "ticketUrl": "https://dice.fm/event/6dand7-mike-delguidice-and-the-cans-band-24th-jun-mike-delguidices-live-on-the-porch-smithtown-tickets",
@@ -2738,7 +2595,7 @@
           "sourceUrl": "https://liveontheporch.com/events"
         }
       ],
-      "scrapedAt": "2026-06-08T18:55:09.250Z",
+      "scrapedAt": "2026-06-09T09:39:03.143Z",
       "error": null
     },
     "gp-RqpyaLPUtd98": {
@@ -2751,7 +2608,7 @@
         -73.79475339999999
       ],
       "shows": [],
-      "scrapedAt": "2026-06-08T18:55:21.141Z",
+      "scrapedAt": "2026-06-09T09:39:15.260Z",
       "error": null
     },
     "gp-RhsLrbtdvDxg": {
@@ -2764,7 +2621,7 @@
         -73.48753909999999
       ],
       "shows": [],
-      "scrapedAt": "2026-06-08T18:55:29.030Z",
+      "scrapedAt": "2026-06-09T09:39:21.694Z",
       "error": null
     },
     "gp-RPRGq2Zunloo": {
@@ -2777,7 +2634,7 @@
         -72.66187810000001
       ],
       "shows": [],
-      "scrapedAt": "2026-06-08T18:55:35.767Z",
+      "scrapedAt": "2026-06-09T09:39:28.256Z",
       "error": null
     },
     "gp-Rd5KA853eGSQ": {
@@ -3025,7 +2882,7 @@
           "sourceUrl": "https://www.mfpproductions.com/event-details-registration/moving-pictures"
         }
       ],
-      "scrapedAt": "2026-06-08T19:26:05.780Z",
+      "scrapedAt": "2026-06-09T09:39:39.511Z",
       "error": null
     },
     "gp-RpbM-AINDb7U": {
@@ -3038,7 +2895,7 @@
         -73.4454744
       ],
       "shows": [],
-      "scrapedAt": "2026-06-08T18:56:01.416Z",
+      "scrapedAt": "2026-06-09T09:39:49.178Z",
       "error": null
     },
     "gp-RdMbuhJcf-Kw": {
@@ -3051,7 +2908,7 @@
         -73.8100746
       ],
       "shows": [],
-      "scrapedAt": "2026-06-08T18:56:09.665Z",
+      "scrapedAt": "2026-06-09T09:39:57.276Z",
       "error": null
     },
     "gp-RCea6aoH5QYg": {
@@ -3064,7 +2921,7 @@
         -73.3021673
       ],
       "shows": [],
-      "scrapedAt": "2026-06-08T18:56:19.978Z",
+      "scrapedAt": "2026-06-09T09:40:03.309Z",
       "error": null
     },
     "gp-RBQeysFZdimQ": {
@@ -3077,7 +2934,7 @@
         -73.8122027
       ],
       "shows": [],
-      "scrapedAt": "2026-06-08T18:56:30.788Z",
+      "scrapedAt": "2026-06-09T09:40:08.939Z",
       "error": null
     },
     "gp-RkF9RyBd9J2Y": {
@@ -3090,7 +2947,7 @@
         -73.1237477
       ],
       "shows": [],
-      "scrapedAt": "2026-06-08T18:56:42.317Z",
+      "scrapedAt": "2026-06-09T09:40:16.438Z",
       "error": null
     },
     "gp-R6JyfEPlAbXA": {
@@ -3103,7 +2960,7 @@
         -73.0134775
       ],
       "shows": [],
-      "scrapedAt": "2026-06-08T18:56:52.930Z",
+      "scrapedAt": "2026-06-09T09:40:22.684Z",
       "error": null
     },
     "gp-RmMhsyFuB4b4": {
@@ -3116,8 +2973,8 @@
         -73.11959399999999
       ],
       "shows": [],
-      "scrapedAt": "2026-06-08T18:57:00.343Z",
-      "error": null
+      "scrapedAt": "2026-06-09T09:40:24.348Z",
+      "error": "Could not load any page for PropRentalsNY.com"
     },
     "gp-RcszHG3nOdO8": {
       "id": "gp-RcszHG3nOdO8",
@@ -3129,7 +2986,7 @@
         -73.75562459999999
       ],
       "shows": [],
-      "scrapedAt": "2026-06-08T18:57:08.067Z",
+      "scrapedAt": "2026-06-09T09:40:33.303Z",
       "error": null
     },
     "gp-RpuqVmVHjcz8": {
@@ -3142,7 +2999,7 @@
         -73.5503095
       ],
       "shows": [],
-      "scrapedAt": "2026-06-08T18:57:17.694Z",
+      "scrapedAt": "2026-06-09T09:40:41.884Z",
       "error": null
     },
     "gp-R6NkXFDhM6M4": {
@@ -3155,7 +3012,7 @@
         -73.4269644
       ],
       "shows": [],
-      "scrapedAt": "2026-06-08T18:57:24.338Z",
+      "scrapedAt": "2026-06-09T09:41:18.795Z",
       "error": null
     },
     "gp-RzmSNc7-Eatk": {
@@ -3168,7 +3025,7 @@
         -73.0676936
       ],
       "shows": [],
-      "scrapedAt": "2026-06-08T18:57:37.392Z",
+      "scrapedAt": "2026-06-09T09:41:34.390Z",
       "error": null
     },
     "gp-RmqJK869P134": {
@@ -3181,8 +3038,8 @@
         -73.52522080000001
       ],
       "shows": [],
-      "scrapedAt": "2026-06-08T18:57:46.188Z",
-      "error": null
+      "scrapedAt": "2026-06-09T09:41:36.079Z",
+      "error": "Could not load any page for Sakura"
     },
     "gp-R4S89DMabsTs": {
       "id": "gp-R4S89DMabsTs",
@@ -3194,7 +3051,7 @@
         -73.3421237
       ],
       "shows": [],
-      "scrapedAt": "2026-06-08T18:57:53.325Z",
+      "scrapedAt": "2026-06-09T09:41:42.293Z",
       "error": null
     },
     "gp-RhAPsTrp7Rag": {
@@ -3207,7 +3064,7 @@
         -73.2595236
       ],
       "shows": [],
-      "scrapedAt": "2026-06-08T18:58:01.214Z",
+      "scrapedAt": "2026-06-09T09:41:49.017Z",
       "error": null
     },
     "gp-R6FMboYn5k_o": {
@@ -3220,7 +3077,7 @@
         -72.92300209999999
       ],
       "shows": [],
-      "scrapedAt": "2026-06-08T18:58:16.236Z",
+      "scrapedAt": "2026-06-09T09:42:01.970Z",
       "error": null
     },
     "gp-RmCFYEJ95-YE": {
@@ -3233,7 +3090,7 @@
         -73.1855241
       ],
       "shows": [],
-      "scrapedAt": "2026-06-08T18:58:22.914Z",
+      "scrapedAt": "2026-06-09T09:42:09.087Z",
       "error": null
     },
     "gp-RvkyM2ISnUzQ": {
@@ -3246,7 +3103,7 @@
         -73.0585004
       ],
       "shows": [],
-      "scrapedAt": "2026-06-08T18:58:31.686Z",
+      "scrapedAt": "2026-06-09T09:42:17.938Z",
       "error": null
     },
     "gp-RO0spNmQU8Vw": {
@@ -3299,7 +3156,7 @@
           "sourceUrl": "https://www.sjjcc.org/events"
         }
       ],
-      "scrapedAt": "2026-06-08T18:58:37.076Z",
+      "scrapedAt": "2026-06-09T09:42:22.205Z",
       "error": null
     },
     "gp-RGwfGhiXNa8w": {
@@ -3312,8 +3169,8 @@
         -73.1940995
       ],
       "shows": [],
-      "scrapedAt": "2026-06-08T18:58:45.243Z",
-      "error": null
+      "scrapedAt": "2026-06-09T09:42:23.958Z",
+      "error": "Could not load any page for Smithtown Performing Arts Center"
     },
     "gp-R8hy8k-bf3ls": {
       "id": "gp-R8hy8k-bf3ls",
@@ -3325,7 +3182,7 @@
         -73.7016271
       ],
       "shows": [],
-      "scrapedAt": "2026-06-08T18:58:50.957Z",
+      "scrapedAt": "2026-06-09T09:42:29.759Z",
       "error": null
     },
     "gp-RvoTnuTfpOII": {
@@ -3338,7 +3195,7 @@
         -73.373475
       ],
       "shows": [],
-      "scrapedAt": "2026-06-08T18:58:59.835Z",
+      "scrapedAt": "2026-06-09T09:43:07.001Z",
       "error": null
     },
     "gp-RKUEryffCTGw": {
@@ -3351,20 +3208,7 @@
         -72.3944794
       ],
       "shows": [],
-      "scrapedAt": "2026-06-08T18:59:13.794Z",
-      "error": null
-    },
-    "gp-Rv6hy2emZdkI": {
-      "id": "gp-Rv6hy2emZdkI",
-      "name": "Space Hookah Lounge",
-      "location": "Smithtown, NY",
-      "url": "https://www.instagram.com/spaceloungesmithtown?igsh=MTl0bTE0cDcycWY5dw==",
-      "coords": [
-        40.858201300000005,
-        -73.210055
-      ],
-      "shows": [],
-      "scrapedAt": "2026-06-08T18:59:20.864Z",
+      "scrapedAt": "2026-06-09T09:43:43.889Z",
       "error": null
     },
     "gp-RGCLiR8TB0yA": {
@@ -3377,7 +3221,7 @@
         -73.5820633
       ],
       "shows": [],
-      "scrapedAt": "2026-06-08T18:59:28.660Z",
+      "scrapedAt": "2026-06-09T09:43:55.789Z",
       "error": null
     },
     "gp-R-Z0dkyKGgw0": {
@@ -3390,20 +3234,7 @@
         -72.95408479999999
       ],
       "shows": [],
-      "scrapedAt": "2026-06-08T18:59:38.430Z",
-      "error": null
-    },
-    "gp-ROhQaArvJEas": {
-      "id": "gp-ROhQaArvJEas",
-      "name": "Spotlight Theatre Group",
-      "location": "Riverhead, NY",
-      "url": "https://www.facebook.com/spotlighteastend?rdid=VOLVZLmIEVp6zAzx&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1MbPMbNGeK%2F",
-      "coords": [
-        40.9165661,
-        -72.6623747
-      ],
-      "shows": [],
-      "scrapedAt": "2026-06-08T18:59:47.062Z",
+      "scrapedAt": "2026-06-09T09:44:07.596Z",
       "error": null
     },
     "gp-RgQg3TEV7Vrs": {
@@ -3677,7 +3508,7 @@
           "sourceUrl": "https://www.stallercenter.com/Calendar.php"
         }
       ],
-      "scrapedAt": "2026-06-08T18:59:59.129Z",
+      "scrapedAt": "2026-06-09T09:44:17.616Z",
       "error": null
     },
     "gp-RyaoSgmSMaww": {
@@ -3690,7 +3521,7 @@
         -73.3731591
       ],
       "shows": [],
-      "scrapedAt": "2026-06-08T19:00:18.098Z",
+      "scrapedAt": "2026-06-09T09:44:24.843Z",
       "error": null
     },
     "gp-RigbK_r7FH0g": {
@@ -3703,8 +3534,8 @@
         -73.3033343
       ],
       "shows": [],
-      "scrapedAt": "2026-06-08T19:00:24.058Z",
-      "error": null
+      "scrapedAt": "2026-06-09T09:44:26.807Z",
+      "error": "Could not load any page for SYJCC"
     },
     "gp-RRTHFTRM7C2Y": {
       "id": "gp-RRTHFTRM7C2Y",
@@ -3716,7 +3547,7 @@
         -72.3640866
       ],
       "shows": [],
-      "scrapedAt": "2026-06-08T19:00:50.492Z",
+      "scrapedAt": "2026-06-09T09:44:39.875Z",
       "error": null
     },
     "gp-RON84tLRqDCw": {
@@ -3730,9 +3561,9 @@
       ],
       "shows": [
         {
-          "id": "gp-RON84tLRqDCw-2026-06-12-strange-magic-ny",
+          "id": "gp-RON84tLRqDCw-2026-06-13-strange-magic-ny",
           "title": "Strange Magic NY",
-          "date": "2026-06-12",
+          "date": "2026-06-13",
           "time": "8:00 PM",
           "doors": null,
           "ticketUrl": null,
@@ -3743,7 +3574,7 @@
           "sourceUrl": "https://www.argyletheatre.com/event-details/strange-magic-ny"
         }
       ],
-      "scrapedAt": "2026-06-08T19:00:52.569Z",
+      "scrapedAt": "2026-06-09T09:44:43.556Z",
       "error": null
     },
     "gp-RUose06XEWcU": {
@@ -3756,7 +3587,7 @@
         -72.2443713
       ],
       "shows": [],
-      "scrapedAt": "2026-06-08T19:01:01.306Z",
+      "scrapedAt": "2026-06-09T09:44:51.781Z",
       "error": null
     },
     "gp-R7L-1vkPc_Ig": {
@@ -3769,7 +3600,7 @@
         -73.4459088
       ],
       "shows": [],
-      "scrapedAt": "2026-06-08T19:01:09.621Z",
+      "scrapedAt": "2026-06-09T09:44:59.142Z",
       "error": null
     },
     "gp-RoSFh_7smlq0": {
@@ -3782,7 +3613,7 @@
         -73.5975952
       ],
       "shows": [],
-      "scrapedAt": "2026-06-08T19:01:17.100Z",
+      "scrapedAt": "2026-06-09T09:45:06.363Z",
       "error": null
     },
     "gp-R-yPKoYbqxTE": {
@@ -3795,7 +3626,7 @@
         -73.5980719
       ],
       "shows": [],
-      "scrapedAt": "2026-06-08T19:01:22.992Z",
+      "scrapedAt": "2026-06-09T09:45:47.491Z",
       "error": null
     },
     "gp-Rh1-qn6Tfd1w": {
@@ -3807,230 +3638,8 @@
         40.659897199999996,
         -73.0900719
       ],
-      "shows": [
-        {
-          "id": "gp-Rh1-qn6Tfd1w-2026-06-13-motherdisco-summer-2026-residency-8211-june-13",
-          "title": "Motherdisco: Summer 2026 Residency &#8211; June 13",
-          "date": "2026-06-13",
-          "time": "10:00 PM",
-          "doors": null,
-          "ticketUrl": "https://redeyetickets.com/events/motherdisco",
-          "imageUrl": "https://ml9kkvouff94.i.optimole.com/w:866/h:1080/q:mauto/f:best/https://icepalace.club/wp-content/uploads/2026/03/motherdisco_summer_flyer_2026-02-25_1_1_-optimiz_7c22.webp",
-          "price": "$",
-          "ages": null,
-          "description": "Motherdisco returns to the Ice Palace this summer for five nights to remember. Born in Brooklyn in 2022, Motherdisco celebrates disco music as a source of joy, community and self expression. Join us on a hot summer night as Fire Island comes together to release tension, pour out emotion and celebrat",
-          "sourceUrl": "https://icepalace.club/events/"
-        },
-        {
-          "id": "gp-Rh1-qn6Tfd1w-2026-06-15-hedda-lettuce-live-at-the-palace",
-          "title": "Hedda Lettuce LIVE at The Palace",
-          "date": "2026-06-15",
-          "time": "8:00 PM",
-          "doors": null,
-          "ticketUrl": "https://redeyetickets.com/events/hedda-lettuce",
-          "imageUrl": "https://ml9kkvouff94.i.optimole.com/w:698/h:1080/q:mauto/f:best/https://icepalace.club/wp-content/uploads/2025/05/Hedda11x17-printing-scaled.png",
-          "price": "$",
-          "ages": null,
-          "description": "The Ice Palace presents Hedda Lettuce: Dressing on the Side, LIVE at The Palace.\r\nLive Vocals. Light Dancing!\r\n\r\nMondays at 8pm. Tickets on sale!",
-          "sourceUrl": "https://icepalace.club/events/"
-        },
-        {
-          "id": "gp-Rh1-qn6Tfd1w-2026-06-20-ultra-kiki-with-ultra-nat-038-inaya-day-8211-music-by-dj-bil",
-          "title": "ULTRA KIKI with Ultra Naté &#038; Inaya Day &#8211; Music by DJ Bill Coleman",
-          "date": "2026-06-20",
-          "time": "11:00 PM",
-          "doors": null,
-          "ticketUrl": "https://redeyetickets.com/events/ultra-kiki",
-          "imageUrl": "https://ml9kkvouff94.i.optimole.com/w:1669/h:1080/q:mauto/f:best/https://icepalace.club/wp-content/uploads/2024/03/Ice-Palace-Ultra-Kiki-6.20.26-B-11x17-1-scaled.jpg",
-          "price": "$",
-          "ages": null,
-          "description": "The Ice Palace presents\r\nULTRA KIKI with Ultra Naté &amp; Inaya Day\r\n\r\nMusic by DJ Bill Coleman\r\n\r\nSaturday June 20th 11pm\r\nJoin The Ice Palace for an electrifying late-night dance celebration featuring house music royalty Ultra Naté and powerhouse vocalist Inaya Day, with legendary DJ Bill Coleman ",
-          "sourceUrl": "https://icepalace.club/events/"
-        },
-        {
-          "id": "gp-Rh1-qn6Tfd1w-2026-06-27-frankie-sharp-8217-s-demons-8211-june-27",
-          "title": "Frankie Sharp&#8217;s DEMONS &#8211; June 27",
-          "date": "2026-06-27",
-          "time": "10:00 PM",
-          "doors": null,
-          "ticketUrl": "https://redeyetickets.com/events/frankie-sharps-demons-fire-island-residency",
-          "imageUrl": "https://ml9kkvouff94.i.optimole.com/w:863/h:1080/q:mauto/f:best/https://icepalace.club/wp-content/uploads/2024/03/frankie-sharps-demons-fire-island-residency-portrait-cover-1.png",
-          "price": "$",
-          "ages": null,
-          "description": "😈FRANKIE’S DEMONS: FIRE ISLAND EDITION🌲🦌💪🏼\r\n\r\nDowntown’s demented debaucherous club night comes to Fire Island!\r\n\r\nSATURDAYS JUNE 27 - JULY 25 - AUGUST 22 🌊\r\n\r\n11PM\r\n\r\n🚨SPECIAL MONTHLY GUESTS: TBA🌀\r\n\r\nGOGOS TO GAG ON / HOES TO HOE ON\r\n\r\nDANCEFLOORS w/ DEMONS &amp; BACKROOMS w/ DEMON DICK\r\n\r\n",
-          "sourceUrl": "https://icepalace.club/events/"
-        },
-        {
-          "id": "gp-Rh1-qn6Tfd1w-2026-07-04-alaska-thunderfuck-s-alien-invasion",
-          "title": "Alaska Thunderfuck’s Alien Invasion",
-          "date": "2026-07-04",
-          "time": "9:00 PM",
-          "doors": null,
-          "ticketUrl": "https://redeyetickets.com/events/the-ice-palace-presents-alaska-thunderfucks-alien-invasion",
-          "imageUrl": "https://ml9kkvouff94.i.optimole.com/w:782/h:1080/q:mauto/f:best/https://icepalace.club/wp-content/uploads/2026/03/Ice-Palace-Alaska-7.4.26-5x7-b.jpg",
-          "price": "$",
-          "ages": null,
-          "description": "Alaska Thunderfuck’s Alien Invasion comes to Fire Island Summer 2026! The extraterrestrial phenomenon from the planet Glamtr0n returns to The Ice Palace in Cherry Grove for her third year. She always sells out, so buy early!",
-          "sourceUrl": "https://icepalace.club/events/"
-        },
-        {
-          "id": "gp-Rh1-qn6Tfd1w-2026-07-11-the-3rd-annual-mrs-roper-romp",
-          "title": "The 3rd Annual Mrs. Roper Romp",
-          "date": "2026-07-11",
-          "time": "1:00 PM",
-          "doors": null,
-          "ticketUrl": "https://www.icepalace.club",
-          "imageUrl": "https://ml9kkvouff94.i.optimole.com/w:782/h:1080/q:mauto/f:best/https://icepalace.club/wp-content/uploads/2024/03/Ice-Palace-Roper-Romp-7.11.26-5x7-1.jpg",
-          "price": "$",
-          "ages": null,
-          "description": "The Ice Palace presents The 3rd Annual Mrs. Roper Romp - Fire Island Caftan Crawl.\r\n\r\nDJ Ana Matronic!\r\n\r\nShe's Back! Three's Company Trivia and Prizes, “STANLEY” Screaming Contest, Mrs. Roper \"SHE'S COMING\" T-Shirt Giveaway. Special \"Caftan Cosmo\" drinks!\r\n\r\nand a 3pm Mrs Roper Runway poolside and ",
-          "sourceUrl": "https://icepalace.club/events/"
-        },
-        {
-          "id": "gp-Rh1-qn6Tfd1w-2026-07-11-adam-pascal-038-anthony-rapp-celebrating-30-years-of-friends",
-          "title": "Adam Pascal &#038; Anthony Rapp: Celebrating 30 Years of Friendship &#038; Music",
-          "date": "2026-07-11",
-          "time": "8:00 PM",
-          "doors": null,
-          "ticketUrl": "https://redeyetickets.com/events/adam-pascal-anthony-rapp-30-years",
-          "imageUrl": "https://ml9kkvouff94.i.optimole.com/w:864/h:1080/q:mauto/f:best/https://icepalace.club/wp-content/uploads/2026/03/Adam-Pascal-and-Anthony-Rapp.png",
-          "price": "$",
-          "ages": null,
-          "description": "Adam Pascal &amp; Anthony Rapp Celebrating 30 Years of Friendship &amp; Music\r\nAdam Pascal and Anthony Rapp, original stars of RENT, team up in a brand new duo show celebrating 30 years of friendship and music! Adam and Anthony bring their friendship and history together for an unforgettable and cel",
-          "sourceUrl": "https://icepalace.club/events/"
-        },
-        {
-          "id": "gp-Rh1-qn6Tfd1w-2026-07-11-nacht-8211-boris-at-the-ice-palace",
-          "title": "NACHT &#8211; Boris at the Ice Palace",
-          "date": "2026-07-11",
-          "time": "10:00 PM",
-          "doors": null,
-          "ticketUrl": "https://redeyetickets.com/events/nacht-boris-at-the-ice-palace",
-          "imageUrl": "https://ml9kkvouff94.i.optimole.com/w:698/h:1080/q:mauto/f:best/https://icepalace.club/wp-content/uploads/2026/06/6ac0b58a-1c2b-4216-b189-fefa2d2425fd.jpeg",
-          "price": "$",
-          "ages": null,
-          "description": "NACHT - Boris at the Ice Palace\r\nBerlin takes over Fire Island\r\n\r\nSchau nach oben! Look Up!\r\n\r\nAn evening at the Ice Palace featuring exclusive collections from Photographer Mischa Fanghaenael. World renowned DJ Ana Matronic will open for Ostgut and Berghain resident DJ Boris.\r\n\r\nMischa Fanghaenel i",
-          "sourceUrl": "https://icepalace.club/events/"
-        },
-        {
-          "id": "gp-Rh1-qn6Tfd1w-2026-07-18-the-ice-palace-presents-gianmarco-soresi-038-jay-jurden",
-          "title": "The Ice Palace Presents: Gianmarco Soresi &#038; Jay Jurden",
-          "date": "2026-07-18",
-          "time": "7:00 PM",
-          "doors": null,
-          "ticketUrl": "https://redeyetickets.com/events/the-ice-palace-presents-gianmarco-soresi-jay-jurden",
-          "imageUrl": "https://ml9kkvouff94.i.optimole.com/w:782/h:1080/q:mauto/f:best/https://icepalace.club/wp-content/uploads/2026/03/Ice-Palace-Soresi-Jurden-7.18.26-5x7-1.jpg",
-          "price": "$",
-          "ages": null,
-          "description": "The Ice Palace Presents: Gianmarco Soresi &amp; Jay Jurden\r\n\r\nTwo of stand-up’s fastest-rising voices\r\n\"superb\" The New York Times\r\nThe Ice Palace, CG",
-          "sourceUrl": "https://icepalace.club/events/"
-        },
-        {
-          "id": "gp-Rh1-qn6Tfd1w-2026-07-18-motherdisco-summer-2026-residency-8211-july-18",
-          "title": "Motherdisco: Summer 2026 Residency &#8211; July 18",
-          "date": "2026-07-18",
-          "time": "11:00 PM",
-          "doors": null,
-          "ticketUrl": "https://redeyetickets.com/events/motherdisco",
-          "imageUrl": "https://ml9kkvouff94.i.optimole.com/w:866/h:1080/q:mauto/f:best/https://icepalace.club/wp-content/uploads/2026/03/motherdisco_summer_flyer_2026-02-25_1_1_-optimiz_7c22.webp",
-          "price": "$",
-          "ages": null,
-          "description": "Motherdisco returns to the Ice Palace this summer for five nights to remember. Born in Brooklyn in 2022, Motherdisco celebrates disco music as a source of joy, community and self expression. Join us on a hot summer night as Fire Island comes together to release tension, pour out emotion and celebrat",
-          "sourceUrl": "https://icepalace.club/events/"
-        },
-        {
-          "id": "gp-Rh1-qn6Tfd1w-2026-07-25-john-waters-is-going-to-extremes",
-          "title": "John Waters Is Going to Extremes",
-          "date": "2026-07-25",
-          "time": "8:00 PM",
-          "doors": null,
-          "ticketUrl": "https://redeyetickets.com/events/john-waters-is-going-to-extremes",
-          "imageUrl": "https://ml9kkvouff94.i.optimole.com/w:782/h:1080/q:mauto/f:best/https://icepalace.club/wp-content/uploads/2026/03/Ice-Palace-John-Waters-7.25.png",
-          "price": "$",
-          "ages": null,
-          "description": "Cult icon, provocateur, and Pope of Trash John Waters returns to Fire Island this Summer with John Waters Is Going to Extremes, a one-night-only live performance on Saturday, July 25 at 8:00 PM at The Ice Palace in Cherry Grove, presented by The Red Eye Guys.\r\n\r\nJohn Waters is back on the road with ",
-          "sourceUrl": "https://icepalace.club/events/"
-        },
-        {
-          "id": "gp-Rh1-qn6Tfd1w-2026-07-25-frankie-sharp-8217-s-demons-8211-july-25",
-          "title": "Frankie Sharp&#8217;s DEMONS &#8211; July 25",
-          "date": "2026-07-25",
-          "time": "10:00 PM",
-          "doors": null,
-          "ticketUrl": "https://redeyetickets.com/events/frankie-sharps-demons-fire-island-residency",
-          "imageUrl": "https://ml9kkvouff94.i.optimole.com/w:863/h:1080/q:mauto/f:best/https://icepalace.club/wp-content/uploads/2024/03/frankie-sharps-demons-fire-island-residency-portrait-cover-1.png",
-          "price": "$",
-          "ages": null,
-          "description": "😈FRANKIE’S DEMONS: FIRE ISLAND EDITION🌲🦌💪🏼\r\n\r\nDowntown’s demented debaucherous club night comes to Fire Island!\r\n\r\nSATURDAYS JUNE 27 - JULY 25 - AUGUST 22 🌊\r\n\r\n11PM\r\n\r\n🚨SPECIAL MONTHLY GUESTS: TBA🌀\r\n\r\nGOGOS TO GAG ON / HOES TO HOE ON\r\n\r\nDANCEFLOORS w/ DEMONS &amp; BACKROOMS w/ DEMON DICK\r\n\r\n",
-          "sourceUrl": "https://icepalace.club/events/"
-        },
-        {
-          "id": "gp-Rh1-qn6Tfd1w-2026-08-08-the-ice-palace-presents-the-magic-of-marilyn-maye",
-          "title": "The Ice Palace presents The Magic of Marilyn Maye",
-          "date": "2026-08-08",
-          "time": "8:00 PM",
-          "doors": null,
-          "ticketUrl": "https://redeyetickets.com/events/the-ice-palace-presents-the-magic-of-marilyn-maye-all-new-show",
-          "imageUrl": "https://ml9kkvouff94.i.optimole.com/w:782/h:1080/q:mauto/f:best/https://icepalace.club/wp-content/uploads/2026/03/Ice-Palace-Marilyn-Maye-8.8.26-5x7-1.jpg",
-          "price": "$",
-          "ages": null,
-          "description": "The Ice Palace presents The Magic of Marilyn Maye. All New Show!\r\n\r\nwith her all star band including\r\nTedd Firth on piano\r\nPLUS they celebrate Daniel's 60th birthday post show with special guest DJ Robbie Leslie!\r\n\r\n\"The last of a great generation of American Songbook singers.” -New York Times\r\n\"The",
-          "sourceUrl": "https://icepalace.club/events/"
-        },
-        {
-          "id": "gp-Rh1-qn6Tfd1w-2026-08-15-motherdisco-summer-2026-residency-8211-august-15",
-          "title": "Motherdisco: Summer 2026 Residency &#8211; August 15",
-          "date": "2026-08-15",
-          "time": "11:00 PM",
-          "doors": null,
-          "ticketUrl": "https://redeyetickets.com/events/motherdisco",
-          "imageUrl": "https://ml9kkvouff94.i.optimole.com/w:866/h:1080/q:mauto/f:best/https://icepalace.club/wp-content/uploads/2026/03/motherdisco_summer_flyer_2026-02-25_1_1_-optimiz_7c22.webp",
-          "price": "$",
-          "ages": null,
-          "description": "Motherdisco returns to the Ice Palace this summer for five nights to remember. Born in Brooklyn in 2022, Motherdisco celebrates disco music as a source of joy, community and self expression. Join us on a hot summer night as Fire Island comes together to release tension, pour out emotion and celebrat",
-          "sourceUrl": "https://icepalace.club/events/"
-        },
-        {
-          "id": "gp-Rh1-qn6Tfd1w-2026-08-22-frankie-sharp-8217-s-demons-8211-august-22",
-          "title": "Frankie Sharp&#8217;s DEMONS &#8211; August 22",
-          "date": "2026-08-22",
-          "time": "10:00 PM",
-          "doors": null,
-          "ticketUrl": "https://redeyetickets.com/events/frankie-sharps-demons-fire-island-residency",
-          "imageUrl": "https://ml9kkvouff94.i.optimole.com/w:863/h:1080/q:mauto/f:best/https://icepalace.club/wp-content/uploads/2024/03/frankie-sharps-demons-fire-island-residency-portrait-cover-1.png",
-          "price": "$",
-          "ages": null,
-          "description": "😈FRANKIE’S DEMONS: FIRE ISLAND EDITION🌲🦌💪🏼\r\n\r\nDowntown’s demented debaucherous club night comes to Fire Island!\r\n\r\nSATURDAYS JUNE 27 - JULY 25 - AUGUST 22 🌊\r\n\r\n11PM\r\n\r\n🚨SPECIAL MONTHLY GUESTS: TBA🌀\r\n\r\nGOGOS TO GAG ON / HOES TO HOE ON\r\n\r\nDANCEFLOORS w/ DEMONS &amp; BACKROOMS w/ DEMON DICK\r\n\r\n",
-          "sourceUrl": "https://icepalace.club/events/"
-        },
-        {
-          "id": "gp-Rh1-qn6Tfd1w-2026-08-29-margaret-cho-choligarchy",
-          "title": "Margaret Cho: Choligarchy",
-          "date": "2026-08-29",
-          "time": "7:00 PM",
-          "doors": null,
-          "ticketUrl": "https://redeyetickets.com/events/margaret-cho-choligarchy",
-          "imageUrl": "https://ml9kkvouff94.i.optimole.com/w:863/h:1080/q:mauto/f:best/https://icepalace.club/wp-content/uploads/2026/03/View20recent20photos.jpeg",
-          "price": "$",
-          "ages": null,
-          "description": "Margaret Cho: Choligarchy\r\n\r\nComedy icon Margaret Cho is officially back on Fire Island with her brand-new stand-up tour!\r\nTwo Shows - 7pm and 9pm • Saturday, August 29 • Ice Palace, Cherry Grove\r\n\r\nCmedy icon Margaret Cho is officially back on Fire Island with her brand-new stand-up tour, Margaret ",
-          "sourceUrl": "https://icepalace.club/events/"
-        },
-        {
-          "id": "gp-Rh1-qn6Tfd1w-2026-09-06-motherdisco-summer-2026-residency-8211-september-6",
-          "title": "Motherdisco: Summer 2026 Residency &#8211; September 6",
-          "date": "2026-09-06",
-          "time": "10:00 PM",
-          "doors": null,
-          "ticketUrl": "https://redeyetickets.com/events/motherdisco",
-          "imageUrl": "https://ml9kkvouff94.i.optimole.com/w:866/h:1080/q:mauto/f:best/https://icepalace.club/wp-content/uploads/2026/03/motherdisco_summer_flyer_2026-02-25_1_1_-optimiz_7c22.webp",
-          "price": "$",
-          "ages": null,
-          "description": "Motherdisco returns to the Ice Palace this summer for five nights to remember. Born in Brooklyn in 2022, Motherdisco celebrates disco music as a source of joy, community and self expression. Join us on a hot summer night as Fire Island comes together to release tension, pour out emotion and celebrat",
-          "sourceUrl": "https://icepalace.club/events/"
-        }
-      ],
-      "scrapedAt": "2026-06-08T19:01:25.797Z",
+      "shows": [],
+      "scrapedAt": "2026-06-09T09:45:53.508Z",
       "error": null
     },
     "gp-RXx1GAgGVW-E": {
@@ -4043,7 +3652,7 @@
         -72.3722767
       ],
       "shows": [],
-      "scrapedAt": "2026-06-08T19:01:33.746Z",
+      "scrapedAt": "2026-06-09T09:46:00.245Z",
       "error": null
     },
     "gp-RP32gQtnDV5M": {
@@ -4056,7 +3665,7 @@
         -72.3626068
       ],
       "shows": [],
-      "scrapedAt": "2026-06-08T19:01:43.918Z",
+      "scrapedAt": "2026-06-09T09:46:07.885Z",
       "error": null
     },
     "gp-RubcQndD9bdg": {
@@ -4069,7 +3678,7 @@
         -72.957469
       ],
       "shows": [],
-      "scrapedAt": "2026-06-08T19:01:49.947Z",
+      "scrapedAt": "2026-06-09T09:46:13.923Z",
       "error": null
     },
     "gp-REiQ-vO9BgNI": {
@@ -4122,7 +3731,7 @@
           "sourceUrl": "https://nfct.com/events/month/"
         }
       ],
-      "scrapedAt": "2026-06-08T19:01:51.706Z",
+      "scrapedAt": "2026-06-09T09:46:18.673Z",
       "error": null
     },
     "gp-R0QSRhPN3P8I": {
@@ -4135,7 +3744,7 @@
         -73.7845339
       ],
       "shows": [],
-      "scrapedAt": "2026-06-08T19:01:59.329Z",
+      "scrapedAt": "2026-06-09T09:46:24.705Z",
       "error": null
     },
     "gp-RbpA8-DGYt08": {
@@ -4148,7 +3757,7 @@
         -74.1963332
       ],
       "shows": [],
-      "scrapedAt": "2026-06-08T19:02:11.069Z",
+      "scrapedAt": "2026-06-09T09:47:09.513Z",
       "error": null
     },
     "gp-RZmkkLSJKP0M": {
@@ -4161,19 +3770,6 @@
         -72.1423204
       ],
       "shows": [
-        {
-          "id": "gp-RZmkkLSJKP0M-2026-06-08-east-coast-ohana-a-better-together-band-tribute-to-jack-john",
-          "title": "East Coast Ohana: A Better Together Band-Tribute to Jack Johnson",
-          "date": "2026-06-08",
-          "time": "08:00 PM",
-          "doors": null,
-          "ticketUrl": "https://www.tixr.com/groups/stephentalkhouse/events/east-coast-ohana-a-better-together-band-tribute-to-jack-johnson-185053",
-          "imageUrl": "https://static.tixr.com/static/images/external/img/6be1451d-7a0c-4926-aa63-e7ad85209d19.jpeg",
-          "price": "$23",
-          "ages": null,
-          "description": null,
-          "sourceUrl": "https://www.tixr.com/groups/stephentalkhouse/events/east-coast-ohana-a-better-together-band-tribute-to-jack-johnson-185053"
-        },
         {
           "id": "gp-RZmkkLSJKP0M-2026-06-09-cat-5",
           "title": "CAT-5",
@@ -6138,6 +5734,19 @@
           "sourceUrl": "https://www.tixr.com/groups/stephentalkhouse/events/lht-185107"
         },
         {
+          "id": "gp-RZmkkLSJKP0M-2026-09-12-the-smiths-tribute-nyc",
+          "title": "THE SMITHS TRIBUTE NYC",
+          "date": "2026-09-12",
+          "time": "08:00 PM",
+          "doors": null,
+          "ticketUrl": "https://www.tixr.com/groups/stephentalkhouse/events/the-smiths-tribute-nyc-194171",
+          "imageUrl": "https://static.tixr.com/static/images/external/img/e2c21c25-d874-4398-a6d2-d71837ca5ab5.jpg",
+          "price": "$45",
+          "ages": null,
+          "description": null,
+          "sourceUrl": "https://www.tixr.com/groups/stephentalkhouse/events/the-smiths-tribute-nyc-194171"
+        },
+        {
           "id": "gp-RZmkkLSJKP0M-2026-09-17-karaoke-w-jbm",
           "title": "Karaoke!! w/ JBM",
           "date": "2026-09-17",
@@ -6346,7 +5955,7 @@
           "sourceUrl": "https://www.tixr.com/groups/stephentalkhouse/events/reservoir-dawgs-90s--189206"
         }
       ],
-      "scrapedAt": "2026-06-08T19:25:54.269Z",
+      "scrapedAt": "2026-06-09T09:47:11.233Z",
       "error": null
     },
     "gp-RW8LIRAaCEW0": {
@@ -6359,7 +5968,7 @@
         -72.6604274
       ],
       "shows": [],
-      "scrapedAt": "2026-06-08T19:02:27.044Z",
+      "scrapedAt": "2026-06-09T09:47:19.215Z",
       "error": null
     },
     "gp-RX5mta0m4e8M": {
@@ -6372,7 +5981,7 @@
         -72.9862442
       ],
       "shows": [],
-      "scrapedAt": "2026-06-08T19:02:33.628Z",
+      "scrapedAt": "2026-06-09T09:47:56.020Z",
       "error": null
     },
     "gp-Rrai8sIjm61Y": {
@@ -6385,7 +5994,7 @@
         -72.99747459999999
       ],
       "shows": [],
-      "scrapedAt": "2026-06-08T19:02:40.894Z",
+      "scrapedAt": "2026-06-09T09:48:06.119Z",
       "error": null
     },
     "gp-R8rU0-NNG4HQ": {
@@ -6398,7 +6007,7 @@
         -73.4171066
       ],
       "shows": [],
-      "scrapedAt": "2026-06-08T19:02:52.296Z",
+      "scrapedAt": "2026-06-09T09:48:28.563Z",
       "error": null
     },
     "gp-RGaytwY8-IcY": {
@@ -6411,34 +6020,8 @@
         -73.0675371
       ],
       "shows": [],
-      "scrapedAt": "2026-06-08T19:03:01.031Z",
-      "error": null
-    },
-    "gp-RhLW529bSing": {
-      "id": "gp-RhLW529bSing",
-      "name": "Tiki Joe's (Sunsets at Cedar Beach)",
-      "location": "Mt Sinai, NY",
-      "url": "https://tikijoes.com/",
-      "coords": [
-        40.9649305,
-        -73.0288602
-      ],
-      "shows": [],
-      "scrapedAt": "2026-06-08T19:03:09.936Z",
-      "error": null
-    },
-    "gp-RiJo6ATq_vCg": {
-      "id": "gp-RiJo6ATq_vCg",
-      "name": "Tiki Joe's Smith Point",
-      "location": "Shirley, NY",
-      "url": "https://tikijoes.com/",
-      "coords": [
-        40.73396760000001,
-        -72.8614976
-      ],
-      "shows": [],
-      "scrapedAt": "2026-06-08T19:03:19.267Z",
-      "error": null
+      "scrapedAt": "2026-06-09T09:48:30.274Z",
+      "error": "Could not load any page for Theatre Three"
     },
     "gp-RWIW6dZkKD1g": {
       "id": "gp-RWIW6dZkKD1g",
@@ -6450,7 +6033,7 @@
         -73.59724419999999
       ],
       "shows": [],
-      "scrapedAt": "2026-06-08T19:03:26.989Z",
+      "scrapedAt": "2026-06-09T09:48:37.506Z",
       "error": null
     },
     "gp-RwF1VjJuKNBk": {
@@ -6463,7 +6046,7 @@
         -72.8354974
       ],
       "shows": [],
-      "scrapedAt": "2026-06-08T19:03:37.154Z",
+      "scrapedAt": "2026-06-09T09:48:46.244Z",
       "error": null
     },
     "gp-RNzUKiLgkycg": {
@@ -6476,20 +6059,7 @@
         -72.8202061
       ],
       "shows": [],
-      "scrapedAt": "2026-06-08T19:03:54.079Z",
-      "error": null
-    },
-    "gp-RZnnrODfFyek": {
-      "id": "gp-RZnnrODfFyek",
-      "name": "Vail-Leavitt Music Hall",
-      "location": "Riverhead, NY",
-      "url": "https://www.instagram.com/vailleavitt/?hl=en",
-      "coords": [
-        40.9166143,
-        -72.6624338
-      ],
-      "shows": [],
-      "scrapedAt": "2026-06-08T19:04:01.231Z",
+      "scrapedAt": "2026-06-09T09:48:55.657Z",
       "error": null
     },
     "gp-R_JMrImZQ4BY": {
@@ -6502,7 +6072,7 @@
         -73.2747241
       ],
       "shows": [],
-      "scrapedAt": "2026-06-08T19:04:10.860Z",
+      "scrapedAt": "2026-06-09T09:49:04.439Z",
       "error": null
     },
     "gp-RULM6pqJwN-M": {
@@ -6515,7 +6085,7 @@
         -72.6444479
       ],
       "shows": [],
-      "scrapedAt": "2026-06-08T19:04:21.212Z",
+      "scrapedAt": "2026-06-09T09:49:12.941Z",
       "error": null
     },
     "gp-RZTWZ0MtFZeA": {
@@ -6528,20 +6098,7 @@
         -73.0738208
       ],
       "shows": [],
-      "scrapedAt": "2026-06-08T19:04:30.334Z",
-      "error": null
-    },
-    "gp-Rh3jmrMLwp4Q": {
-      "id": "gp-Rh3jmrMLwp4Q",
-      "name": "Xscape NYC",
-      "location": "South Richmond Hill, NY",
-      "url": "https://www.instagram.com/xscape_nyc/",
-      "coords": [
-        40.6886261,
-        -73.8174269
-      ],
-      "shows": [],
-      "scrapedAt": "2026-06-08T19:04:38.044Z",
+      "scrapedAt": "2026-06-09T09:49:20.076Z",
       "error": null
     }
   }

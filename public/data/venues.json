@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-15T13:44:37.624Z",
+  "lastUpdated": "2026-06-22T13:24:49.906Z",
   "total": 228,
   "venues": [
     {
@@ -535,11 +535,11 @@
         40.704,
         -73.7259
       ],
-      "url": null,
-      "eventsUrl": null,
+      "url": "https://www.ubsarena.com/",
+      "eventsUrl": "https://www.ubsarena.com/",
       "facebook": "https://www.facebook.com/UBSArena",
       "instagram": "https://www.instagram.com/ubsarena",
-      "scraper": null,
+      "scraper": "auto",
       "genre": [
         "rock",
         "metal",
@@ -817,7 +817,7 @@
         40.61081790000001,
         -73.6457695
       ],
-      "url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fbarnumballroom",
+      "url": "https://www.facebook.com/barnumballroom",
       "eventsUrl": "https://www.facebook.com/events",
       "facebook": null,
       "instagram": null,
@@ -937,11 +937,11 @@
         40.91930680000001,
         -72.7208529
       ],
-      "url": null,
-      "eventsUrl": null,
+      "url": "http://www.bistro-72.com/",
+      "eventsUrl": "http://www.bistro-72.com/",
       "facebook": null,
       "instagram": null,
-      "scraper": null,
+      "scraper": "auto",
       "genre": [
         "live music"
       ],
@@ -1045,26 +1045,6 @@
       "scraper": "auto",
       "genre": [
         "performing arts"
-      ],
-      "active": true,
-      "source": "google-places"
-    },
-    {
-      "id": "gp-RKut-1EelWRo",
-      "googlePlaceId": "ChIJz7ovRgNbwokRKut-1EelWRo",
-      "name": "Brooklyn Paramount",
-      "location": "Brooklyn, NY",
-      "coords": [
-        40.6900766,
-        -73.9810749
-      ],
-      "url": "https://www.brooklynparamount.com/?utm_source=GMBlisting&utm_medium=organic",
-      "eventsUrl": "https://www.brooklynparamount.com/shows",
-      "facebook": null,
-      "instagram": null,
-      "scraper": "auto",
-      "genre": [
-        "live music"
       ],
       "active": true,
       "source": "google-places"
@@ -1720,7 +1700,7 @@
         -72.292221
       ],
       "url": "https://www.goatonaboat.org/",
-      "eventsUrl": "https://www.goatonaboat.org/upcoming-events",
+      "eventsUrl": "https://www.goatonaboat.org/tickets-1",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -2172,6 +2152,26 @@
       "source": "google-places"
     },
     {
+      "id": "gp-RXQN0oxN2qGI",
+      "googlePlaceId": "ChIJNx7oSREw6IkRXQN0oxN2qGI",
+      "name": "Jones Beach Theater",
+      "location": "Wantagh, NY",
+      "coords": [
+        40.6011406,
+        -73.502518
+      ],
+      "url": "https://jonesbeach.com/",
+      "eventsUrl": "https://tickets.jonesbeach.com/results-venue?venid=77",
+      "facebook": null,
+      "instagram": null,
+      "scraper": "auto",
+      "genre": [
+        "performing arts"
+      ],
+      "active": true,
+      "source": "google-places"
+    },
+    {
       "id": "gp-Rv-A4gnJvRG0",
       "googlePlaceId": "ChIJV5ODmNFgwokRv-A4gnJvRG0",
       "name": "Jouvay Night Club",
@@ -2260,11 +2260,11 @@
         40.7223353,
         -73.24722419999999
       ],
-      "url": null,
-      "eventsUrl": null,
+      "url": "https://www.kisekiny.com/",
+      "eventsUrl": "https://www.kisekiny.com/",
       "facebook": null,
       "instagram": null,
-      "scraper": null,
+      "scraper": "auto",
       "genre": [
         "live music"
       ],
@@ -2300,11 +2300,11 @@
         40.734908399999995,
         -73.0841063
       ],
-      "url": null,
-      "eventsUrl": null,
+      "url": "http://www.koisushisayville.com/",
+      "eventsUrl": "http://www.koisushisayville.com/",
       "facebook": null,
       "instagram": null,
-      "scraper": null,
+      "scraper": "auto",
       "genre": [
         "live music"
       ],
@@ -2340,7 +2340,7 @@
         40.7840509,
         -73.2322669
       ],
-      "url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Flacabanarest%2F",
+      "url": "https://www.facebook.com/lacabanarest/",
       "eventsUrl": "https://www.facebook.com/events",
       "facebook": null,
       "instagram": null,
@@ -2492,26 +2492,6 @@
       "source": "google-places"
     },
     {
-      "id": "gp-RLeNruKsGo90",
-      "googlePlaceId": "ChIJHVRMFCJZwokRLeNruKsGo90",
-      "name": "Live At The Gantries",
-      "location": "Long Island City, NY",
-      "coords": [
-        40.7447762,
-        -73.9587331
-      ],
-      "url": "https://kupferbergcenter.org/about/live-at-the-gantries/",
-      "eventsUrl": "https://kupferbergcenter.org/events/",
-      "facebook": null,
-      "instagram": null,
-      "scraper": "auto",
-      "genre": [
-        "live music"
-      ],
-      "active": true,
-      "source": "google-places"
-    },
-    {
       "id": "gp-RR2GVdRIr-Tg",
       "googlePlaceId": "ChIJmX1qynM26IkRR2GVdRIr-Tg",
       "name": "Lizard Lounge",
@@ -2600,11 +2580,31 @@
         40.83796590000001,
         -73.27791429999999
       ],
-      "url": null,
-      "eventsUrl": null,
+      "url": "http://limusicfest.com/about-us",
+      "eventsUrl": "http://limusicfest.com/about-us",
       "facebook": null,
       "instagram": null,
-      "scraper": null,
+      "scraper": "auto",
+      "genre": [
+        "live music"
+      ],
+      "active": true,
+      "source": "google-places"
+    },
+    {
+      "id": "gp-RRMofQubPDec",
+      "googlePlaceId": "ChIJjQjGfpJZwokRRMofQubPDec",
+      "name": "Lost in Paradise Rooftop",
+      "location": "Long Island City, NY",
+      "coords": [
+        40.752076699999996,
+        -73.94732119999999
+      ],
+      "url": "https://www.lostinparadiserooftop.com/",
+      "eventsUrl": "https://www.lostinparadiserooftop.com/weekly-lineup/",
+      "facebook": null,
+      "instagram": null,
+      "scraper": "auto",
       "genre": [
         "live music"
       ],
@@ -2781,7 +2781,7 @@
         -73.79475339999999
       ],
       "url": "https://www.york.cuny.edu/pac",
-      "eventsUrl": "https://www.york.cuny.edu/events",
+      "eventsUrl": "https://www.york.cuny.edu/about",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -2800,8 +2800,8 @@
         40.8295483,
         -73.686236
       ],
-      "url": "https://www.shlomomintzviolin.com/",
-      "eventsUrl": "https://www.ocmadeira.pt/en/concerts/next-events/madeira-classic-orchestra/162-madeira-classical-orchestra-shlomo-mintz.html",
+      "url": "http://shlomomintzviolin.com/",
+      "eventsUrl": "http://shlomomintzviolin.com/",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -2927,26 +2927,6 @@
       "scraper": "auto",
       "genre": [
         "performing arts"
-      ],
-      "active": true,
-      "source": "google-places"
-    },
-    {
-      "id": "gp-RKmI58saIUJM",
-      "googlePlaceId": "ChIJCbibFmdZwokRKmI58saIUJM",
-      "name": "National Sawdust",
-      "location": "Brooklyn, NY",
-      "coords": [
-        40.718954,
-        -73.961316
-      ],
-      "url": "https://www.nationalsawdust.org/",
-      "eventsUrl": "https://www.nationalsawdust.org/performances",
-      "facebook": null,
-      "instagram": null,
-      "scraper": "auto",
-      "genre": [
-        "live music"
       ],
       "active": true,
       "source": "google-places"
@@ -3342,11 +3322,11 @@
         40.6640614,
         -73.52522080000001
       ],
-      "url": null,
-      "eventsUrl": null,
+      "url": "https://www.sakurabellmore.com/",
+      "eventsUrl": "https://www.sakurabellmore.com/",
       "facebook": null,
       "instagram": null,
-      "scraper": null,
+      "scraper": "auto",
       "genre": [
         "live music"
       ],
@@ -3502,11 +3482,11 @@
         40.8549334,
         -73.1940995
       ],
-      "url": null,
-      "eventsUrl": null,
+      "url": "http://www.smithtownpac.org/",
+      "eventsUrl": "http://www.smithtownpac.org/",
       "facebook": null,
       "instagram": null,
-      "scraper": null,
+      "scraper": "auto",
       "genre": [
         "performing arts"
       ],
@@ -3523,7 +3503,7 @@
         -73.7016271
       ],
       "url": "https://www.sousamemorialbandshell.org/",
-      "eventsUrl": "https://www.sousamemorialbandshell.org/concert-schedules/",
+      "eventsUrl": "https://www.facebook.com/groups/133182900583902/",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -3642,7 +3622,7 @@
         40.9165661,
         -72.6623747
       ],
-      "url": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fspotlighteastend%3Frdid%3DoLmkYqxf4YlOqcgu%26share_url%3Dhttps%253A%252F%252Fwww.facebook.com%252Fshare%252F1MbPMbNGeK%252F&rdid=oLmkYqxf4YlOqcgu",
+      "url": "https://www.facebook.com/spotlighteastend?rdid=ei5OiHNsWyV5Ad6h&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1MbPMbNGeK%2F",
       "eventsUrl": "https://www.facebook.com/events",
       "facebook": null,
       "instagram": null,
@@ -3714,6 +3694,26 @@
       "source": "google-places"
     },
     {
+      "id": "gp-Rn1R3MswoO7U",
+      "googlePlaceId": "ChIJT11Qi7_36IkRn1R3MswoO7U",
+      "name": "Sunset Theater & Sunset Social Club",
+      "location": "Westhampton Beach, NY",
+      "coords": [
+        40.814593599999995,
+        -72.6461879
+      ],
+      "url": "https://sunset-theater.com/",
+      "eventsUrl": "https://sunset-theater.com/rentals/the-sunset/",
+      "facebook": null,
+      "instagram": null,
+      "scraper": "auto",
+      "genre": [
+        "live music"
+      ],
+      "active": true,
+      "source": "google-places"
+    },
+    {
       "id": "gp-RruSiYQOaBDQ",
       "googlePlaceId": "ChIJzdW8FSVhwokRruSiYQOaBDQ",
       "name": "SWEETS",
@@ -3742,11 +3742,11 @@
         40.8292314,
         -73.3033343
       ],
-      "url": null,
-      "eventsUrl": null,
+      "url": "https://www.syjcc.org/",
+      "eventsUrl": "https://www.syjcc.org/events",
       "facebook": null,
       "instagram": null,
-      "scraper": null,
+      "scraper": "auto",
       "genre": [
         "performing arts"
       ],
@@ -3782,11 +3782,11 @@
         41.0764989,
         -73.8588243
       ],
-      "url": null,
-      "eventsUrl": null,
+      "url": "http://www.tarrytownmusichall.org/",
+      "eventsUrl": "http://www.tarrytownmusichall.org/",
       "facebook": null,
       "instagram": null,
-      "scraper": null,
+      "scraper": "auto",
       "genre": [
         "performing arts"
       ],
@@ -4224,11 +4224,11 @@
         40.9436909,
         -73.0675371
       ],
-      "url": null,
-      "eventsUrl": null,
+      "url": "http://theaterthree.com/",
+      "eventsUrl": "http://theaterthree.com/",
       "facebook": null,
       "instagram": null,
-      "scraper": null,
+      "scraper": "auto",
       "genre": [
         "performing arts"
       ],
@@ -4577,5 +4577,5 @@
       "source": "google-places"
     }
   ],
-  "lastVerified": "2026-06-15T13:51:40.876Z"
+  "lastVerified": "2026-06-22T13:32:52.553Z"
 }

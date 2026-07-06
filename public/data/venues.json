@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-29T12:21:19.787Z",
-  "total": 226,
+  "lastUpdated": "2026-07-06T11:53:03.130Z",
+  "total": 225,
   "venues": [
     {
       "id": "89north",
@@ -471,11 +471,11 @@
         40.8682,
         -73.4257
       ],
-      "url": "https://www.paramounthuntington.com/",
-      "eventsUrl": "https://www.paramounthuntington.com/",
+      "url": null,
+      "eventsUrl": null,
       "facebook": "https://www.facebook.com/TheParamountNY",
       "instagram": "https://www.instagram.com/theparamountny",
-      "scraper": "auto",
+      "scraper": null,
       "genre": [
         "rock",
         "metal",
@@ -492,11 +492,11 @@
         40.7268,
         -73.6348
       ],
-      "url": null,
-      "eventsUrl": null,
+      "url": "https://www.hugedomains.com/domain_profile.cfm?d=republicnyc.com",
+      "eventsUrl": "https://www.hugedomains.com/index.cfm",
       "facebook": "https://www.facebook.com/RepublicNYC",
       "instagram": "https://www.instagram.com/republicnyc",
-      "scraper": null,
+      "scraper": "auto",
       "genre": [
         "rock",
         "metal",
@@ -547,26 +547,6 @@
         "sports"
       ],
       "active": true
-    },
-    {
-      "id": "gp-R4eJD7opf13E",
-      "googlePlaceId": "ChIJxdWgTbxZwokR4eJD7opf13E",
-      "name": "00:00",
-      "location": "Long Island City, NY",
-      "coords": [
-        40.748447399999996,
-        -73.9454966
-      ],
-      "url": "https://0000space.com/",
-      "eventsUrl": "https://0000space.com/private-event",
-      "facebook": null,
-      "instagram": null,
-      "scraper": "auto",
-      "genre": [
-        "live music"
-      ],
-      "active": true,
-      "source": "google-places"
     },
     {
       "id": "gp-R8gHj-Wr3ua4",
@@ -798,7 +778,7 @@
         -73.37479549999999
       ],
       "url": "https://www.babylonarts.org/",
-      "eventsUrl": "https://www.babylonarts.org/35th-annual-judged-art-show",
+      "eventsUrl": "https://www.babylonarts.org/event-details/the-long-island-bluegrass-roots-music-festival-2026",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -839,6 +819,26 @@
       ],
       "url": "https://www.facebook.com/barnumballroom",
       "eventsUrl": "https://www.facebook.com/events",
+      "facebook": null,
+      "instagram": null,
+      "scraper": "auto",
+      "genre": [
+        "live music"
+      ],
+      "active": true,
+      "source": "google-places"
+    },
+    {
+      "id": "gp-RWzPYYF97cq0",
+      "googlePlaceId": "ChIJ-0252NQs6IkRWzPYYF97cq0",
+      "name": "Bartini Bar & Lounge",
+      "location": "Babylon, NY",
+      "coords": [
+        40.700456900000006,
+        -73.3259898
+      ],
+      "url": "https://dtoto5000.com/",
+      "eventsUrl": "https://dtoto5000.com/events",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -917,8 +917,8 @@
         40.869731,
         -73.365021
       ],
-      "url": "https://www.beausbar.com/",
-      "eventsUrl": "https://www.beausbar.com/events",
+      "url": "https://beausbar.com/",
+      "eventsUrl": "https://beausbar.com/events",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -1178,11 +1178,11 @@
         40.8084755,
         -72.82812899999999
       ],
-      "url": null,
-      "eventsUrl": null,
+      "url": "https://cbdboss.org/",
+      "eventsUrl": "https://cbdboss.org/shop/",
       "facebook": null,
       "instagram": null,
-      "scraper": null,
+      "scraper": "auto",
       "genre": [
         "live music"
       ],
@@ -1544,6 +1544,26 @@
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
+      "genre": [
+        "live music"
+      ],
+      "active": true,
+      "source": "google-places"
+    },
+    {
+      "id": "gp-RDHxkjWw9Jz4",
+      "googlePlaceId": "ChIJ07EN6hRJ6IkRDHxkjWw9Jz4",
+      "name": "Dublin Deck Tiki Bar and Grill",
+      "location": "Patchogue, NY",
+      "coords": [
+        40.753540699999995,
+        -73.0200499
+      ],
+      "url": null,
+      "eventsUrl": null,
+      "facebook": null,
+      "instagram": null,
+      "scraper": null,
       "genre": [
         "live music"
       ],
@@ -3113,26 +3133,6 @@
       "source": "google-places"
     },
     {
-      "id": "gp-R0hrazkJYOLw",
-      "googlePlaceId": "ChIJhcvnOXHV6YkR0hrazkJYOLw",
-      "name": "Prohibition",
-      "location": "Massapequa Park, NY",
-      "coords": [
-        40.678168899999996,
-        -73.4555479
-      ],
-      "url": null,
-      "eventsUrl": null,
-      "facebook": null,
-      "instagram": null,
-      "scraper": null,
-      "genre": [
-        "live music"
-      ],
-      "active": true,
-      "source": "google-places"
-    },
-    {
       "id": "gp-RmMhsyFuB4b4",
       "googlePlaceId": "ChIJ1-TnNbo36IkRmMhsyFuB4b4",
       "name": "PropRentalsNY.com",
@@ -3161,11 +3161,11 @@
         40.7556899,
         -73.75562459999999
       ],
-      "url": "https://qpac.qcc.cuny.edu/",
-      "eventsUrl": "https://qpac.qcc.cuny.edu/all-events.html",
+      "url": null,
+      "eventsUrl": null,
       "facebook": null,
       "instagram": null,
-      "scraper": "auto",
+      "scraper": null,
       "genre": [
         "performing arts"
       ],
@@ -3248,27 +3248,6 @@
       "scraper": null,
       "genre": [
         "live music"
-      ],
-      "active": true,
-      "source": "google-places"
-    },
-    {
-      "id": "gp-RTlizRW_4cwc",
-      "googlePlaceId": "ChIJlwfqXuxZwokRTlizRW_4cwc",
-      "name": "Rockbar NYC",
-      "location": "New York, NY",
-      "coords": [
-        40.7327194,
-        -74.0097278
-      ],
-      "url": "https://www.rockbarnyc.com/",
-      "eventsUrl": "https://www.rockbarnyc.com/calendar",
-      "facebook": null,
-      "instagram": null,
-      "scraper": "auto",
-      "genre": [
-        "rock",
-        "metal"
       ],
       "active": true,
       "source": "google-places"
@@ -3622,7 +3601,7 @@
         40.9165661,
         -72.6623747
       ],
-      "url": "https://www.facebook.com/spotlighteastend?rdid=oFy493pg2TVpAI46&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1MbPMbNGeK%2F",
+      "url": "https://www.facebook.com/spotlighteastend?rdid=2AR6apoLOQRBTxGl&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1MbPMbNGeK%2F",
       "eventsUrl": "https://www.facebook.com/events",
       "facebook": null,
       "instagram": null,
@@ -3754,21 +3733,21 @@
       "source": "google-places"
     },
     {
-      "id": "gp-R1p8gkcNDvd4",
-      "googlePlaceId": "ChIJ-TDiTrnqwokR1p8gkcNDvd4",
-      "name": "Tarrytown Music Hall",
-      "location": "Tarrytown, NY",
+      "id": "gp-RvvKE8E1Qv2M",
+      "googlePlaceId": "ChIJBR8Q30PU6YkRvvKE8E1Qv2M",
+      "name": "Tanner Park Band Shell",
+      "location": "Copiague, NY",
       "coords": [
-        41.0764989,
-        -73.8588243
+        40.6590498,
+        -73.3959201
       ],
-      "url": null,
-      "eventsUrl": null,
+      "url": "https://www.townofbabylonny.gov/275/Tanner-Park-Senior-Center",
+      "eventsUrl": "https://www.townofbabylonny.gov/DocumentCenter/View/10362/2025-Recycling-Calendar-PDF",
       "facebook": null,
       "instagram": null,
-      "scraper": null,
+      "scraper": "auto",
       "genre": [
-        "performing arts"
+        "live music"
       ],
       "active": true,
       "source": "google-places"
@@ -4258,7 +4237,7 @@
     {
       "id": "gp-RwF1VjJuKNBk",
       "googlePlaceId": "ChIJu0ZsUa5b6IkRwF1VjJuKNBk",
-      "name": "Tipi Canna Cafe Dispensary",
+      "name": "Tippi Canna Cafe & Dispensary",
       "location": "Mastic, NY",
       "coords": [
         40.7893472,
@@ -4537,5 +4516,5 @@
       "source": "google-places"
     }
   ],
-  "lastVerified": "2026-06-29T12:28:15.353Z"
+  "lastVerified": "2026-07-06T12:00:09.908Z"
 }

@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-06T11:53:03.130Z",
-  "total": 225,
+  "lastUpdated": "2026-07-13T10:47:22.143Z",
+  "total": 226,
   "venues": [
     {
       "id": "89north",
@@ -829,26 +829,6 @@
       "source": "google-places"
     },
     {
-      "id": "gp-RWzPYYF97cq0",
-      "googlePlaceId": "ChIJ-0252NQs6IkRWzPYYF97cq0",
-      "name": "Bartini Bar & Lounge",
-      "location": "Babylon, NY",
-      "coords": [
-        40.700456900000006,
-        -73.3259898
-      ],
-      "url": "https://dtoto5000.com/",
-      "eventsUrl": "https://dtoto5000.com/events",
-      "facebook": null,
-      "instagram": null,
-      "scraper": "auto",
-      "genre": [
-        "live music"
-      ],
-      "active": true,
-      "source": "google-places"
-    },
-    {
       "id": "gp-R-TlA5z9K1E4",
       "googlePlaceId": "ChIJOar4TyW96IkR-TlA5z9K1E4",
       "name": "Bay Street Theater & Sag Harbor Center for the Arts",
@@ -1070,26 +1050,6 @@
       "source": "google-places"
     },
     {
-      "id": "gp-RKut-1EelWRo",
-      "googlePlaceId": "ChIJz7ovRgNbwokRKut-1EelWRo",
-      "name": "Brooklyn Paramount",
-      "location": "Brooklyn, NY",
-      "coords": [
-        40.6900766,
-        -73.9810749
-      ],
-      "url": "https://www.brooklynparamount.com/?utm_source=GMBlisting&utm_medium=organic",
-      "eventsUrl": "https://www.brooklynparamount.com/shows",
-      "facebook": null,
-      "instagram": null,
-      "scraper": "auto",
-      "genre": [
-        "live music"
-      ],
-      "active": true,
-      "source": "google-places"
-    },
-    {
       "id": "gp-R-iRShvv7Yq8",
       "googlePlaceId": "ChIJowXDTiQ_6IkR-iRShvv7Yq8",
       "name": "Cabaret Theater",
@@ -1178,11 +1138,11 @@
         40.8084755,
         -72.82812899999999
       ],
-      "url": "https://cbdboss.org/",
-      "eventsUrl": "https://cbdboss.org/shop/",
+      "url": null,
+      "eventsUrl": null,
       "facebook": null,
       "instagram": null,
-      "scraper": "auto",
+      "scraper": null,
       "genre": [
         "live music"
       ],
@@ -1217,6 +1177,26 @@
       "coords": [
         40.7188545,
         -73.8136576
+      ],
+      "url": null,
+      "eventsUrl": null,
+      "facebook": null,
+      "instagram": null,
+      "scraper": null,
+      "genre": [
+        "live music"
+      ],
+      "active": true,
+      "source": "google-places"
+    },
+    {
+      "id": "gp-RiL268SVgfpg",
+      "googlePlaceId": "ChIJx_s64p-t6IkRiL268SVgfpg",
+      "name": "Chelsea Living Room at Gurney's",
+      "location": "Montauk, NY",
+      "coords": [
+        41.015721299999996,
+        -71.9918844
       ],
       "url": null,
       "eventsUrl": null,
@@ -1390,26 +1370,6 @@
       "source": "google-places"
     },
     {
-      "id": "gp-RI2G62e3O5Y4",
-      "googlePlaceId": "ChIJ7T_I9L-DwokRI2G62e3O5Y4",
-      "name": "Cooper Bluff - Waterfront Bar",
-      "location": "Oyster Bay, NY",
-      "coords": [
-        40.8774277,
-        -73.5291127
-      ],
-      "url": null,
-      "eventsUrl": null,
-      "facebook": null,
-      "instagram": null,
-      "scraper": null,
-      "genre": [
-        "live music"
-      ],
-      "active": true,
-      "source": "google-places"
-    },
-    {
       "id": "gp-REwM-4VZxTmQ",
       "googlePlaceId": "ChIJ537DoLeBwokREwM-4VZxTmQ",
       "name": "Cultural Arts Playhouse",
@@ -1425,6 +1385,26 @@
       "scraper": "auto",
       "genre": [
         "performing arts"
+      ],
+      "active": true,
+      "source": "google-places"
+    },
+    {
+      "id": "gp-RytI2Nkvd4Uw",
+      "googlePlaceId": "ChIJz-MlW057wokRytI2Nkvd4Uw",
+      "name": "Dark Horse Tavern, RVC",
+      "location": "Rockville Centre, NY",
+      "coords": [
+        40.655730999999996,
+        -73.6457981
+      ],
+      "url": null,
+      "eventsUrl": null,
+      "facebook": null,
+      "instagram": null,
+      "scraper": null,
+      "genre": [
+        "live music"
       ],
       "active": true,
       "source": "google-places"
@@ -2092,26 +2072,6 @@
       "source": "google-places"
     },
     {
-      "id": "gp-RFKoIMzLxzuI",
-      "googlePlaceId": "ChIJBfsHaG2L6IkRFKoIMzLxzuI",
-      "name": "Jerry's Karaoke",
-      "location": "Riverhead, NY",
-      "coords": [
-        40.918883099999995,
-        -72.6551901
-      ],
-      "url": null,
-      "eventsUrl": null,
-      "facebook": null,
-      "instagram": null,
-      "scraper": null,
-      "genre": [
-        "live music"
-      ],
-      "active": true,
-      "source": "google-places"
-    },
-    {
       "id": "gp-RlemO5hpI38s",
       "googlePlaceId": "ChIJzXFGi6Z9wokRlemO5hpI38s",
       "name": "Joan and Donald Schaeffer Black Box Theater",
@@ -2672,26 +2632,6 @@
       "source": "google-places"
     },
     {
-      "id": "gp-R6AIbprewAPE",
-      "googlePlaceId": "ChIJ8RuVQ5S76IkR6AIbprewAPE",
-      "name": "MARS & EL TURCO",
-      "location": "East Hampton, NY",
-      "coords": [
-        40.9756789,
-        -72.18165239999999
-      ],
-      "url": null,
-      "eventsUrl": null,
-      "facebook": null,
-      "instagram": null,
-      "scraper": null,
-      "genre": [
-        "live music"
-      ],
-      "active": true,
-      "source": "google-places"
-    },
-    {
       "id": "gp-R6ydM8ykrVAA",
       "googlePlaceId": "ChIJCRC0a_ZA6IkR6ydM8ykrVAA",
       "name": "Maryhaven Performing Arts",
@@ -2820,11 +2760,11 @@
         40.8157813,
         -73.47636949999999
       ],
-      "url": null,
-      "eventsUrl": null,
+      "url": "https://www.mocaasianbistro.com/",
+      "eventsUrl": "https://cywa.org/",
       "facebook": null,
       "instagram": null,
-      "scraper": null,
+      "scraper": "auto",
       "genre": [
         "live music"
       ],
@@ -2897,8 +2837,8 @@
       "name": "My Father's Place",
       "location": "Roslyn, NY",
       "coords": [
-        40.80159640000001,
-        -73.6522872
+        40.801628199999996,
+        -73.65224119999999
       ],
       "url": "https://www.mfpproductions.com/",
       "eventsUrl": "https://www.mfpproductions.com/blank-2",
@@ -3133,6 +3073,26 @@
       "source": "google-places"
     },
     {
+      "id": "gp-R0hrazkJYOLw",
+      "googlePlaceId": "ChIJhcvnOXHV6YkR0hrazkJYOLw",
+      "name": "Prohibition",
+      "location": "Massapequa Park, NY",
+      "coords": [
+        40.678168899999996,
+        -73.4555479
+      ],
+      "url": null,
+      "eventsUrl": null,
+      "facebook": null,
+      "instagram": null,
+      "scraper": null,
+      "genre": [
+        "live music"
+      ],
+      "active": true,
+      "source": "google-places"
+    },
+    {
       "id": "gp-RmMhsyFuB4b4",
       "googlePlaceId": "ChIJ1-TnNbo36IkRmMhsyFuB4b4",
       "name": "PropRentalsNY.com",
@@ -3161,11 +3121,11 @@
         40.7556899,
         -73.75562459999999
       ],
-      "url": null,
-      "eventsUrl": null,
+      "url": "https://qpac.qcc.cuny.edu/",
+      "eventsUrl": "https://qpac.qcc.cuny.edu/all-events.html",
       "facebook": null,
       "instagram": null,
-      "scraper": null,
+      "scraper": "auto",
       "genre": [
         "performing arts"
       ],
@@ -3366,6 +3326,26 @@
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
+      "genre": [
+        "live music"
+      ],
+      "active": true,
+      "source": "google-places"
+    },
+    {
+      "id": "gp-Roxcj29z_z98",
+      "googlePlaceId": "ChIJjeA3tHM26IkRoxcj29z_z98",
+      "name": "Shakers Pub",
+      "location": "Oakdale, NY",
+      "coords": [
+        40.7536172,
+        -73.11479179999999
+      ],
+      "url": null,
+      "eventsUrl": null,
+      "facebook": null,
+      "instagram": null,
+      "scraper": null,
       "genre": [
         "live music"
       ],
@@ -3601,7 +3581,7 @@
         40.9165661,
         -72.6623747
       ],
-      "url": "https://www.facebook.com/spotlighteastend?rdid=2AR6apoLOQRBTxGl&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1MbPMbNGeK%2F",
+      "url": "https://www.facebook.com/spotlighteastend?rdid=Eb741O2rAo3c9v9d&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1MbPMbNGeK%2F",
       "eventsUrl": "https://www.facebook.com/events",
       "facebook": null,
       "instagram": null,
@@ -4021,11 +4001,11 @@
         40.9904875,
         -72.535708
       ],
-      "url": "https://nfct.com/",
-      "eventsUrl": "https://nfct.com/events/month/",
+      "url": null,
+      "eventsUrl": null,
       "facebook": null,
       "instagram": null,
-      "scraper": "auto",
+      "scraper": null,
       "genre": [
         "performing arts"
       ],
@@ -4215,6 +4195,26 @@
       "source": "google-places"
     },
     {
+      "id": "gp-RiJo6ATq_vCg",
+      "googlePlaceId": "ChIJKbSkEZta6IkRiJo6ATq_vCg",
+      "name": "Tiki Joe's Smith Point",
+      "location": "Shirley, NY",
+      "coords": [
+        40.73396760000001,
+        -72.8614976
+      ],
+      "url": "https://tikijoes.com/",
+      "eventsUrl": "https://tikijoes.com/specialty-catering-packages/",
+      "facebook": null,
+      "instagram": null,
+      "scraper": "auto",
+      "genre": [
+        "live music"
+      ],
+      "active": true,
+      "source": "google-places"
+    },
+    {
       "id": "gp-RWIW6dZkKD1g",
       "googlePlaceId": "ChIJ4Vj9xw6EwokRWIW6dZkKD1g",
       "name": "Tilles Center",
@@ -4275,6 +4275,26 @@
       "source": "google-places"
     },
     {
+      "id": "gp-RVkPsktaRtvg",
+      "googlePlaceId": "ChIJG0cHJLLV6YkRVkPsktaRtvg",
+      "name": "Toomey's Tavern",
+      "location": "Amityville, NY",
+      "coords": [
+        40.6624316,
+        -73.4240949
+      ],
+      "url": "https://www.toomeystavernamityville.com/",
+      "eventsUrl": "https://www.toomeystavernamityville.com/live-music-calendar",
+      "facebook": null,
+      "instagram": null,
+      "scraper": "auto",
+      "genre": [
+        "live music"
+      ],
+      "active": true,
+      "source": "google-places"
+    },
+    {
       "id": "gp-RNzUKiLgkycg",
       "googlePlaceId": "ChIJz3_BGxln6IkRNzUKiLgkycg",
       "name": "Top Gun Cigars & Lounge",
@@ -4284,7 +4304,7 @@
         -72.8202061
       ],
       "url": "https://www.topguncigars.com/",
-      "eventsUrl": "https://www.topguncigars.com/blog",
+      "eventsUrl": "https://www.topguncigars.com/event-details/top-gun-cigars-5th-anniversary-1",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -4343,11 +4363,11 @@
         40.8927361,
         -72.424602
       ],
-      "url": null,
-      "eventsUrl": null,
+      "url": "https://www.ultrahamptons.com/",
+      "eventsUrl": "https://www.ultrahamptons.com/events-2",
       "facebook": null,
       "instagram": null,
-      "scraper": null,
+      "scraper": "auto",
       "genre": [
         "live music"
       ],
@@ -4363,11 +4383,11 @@
         40.9166143,
         -72.6624338
       ],
-      "url": null,
-      "eventsUrl": null,
+      "url": "https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Fvailleavitt%2F%3Fhl%3Den&is_from_rle",
+      "eventsUrl": "https://www.instagram.com/events",
       "facebook": null,
       "instagram": null,
-      "scraper": null,
+      "scraper": "auto",
       "genre": [
         "live music"
       ],
@@ -4484,11 +4504,11 @@
         40.6886261,
         -73.8174269
       ],
-      "url": null,
-      "eventsUrl": null,
+      "url": "https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Fxscape_nyc%2F&is_from_rle",
+      "eventsUrl": "https://www.instagram.com/events",
       "facebook": null,
       "instagram": null,
-      "scraper": null,
+      "scraper": "auto",
       "genre": [
         "live music"
       ],
@@ -4516,5 +4536,5 @@
       "source": "google-places"
     }
   ],
-  "lastVerified": "2026-07-06T12:00:09.908Z"
+  "lastVerified": "2026-07-13T10:54:29.465Z"
 }

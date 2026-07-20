@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-13T10:47:22.143Z",
-  "total": 226,
+  "lastUpdated": "2026-07-20T10:37:51.476Z",
+  "total": 224,
   "venues": [
     {
       "id": "89north",
@@ -858,7 +858,7 @@
         -73.179489
       ],
       "url": "https://www.baywayartscenter.com/",
-      "eventsUrl": "https://www.onthestage.tickets/show/sunrise-theatre-company1/6a1efc9395abf4105b280df8/tickets#/productions-view",
+      "eventsUrl": "https://www.baywayartscenter.com/upcomingshows",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -1009,27 +1009,6 @@
       "source": "google-places"
     },
     {
-      "id": "gp-R5XNXSlBFpQU",
-      "googlePlaceId": "ChIJGzpd9ISHwokR5XNXSlBFpQU",
-      "name": "Body Rock Entertainment",
-      "location": "Carle Place, NY",
-      "coords": [
-        40.7492547,
-        -73.6138732
-      ],
-      "url": "https://www.bodyrockdj.com/",
-      "eventsUrl": "https://www.bodyrockdj.com/corporate-events",
-      "facebook": null,
-      "instagram": null,
-      "scraper": "auto",
-      "genre": [
-        "rock",
-        "metal"
-      ],
-      "active": true,
-      "source": "google-places"
-    },
-    {
       "id": "gp-RAOIUK1BTs_0",
       "googlePlaceId": "ChIJZQCHwPMy6IkRAOIUK1BTs_0",
       "name": "Boulton Center For The Performing Arts",
@@ -1050,6 +1029,26 @@
       "source": "google-places"
     },
     {
+      "id": "gp-RKut-1EelWRo",
+      "googlePlaceId": "ChIJz7ovRgNbwokRKut-1EelWRo",
+      "name": "Brooklyn Paramount",
+      "location": "Brooklyn, NY",
+      "coords": [
+        40.6900766,
+        -73.9810749
+      ],
+      "url": "https://www.brooklynparamount.com/?utm_source=GMBlisting&utm_medium=organic",
+      "eventsUrl": "https://www.brooklynparamount.com/shows",
+      "facebook": null,
+      "instagram": null,
+      "scraper": "auto",
+      "genre": [
+        "live music"
+      ],
+      "active": true,
+      "source": "google-places"
+    },
+    {
       "id": "gp-R-iRShvv7Yq8",
       "googlePlaceId": "ChIJowXDTiQ_6IkR-iRShvv7Yq8",
       "name": "Cabaret Theater",
@@ -1059,7 +1058,7 @@
         -73.1227136
       ],
       "url": "https://calendar.stonybrook.edu/location/090542c8-65d0-4dd3-8ca3-5ce3536752ad/",
-      "eventsUrl": "https://www.stonybrook.edu/",
+      "eventsUrl": "https://calendar.stonybrook.edu/login/",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -1138,11 +1137,11 @@
         40.8084755,
         -72.82812899999999
       ],
-      "url": null,
-      "eventsUrl": null,
+      "url": "https://cbdboss.org/",
+      "eventsUrl": "https://cbdboss.org/shop/",
       "facebook": null,
       "instagram": null,
-      "scraper": null,
+      "scraper": "auto",
       "genre": [
         "live music"
       ],
@@ -1178,11 +1177,11 @@
         40.7188545,
         -73.8136576
       ],
-      "url": null,
-      "eventsUrl": null,
+      "url": "https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Fcheapshotsqueens%2F%3Fhl%3Den&is_from_rle",
+      "eventsUrl": "https://www.instagram.com/events",
       "facebook": null,
       "instagram": null,
-      "scraper": null,
+      "scraper": "auto",
       "genre": [
         "live music"
       ],
@@ -1370,6 +1369,26 @@
       "source": "google-places"
     },
     {
+      "id": "gp-RI2G62e3O5Y4",
+      "googlePlaceId": "ChIJ7T_I9L-DwokRI2G62e3O5Y4",
+      "name": "Cooper Bluff - Waterfront Bar",
+      "location": "Oyster Bay, NY",
+      "coords": [
+        40.8774277,
+        -73.5291127
+      ],
+      "url": "https://www.cooperbluffob.com/",
+      "eventsUrl": "https://www.cooperbluffob.com/menu",
+      "facebook": null,
+      "instagram": null,
+      "scraper": "auto",
+      "genre": [
+        "live music"
+      ],
+      "active": true,
+      "source": "google-places"
+    },
+    {
       "id": "gp-REwM-4VZxTmQ",
       "googlePlaceId": "ChIJ537DoLeBwokREwM-4VZxTmQ",
       "name": "Cultural Arts Playhouse",
@@ -1385,26 +1404,6 @@
       "scraper": "auto",
       "genre": [
         "performing arts"
-      ],
-      "active": true,
-      "source": "google-places"
-    },
-    {
-      "id": "gp-RytI2Nkvd4Uw",
-      "googlePlaceId": "ChIJz-MlW057wokRytI2Nkvd4Uw",
-      "name": "Dark Horse Tavern, RVC",
-      "location": "Rockville Centre, NY",
-      "coords": [
-        40.655730999999996,
-        -73.6457981
-      ],
-      "url": null,
-      "eventsUrl": null,
-      "facebook": null,
-      "instagram": null,
-      "scraper": null,
-      "genre": [
-        "live music"
       ],
       "active": true,
       "source": "google-places"
@@ -1559,11 +1558,11 @@
         40.7498779,
         -73.1350403
       ],
-      "url": null,
-      "eventsUrl": null,
+      "url": "https://eleanorslounge.com/",
+      "eventsUrl": "https://eleanorslounge.com/events/karaoke-sundays/",
       "facebook": null,
       "instagram": null,
-      "scraper": null,
+      "scraper": "auto",
       "genre": [
         "live music"
       ],
@@ -1691,26 +1690,6 @@
       "source": "google-places"
     },
     {
-      "id": "gp-RnHG1XFYplB0",
-      "googlePlaceId": "ChIJ243gIt-86IkRnHG1XFYplB0",
-      "name": "Goat On a Boat Puppet Theatre",
-      "location": "Sag Harbor, NY",
-      "coords": [
-        40.997917,
-        -72.292221
-      ],
-      "url": "https://www.goatonaboat.org/",
-      "eventsUrl": "https://www.goatonaboat.org/tickets-1",
-      "facebook": null,
-      "instagram": null,
-      "scraper": "auto",
-      "genre": [
-        "performing arts"
-      ],
-      "active": true,
-      "source": "google-places"
-    },
-    {
       "id": "gp-RXHXjVn97cpM",
       "googlePlaceId": "ChIJcyRCGLNgwokRXHXjVn97cpM",
       "name": "Golden Terrace Banquet Hall",
@@ -1771,6 +1750,26 @@
       "source": "google-places"
     },
     {
+      "id": "gp-RkrVrzP7vqUo",
+      "googlePlaceId": "ChIJcacHx8yY6IkRkrVrzP7vqUo",
+      "name": "Greenport American Legion",
+      "location": "Greenport, NY",
+      "coords": [
+        41.1011186,
+        -72.36234069999999
+      ],
+      "url": "https://www.greenportamericanlegion.org/",
+      "eventsUrl": "https://donate.nybc.org/donor/schedules/drive_schedule/333421",
+      "facebook": null,
+      "instagram": null,
+      "scraper": "auto",
+      "genre": [
+        "performing arts"
+      ],
+      "active": true,
+      "source": "google-places"
+    },
+    {
       "id": "gp-R_JeaL3UMLn4",
       "googlePlaceId": "ChIJG5cC61VmwokR_JeaL3UMLn4",
       "name": "Greenwich Lounge JFK - British Airways & American",
@@ -1779,11 +1778,11 @@
         40.6481845,
         -73.79121169999999
       ],
-      "url": null,
-      "eventsUrl": null,
+      "url": "https://www.britishairways.com/content/information/lounges",
+      "eventsUrl": "https://www.britishairways.com/content/information/lounges/arrivals",
       "facebook": null,
       "instagram": null,
-      "scraper": null,
+      "scraper": "auto",
       "genre": [
         "live music"
       ],
@@ -2761,7 +2760,7 @@
         -73.47636949999999
       ],
       "url": "https://www.mocaasianbistro.com/",
-      "eventsUrl": "https://cywa.org/",
+      "eventsUrl": "https://elpulpotapasbar.com/",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -3047,27 +3046,6 @@
       "scraper": "auto",
       "genre": [
         "performing arts"
-      ],
-      "active": true,
-      "source": "google-places"
-    },
-    {
-      "id": "gp-Rp9X9hJl_VmI",
-      "googlePlaceId": "ChIJ09qryDqbwokRp9X9hJl_VmI",
-      "name": "Piping Rock Beach Club",
-      "location": "Locust Valley, NY",
-      "coords": [
-        40.9079111,
-        -73.59388679999999
-      ],
-      "url": "https://www.pipingrockclub.org/web/pages/home",
-      "eventsUrl": "https://www.pipingrockclub.org/web/pages/directions",
-      "facebook": null,
-      "instagram": null,
-      "scraper": "auto",
-      "genre": [
-        "rock",
-        "metal"
       ],
       "active": true,
       "source": "google-places"
@@ -3521,11 +3499,11 @@
         40.858201300000005,
         -73.210055
       ],
-      "url": null,
-      "eventsUrl": null,
+      "url": "https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Fspaceloungesmithtown%3Figsh%3DMTl0bTE0cDcycWY5dw%253D%253D&is_from_rle",
+      "eventsUrl": "https://www.instagram.com/events",
       "facebook": null,
       "instagram": null,
-      "scraper": null,
+      "scraper": "auto",
       "genre": [
         "live music"
       ],
@@ -3581,7 +3559,7 @@
         40.9165661,
         -72.6623747
       ],
-      "url": "https://www.facebook.com/spotlighteastend?rdid=Eb741O2rAo3c9v9d&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1MbPMbNGeK%2F",
+      "url": "https://www.facebook.com/spotlighteastend?rdid=h6NXwP5sxv7Lj0XZ&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1MbPMbNGeK%2F",
       "eventsUrl": "https://www.facebook.com/events",
       "facebook": null,
       "instagram": null,
@@ -4275,26 +4253,6 @@
       "source": "google-places"
     },
     {
-      "id": "gp-RVkPsktaRtvg",
-      "googlePlaceId": "ChIJG0cHJLLV6YkRVkPsktaRtvg",
-      "name": "Toomey's Tavern",
-      "location": "Amityville, NY",
-      "coords": [
-        40.6624316,
-        -73.4240949
-      ],
-      "url": "https://www.toomeystavernamityville.com/",
-      "eventsUrl": "https://www.toomeystavernamityville.com/live-music-calendar",
-      "facebook": null,
-      "instagram": null,
-      "scraper": "auto",
-      "genre": [
-        "live music"
-      ],
-      "active": true,
-      "source": "google-places"
-    },
-    {
       "id": "gp-RNzUKiLgkycg",
       "googlePlaceId": "ChIJz3_BGxln6IkRNzUKiLgkycg",
       "name": "Top Gun Cigars & Lounge",
@@ -4304,7 +4262,7 @@
         -72.8202061
       ],
       "url": "https://www.topguncigars.com/",
-      "eventsUrl": "https://www.topguncigars.com/event-details/top-gun-cigars-5th-anniversary-1",
+      "eventsUrl": "https://www.topguncigars.com/blog",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -4536,5 +4494,5 @@
       "source": "google-places"
     }
   ],
-  "lastVerified": "2026-07-13T10:54:29.465Z"
+  "lastVerified": "2026-07-20T10:45:03.174Z"
 }

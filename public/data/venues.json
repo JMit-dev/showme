@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-20T10:37:51.476Z",
-  "total": 224,
+  "lastUpdated": "2026-07-27T10:59:59.057Z",
+  "total": 226,
   "venues": [
     {
       "id": "89north",
@@ -637,8 +637,8 @@
         40.650110399999996,
         -73.7923212
       ],
-      "url": "https://www.aa.com/i18n/travelInformation/airportAmenities/jfk-club.jsp",
-      "eventsUrl": "https://www.aa.com/i18n/travelInformation/airportAmenities/jfk-club.jsp",
+      "url": "https://www.aa.com/i18n/travelInformation/airportAmenities/jfk-club.html",
+      "eventsUrl": "https://www.aa.com/web/i18n/travel-info/partner-airlines/oneworld-airline-partners.html?from=comp_nav",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -1009,6 +1009,27 @@
       "source": "google-places"
     },
     {
+      "id": "gp-R5XNXSlBFpQU",
+      "googlePlaceId": "ChIJGzpd9ISHwokR5XNXSlBFpQU",
+      "name": "Body Rock Entertainment",
+      "location": "Carle Place, NY",
+      "coords": [
+        40.7492547,
+        -73.6138732
+      ],
+      "url": "https://www.bodyrockdj.com/",
+      "eventsUrl": "https://www.bodyrockdj.com/corporate-events",
+      "facebook": null,
+      "instagram": null,
+      "scraper": "auto",
+      "genre": [
+        "rock",
+        "metal"
+      ],
+      "active": true,
+      "source": "google-places"
+    },
+    {
       "id": "gp-RAOIUK1BTs_0",
       "googlePlaceId": "ChIJZQCHwPMy6IkRAOIUK1BTs_0",
       "name": "Boulton Center For The Performing Arts",
@@ -1057,7 +1078,7 @@
         40.9154498,
         -73.1227136
       ],
-      "url": "https://calendar.stonybrook.edu/location/090542c8-65d0-4dd3-8ca3-5ce3536752ad/",
+      "url": "https://calendar.stonybrook.edu/",
       "eventsUrl": "https://calendar.stonybrook.edu/login/",
       "facebook": null,
       "instagram": null,
@@ -1765,26 +1786,6 @@
       "scraper": "auto",
       "genre": [
         "performing arts"
-      ],
-      "active": true,
-      "source": "google-places"
-    },
-    {
-      "id": "gp-R_JeaL3UMLn4",
-      "googlePlaceId": "ChIJG5cC61VmwokR_JeaL3UMLn4",
-      "name": "Greenwich Lounge JFK - British Airways & American",
-      "location": "8 Central Terminal Area, Jamaica",
-      "coords": [
-        40.6481845,
-        -73.79121169999999
-      ],
-      "url": "https://www.britishairways.com/content/information/lounges",
-      "eventsUrl": "https://www.britishairways.com/content/information/lounges/arrivals",
-      "facebook": null,
-      "instagram": null,
-      "scraper": "auto",
-      "genre": [
-        "live music"
       ],
       "active": true,
       "source": "google-places"
@@ -2760,7 +2761,7 @@
         -73.47636949999999
       ],
       "url": "https://www.mocaasianbistro.com/",
-      "eventsUrl": "https://elpulpotapasbar.com/",
+      "eventsUrl": "https://blog.chalkfulloflove.com/",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -2799,11 +2800,11 @@
         40.916882099999995,
         -72.66187810000001
       ],
-      "url": "https://mugsonmain.com/",
-      "eventsUrl": "https://mugsonmain.com/private-events",
+      "url": null,
+      "eventsUrl": null,
       "facebook": null,
       "instagram": null,
-      "scraper": "auto",
+      "scraper": null,
       "genre": [
         "live music"
       ],
@@ -2824,6 +2825,26 @@
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
+      "genre": [
+        "live music"
+      ],
+      "active": true,
+      "source": "google-places"
+    },
+    {
+      "id": "gp-RUoyCKOP0zeU",
+      "googlePlaceId": "ChIJD8ccagCFwokRUoyCKOP0zeU",
+      "name": "music pavilion",
+      "location": "Sea Cliff, NY",
+      "coords": [
+        40.8514879,
+        -73.64997199999999
+      ],
+      "url": null,
+      "eventsUrl": null,
+      "facebook": null,
+      "instagram": null,
+      "scraper": null,
       "genre": [
         "live music"
       ],
@@ -3559,7 +3580,7 @@
         40.9165661,
         -72.6623747
       ],
-      "url": "https://www.facebook.com/spotlighteastend?rdid=h6NXwP5sxv7Lj0XZ&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1MbPMbNGeK%2F",
+      "url": "https://www.facebook.com/spotlighteastend?rdid=BEMD04GFjGTjAShO&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1MbPMbNGeK%2F",
       "eventsUrl": "https://www.facebook.com/events",
       "facebook": null,
       "instagram": null,
@@ -3620,7 +3641,7 @@
         -73.3731591
       ],
       "url": "https://studiotheatrelongisland.com/",
-      "eventsUrl": "https://studiotheatrelongisland.thundertix.com/events/264033",
+      "eventsUrl": "https://studiotheatrelongisland.thundertix.com/events/264035",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -3864,6 +3885,26 @@
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
+      "genre": [
+        "live music"
+      ],
+      "active": true,
+      "source": "google-places"
+    },
+    {
+      "id": "gp-R_JeaL3UMLn4",
+      "googlePlaceId": "ChIJG5cC61VmwokR_JeaL3UMLn4",
+      "name": "The Greenwich Lounge",
+      "location": "Jamaica, NY",
+      "coords": [
+        40.6481845,
+        -73.79121169999999
+      ],
+      "url": null,
+      "eventsUrl": null,
+      "facebook": null,
+      "instagram": null,
+      "scraper": null,
       "genre": [
         "live music"
       ],
@@ -4494,5 +4535,5 @@
       "source": "google-places"
     }
   ],
-  "lastVerified": "2026-07-20T10:45:03.174Z"
+  "lastVerified": "2026-07-27T11:07:57.270Z"
 }

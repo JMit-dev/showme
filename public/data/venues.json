@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-27T10:59:59.057Z",
-  "total": 226,
+  "lastUpdated": "2026-08-03T11:10:25.836Z",
+  "total": 228,
   "venues": [
     {
       "id": "89north",
@@ -535,11 +535,11 @@
         40.704,
         -73.7259
       ],
-      "url": null,
-      "eventsUrl": null,
+      "url": "https://www.ubsarena.com/",
+      "eventsUrl": "https://www.ubsarena.com/",
       "facebook": "https://www.facebook.com/UBSArena",
       "instagram": "https://www.instagram.com/ubsarena",
-      "scraper": null,
+      "scraper": "auto",
       "genre": [
         "rock",
         "metal",
@@ -614,8 +614,8 @@
       "name": "Adelphi University Performing Arts Center",
       "location": "Garden City, NY",
       "coords": [
-        40.719353399999996,
-        -73.6522686
+        40.7206341,
+        -73.6505561
       ],
       "url": "https://www.adelphi.edu/pac/",
       "eventsUrl": "https://www.adelphi.edu/events/",
@@ -711,7 +711,7 @@
     {
       "id": "gp-RiLfdSpbDBAI",
       "googlePlaceId": "ChIJ__-02SA46IkRiLfdSpbDBAI",
-      "name": "Anthony's Live",
+      "name": "Anthony's Restaurant & Live music Events",
       "location": "Lake Ronkonkoma, NY",
       "coords": [
         40.827903,
@@ -829,6 +829,26 @@
       "source": "google-places"
     },
     {
+      "id": "gp-RWzPYYF97cq0",
+      "googlePlaceId": "ChIJ-0252NQs6IkRWzPYYF97cq0",
+      "name": "Bartini Bar & Lounge",
+      "location": "Babylon, NY",
+      "coords": [
+        40.700456900000006,
+        -73.3259898
+      ],
+      "url": null,
+      "eventsUrl": null,
+      "facebook": null,
+      "instagram": null,
+      "scraper": null,
+      "genre": [
+        "live music"
+      ],
+      "active": true,
+      "source": "google-places"
+    },
+    {
       "id": "gp-R-TlA5z9K1E4",
       "googlePlaceId": "ChIJOar4TyW96IkR-TlA5z9K1E4",
       "name": "Bay Street Theater & Sag Harbor Center for the Arts",
@@ -937,11 +957,11 @@
         40.91930680000001,
         -72.7208529
       ],
-      "url": null,
-      "eventsUrl": null,
+      "url": "http://www.bistro-72.com/",
+      "eventsUrl": "http://www.bistro-72.com/",
       "facebook": null,
       "instagram": null,
-      "scraper": null,
+      "scraper": "auto",
       "genre": [
         "live music"
       ],
@@ -1078,7 +1098,7 @@
         40.9154498,
         -73.1227136
       ],
-      "url": "https://calendar.stonybrook.edu/",
+      "url": "https://calendar.stonybrook.edu/location/090542c8-65d0-4dd3-8ca3-5ce3536752ad/",
       "eventsUrl": "https://calendar.stonybrook.edu/login/",
       "facebook": null,
       "instagram": null,
@@ -1385,26 +1405,6 @@
       "scraper": "auto",
       "genre": [
         "performing arts"
-      ],
-      "active": true,
-      "source": "google-places"
-    },
-    {
-      "id": "gp-RI2G62e3O5Y4",
-      "googlePlaceId": "ChIJ7T_I9L-DwokRI2G62e3O5Y4",
-      "name": "Cooper Bluff - Waterfront Bar",
-      "location": "Oyster Bay, NY",
-      "coords": [
-        40.8774277,
-        -73.5291127
-      ],
-      "url": "https://www.cooperbluffob.com/",
-      "eventsUrl": "https://www.cooperbluffob.com/menu",
-      "facebook": null,
-      "instagram": null,
-      "scraper": "auto",
-      "genre": [
-        "live music"
       ],
       "active": true,
       "source": "google-places"
@@ -1780,7 +1780,7 @@
         -72.36234069999999
       ],
       "url": "https://www.greenportamericanlegion.org/",
-      "eventsUrl": "https://donate.nybc.org/donor/schedules/drive_schedule/333421",
+      "eventsUrl": "https://www.greenportamericanlegion.org/american-legion",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -2220,11 +2220,11 @@
         40.7223353,
         -73.24722419999999
       ],
-      "url": null,
-      "eventsUrl": null,
+      "url": "https://www.kisekiny.com/",
+      "eventsUrl": "https://www.kisekiny.com/",
       "facebook": null,
       "instagram": null,
-      "scraper": null,
+      "scraper": "auto",
       "genre": [
         "live music"
       ],
@@ -2260,11 +2260,11 @@
         40.734908399999995,
         -73.0841063
       ],
-      "url": null,
-      "eventsUrl": null,
+      "url": "http://www.koisushisayville.com/",
+      "eventsUrl": "http://www.koisushisayville.com/",
       "facebook": null,
       "instagram": null,
-      "scraper": null,
+      "scraper": "auto",
       "genre": [
         "live music"
       ],
@@ -2560,11 +2560,11 @@
         40.83796590000001,
         -73.27791429999999
       ],
-      "url": null,
-      "eventsUrl": null,
+      "url": "http://limusicfest.com/about-us",
+      "eventsUrl": "http://limusicfest.com/about-us",
       "facebook": null,
       "instagram": null,
-      "scraper": null,
+      "scraper": "auto",
       "genre": [
         "live music"
       ],
@@ -3212,6 +3212,27 @@
       "source": "google-places"
     },
     {
+      "id": "gp-RTlizRW_4cwc",
+      "googlePlaceId": "ChIJlwfqXuxZwokRTlizRW_4cwc",
+      "name": "Rockbar NYC",
+      "location": "New York, NY",
+      "coords": [
+        40.7327194,
+        -74.0097278
+      ],
+      "url": "https://www.rockbarnyc.com/",
+      "eventsUrl": "https://www.rockbarnyc.com/calendar",
+      "facebook": null,
+      "instagram": null,
+      "scraper": "auto",
+      "genre": [
+        "rock",
+        "metal"
+      ],
+      "active": true,
+      "source": "google-places"
+    },
+    {
       "id": "gp-RzmSNc7-Eatk",
       "googlePlaceId": "ChIJR5irtkZB6IkRzmSNc7-Eatk",
       "name": "Roots Kava Bar",
@@ -3260,11 +3281,11 @@
         40.6640614,
         -73.52522080000001
       ],
-      "url": null,
-      "eventsUrl": null,
+      "url": "https://www.sakurabellmore.com/",
+      "eventsUrl": "https://www.sakurabellmore.com/",
       "facebook": null,
       "instagram": null,
-      "scraper": null,
+      "scraper": "auto",
       "genre": [
         "live music"
       ],
@@ -3412,6 +3433,26 @@
       "source": "google-places"
     },
     {
+      "id": "gp-R_4eAUMuhKWw",
+      "googlePlaceId": "ChIJvZ80MjhhwokR_4eAUMuhKWw",
+      "name": "Silk Road NYC Cannabis Dispensary",
+      "location": "Queens, NY",
+      "coords": [
+        40.7060617,
+        -73.7930019
+      ],
+      "url": "https://silkroadnyc.com/queens-ny-cannabis-dispensary-menu/",
+      "eventsUrl": "https://silkroadnyc.com/events",
+      "facebook": null,
+      "instagram": null,
+      "scraper": "auto",
+      "genre": [
+        "live music"
+      ],
+      "active": true,
+      "source": "google-places"
+    },
+    {
       "id": "gp-ROKRy9OHofHQ",
       "googlePlaceId": "ChIJS_J0htXS6YkROKRy9OHofHQ",
       "name": "Sip·n·Twirl",
@@ -3481,7 +3522,7 @@
         -73.373475
       ],
       "url": "https://www.southshoretheatre.com/",
-      "eventsUrl": "https://events.ticketleap.com/tickets/south-shore-theatre-experience/urinetown-the-musical",
+      "eventsUrl": "https://events.ticketleap.com/tickets/south-shore-theatre-experience/i-hate-hamlet-by-paul-rudnick",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -3580,7 +3621,7 @@
         40.9165661,
         -72.6623747
       ],
-      "url": "https://www.facebook.com/spotlighteastend?rdid=BEMD04GFjGTjAShO&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1MbPMbNGeK%2F",
+      "url": "https://www.facebook.com/spotlighteastend?rdid=J8LwXRwRprMF89T2&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1MbPMbNGeK%2F",
       "eventsUrl": "https://www.facebook.com/events",
       "facebook": null,
       "instagram": null,
@@ -3632,6 +3673,26 @@
       "source": "google-places"
     },
     {
+      "id": "gp-R3_qd1Ph14Uo",
+      "googlePlaceId": "ChIJhzFeAVtZwokR3_qd1Ph14Uo",
+      "name": "Strangelove Bar NYC",
+      "location": "New York, NY",
+      "coords": [
+        40.7573478,
+        -73.9681212
+      ],
+      "url": "http://www.strangeloveny.com/",
+      "eventsUrl": "http://www.strangeloveny.com/",
+      "facebook": null,
+      "instagram": null,
+      "scraper": "auto",
+      "genre": [
+        "live music"
+      ],
+      "active": true,
+      "source": "google-places"
+    },
+    {
       "id": "gp-RyaoSgmSMaww",
       "googlePlaceId": "ChIJUVCmhZ_U6YkRyaoSgmSMaww",
       "name": "Studio Theatre of Long Island",
@@ -3672,26 +3733,6 @@
       "source": "google-places"
     },
     {
-      "id": "gp-RruSiYQOaBDQ",
-      "googlePlaceId": "ChIJzdW8FSVhwokRruSiYQOaBDQ",
-      "name": "SWEETS",
-      "location": "Jamaica, NY",
-      "coords": [
-        40.6988147,
-        -73.80709879999999
-      ],
-      "url": null,
-      "eventsUrl": null,
-      "facebook": null,
-      "instagram": null,
-      "scraper": null,
-      "genre": [
-        "live music"
-      ],
-      "active": true,
-      "source": "google-places"
-    },
-    {
       "id": "gp-RigbK_r7FH0g",
       "googlePlaceId": "ChIJizRd1L4v6IkRigbK_r7FH0g",
       "name": "SYJCC",
@@ -3700,11 +3741,11 @@
         40.8292314,
         -73.3033343
       ],
-      "url": null,
-      "eventsUrl": null,
+      "url": "https://www.syjcc.org/",
+      "eventsUrl": "https://www.syjcc.org/events",
       "facebook": null,
       "instagram": null,
-      "scraper": null,
+      "scraper": "auto",
       "genre": [
         "performing arts"
       ],
@@ -4182,11 +4223,11 @@
         40.9436909,
         -73.0675371
       ],
-      "url": null,
-      "eventsUrl": null,
+      "url": "http://theaterthree.com/",
+      "eventsUrl": "http://theaterthree.com/",
       "facebook": null,
       "instagram": null,
-      "scraper": null,
+      "scraper": "auto",
       "genre": [
         "performing arts"
       ],
@@ -4319,8 +4360,8 @@
       "name": "Tutu School Commack",
       "location": "Commack, NY",
       "coords": [
-        40.8411936,
-        -73.3035604
+        40.841179,
+        -73.303607
       ],
       "url": "https://tutuschool.com/commack/",
       "eventsUrl": "https://tutuschool.com/commack/events",
@@ -4535,5 +4576,5 @@
       "source": "google-places"
     }
   ],
-  "lastVerified": "2026-07-27T11:07:57.270Z"
+  "lastVerified": "2026-08-03T11:18:23.862Z"
 }

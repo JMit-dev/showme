@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-10T09:04:21.231Z",
-  "total": 226,
+  "lastUpdated": "2026-08-17T08:28:40.285Z",
+  "total": 231,
   "venues": [
     {
       "id": "89north",
@@ -549,6 +549,26 @@
       "active": true
     },
     {
+      "id": "gp-R4eJD7opf13E",
+      "googlePlaceId": "ChIJxdWgTbxZwokR4eJD7opf13E",
+      "name": "00:00",
+      "location": "Long Island City, NY",
+      "coords": [
+        40.748447399999996,
+        -73.9454966
+      ],
+      "url": "https://0000space.com/",
+      "eventsUrl": "https://0000space.com/private-event",
+      "facebook": null,
+      "instagram": null,
+      "scraper": "auto",
+      "genre": [
+        "live music"
+      ],
+      "active": true,
+      "source": "google-places"
+    },
+    {
       "id": "gp-R8gHj-Wr3ua4",
       "googlePlaceId": "ChIJsWRRFOs36IkR8gHj-Wr3ua4",
       "name": "5 Stars Lounge",
@@ -778,7 +798,7 @@
         -73.37479549999999
       ],
       "url": "https://www.babylonarts.org/",
-      "eventsUrl": "https://www.babylonarts.org/event-details/the-long-island-bluegrass-roots-music-festival-2026",
+      "eventsUrl": "https://www.babylonarts.org/35th-annual-judged-art-show",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -822,6 +842,26 @@
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
+      "genre": [
+        "live music"
+      ],
+      "active": true,
+      "source": "google-places"
+    },
+    {
+      "id": "gp-RWzPYYF97cq0",
+      "googlePlaceId": "ChIJ-0252NQs6IkRWzPYYF97cq0",
+      "name": "Bartini Bar & Lounge",
+      "location": "Babylon, NY",
+      "coords": [
+        40.700456900000006,
+        -73.3259898
+      ],
+      "url": null,
+      "eventsUrl": null,
+      "facebook": null,
+      "instagram": null,
+      "scraper": null,
       "genre": [
         "live music"
       ],
@@ -937,11 +977,11 @@
         40.91930680000001,
         -72.7208529
       ],
-      "url": null,
-      "eventsUrl": null,
+      "url": "http://www.bistro-72.com/",
+      "eventsUrl": "http://www.bistro-72.com/",
       "facebook": null,
       "instagram": null,
-      "scraper": null,
+      "scraper": "auto",
       "genre": [
         "live music"
       ],
@@ -957,8 +997,8 @@
         40.6955354,
         -73.8206519
       ],
-      "url": "http://blendloungeny.com/",
-      "eventsUrl": "http://blendloungeny.com/events",
+      "url": "https://blendloungeny.com/",
+      "eventsUrl": "https://blendloungeny.com/event/",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -1009,26 +1049,6 @@
       "source": "google-places"
     },
     {
-      "id": "gp-RtcjjVXnJv2M",
-      "googlePlaceId": "ChIJldbVAidJ6IkRtcjjVXnJv2M",
-      "name": "Boardy Barn",
-      "location": "225 W Main St, Patchogue",
-      "coords": [
-        40.7664549,
-        -73.0210587
-      ],
-      "url": "https://boardybarn.com/",
-      "eventsUrl": "https://boardybarn.com/blogs/news/boardy-barn-sundays-are-back-now-on-long-island",
-      "facebook": null,
-      "instagram": null,
-      "scraper": "auto",
-      "genre": [
-        "live music"
-      ],
-      "active": true,
-      "source": "google-places"
-    },
-    {
       "id": "gp-R5XNXSlBFpQU",
       "googlePlaceId": "ChIJGzpd9ISHwokR5XNXSlBFpQU",
       "name": "Body Rock Entertainment",
@@ -1038,7 +1058,7 @@
         -73.6138732
       ],
       "url": "https://www.bodyrockdj.com/",
-      "eventsUrl": "https://www.bodyrockdj.com/events",
+      "eventsUrl": "https://www.bodyrockdj.com/corporate-events",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -1065,26 +1085,6 @@
       "scraper": "auto",
       "genre": [
         "performing arts"
-      ],
-      "active": true,
-      "source": "google-places"
-    },
-    {
-      "id": "gp-RKut-1EelWRo",
-      "googlePlaceId": "ChIJz7ovRgNbwokRKut-1EelWRo",
-      "name": "Brooklyn Paramount",
-      "location": "Brooklyn, NY",
-      "coords": [
-        40.6900766,
-        -73.9810749
-      ],
-      "url": "https://www.brooklynparamount.com/?utm_source=GMBlisting&utm_medium=organic",
-      "eventsUrl": "https://www.brooklynparamount.com/shows",
-      "facebook": null,
-      "instagram": null,
-      "scraper": "auto",
-      "genre": [
-        "live music"
       ],
       "active": true,
       "source": "google-places"
@@ -1158,11 +1158,11 @@
         40.843998,
         -73.0219261
       ],
-      "url": "https://www.champbaldhill.com/",
-      "eventsUrl": "https://www.champbaldhill.com/tickets/",
+      "url": null,
+      "eventsUrl": null,
       "facebook": null,
       "instagram": null,
-      "scraper": "auto",
+      "scraper": null,
       "genre": [
         "performing arts"
       ],
@@ -1198,8 +1198,8 @@
         40.7323933,
         -73.4460003
       ],
-      "url": "http://charlottesspeakeasy.com/",
-      "eventsUrl": "http://charlottesspeakeasy.com/events",
+      "url": "https://www.charlottesspeakeasy.com/",
+      "eventsUrl": "https://www.charlottesspeakeasy.com/events/",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -1218,11 +1218,11 @@
         40.7188545,
         -73.8136576
       ],
-      "url": "https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Fcheapshotsqueens%2F%3Fhl%3Den&is_from_rle",
-      "eventsUrl": "https://www.instagram.com/events",
+      "url": null,
+      "eventsUrl": null,
       "facebook": null,
       "instagram": null,
-      "scraper": "auto",
+      "scraper": null,
       "genre": [
         "live music"
       ],
@@ -1278,11 +1278,11 @@
         40.684276200000006,
         -73.43022169999999
       ],
-      "url": null,
-      "eventsUrl": null,
+      "url": "https://www.cinnabarsushi.com/",
+      "eventsUrl": "https://www.cinnabarsushi.com/gallery/",
       "facebook": null,
       "instagram": null,
-      "scraper": null,
+      "scraper": "auto",
       "genre": [
         "live music"
       ],
@@ -1338,8 +1338,8 @@
         40.7385999,
         -73.11967849999999
       ],
-      "url": "http://www.cmpac.com/",
-      "eventsUrl": "http://www.cmpac.com/events",
+      "url": "https://www.cmpac.com/",
+      "eventsUrl": "https://www.cmpac.com/shows/education-showcases/",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -1951,27 +1951,6 @@
       "source": "google-places"
     },
     {
-      "id": "gp-RNQNstSgVbpc",
-      "googlePlaceId": "ChIJ2UIBkeKBwokRNQNstSgVbpc",
-      "name": "Island Rock",
-      "location": "Plainview, NY",
-      "coords": [
-        40.787714799999996,
-        -73.4654419
-      ],
-      "url": "http://www.islandrock.com/",
-      "eventsUrl": "http://www.islandrock.com/calendar",
-      "facebook": null,
-      "instagram": null,
-      "scraper": "auto",
-      "genre": [
-        "rock",
-        "metal"
-      ],
-      "active": true,
-      "source": "google-places"
-    },
-    {
       "id": "gp-RwUJzH5z0Cuc",
       "googlePlaceId": "ChIJefQTUABpwokRwUJzH5z0Cuc",
       "name": "Island Rock Restaurant & Bar",
@@ -2041,8 +2020,8 @@
         40.625017899999996,
         -73.6279342
       ],
-      "url": "http://jdslimos.com/",
-      "eventsUrl": "http://jdslimos.com/events",
+      "url": "https://jdslimos.com/",
+      "eventsUrl": "https://jdslimos.com/about-jds-limousines/",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -2061,8 +2040,8 @@
         40.703095,
         -73.69109279999999
       ],
-      "url": "http://jdslimos.com/",
-      "eventsUrl": "http://jdslimos.com/events",
+      "url": "https://jdslimos.com/",
+      "eventsUrl": "https://jdslimos.com/about-jds-limousines/",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -2161,8 +2140,8 @@
         40.696111099999996,
         -73.8041667
       ],
-      "url": "http://www.jouvaynightclub.com/",
-      "eventsUrl": "http://www.jouvaynightclub.com/events",
+      "url": "http://jouvaynightclub.com/",
+      "eventsUrl": "http://jouvaynightclub.com/event/",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -2241,11 +2220,11 @@
         40.7223353,
         -73.24722419999999
       ],
-      "url": null,
-      "eventsUrl": null,
+      "url": "https://www.kisekiny.com/",
+      "eventsUrl": "https://www.kisekiny.com/",
       "facebook": null,
       "instagram": null,
-      "scraper": null,
+      "scraper": "auto",
       "genre": [
         "live music"
       ],
@@ -2262,7 +2241,7 @@
         -73.8194013
       ],
       "url": "https://kissultraloungeny.com/",
-      "eventsUrl": "https://kissultraloungeny.com/events",
+      "eventsUrl": "https://kissultraloungeny.com/event/",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -2281,11 +2260,11 @@
         40.734908399999995,
         -73.0841063
       ],
-      "url": null,
-      "eventsUrl": null,
+      "url": "http://www.koisushisayville.com/",
+      "eventsUrl": "http://www.koisushisayville.com/",
       "facebook": null,
       "instagram": null,
-      "scraper": null,
+      "scraper": "auto",
       "genre": [
         "live music"
       ],
@@ -2341,8 +2320,8 @@
         40.640633699999995,
         -73.66288759999999
       ],
-      "url": "http://www.lafavoritagourmet.com/",
-      "eventsUrl": "http://www.lafavoritagourmet.com/events",
+      "url": "https://lafavoritagourmet.com/",
+      "eventsUrl": "https://lafavoritagourmet.com/index.php",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -2413,6 +2392,26 @@
       "source": "google-places"
     },
     {
+      "id": "gp-RjKhhCvevXf8",
+      "googlePlaceId": "ChIJK8_C7s3V6YkRjKhhCvevXf8",
+      "name": "Liam's Landing",
+      "location": "Amityville, NY",
+      "coords": [
+        40.662835799999996,
+        -73.4229122
+      ],
+      "url": null,
+      "eventsUrl": null,
+      "facebook": null,
+      "instagram": null,
+      "scraper": null,
+      "genre": [
+        "live music"
+      ],
+      "active": true,
+      "source": "google-places"
+    },
+    {
       "id": "gp-RCbIpRU7yyT0",
       "googlePlaceId": "ChIJn0nzTyot6IkRCbIpRU7yyT0",
       "name": "Lily's Babylon",
@@ -2442,7 +2441,7 @@
         -73.295793
       ],
       "url": "https://lipstixgentlemenclub.com/",
-      "eventsUrl": "https://lipstixgentlemenclub.com/events",
+      "eventsUrl": "https://lipstixgentlemenclub.com/about/",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -2573,6 +2572,26 @@
       "source": "google-places"
     },
     {
+      "id": "gp-RXmu74pgXMc0",
+      "googlePlaceId": "ChIJwenpjOIv6IkRXmu74pgXMc0",
+      "name": "Long Island Music Festival",
+      "location": "Commack, NY",
+      "coords": [
+        40.83796590000001,
+        -73.27791429999999
+      ],
+      "url": "http://limusicfest.com/about-us",
+      "eventsUrl": "http://limusicfest.com/about-us",
+      "facebook": null,
+      "instagram": null,
+      "scraper": "auto",
+      "genre": [
+        "live music"
+      ],
+      "active": true,
+      "source": "google-places"
+    },
+    {
       "id": "gp-RQ5mL7h-Gj_k",
       "googlePlaceId": "ChIJ5QHXfD2O6IkRQ5mL7h-Gj_k",
       "name": "Love Lane Kitchen",
@@ -2601,13 +2620,33 @@
         40.686367,
         -73.62740149999999
       ],
-      "url": "http://madisontheatreny.org/",
-      "eventsUrl": "http://madisontheatreny.org/events",
+      "url": "https://madisontheatreny.org/",
+      "eventsUrl": "https://madisontheatreny.org/events/list/",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
       "genre": [
         "performing arts"
+      ],
+      "active": true,
+      "source": "google-places"
+    },
+    {
+      "id": "gp-R9_Bi_WJDv7Y",
+      "googlePlaceId": "ChIJH9TgTmN6wokR9_Bi_WJDv7Y",
+      "name": "Maliblue NY",
+      "location": "Lido Beach, NY",
+      "coords": [
+        40.5881842,
+        -73.59598749999999
+      ],
+      "url": "https://maliblueny.com/",
+      "eventsUrl": "https://maliblueny.com/events",
+      "facebook": null,
+      "instagram": null,
+      "scraper": "auto",
+      "genre": [
+        "live music"
       ],
       "active": true,
       "source": "google-places"
@@ -2742,7 +2781,7 @@
         -73.686236
       ],
       "url": "http://shlomomintzviolin.com/",
-      "eventsUrl": "http://shlomomintzviolin.com/events",
+      "eventsUrl": "http://shlomomintzviolin.com/",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -2762,7 +2801,7 @@
         -73.47636949999999
       ],
       "url": "https://www.mocaasianbistro.com/",
-      "eventsUrl": "https://blog.chalkfulloflove.com/",
+      "eventsUrl": "https://broadlight.thesouthrestaurant.com/dwtcuy",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -2893,26 +2932,6 @@
       "source": "google-places"
     },
     {
-      "id": "gp-RKmI58saIUJM",
-      "googlePlaceId": "ChIJCbibFmdZwokRKmI58saIUJM",
-      "name": "National Sawdust",
-      "location": "Brooklyn, NY",
-      "coords": [
-        40.718954,
-        -73.961316
-      ],
-      "url": "https://www.nationalsawdust.org/",
-      "eventsUrl": "https://www.nationalsawdust.org/performances",
-      "facebook": null,
-      "instagram": null,
-      "scraper": "auto",
-      "genre": [
-        "live music"
-      ],
-      "active": true,
-      "source": "google-places"
-    },
-    {
       "id": "gp-RdG1py6JVEwQ",
       "googlePlaceId": "ChIJo46qzlB4wokRdG1py6JVEwQ",
       "name": "Northwell at Jones Beach Theater",
@@ -2941,11 +2960,11 @@
         40.7350107,
         -73.4955075
       ],
-      "url": null,
-      "eventsUrl": null,
+      "url": "https://nostalgiali.com/",
+      "eventsUrl": "https://nostalgiali.com/?page_id=3485",
       "facebook": null,
       "instagram": null,
-      "scraper": null,
+      "scraper": "auto",
       "genre": [
         "live music"
       ],
@@ -3001,8 +3020,8 @@
         40.828421,
         -73.3021673
       ],
-      "url": "http://www.ohmanballet.org/",
-      "eventsUrl": "http://www.ohmanballet.org/events",
+      "url": "https://ohmanballet.org/",
+      "eventsUrl": "https://ohmanballet.org/calendar/",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -3022,7 +3041,7 @@
         -73.8122027
       ],
       "url": "https://onebarandloungenyc.com/",
-      "eventsUrl": "https://onebarandloungenyc.com/events",
+      "eventsUrl": "https://onebarandloungenyc.com/upcoming-events/",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -3062,7 +3081,7 @@
         -73.0134775
       ],
       "url": "http://www.patchoguetheatre.org/",
-      "eventsUrl": "http://www.patchoguetheatre.org/events",
+      "eventsUrl": "https://www.patchoguetheatre.org/events",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -3163,6 +3182,26 @@
       ],
       "url": "https://rcdugans.com/",
       "eventsUrl": "https://rcdugans.com/events",
+      "facebook": null,
+      "instagram": null,
+      "scraper": "auto",
+      "genre": [
+        "live music"
+      ],
+      "active": true,
+      "source": "google-places"
+    },
+    {
+      "id": "gp-Raqr9sgbQ-7Y",
+      "googlePlaceId": "ChIJs9zFrSlZwokRaqr9sgbQ-7Y",
+      "name": "Record Room",
+      "location": "Long Island City, NY",
+      "coords": [
+        40.745820599999995,
+        -73.9567063
+      ],
+      "url": "https://www.recordroomlic.com/",
+      "eventsUrl": "https://www.recordroomlic.com/drink",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -3282,11 +3321,11 @@
         40.6640614,
         -73.52522080000001
       ],
-      "url": null,
-      "eventsUrl": null,
+      "url": "https://www.sakurabellmore.com/",
+      "eventsUrl": "https://www.sakurabellmore.com/",
       "facebook": null,
       "instagram": null,
-      "scraper": null,
+      "scraper": "auto",
       "genre": [
         "live music"
       ],
@@ -3347,6 +3386,26 @@
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
+      "genre": [
+        "live music"
+      ],
+      "active": true,
+      "source": "google-places"
+    },
+    {
+      "id": "gp-Roxcj29z_z98",
+      "googlePlaceId": "ChIJjeA3tHM26IkRoxcj29z_z98",
+      "name": "Shakers Pub",
+      "location": "Oakdale, NY",
+      "coords": [
+        40.7536172,
+        -73.11479179999999
+      ],
+      "url": null,
+      "eventsUrl": null,
+      "facebook": null,
+      "instagram": null,
+      "scraper": null,
       "genre": [
         "live music"
       ],
@@ -3442,11 +3501,11 @@
         40.6652869,
         -73.0697453
       ],
-      "url": "https://pinesfi.com/SipnTwirl",
-      "eventsUrl": "https://pinesfi.com/events",
+      "url": null,
+      "eventsUrl": null,
       "facebook": null,
       "instagram": null,
-      "scraper": "auto",
+      "scraper": null,
       "genre": [
         "live music"
       ],
@@ -3462,13 +3521,33 @@
         40.8549334,
         -73.1940995
       ],
-      "url": null,
-      "eventsUrl": null,
+      "url": "http://www.smithtownpac.org/",
+      "eventsUrl": "http://www.smithtownpac.org/",
       "facebook": null,
       "instagram": null,
-      "scraper": null,
+      "scraper": "auto",
       "genre": [
         "performing arts"
+      ],
+      "active": true,
+      "source": "google-places"
+    },
+    {
+      "id": "gp-R632kMtueUlY",
+      "googlePlaceId": "ChIJewjGvKN7wokR632kMtueUlY",
+      "name": "Sonny's Canal House",
+      "location": "Baldwin, NY",
+      "coords": [
+        40.6369945,
+        -73.5984452
+      ],
+      "url": "https://www.sonnyscanalhouse.com/",
+      "eventsUrl": "https://www.sonnyscanalhouse.com/event-menu",
+      "facebook": null,
+      "instagram": null,
+      "scraper": "auto",
+      "genre": [
+        "live music"
       ],
       "active": true,
       "source": "google-places"
@@ -3542,11 +3621,11 @@
         40.858201300000005,
         -73.210055
       ],
-      "url": "https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Fspaceloungesmithtown%3Figsh%3DMTl0bTE0cDcycWY5dw%253D%253D&is_from_rle",
-      "eventsUrl": "https://www.instagram.com/events",
+      "url": null,
+      "eventsUrl": null,
       "facebook": null,
       "instagram": null,
-      "scraper": "auto",
+      "scraper": null,
       "genre": [
         "live music"
       ],
@@ -3602,7 +3681,7 @@
         40.9165661,
         -72.6623747
       ],
-      "url": "https://www.facebook.com/spotlighteastend?rdid=nhPAwd6tJQTXzKeC&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1MbPMbNGeK%2F",
+      "url": "https://www.facebook.com/spotlighteastend?rdid=4vdZS4xIraPmVicE&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1MbPMbNGeK%2F",
       "eventsUrl": "https://www.facebook.com/events",
       "facebook": null,
       "instagram": null,
@@ -3663,7 +3742,7 @@
         -73.3731591
       ],
       "url": "https://studiotheatrelongisland.com/",
-      "eventsUrl": "https://studiotheatrelongisland.com/summer-camp-2026",
+      "eventsUrl": "https://studiotheatrelongisland.thundertix.com/events/264035",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -3702,11 +3781,11 @@
         40.8292314,
         -73.3033343
       ],
-      "url": null,
-      "eventsUrl": null,
+      "url": "https://www.syjcc.org/",
+      "eventsUrl": "https://www.syjcc.org/events",
       "facebook": null,
       "instagram": null,
-      "scraper": null,
+      "scraper": "auto",
       "genre": [
         "performing arts"
       ],
@@ -3714,21 +3793,21 @@
       "source": "google-places"
     },
     {
-      "id": "gp-R1p8gkcNDvd4",
-      "googlePlaceId": "ChIJ-TDiTrnqwokR1p8gkcNDvd4",
-      "name": "Tarrytown Music Hall",
-      "location": "Tarrytown, NY",
+      "id": "gp-RvvKE8E1Qv2M",
+      "googlePlaceId": "ChIJBR8Q30PU6YkRvvKE8E1Qv2M",
+      "name": "Tanner Park Band Shell",
+      "location": "Copiague, NY",
       "coords": [
-        41.0764989,
-        -73.8588243
+        40.6590498,
+        -73.3959201
       ],
-      "url": null,
-      "eventsUrl": null,
+      "url": "https://www.townofbabylonny.gov/275/Tanner-Park-Senior-Center",
+      "eventsUrl": "https://www.townofbabylonny.gov/DocumentCenter/View/10362/2025-Recycling-Calendar-PDF",
       "facebook": null,
       "instagram": null,
-      "scraper": null,
+      "scraper": "auto",
       "genre": [
-        "performing arts"
+        "live music"
       ],
       "active": true,
       "source": "google-places"
@@ -3942,8 +4021,28 @@
         40.659897199999996,
         -73.0900719
       ],
-      "url": "https://www.icepalace.club/",
-      "eventsUrl": "https://www.icepalace.club/events",
+      "url": "https://icepalace.club/",
+      "eventsUrl": "https://icepalace.club/events/",
+      "facebook": null,
+      "instagram": null,
+      "scraper": "auto",
+      "genre": [
+        "live music"
+      ],
+      "active": true,
+      "source": "google-places"
+    },
+    {
+      "id": "gp-RVli3nec_ds0",
+      "googlePlaceId": "ChIJMQ_Lv4RvwokRVli3nec_ds0",
+      "name": "The Inn",
+      "location": "Long Beach, NY",
+      "coords": [
+        40.586186999999995,
+        -73.6934903
+      ],
+      "url": "https://www.theinnlbny.com/",
+      "eventsUrl": "https://www.theinnlbny.com/events",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -4044,26 +4143,6 @@
       ],
       "url": "https://www.theoasiscafe.com/",
       "eventsUrl": "https://www.theoasiscafe.com/events",
-      "facebook": null,
-      "instagram": null,
-      "scraper": "auto",
-      "genre": [
-        "live music"
-      ],
-      "active": true,
-      "source": "google-places"
-    },
-    {
-      "id": "gp-RmE9GgYPsvUA",
-      "googlePlaceId": "ChIJP-ez6JFZwokRmE9GgYPsvUA",
-      "name": "The Red Lion | NYC",
-      "location": "New York, NY",
-      "coords": [
-        40.728488,
-        -73.99943139999999
-      ],
-      "url": "https://www.redlionnyc.com/",
-      "eventsUrl": "https://www.redlionnyc.com/live-music/",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -4204,11 +4283,11 @@
         40.9436909,
         -73.0675371
       ],
-      "url": null,
-      "eventsUrl": null,
+      "url": "http://theaterthree.com/",
+      "eventsUrl": "http://theaterthree.com/",
       "facebook": null,
       "instagram": null,
-      "scraper": null,
+      "scraper": "auto",
       "genre": [
         "performing arts"
       ],
@@ -4236,6 +4315,26 @@
       "source": "google-places"
     },
     {
+      "id": "gp-RiJo6ATq_vCg",
+      "googlePlaceId": "ChIJKbSkEZta6IkRiJo6ATq_vCg",
+      "name": "Tiki Joe's Smith Point",
+      "location": "Shirley, NY",
+      "coords": [
+        40.73396760000001,
+        -72.8614976
+      ],
+      "url": null,
+      "eventsUrl": null,
+      "facebook": null,
+      "instagram": null,
+      "scraper": null,
+      "genre": [
+        "live music"
+      ],
+      "active": true,
+      "source": "google-places"
+    },
+    {
       "id": "gp-RWIW6dZkKD1g",
       "googlePlaceId": "ChIJ4Vj9xw6EwokRWIW6dZkKD1g",
       "name": "Tilles Center",
@@ -4258,7 +4357,7 @@
     {
       "id": "gp-RwF1VjJuKNBk",
       "googlePlaceId": "ChIJu0ZsUa5b6IkRwF1VjJuKNBk",
-      "name": "Tippi Canna Cafe & Dispensary",
+      "name": "Tipi Canna Cafe & Dispensary",
       "location": "Mastic, NY",
       "coords": [
         40.7893472,
@@ -4384,11 +4483,11 @@
         40.9166143,
         -72.6624338
       ],
-      "url": "https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Fvailleavitt%2F%3Fhl%3Den&is_from_rle",
-      "eventsUrl": "https://www.instagram.com/events",
+      "url": null,
+      "eventsUrl": null,
       "facebook": null,
       "instagram": null,
-      "scraper": "auto",
+      "scraper": null,
       "genre": [
         "live music"
       ],
@@ -4485,8 +4584,8 @@
         40.8378836,
         -73.2845853
       ],
-      "url": "http://playxgolf.com/locations/commack",
-      "eventsUrl": "http://playxgolf.com/events",
+      "url": "https://playxgolf.com/locations/commack/",
+      "eventsUrl": "https://playxgolf.com/events/",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -4505,11 +4604,11 @@
         40.6886261,
         -73.8174269
       ],
-      "url": "https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Fxscape_nyc%2F&is_from_rle",
-      "eventsUrl": "https://www.instagram.com/events",
+      "url": null,
+      "eventsUrl": null,
       "facebook": null,
       "instagram": null,
-      "scraper": "auto",
+      "scraper": null,
       "genre": [
         "live music"
       ],
@@ -4537,5 +4636,5 @@
       "source": "google-places"
     }
   ],
-  "lastVerified": "2026-08-10T09:10:55.390Z"
+  "lastVerified": "2026-08-17T08:37:01.688Z"
 }

@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-31T12:43:31.339Z",
-  "totalShows": 259,
+  "lastUpdated": "2026-09-01T11:19:56.797Z",
+  "totalShows": 276,
   "errors": 4,
   "venues": {
     "89north": {
@@ -13,7 +13,7 @@
         -73.0163
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:17:43.740Z",
+      "scrapedAt": "2026-09-01T10:52:41.074Z",
       "error": null
     },
     "boulton": {
@@ -26,7 +26,7 @@
         -73.2449
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:18:00.698Z",
+      "scrapedAt": "2026-09-01T10:52:56.453Z",
       "error": null
     },
     "nassaucoliseum": {
@@ -39,7 +39,7 @@
         -73.5932
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:18:07.654Z",
+      "scrapedAt": "2026-09-01T10:53:03.725Z",
       "error": null
     },
     "jonesbeach": {
@@ -222,7 +222,7 @@
           "sourceUrl": "https://www.ticketmaster.com/ashanti-trey-songz-wantagh-new-york-08-27-2027/event/1D006491EF2BA6E6"
         }
       ],
-      "scrapedAt": "2026-08-31T12:18:09.590Z",
+      "scrapedAt": "2026-09-01T10:53:05.703Z",
       "error": null
     },
     "therepublic": {
@@ -235,7 +235,7 @@
         -73.6348
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:18:16.202Z",
+      "scrapedAt": "2026-09-01T10:53:12.460Z",
       "error": null
     },
     "thespaceatwestbury": {
@@ -248,7 +248,7 @@
         -73.5766
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:18:23.844Z",
+      "scrapedAt": "2026-09-01T10:53:21.691Z",
       "error": null
     },
     "gp-RTzccLb0XGjE": {
@@ -261,19 +261,6 @@
         -73.0148361
       ],
       "shows": [
-        {
-          "id": "gp-RTzccLb0XGjE-2026-08-31-dead-monday-reckoning",
-          "title": "Dead Monday - Reckoning",
-          "date": "2026-08-31",
-          "time": null,
-          "doors": null,
-          "ticketUrl": "https://booketing.com/microsite/89northmusicvenue/event/1767/864976/dead-monday-reckoning?eventcode=EVE86497600020260831",
-          "imageUrl": null,
-          "price": null,
-          "ages": null,
-          "description": null,
-          "sourceUrl": "https://booketing.com/microsite/89northmusicvenue/event/1767/864976/dead-monday-reckoning?eventcode=EVE86497600020260831"
-        },
         {
           "id": "gp-RTzccLb0XGjE-2026-09-02-country-wednesday",
           "title": "Country Wednesday",
@@ -561,7 +548,7 @@
           "sourceUrl": "https://booketing.com/microsite/89northmusicvenue/event/1767/864976/completely-unchained?eventcode=EVE86497600020261010"
         }
       ],
-      "scrapedAt": "2026-08-31T12:18:26.078Z",
+      "scrapedAt": "2026-09-01T10:53:23.933Z",
       "error": null
     },
     "gp-Rg1BoekcLJXE": {
@@ -574,7 +561,7 @@
         -73.45534359999999
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:18:34.682Z",
+      "scrapedAt": "2026-09-01T10:53:32.618Z",
       "error": null
     },
     "gp-Rze5NJj4yr6Y": {
@@ -587,7 +574,7 @@
         -73.65077200000002
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:18:44.532Z",
+      "scrapedAt": "2026-09-01T10:53:44.034Z",
       "error": null
     },
     "gp-RIEghYHzWE98": {
@@ -600,7 +587,7 @@
         -73.7923212
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:18:53.166Z",
+      "scrapedAt": "2026-09-01T10:53:53.247Z",
       "error": null
     },
     "gp-R7XpTLOwZjY8": {
@@ -613,7 +600,7 @@
         -73.79066329999999
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:19:00.985Z",
+      "scrapedAt": "2026-09-01T10:54:01.214Z",
       "error": null
     },
     "gp-RiLfdSpbDBAI": {
@@ -626,7 +613,7 @@
         -73.1154071
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:19:08.197Z",
+      "scrapedAt": "2026-09-01T10:54:07.537Z",
       "error": null
     },
     "gp-RazNIVr7JMZw": {
@@ -639,7 +626,7 @@
         -73.1066013
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:19:14.630Z",
+      "scrapedAt": "2026-09-01T10:54:44.468Z",
       "error": null
     },
     "gp-RwPUP6MQ02HQ": {
@@ -652,7 +639,7 @@
         -72.4435625
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:19:22.329Z",
+      "scrapedAt": "2026-09-01T10:54:52.494Z",
       "error": null
     },
     "gp-RkDGZh2q7wgA": {
@@ -665,7 +652,7 @@
         -73.37479549999999
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:19:32.456Z",
+      "scrapedAt": "2026-09-01T10:54:59.829Z",
       "error": null
     },
     "gp-ROaro9weorEo": {
@@ -678,7 +665,7 @@
         -73.6114516
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:19:40.347Z",
+      "scrapedAt": "2026-09-01T10:55:07.824Z",
       "error": null
     },
     "gp-RiFn0D_gR6k8": {
@@ -691,7 +678,7 @@
         -73.6457695
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:19:49.506Z",
+      "scrapedAt": "2026-09-01T10:55:16.952Z",
       "error": null
     },
     "gp-R-TlA5z9K1E4": {
@@ -704,7 +691,7 @@
         -72.295628
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:19:57.348Z",
+      "scrapedAt": "2026-09-01T10:55:24.903Z",
       "error": null
     },
     "gp-RBCnbdcQArMM": {
@@ -717,7 +704,7 @@
         -73.179489
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:20:05.082Z",
+      "scrapedAt": "2026-09-01T10:55:32.534Z",
       "error": null
     },
     "gp-Rei5cjo5MYxc": {
@@ -730,7 +717,7 @@
         -72.5052603
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:20:11.618Z",
+      "scrapedAt": "2026-09-01T10:55:39.347Z",
       "error": null
     },
     "gp-REP1_HX58bZQ": {
@@ -743,7 +730,7 @@
         -73.365021
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:20:19.806Z",
+      "scrapedAt": "2026-09-01T10:55:47.072Z",
       "error": null
     },
     "gp-R5pFSi09Vln4": {
@@ -796,7 +783,7 @@
           "sourceUrl": "https://www.besitomexican.com/event-details-registration/sunday-brunch-and-2-for-1-margaritas-besito-mexican-roslyn-2026-09-06-12-00"
         }
       ],
-      "scrapedAt": "2026-08-31T12:20:28.802Z",
+      "scrapedAt": "2026-09-01T10:55:56.022Z",
       "error": null
     },
     "gp-RmaYnDwWsXm0": {
@@ -809,7 +796,7 @@
         -73.8206519
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:20:37.806Z",
+      "scrapedAt": "2026-09-01T10:56:05.061Z",
       "error": null
     },
     "gp-Rk3sBsPDf1Qs": {
@@ -822,7 +809,7 @@
         -73.1180294
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:21:15.214Z",
+      "scrapedAt": "2026-09-01T10:56:42.376Z",
       "error": null
     },
     "gp-R5XNXSlBFpQU": {
@@ -835,7 +822,7 @@
         -73.6138732
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:21:21.824Z",
+      "scrapedAt": "2026-09-01T10:56:48.845Z",
       "error": null
     },
     "gp-RAOIUK1BTs_0": {
@@ -848,7 +835,7 @@
         -73.24866639999999
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:21:36.741Z",
+      "scrapedAt": "2026-09-01T10:57:03.813Z",
       "error": null
     },
     "gp-RKut-1EelWRo": {
@@ -1330,7 +1317,7 @@
           "sourceUrl": "https://www.ticketmaster.com/tinashe-one-night-with-a-popstar-brooklyn-new-york-10-24-2026/event/000064F4F879F85D"
         }
       ],
-      "scrapedAt": "2026-08-31T12:21:38.798Z",
+      "scrapedAt": "2026-09-01T10:57:05.861Z",
       "error": null
     },
     "gp-R-iRShvv7Yq8": {
@@ -1343,7 +1330,7 @@
         -73.1227136
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:21:45.792Z",
+      "scrapedAt": "2026-09-01T10:57:13.368Z",
       "error": null
     },
     "gp-RKy9lcp2-tJU": {
@@ -1356,20 +1343,20 @@
         -73.33872339999999
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:21:51.555Z",
+      "scrapedAt": "2026-09-01T10:57:19.153Z",
       "error": null
     },
-    "gp-RdOVvhkVJd4A": {
-      "id": "gp-RdOVvhkVJd4A",
-      "name": "Catholic Health Amphitheater at Bald Hill",
-      "location": "Farmingville, NY",
-      "url": "https://www.champbaldhill.com/",
+    "gp-RlIIomuKFEb8": {
+      "id": "gp-RlIIomuKFEb8",
+      "name": "Caribbean Soul",
+      "location": "Rosedale, NY",
+      "url": "https://www.caribbeansoulnyc.com/",
       "coords": [
-        40.843998,
-        -73.0219261
+        40.6741995,
+        -73.73609189999999
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:21:59.280Z",
+      "scrapedAt": "2026-09-01T10:58:30.356Z",
       "error": null
     },
     "gp-RLV4Ir4J2ka8": {
@@ -1382,20 +1369,7 @@
         -72.82812899999999
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:22:07.032Z",
-      "error": null
-    },
-    "gp-RNojI3z_v1wQ": {
-      "id": "gp-RNojI3z_v1wQ",
-      "name": "Charlotte’s Speakeasy",
-      "location": "Farmingdale, NY",
-      "url": "https://www.charlottesspeakeasy.com/",
-      "coords": [
-        40.7323933,
-        -73.4460003
-      ],
-      "shows": [],
-      "scrapedAt": "2026-08-31T12:22:14.630Z",
+      "scrapedAt": "2026-09-01T10:58:45.846Z",
       "error": null
     },
     "gp-RPr_aoOa_uBQ": {
@@ -1408,7 +1382,7 @@
         -73.8136576
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:22:18.104Z",
+      "scrapedAt": "2026-09-01T10:58:49.365Z",
       "error": "Could not load any page for Cheap Shots Sports Bar & Lounge"
     },
     "gp-RvfGPGmdyHP4": {
@@ -1421,7 +1395,7 @@
         -73.0905422
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:22:26.441Z",
+      "scrapedAt": "2026-09-01T10:58:57.811Z",
       "error": null
     },
     "gp-R0J5P-a1Gdf0": {
@@ -1434,7 +1408,7 @@
         -73.43022169999999
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:22:32.662Z",
+      "scrapedAt": "2026-09-01T10:59:03.547Z",
       "error": null
     },
     "gp-RDWv0HGLpaYc": {
@@ -1447,7 +1421,7 @@
         -73.11967849999999
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:22:41.310Z",
+      "scrapedAt": "2026-09-01T10:59:11.857Z",
       "error": null
     },
     "gp-RFriA6RCV50s": {
@@ -1460,7 +1434,7 @@
         -73.3366831
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:22:47.567Z",
+      "scrapedAt": "2026-09-01T10:59:18.466Z",
       "error": null
     },
     "gp-RI2G62e3O5Y4": {
@@ -1473,7 +1447,7 @@
         -73.5291127
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:22:54.787Z",
+      "scrapedAt": "2026-09-01T10:59:25.491Z",
       "error": null
     },
     "gp-REwM-4VZxTmQ": {
@@ -1486,7 +1460,7 @@
         -73.51660319999999
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:23:01.243Z",
+      "scrapedAt": "2026-09-01T10:59:32.137Z",
       "error": null
     },
     "gp-R1o-dUQRs98w": {
@@ -1499,7 +1473,7 @@
         -73.7528071
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:23:07.138Z",
+      "scrapedAt": "2026-09-01T10:59:38.300Z",
       "error": null
     },
     "gp-RGM6d09fBUHY": {
@@ -1512,7 +1486,7 @@
         -73.5686602
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:23:16.551Z",
+      "scrapedAt": "2026-09-01T10:59:50.358Z",
       "error": null
     },
     "gp-RN3kH0EWhJ20": {
@@ -1525,7 +1499,7 @@
         -73.369372
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:23:24.265Z",
+      "scrapedAt": "2026-09-01T10:59:58.088Z",
       "error": null
     },
     "gp-R6T82p5EKIdk": {
@@ -1538,7 +1512,7 @@
         -73.20580559999999
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:23:34.965Z",
+      "scrapedAt": "2026-09-01T11:00:10.406Z",
       "error": null
     },
     "gp-R8xMnNbLxUQI": {
@@ -1551,20 +1525,7 @@
         -72.5004227
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:24:11.792Z",
-      "error": null
-    },
-    "gp-RfSCIO0Dzy0w": {
-      "id": "gp-RfSCIO0Dzy0w",
-      "name": "Eleanors Lounge",
-      "location": "Bohemia, NY",
-      "url": "https://eleanorslounge.com/",
-      "coords": [
-        40.7498779,
-        -73.1350403
-      ],
-      "shows": [],
-      "scrapedAt": "2026-08-31T12:24:18.137Z",
+      "scrapedAt": "2026-09-01T11:00:47.131Z",
       "error": null
     },
     "gp-Rx-qc0vORGJ8": {
@@ -1577,7 +1538,7 @@
         -73.7882566
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:24:28.825Z",
+      "scrapedAt": "2026-09-01T11:00:57.815Z",
       "error": null
     },
     "gp-RYYmuJ8b-3sM": {
@@ -2007,6 +1968,19 @@
           "sourceUrl": "https://www.ticketmaster.com/free-fallin-a-tribute-to-tom-westbury-new-york-02-12-2027/event/0000647ADFB00CF9"
         },
         {
+          "id": "gp-RYYmuJ8b-3sM-2027-05-03-foreigner-celebrating-fifty-years",
+          "title": "Foreigner: Celebrating Fifty Years",
+          "date": "2027-05-03",
+          "time": "8:00 PM",
+          "doors": null,
+          "ticketUrl": "https://www.ticketmaster.com/foreigner-celebrating-fifty-years-westbury-new-york-05-02-2027/event/00006513B14AF2C1",
+          "imageUrl": "https://s1.ticketm.net/dam/a/711/2de84e77-47c7-4925-8220-9e873a30f711_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+          "price": null,
+          "ages": null,
+          "description": null,
+          "sourceUrl": "https://www.ticketmaster.com/foreigner-celebrating-fifty-years-westbury-new-york-05-02-2027/event/00006513B14AF2C1"
+        },
+        {
           "id": "gp-RYYmuJ8b-3sM-2027-05-20-jeff-arcuri-the-road-trip-tour",
           "title": "Jeff Arcuri: The Road Trip Tour",
           "date": "2027-05-20",
@@ -2033,7 +2007,7 @@
           "sourceUrl": "https://www.ticketmaster.com/leonid-friends-westbury-new-york-05-22-2027/event/000065069473BAE6"
         }
       ],
-      "scrapedAt": "2026-08-31T12:24:30.799Z",
+      "scrapedAt": "2026-09-01T11:00:59.855Z",
       "error": null
     },
     "gp-RByPecIS9Xa8": {
@@ -2046,7 +2020,7 @@
         -73.4331964
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:24:37.692Z",
+      "scrapedAt": "2026-09-01T11:01:06.861Z",
       "error": null
     },
     "gp-RWZL4FjNHB90": {
@@ -2059,7 +2033,7 @@
         -73.61959829999999
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:24:39.995Z",
+      "scrapedAt": "2026-09-01T11:01:09.035Z",
       "error": null
     },
     "gp-RXHXjVn97cpM": {
@@ -2072,7 +2046,7 @@
         -73.826307
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:24:46.066Z",
+      "scrapedAt": "2026-09-01T11:01:14.847Z",
       "error": null
     },
     "gp-RkrVrzP7vqUo": {
@@ -2085,7 +2059,7 @@
         -72.36234069999999
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:24:53.897Z",
+      "scrapedAt": "2026-09-01T11:01:23.886Z",
       "error": null
     },
     "gp-RzQvDTKYZaIo": {
@@ -2098,19 +2072,6 @@
         -72.19034189999999
       ],
       "shows": [
-        {
-          "id": "gp-RzQvDTKYZaIo-2026-08-31-the-center-at-west-park-presents-the-big-chill",
-          "title": "THE CENTER AT WEST PARK PRESENTS: THE BIG CHILL",
-          "date": "2026-08-31",
-          "time": "7:00 PM",
-          "doors": null,
-          "ticketUrl": "https://www.guildhall.org/events/the-center-at-west-park-the-big-chill/",
-          "imageUrl": "https://www.guildhall.org/wp-content/uploads/2025/07/25_08_25_0010-1-1-scaled.jpg",
-          "price": null,
-          "ages": null,
-          "description": "&lt;p&gt;Presented by The Center at West Park The Center at West Park presents a staged reading of the screenplay of The Big Chill, by Lawrence Kasdan and Barbara Benedek, directed by David Saint. The ensemble will feature Oscar-winner Marisa Tomei (My Cousin Vinny, The Wrestler), Tony Award-winner ",
-          "sourceUrl": "https://www.guildhall.org/events/the-center-at-west-park-the-big-chill/"
-        },
         {
           "id": "gp-RzQvDTKYZaIo-2026-09-02-kidfest-up-in-arms-pirate-song",
           "title": "KIDFEST: UP IN ARMS—PIRATE SONG",
@@ -2175,9 +2136,100 @@
           "ages": null,
           "description": "&lt;p&gt;Our tradition of closing out the summer with another epic Silent Disco Dance Party continues! Your favorite DJ\\'s return to the Furman Garden, where Mister Lama will spin iconic disco and funk tunes, DJ Divina will drop some hot Latin beats, and Schvitz-a-Lot will blast the most danceable p",
           "sourceUrl": "https://www.guildhall.org/events/labor-day-weekend-silent-disco-dance-party/"
+        },
+        {
+          "id": "gp-RzQvDTKYZaIo-2026-09-14-art-social-floral-arts",
+          "title": "ART SOCIAL: FLORAL ARTS",
+          "date": "2026-09-14",
+          "time": "6:00 PM",
+          "doors": null,
+          "ticketUrl": "https://www.guildhall.org/events/art-social-floral-arts/",
+          "imageUrl": "https://www.guildhall.org/wp-content/uploads/2026/04/Jasmine-scaled.png",
+          "price": null,
+          "ages": null,
+          "description": "&lt;p&gt;with Jasmine Chamberlain Join us for a flowery Art Social with mixed-media artist Jasmine Chamberlain, known for her floral installations, sculpture, and design. Course details to come! Art Social is a monthly gathering where attendees enter into a supportive and judgment-free session of ar",
+          "sourceUrl": "https://www.guildhall.org/events/art-social-floral-arts/"
+        },
+        {
+          "id": "gp-RzQvDTKYZaIo-2026-09-17-third-thursdays-8211-friday-night-social-featuring-brad-penu",
+          "title": "THIRD THURSDAYS &#8211; FRIDAY NIGHT SOCIAL, FEATURING BRAD PENUEL",
+          "date": "2026-09-17",
+          "time": "5:30 PM",
+          "doors": null,
+          "ticketUrl": "https://www.guildhall.org/events/third-thursdays-friday-night-social-featuring-brad-penuel/",
+          "imageUrl": "https://www.guildhall.org/wp-content/uploads/2026/04/Friday-Night-scaled.jpeg",
+          "price": null,
+          "ages": null,
+          "description": "&lt;p&gt;Third Thursdays at Guild Hall are a vibrant celebration of art, music, and community. Enjoy live music in the Minikes garden curated by Carlos Lama during extended gallery hours, offering the perfect backdrop to visit the exhibitions on view at a relaxed pace. Concessions, including wine, b",
+          "sourceUrl": "https://www.guildhall.org/events/third-thursdays-friday-night-social-featuring-brad-penuel/"
+        },
+        {
+          "id": "gp-RzQvDTKYZaIo-2026-09-19-in-process-robbie-fairchild-lord-chamberlain-s-men",
+          "title": "IN-PROCESS: ROBBIE FAIRCHILD – LORD CHAMBERLAIN’S MEN",
+          "date": "2026-09-19",
+          "time": "7:00 PM",
+          "doors": null,
+          "ticketUrl": "https://www.guildhall.org/events/in-process-robbie-fairchild-lord-chamberlains-men/",
+          "imageUrl": "https://www.guildhall.org/wp-content/uploads/2026/04/Fairchild.jpg",
+          "price": null,
+          "ages": null,
+          "description": "&lt;p&gt;Co-commission with New York City Center Guild Hall William P. Rayner Artist-in-Residence Robbie Fairchild shares an in-process presentation of his new dance-theater work, Lord Chamberlain’s Men, offering audiences a sneak peek ahead of its premiere at New York City Center’s Fall for Dance F",
+          "sourceUrl": "https://www.guildhall.org/events/in-process-robbie-fairchild-lord-chamberlains-men/"
+        },
+        {
+          "id": "gp-RzQvDTKYZaIo-2026-09-20-the-matthiessen-talks-hope-spots-038-hidden-worlds-8211-huma",
+          "title": "THE MATTHIESSEN TALKS: HOPE SPOTS &#038; HIDDEN WORLDS &#8211; HUMANITY’S PLACE IN THE OCEAN",
+          "date": "2026-09-20",
+          "time": "4:00 PM",
+          "doors": null,
+          "ticketUrl": "https://www.guildhall.org/events/the-matthiessen-talks-hope-spots-hidden-worlds-humanitys-place-in-the-ocean/",
+          "imageUrl": "https://www.guildhall.org/wp-content/uploads/2026/04/Dr.-Sylvia-Earle_Photo-by-Felix-Kunze-scaled.jpeg",
+          "price": null,
+          "ages": null,
+          "description": "&lt;p&gt;Presented by The Peter Matthiessen Center &amp; Guild Hall Renowned marine biologist, undersea explorer, and founder of Mission Blue, Dr. Sylvia Earle explores the power of writing to illuminate what we know—and don’t know—about the ocean, where the vast majority of life remains unseen. She",
+          "sourceUrl": "https://www.guildhall.org/events/the-matthiessen-talks-hope-spots-hidden-worlds-humanitys-place-in-the-ocean/"
+        },
+        {
+          "id": "gp-RzQvDTKYZaIo-2026-09-26-family-day",
+          "title": "FAMILY DAY",
+          "date": "2026-09-26",
+          "time": "1:00 PM",
+          "doors": null,
+          "ticketUrl": "https://www.guildhall.org/events/family-day-7/",
+          "imageUrl": "https://www.guildhall.org/wp-content/uploads/2026/01/25_11_15_0263.jpg",
+          "price": "$0",
+          "ages": null,
+          "description": "&lt;p&gt;Gather your crew and spend the day getting creative at Guild Hall! Each month, Family Day brings hands-on art workshops, kid-friendly tours of our galleries led by the Teen Arts Council, and lively performances from local student artists in the Hilarie and Mitchell Morgan Theater. It’s a fu",
+          "sourceUrl": "https://www.guildhall.org/events/family-day-7/"
+        },
+        {
+          "id": "gp-RzQvDTKYZaIo-2026-09-27-robby-hoffman-live-on-tour",
+          "title": "ROBBY HOFFMAN: LIVE ON TOUR",
+          "date": "2026-09-27",
+          "time": "7:00 PM",
+          "doors": null,
+          "ticketUrl": "https://www.guildhall.org/events/robby-hoffman/",
+          "imageUrl": "https://www.guildhall.org/wp-content/uploads/2026/03/RobbyHoffman_Photo-AaronWynia.jpg.jpeg",
+          "price": null,
+          "ages": null,
+          "description": "&lt;p&gt;Spend an evening laughing out loud with Robby Hoffman, the wildly original comedian and Emmy-nominated breakout star of HBO’s Hacks. Known for scene-stealing performances and a voice that’s as bold as it is unpredictable, Hoffman has quickly become one of comedy’s most exciting rising force",
+          "sourceUrl": "https://www.guildhall.org/events/robby-hoffman/"
+        },
+        {
+          "id": "gp-RzQvDTKYZaIo-2026-10-03-met-live-in-hd-cos-fan-tutte",
+          "title": "MET LIVE IN HD: COSÌ FAN TUTTE",
+          "date": "2026-10-03",
+          "time": "1:00 PM",
+          "doors": null,
+          "ticketUrl": "https://www.guildhall.org/events/met-live-in-hd-cosi-fan-tutte/",
+          "imageUrl": "https://www.guildhall.org/wp-content/uploads/2026/07/TUTTE429A-copy-scaled.jpeg",
+          "price": null,
+          "ages": null,
+          "description": "&lt;p&gt;Overflowing with gorgeous melody, Mozart’s witty romantic comedy follows two sailors who switch places to test their fiancées’ faithfulness, with hilarious results. Hailed as “colorful, inventive” by The New York Times, Phelim McDermott’s (Satyagraha, Akhnaten, The Hours, The Enchanted Isla",
+          "sourceUrl": "https://www.guildhall.org/events/met-live-in-hd-cosi-fan-tutte/"
         }
       ],
-      "scrapedAt": "2026-08-31T12:24:57.048Z",
+      "scrapedAt": "2026-09-01T11:01:26.810Z",
       "error": null
     },
     "gp-R8_7LUKzPWhE": {
@@ -2190,7 +2242,7 @@
         -73.20232589999999
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:25:04.208Z",
+      "scrapedAt": "2026-09-01T11:01:51.639Z",
       "error": null
     },
     "gp-RjMWpVub1jGU": {
@@ -2203,7 +2255,7 @@
         -72.60874120000001
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:25:41.415Z",
+      "scrapedAt": "2026-09-01T11:02:28.534Z",
       "error": null
     },
     "gp-RpHPr-CFTzVM": {
@@ -2216,7 +2268,7 @@
         -73.804616
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:25:54.223Z",
+      "scrapedAt": "2026-09-01T11:02:38.714Z",
       "error": null
     },
     "gp-R905wyCfP6lg": {
@@ -2229,7 +2281,7 @@
         -73.4617559
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:26:01.375Z",
+      "scrapedAt": "2026-09-01T11:02:46.139Z",
       "error": null
     },
     "gp-RFK3Oc7SCCzI": {
@@ -2242,7 +2294,7 @@
         -73.729185
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:26:09.829Z",
+      "scrapedAt": "2026-09-01T11:02:55.035Z",
       "error": null
     },
     "gp-RNVWCBc7bqkU": {
@@ -2255,7 +2307,7 @@
         -73.5047846
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:26:19.093Z",
+      "scrapedAt": "2026-09-01T11:03:04.304Z",
       "error": null
     },
     "gp-RuR4wDjce8pk": {
@@ -2268,7 +2320,7 @@
         -73.6279342
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:26:26.105Z",
+      "scrapedAt": "2026-09-01T11:03:11.840Z",
       "error": null
     },
     "gp-RigHJ3vWWH2g": {
@@ -2281,7 +2333,7 @@
         -73.69109279999999
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:26:33.227Z",
+      "scrapedAt": "2026-09-01T11:03:18.944Z",
       "error": null
     },
     "gp-RkWAO8bJJPtA": {
@@ -2379,7 +2431,7 @@
           "time": "6:00 PM",
           "doors": null,
           "ticketUrl": "https://www.landmarkonmainstreet.org/event/candlelight-concerts-vivaldi/",
-          "imageUrl": "https://www.landmarkonmainstreet.org/wp-content/uploads/2026/07/571769-Candlelight_MEDIAKIT_GENERIC_2023_11_10_Histo-Relais-San-Pietro-Sul-Mar-Piccolo_TARANTO_IT_22-51285e-original-1737470762-e1783014709411.jpg",
+          "imageUrl": "https://www.landmarkonmainstreet.org/wp-content/uploads/2026/07/571769-Candlelight_MEDIAKIT_GENERIC_2023_11_10_Histo-Relais-San-Pietro-Sul-Mar-Piccolo_TARANTO_IT_22-51285e-original-1737470762-e1788190212180.jpg",
           "price": null,
           "ages": null,
           "description": "&lt;p&gt;presented by fever&lt;/p&gt;\\n",
@@ -2392,7 +2444,7 @@
           "time": "8:30 PM",
           "doors": null,
           "ticketUrl": "https://www.landmarkonmainstreet.org/event/candlelight-concerts-michael-jackson/",
-          "imageUrl": "https://www.landmarkonmainstreet.org/wp-content/uploads/2026/07/571769-Candlelight_MEDIAKIT_GENERIC_2023_11_10_Histo-Relais-San-Pietro-Sul-Mar-Piccolo_TARANTO_IT_22-51285e-original-1737470762-e1783014709411.jpg",
+          "imageUrl": "https://www.landmarkonmainstreet.org/wp-content/uploads/2026/07/571769-Candlelight_MEDIAKIT_GENERIC_2023_11_10_Histo-Relais-San-Pietro-Sul-Mar-Piccolo_TARANTO_IT_22-51285e-original-1737470762-e1788190212180.jpg",
           "price": null,
           "ages": null,
           "description": "&lt;p&gt;presented by fever&lt;/p&gt;\\n",
@@ -2568,7 +2620,7 @@
           "sourceUrl": "https://www.landmarkonmainstreet.org/event/matthew-morrison/"
         }
       ],
-      "scrapedAt": "2026-08-31T12:26:35.408Z",
+      "scrapedAt": "2026-09-01T11:03:21.678Z",
       "error": null
     },
     "gp-Rj12H5uoF0JU": {
@@ -2581,7 +2633,7 @@
         -73.6007261
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:26:42.750Z",
+      "scrapedAt": "2026-09-01T11:03:28.872Z",
       "error": null
     },
     "gp-Rq8TbDjNMI90": {
@@ -2594,7 +2646,20 @@
         -73.34662569999999
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:26:53.418Z",
+      "scrapedAt": "2026-09-01T11:03:36.373Z",
+      "error": null
+    },
+    "gp-RMUHShM07tRw": {
+      "id": "gp-RMUHShM07tRw",
+      "name": "Jones Beach Bandshell",
+      "location": "Jones Beach,, Jones Boardwalk, Wantagh, NY 11793, USA",
+      "url": "https://jonesbeach.com/index.php?option=com_content&view=article&id=442&Itemid=100057",
+      "coords": [
+        40.5943557,
+        -73.5092251
+      ],
+      "shows": [],
+      "scrapedAt": "2026-09-01T11:03:46.752Z",
       "error": null
     },
     "gp-Rv-A4gnJvRG0": {
@@ -2607,20 +2672,20 @@
         -73.8041667
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:27:03.039Z",
+      "scrapedAt": "2026-09-01T11:03:56.277Z",
       "error": null
     },
-    "gp-Rf6RPI2dSLqU": {
-      "id": "gp-Rf6RPI2dSLqU",
-      "name": "Ketchy Beach East Hampton",
-      "location": "East Hampton, NY",
-      "url": "https://www.ketchybeach.com/",
+    "gp-RrEgrOH9iF1c": {
+      "id": "gp-RrEgrOH9iF1c",
+      "name": "Katies of Smithtown",
+      "location": "Smithtown, NY",
+      "url": "https://www.katiesofsmithtown.com/",
       "coords": [
-        40.975663999999995,
-        -72.18164279999999
+        40.8556966,
+        -73.1997222
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:27:10.096Z",
+      "scrapedAt": "2026-09-01T11:04:05.693Z",
       "error": null
     },
     "gp-R6SRf4QELNFU": {
@@ -2633,7 +2698,7 @@
         -73.6355809
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:27:15.863Z",
+      "scrapedAt": "2026-09-01T11:04:11.491Z",
       "error": null
     },
     "gp-RhUx792Wd48w": {
@@ -2646,7 +2711,7 @@
         -73.8194013
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:27:26.703Z",
+      "scrapedAt": "2026-09-01T11:04:21.586Z",
       "error": null
     },
     "gp-R-GS0tjWk5Wc": {
@@ -2659,7 +2724,7 @@
         -73.8156561
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:27:33.334Z",
+      "scrapedAt": "2026-09-01T11:04:28.183Z",
       "error": null
     },
     "gp-RXgRP2ZVwJhw": {
@@ -2672,7 +2737,7 @@
         -73.2322669
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:27:42.805Z",
+      "scrapedAt": "2026-09-01T11:04:37.247Z",
       "error": null
     },
     "gp-RO3Km8DCZytA": {
@@ -2685,7 +2750,7 @@
         -73.66288759999999
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:27:52.535Z",
+      "scrapedAt": "2026-09-01T11:04:47.019Z",
       "error": null
     },
     "gp-RCpc5jJ-HWJI": {
@@ -2698,7 +2763,7 @@
         -73.11222719999999
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:28:03.690Z",
+      "scrapedAt": "2026-09-01T11:04:57.964Z",
       "error": null
     },
     "gp-RCbIpRU7yyT0": {
@@ -2712,6 +2777,32 @@
       ],
       "shows": [
         {
+          "id": "gp-RCbIpRU7yyT0-2026-09-04-happy-hour-band-arlington-drive",
+          "title": "Happy Hour Band: Arlington Drive",
+          "date": "2026-09-04",
+          "time": null,
+          "doors": null,
+          "ticketUrl": "https://www.lilyflanaganspub.com/musicevents/2026/9/4/happy-hour-band-arlington-drive",
+          "imageUrl": null,
+          "price": null,
+          "ages": null,
+          "description": null,
+          "sourceUrl": "https://www.lilyflanaganspub.com/musicevents/2026/9/4/happy-hour-band-arlington-drive"
+        },
+        {
+          "id": "gp-RCbIpRU7yyT0-2026-09-11-happy-hour-band-blindside-tackle",
+          "title": "Happy Hour Band: Blindside Tackle",
+          "date": "2026-09-11",
+          "time": null,
+          "doors": null,
+          "ticketUrl": "https://www.lilyflanaganspub.com/musicevents/2026/9/11/happy-hour-band-blindside-tackle",
+          "imageUrl": null,
+          "price": null,
+          "ages": null,
+          "description": null,
+          "sourceUrl": "https://www.lilyflanaganspub.com/musicevents/2026/9/11/happy-hour-band-blindside-tackle"
+        },
+        {
           "id": "gp-RCbIpRU7yyT0-2026-09-14-babylon-st-patrick-s-day-parade-golf-outing",
           "title": "Babylon St. Patrick's Day Parade Golf Outing",
           "date": "2026-09-14",
@@ -2723,6 +2814,19 @@
           "ages": null,
           "description": null,
           "sourceUrl": "https://www.lilyflanaganspub.com/musicevents/2026/8/7/babylon-st-patricks-day-parade-golf-outing"
+        },
+        {
+          "id": "gp-RCbIpRU7yyT0-2026-09-18-happy-hour-band-when-pigs-fly",
+          "title": "Happy Hour Band: When Pigs Fly",
+          "date": "2026-09-18",
+          "time": null,
+          "doors": null,
+          "ticketUrl": "https://www.lilyflanaganspub.com/musicevents/2026/9/18/happy-hour-band-when-pigs-fly",
+          "imageUrl": null,
+          "price": null,
+          "ages": null,
+          "description": null,
+          "sourceUrl": "https://www.lilyflanaganspub.com/musicevents/2026/9/18/happy-hour-band-when-pigs-fly"
         },
         {
           "id": "gp-RCbIpRU7yyT0-2026-09-19-breakfast-with-paw-patrol-chase-skye",
@@ -2749,6 +2853,19 @@
           "ages": null,
           "description": null,
           "sourceUrl": "https://www.lilyflanaganspub.com/musicevents/2026/9/23/gentlemens-cigar-dinner"
+        },
+        {
+          "id": "gp-RCbIpRU7yyT0-2026-09-25-happy-hour-band-the-byrne-unit-ny",
+          "title": "Happy Hour Band: The Byrne Unit NY",
+          "date": "2026-09-25",
+          "time": null,
+          "doors": null,
+          "ticketUrl": "https://www.lilyflanaganspub.com/musicevents/2026/9/25/happy-hour-band-the-byrne-unit-ny",
+          "imageUrl": null,
+          "price": null,
+          "ages": null,
+          "description": null,
+          "sourceUrl": "https://www.lilyflanaganspub.com/musicevents/2026/9/25/happy-hour-band-the-byrne-unit-ny"
         },
         {
           "id": "gp-RCbIpRU7yyT0-2026-09-26-fairytale-princess-breakfast",
@@ -2985,7 +3102,7 @@
           "sourceUrl": "https://www.lilyflanaganspub.com/musicevents/2026/12/18/happy-hour-band-when-pigs-fly"
         }
       ],
-      "scrapedAt": "2026-08-31T12:28:05.403Z",
+      "scrapedAt": "2026-09-01T11:04:59.592Z",
       "error": null
     },
     "gp-R0fSHmAXOsFU": {
@@ -2998,7 +3115,7 @@
         -73.295793
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:28:43.095Z",
+      "scrapedAt": "2026-09-01T11:05:39.733Z",
       "error": null
     },
     "gp-Rt2CLAmdEG3w": {
@@ -3011,7 +3128,7 @@
         -73.7950129
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:28:53.089Z",
+      "scrapedAt": "2026-09-01T11:05:50.440Z",
       "error": null
     },
     "gp-RLeNruKsGo90": {
@@ -3024,7 +3141,7 @@
         -73.9587331
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:28:59.716Z",
+      "scrapedAt": "2026-09-01T11:05:57.096Z",
       "error": null
     },
     "gp-RR2GVdRIr-Tg": {
@@ -3037,7 +3154,7 @@
         -73.1155958
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:29:09.877Z",
+      "scrapedAt": "2026-09-01T11:06:07.363Z",
       "error": null
     },
     "gp-R-stedWO8WKg": {
@@ -3050,7 +3167,7 @@
         -72.2535355
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:29:17.665Z",
+      "scrapedAt": "2026-09-01T11:06:15.257Z",
       "error": null
     },
     "gp-RGue9M60p5Zo": {
@@ -3063,7 +3180,7 @@
         -72.9682388
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:29:27.495Z",
+      "scrapedAt": "2026-09-01T11:06:24.499Z",
       "error": null
     },
     "gp-R6ZFk3ock3J0": {
@@ -3076,7 +3193,7 @@
         -73.144784
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:29:36.849Z",
+      "scrapedAt": "2026-09-01T11:06:33.420Z",
       "error": null
     },
     "gp-RQ5mL7h-Gj_k": {
@@ -3089,7 +3206,7 @@
         -72.53477
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:29:38.839Z",
+      "scrapedAt": "2026-09-01T11:06:35.249Z",
       "error": null
     },
     "gp-R-xFVaXVmWZs": {
@@ -3298,7 +3415,7 @@
           "sourceUrl": "https://madisontheatreny.org/event/dr-k-s-motown-revue/"
         }
       ],
-      "scrapedAt": "2026-08-31T12:29:41.709Z",
+      "scrapedAt": "2026-09-01T11:06:37.986Z",
       "error": null
     },
     "gp-R7rdRjJMbdyA": {
@@ -3311,7 +3428,7 @@
         -73.2840216
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:29:51.394Z",
+      "scrapedAt": "2026-09-01T11:06:47.413Z",
       "error": null
     },
     "gp-Rp73LYSrmgBw": {
@@ -3494,6 +3611,19 @@
           "sourceUrl": "https://www.melroseballroom.com/events/share-this-event-the-legacy-gala-60-shades-of-black"
         },
         {
+          "id": "gp-Rp73LYSrmgBw-2026-10-31-haunted-ballroom-with-live-performance-by-rack",
+          "title": "Haunted Ballroom with Live Performance by Rack.",
+          "date": "2026-10-31",
+          "time": null,
+          "doors": null,
+          "ticketUrl": "https://www.melroseballroom.com/events/haunted-ballroom-with-live-performance-by-rack",
+          "imageUrl": "https://images.squarespace-cdn.com/content/v1/67b34f96a8b4fa734d73351b/1788191550725-TX29QAU9DTIOA32W0Q7C/mb10.31.26.webp",
+          "price": null,
+          "ages": null,
+          "description": null,
+          "sourceUrl": "https://www.melroseballroom.com/events/haunted-ballroom-with-live-performance-by-rack"
+        },
+        {
           "id": "gp-Rp73LYSrmgBw-2027-01-24-angelo-tsarouchas-live",
           "title": "Angelo Tsarouchas Live",
           "date": "2027-01-24",
@@ -3520,7 +3650,7 @@
           "sourceUrl": "https://www.melroseballroom.com/events/ny-cocktail-expo-2027"
         }
       ],
-      "scrapedAt": "2026-08-31T12:29:53.354Z",
+      "scrapedAt": "2026-09-01T11:06:49.196Z",
       "error": null
     },
     "gp-RR5EaXRhhSYQ": {
@@ -3533,7 +3663,7 @@
         -73.55017840000001
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:30:00.984Z",
+      "scrapedAt": "2026-09-01T11:06:56.859Z",
       "error": null
     },
     "gp-RvBRP5klcaUA": {
@@ -3651,6 +3781,19 @@
           "sourceUrl": "https://liveontheporch.com/events"
         },
         {
+          "id": "gp-RvBRP5klcaUA-2026-10-18-the-cosmic-orchestra",
+          "title": "The Cosmic Orchestra",
+          "date": "2026-10-18",
+          "time": "8:00 PM",
+          "doors": null,
+          "ticketUrl": "https://dice.fm/event/6dgp32-the-cosmic-orchestra-17th-oct-mike-delguidices-live-on-the-porch-smithtown-tickets",
+          "imageUrl": "https://liveontheporch.com/images/the-cosmic-orchestra.webp",
+          "price": "$45",
+          "ages": null,
+          "description": null,
+          "sourceUrl": "https://liveontheporch.com/events"
+        },
+        {
           "id": "gp-RvBRP5klcaUA-2026-10-18-john-vs-paul-matinee",
           "title": "John vs Paul — Matinee",
           "date": "2026-10-18",
@@ -3677,7 +3820,7 @@
           "sourceUrl": "https://liveontheporch.com/events"
         }
       ],
-      "scrapedAt": "2026-08-31T12:30:02.704Z",
+      "scrapedAt": "2026-09-01T11:06:58.531Z",
       "error": null
     },
     "gp-RqpyaLPUtd98": {
@@ -3690,7 +3833,7 @@
         -73.79475339999999
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:30:12.768Z",
+      "scrapedAt": "2026-09-01T11:07:17.449Z",
       "error": null
     },
     "gp-RBExR1-iHFFk": {
@@ -3703,7 +3846,7 @@
         -73.686236
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:30:21.960Z",
+      "scrapedAt": "2026-09-01T11:07:26.142Z",
       "error": null
     },
     "gp-ReIdOikc17Iw": {
@@ -3716,20 +3859,20 @@
         -73.47636949999999
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:31:04.046Z",
+      "scrapedAt": "2026-09-01T11:08:03.223Z",
       "error": null
     },
     "gp-RhsLrbtdvDxg": {
       "id": "gp-RhsLrbtdvDxg",
       "name": "Mr Beery's",
       "location": "Bethpage, NY",
-      "url": "http://www.mrbeerys.com/",
+      "url": "https://www.mrbeerys.com/",
       "coords": [
         40.7256281,
         -73.48753909999999
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:31:11.322Z",
+      "scrapedAt": "2026-09-01T11:08:10.154Z",
       "error": null
     },
     "gp-Rd5KA853eGSQ": {
@@ -3977,7 +4120,7 @@
           "sourceUrl": "https://www.mfpproductions.com/event-details-registration/make-me-smile-chicago-tribute"
         }
       ],
-      "scrapedAt": "2026-08-31T12:31:21.681Z",
+      "scrapedAt": "2026-09-01T11:08:19.027Z",
       "error": null
     },
     "gp-RaLUcvs3PddI": {
@@ -3990,7 +4133,7 @@
         -73.5906528
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:31:28.332Z",
+      "scrapedAt": "2026-09-01T11:08:25.144Z",
       "error": null
     },
     "gp-RKmI58saIUJM": {
@@ -4003,7 +4146,7 @@
         -73.961316
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:31:36.198Z",
+      "scrapedAt": "2026-09-01T11:08:33.162Z",
       "error": null
     },
     "gp-RM0nX6kQACGw": {
@@ -4016,7 +4159,7 @@
         -73.4955075
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:31:51.546Z",
+      "scrapedAt": "2026-09-01T11:08:45.778Z",
       "error": null
     },
     "gp-RpbM-AINDb7U": {
@@ -4029,7 +4172,7 @@
         -73.4454744
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:32:03.074Z",
+      "scrapedAt": "2026-09-01T11:08:55.218Z",
       "error": null
     },
     "gp-RdMbuhJcf-Kw": {
@@ -4042,7 +4185,7 @@
         -73.8100746
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:32:11.020Z",
+      "scrapedAt": "2026-09-01T11:09:03.038Z",
       "error": null
     },
     "gp-RCea6aoH5QYg": {
@@ -4055,7 +4198,7 @@
         -73.3021673
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:32:20.128Z",
+      "scrapedAt": "2026-09-01T11:09:15.842Z",
       "error": null
     },
     "gp-RBQeysFZdimQ": {
@@ -4068,7 +4211,7 @@
         -73.8122027
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:32:28.477Z",
+      "scrapedAt": "2026-09-01T11:09:24.376Z",
       "error": null
     },
     "gp-RBa3_qDzDl7g": {
@@ -4081,7 +4224,7 @@
         -73.4259385
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:32:37.866Z",
+      "scrapedAt": "2026-09-01T11:09:33.768Z",
       "error": null
     },
     "gp-R6JyfEPlAbXA": {
@@ -4094,7 +4237,20 @@
         -73.0134775
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:32:45.957Z",
+      "scrapedAt": "2026-09-01T11:09:42.011Z",
+      "error": null
+    },
+    "gp-Rd9KH36jxC60": {
+      "id": "gp-Rd9KH36jxC60",
+      "name": "Pine Box Rock Shop",
+      "location": "Brooklyn, NY",
+      "url": "https://www.pineboxrockshop.com/",
+      "coords": [
+        40.7052743,
+        -73.93267569999999
+      ],
+      "shows": [],
+      "scrapedAt": "2026-09-01T11:09:52.554Z",
       "error": null
     },
     "gp-RcszHG3nOdO8": {
@@ -4107,7 +4263,7 @@
         -73.75562459999999
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:32:52.792Z",
+      "scrapedAt": "2026-09-01T11:10:02.786Z",
       "error": null
     },
     "gp-RpuqVmVHjcz8": {
@@ -4120,7 +4276,7 @@
         -73.5503095
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:32:59.114Z",
+      "scrapedAt": "2026-09-01T11:10:09.120Z",
       "error": null
     },
     "gp-Raqr9sgbQ-7Y": {
@@ -4133,7 +4289,20 @@
         -73.9567063
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:33:05.681Z",
+      "scrapedAt": "2026-09-01T11:10:15.466Z",
+      "error": null
+    },
+    "gp-RgI_nTb7ZuAk": {
+      "id": "gp-RgI_nTb7ZuAk",
+      "name": "Recovery Room Bar & Grill",
+      "location": "Mineola, NY",
+      "url": "https://www.recoveryroombar.com/",
+      "coords": [
+        40.740801999999995,
+        -73.640635
+      ],
+      "shows": [],
+      "scrapedAt": "2026-09-01T11:10:22.890Z",
       "error": null
     },
     "gp-R6NkXFDhM6M4": {
@@ -4146,7 +4315,7 @@
         -73.4269644
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:33:42.490Z",
+      "scrapedAt": "2026-09-01T11:10:59.642Z",
       "error": null
     },
     "gp-RTlizRW_4cwc": {
@@ -4159,7 +4328,7 @@
         -74.0097278
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:33:50.533Z",
+      "scrapedAt": "2026-09-01T11:11:07.640Z",
       "error": null
     },
     "gp-RzmSNc7-Eatk": {
@@ -4172,7 +4341,7 @@
         -73.0676936
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:34:05.808Z",
+      "scrapedAt": "2026-09-01T11:11:21.775Z",
       "error": null
     },
     "gp-R3MowlmPP4tI": {
@@ -4185,7 +4354,7 @@
         -73.5954951
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:34:42.964Z",
+      "scrapedAt": "2026-09-01T11:11:58.918Z",
       "error": null
     },
     "gp-R4S89DMabsTs": {
@@ -4198,7 +4367,7 @@
         -73.3421237
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:34:49.437Z",
+      "scrapedAt": "2026-09-01T11:12:05.173Z",
       "error": null
     },
     "gp-RhAPsTrp7Rag": {
@@ -4211,7 +4380,7 @@
         -73.2595236
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:34:56.148Z",
+      "scrapedAt": "2026-09-01T11:12:11.847Z",
       "error": null
     },
     "gp-R6FMboYn5k_o": {
@@ -4224,7 +4393,7 @@
         -72.92300209999999
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:35:08.036Z",
+      "scrapedAt": "2026-09-01T11:12:22.420Z",
       "error": null
     },
     "gp-RmCFYEJ95-YE": {
@@ -4237,7 +4406,7 @@
         -73.1855241
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:35:14.624Z",
+      "scrapedAt": "2026-09-01T11:12:29.021Z",
       "error": null
     },
     "gp-RvkyM2ISnUzQ": {
@@ -4250,7 +4419,7 @@
         -73.0585004
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:35:22.350Z",
+      "scrapedAt": "2026-09-01T11:12:37.667Z",
       "error": null
     },
     "gp-RO0spNmQU8Vw": {
@@ -4262,8 +4431,61 @@
         40.8052257,
         -73.63803159999999
       ],
-      "shows": [],
-      "scrapedAt": "2026-08-31T12:35:28.944Z",
+      "shows": [
+        {
+          "id": "gp-RO0spNmQU8Vw-2026-09-06-0-events-6-0-events-6",
+          "title": "0 events\t\t\n\t\t\n\t\t\t6\t\t\n\t\n\t\n\n\t\n\n\t\n\n\t\n\t\t0 events,\n\t\n\t\n\t\t\t\t\t6",
+          "date": "2026-09-06",
+          "time": null,
+          "doors": null,
+          "ticketUrl": null,
+          "imageUrl": null,
+          "price": null,
+          "ages": null,
+          "description": null,
+          "sourceUrl": "https://www.sjjcc.org/events"
+        },
+        {
+          "id": "gp-RO0spNmQU8Vw-2026-09-13-0-events-13-0-events-13",
+          "title": "0 events\t\t\n\t\t\n\t\t\t13\t\t\n\t\n\t\n\n\t\n\n\t\n\n\t\n\t\t0 events,\n\t\n\t\n\t\t\t\t\t13",
+          "date": "2026-09-13",
+          "time": null,
+          "doors": null,
+          "ticketUrl": null,
+          "imageUrl": null,
+          "price": null,
+          "ages": null,
+          "description": null,
+          "sourceUrl": "https://www.sjjcc.org/events"
+        },
+        {
+          "id": "gp-RO0spNmQU8Vw-2026-09-20-0-events-20-0-events-20",
+          "title": "0 events\t\t\n\t\t\n\t\t\t20\t\t\n\t\n\t\n\n\t\n\n\t\n\n\t\n\t\t0 events,\n\t\n\t\n\t\t\t\t\t20",
+          "date": "2026-09-20",
+          "time": null,
+          "doors": null,
+          "ticketUrl": null,
+          "imageUrl": null,
+          "price": null,
+          "ages": null,
+          "description": null,
+          "sourceUrl": "https://www.sjjcc.org/events"
+        },
+        {
+          "id": "gp-RO0spNmQU8Vw-2026-09-27-0-events-27-0-events-27",
+          "title": "0 events\t\t\n\t\t\n\t\t\t27\t\t\n\t\n\t\n\n\t\n\n\t\n\n\t\n\t\t0 events,\n\t\n\t\n\t\t\t\t\t27",
+          "date": "2026-09-27",
+          "time": null,
+          "doors": null,
+          "ticketUrl": null,
+          "imageUrl": null,
+          "price": null,
+          "ages": null,
+          "description": null,
+          "sourceUrl": "https://www.sjjcc.org/events"
+        }
+      ],
+      "scrapedAt": "2026-09-01T11:12:40.422Z",
       "error": null
     },
     "gp-R8hy8k-bf3ls": {
@@ -4276,7 +4498,7 @@
         -73.7016271
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:35:34.611Z",
+      "scrapedAt": "2026-09-01T11:12:46.320Z",
       "error": null
     },
     "gp-RvoTnuTfpOII": {
@@ -4288,8 +4510,22 @@
         40.686478,
         -73.373475
       ],
-      "shows": [],
-      "scrapedAt": "2026-08-31T12:36:11.760Z",
+      "shows": [
+        {
+          "id": "gp-RvoTnuTfpOII-2026-09-04-south-shore-theatre-experience-15th-annual-one-act-festival",
+          "title": "South Shore Theatre Experience 15th Annual One Act Festival",
+          "date": "2026-09-04",
+          "time": "8:00 PM",
+          "doors": null,
+          "ticketUrl": "https://events.ticketleap.com/tickets/south-shore-theatre-experience/south-shore-theatre-experience-15th-annual-one-act-festival",
+          "imageUrl": "https://tlt-events.s3.amazonaws.com/4205/2141338/fabc99739f7f9288aa5900f5314b8c15fd0183178623ef7006b8a89900999be2/80f049ee-61fc-4e98-ab9a-cac322f43d60.jpg",
+          "price": "$27.00",
+          "ages": null,
+          "description": "South Shore Theatre Experience is proud to present their\n15th Annual One Act Festival\nScenes from an Itlaian Restaurant\nThe Writers:\nMichael Casano, Grace Donaldson, Zachary Downing,&nbsp;\nChristopher Hackert, Peter J. Harrington, Brian C. Petti,&nbsp;\nBrian &amp; Jenn Schwimmer, Mike Wall\n",
+          "sourceUrl": "https://events.ticketleap.com/tickets/south-shore-theatre-experience/south-shore-theatre-experience-15th-annual-one-act-festival"
+        }
+      ],
+      "scrapedAt": "2026-09-01T11:12:48.318Z",
       "error": null
     },
     "gp-RKUEryffCTGw": {
@@ -4302,7 +4538,7 @@
         -72.3944794
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:36:23.401Z",
+      "scrapedAt": "2026-09-01T11:13:00.051Z",
       "error": null
     },
     "gp-Rv6hy2emZdkI": {
@@ -4315,7 +4551,7 @@
         -73.210055
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:36:26.898Z",
+      "scrapedAt": "2026-09-01T11:13:03.753Z",
       "error": "Could not load any page for Space Hookah Lounge"
     },
     "gp-RGCLiR8TB0yA": {
@@ -4328,7 +4564,7 @@
         -73.5820633
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:36:35.660Z",
+      "scrapedAt": "2026-09-01T11:13:14.003Z",
       "error": null
     },
     "gp-R-Z0dkyKGgw0": {
@@ -4341,20 +4577,20 @@
         -72.95408479999999
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:36:41.641Z",
+      "scrapedAt": "2026-09-01T11:13:20.319Z",
       "error": null
     },
     "gp-ROhQaArvJEas": {
       "id": "gp-ROhQaArvJEas",
       "name": "Spotlight Theatre Group",
       "location": "Riverhead, NY",
-      "url": "https://www.facebook.com/spotlighteastend?rdid=mAmSNGeKbjqkgt6C&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1MbPMbNGeK%2F",
+      "url": "https://www.facebook.com/spotlighteastend?rdid=N3yJRSbHK2MpgrwB&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1MbPMbNGeK%2F",
       "coords": [
         40.9165661,
         -72.6623747
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:36:50.552Z",
+      "scrapedAt": "2026-09-01T11:13:29.903Z",
       "error": null
     },
     "gp-RgQg3TEV7Vrs": {
@@ -4615,7 +4851,7 @@
           "sourceUrl": "https://www.stallercenter.com/Calendar.php"
         }
       ],
-      "scrapedAt": "2026-08-31T12:36:59.362Z",
+      "scrapedAt": "2026-09-01T11:13:38.892Z",
       "error": null
     },
     "gp-RRt9gTx5x-gs": {
@@ -4876,7 +5112,7 @@
           "sourceUrl": "https://www.stallercenter.com/Calendar.php"
         }
       ],
-      "scrapedAt": "2026-08-31T12:37:08.124Z",
+      "scrapedAt": "2026-09-01T11:13:47.704Z",
       "error": null
     },
     "gp-RyaoSgmSMaww": {
@@ -4889,7 +5125,7 @@
         -73.3731591
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:37:44.965Z",
+      "scrapedAt": "2026-09-01T11:14:24.548Z",
       "error": null
     },
     "gp-Rn1R3MswoO7U": {
@@ -4902,20 +5138,7 @@
         -72.6461879
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:37:53.696Z",
-      "error": null
-    },
-    "gp-RvvKE8E1Qv2M": {
-      "id": "gp-RvvKE8E1Qv2M",
-      "name": "Tanner Park Band Shell",
-      "location": "Copiague, NY",
-      "url": "https://www.townofbabylonny.gov/275/Tanner-Park-Senior-Center",
-      "coords": [
-        40.6590498,
-        -73.3959201
-      ],
-      "shows": [],
-      "scrapedAt": "2026-08-31T12:38:07.427Z",
+      "scrapedAt": "2026-09-01T11:14:33.274Z",
       "error": null
     },
     "gp-RRTHFTRM7C2Y": {
@@ -4928,7 +5151,7 @@
         -72.3640866
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:38:20.488Z",
+      "scrapedAt": "2026-09-01T11:14:45.326Z",
       "error": null
     },
     "gp-RON84tLRqDCw": {
@@ -4955,7 +5178,7 @@
           "sourceUrl": "https://www.argyletheatre.com/event-details/make-me-smile-a-tribute-to-chicago-2"
         }
       ],
-      "scrapedAt": "2026-08-31T12:38:22.407Z",
+      "scrapedAt": "2026-09-01T11:14:47.208Z",
       "error": null
     },
     "gp-RUose06XEWcU": {
@@ -4968,7 +5191,7 @@
         -72.2443713
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:38:31.749Z",
+      "scrapedAt": "2026-09-01T11:14:56.518Z",
       "error": null
     },
     "gp-ROZsCprmgHB8": {
@@ -4981,7 +5204,7 @@
         -73.4323999
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:38:38.107Z",
+      "scrapedAt": "2026-09-01T11:15:02.737Z",
       "error": null
     },
     "gp-R7L-1vkPc_Ig": {
@@ -4994,7 +5217,7 @@
         -73.4459088
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:38:46.490Z",
+      "scrapedAt": "2026-09-01T11:15:10.961Z",
       "error": null
     },
     "gp-RoSFh_7smlq0": {
@@ -5007,7 +5230,7 @@
         -73.5975952
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:38:54.923Z",
+      "scrapedAt": "2026-09-01T11:15:18.827Z",
       "error": null
     },
     "gp-R-yPKoYbqxTE": {
@@ -5020,7 +5243,7 @@
         -73.5980719
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:39:02.310Z",
+      "scrapedAt": "2026-09-01T11:15:26.332Z",
       "error": null
     },
     "gp-Rh1-qn6Tfd1w": {
@@ -5099,7 +5322,7 @@
           "sourceUrl": "https://icepalace.club/events/"
         }
       ],
-      "scrapedAt": "2026-08-31T12:39:03.993Z",
+      "scrapedAt": "2026-09-01T11:15:27.966Z",
       "error": null
     },
     "gp-RXx1GAgGVW-E": {
@@ -5112,7 +5335,7 @@
         -72.3722767
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:39:11.025Z",
+      "scrapedAt": "2026-09-01T11:15:34.416Z",
       "error": null
     },
     "gp-RP32gQtnDV5M": {
@@ -5125,7 +5348,7 @@
         -72.3626068
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:39:18.899Z",
+      "scrapedAt": "2026-09-01T11:15:42.294Z",
       "error": null
     },
     "gp-R0QSRhPN3P8I": {
@@ -5138,7 +5361,20 @@
         -73.7845339
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:39:25.042Z",
+      "scrapedAt": "2026-09-01T11:15:48.269Z",
+      "error": null
+    },
+    "gp-RmE9GgYPsvUA": {
+      "id": "gp-RmE9GgYPsvUA",
+      "name": "The Red Lion | NYC",
+      "location": "New York, NY",
+      "url": "https://www.redlionnyc.com/",
+      "coords": [
+        40.728488,
+        -73.99943139999999
+      ],
+      "shows": [],
+      "scrapedAt": "2026-09-01T11:15:55.966Z",
       "error": null
     },
     "gp-RbpA8-DGYt08": {
@@ -5151,20 +5387,7 @@
         -74.1963332
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:40:01.933Z",
-      "error": null
-    },
-    "gp-RaihvJZ-ob_w": {
-      "id": "gp-RaihvJZ-ob_w",
-      "name": "The Rock Underground",
-      "location": "Bellmore, NY",
-      "url": "https://www.rockundergroundmusic.com/",
-      "coords": [
-        40.6705988,
-        -73.5280964
-      ],
-      "shows": [],
-      "scrapedAt": "2026-08-31T12:40:08.761Z",
+      "scrapedAt": "2026-09-01T11:16:32.813Z",
       "error": null
     },
     "gp-RZmkkLSJKP0M": {
@@ -5177,7 +5400,7 @@
         -72.1423204
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:40:15.446Z",
+      "scrapedAt": "2026-09-01T11:16:39.258Z",
       "error": null
     },
     "gp-RW8LIRAaCEW0": {
@@ -5190,7 +5413,7 @@
         -72.6604274
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:40:24.086Z",
+      "scrapedAt": "2026-09-01T11:16:47.823Z",
       "error": null
     },
     "gp-RX5mta0m4e8M": {
@@ -5203,7 +5426,7 @@
         -72.9862442
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:41:00.861Z",
+      "scrapedAt": "2026-09-01T11:17:24.588Z",
       "error": null
     },
     "gp-Rrai8sIjm61Y": {
@@ -5216,7 +5439,7 @@
         -72.99762609999999
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:41:07.769Z",
+      "scrapedAt": "2026-09-01T11:17:31.379Z",
       "error": null
     },
     "gp-R8rU0-NNG4HQ": {
@@ -5229,7 +5452,7 @@
         -73.4171066
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:41:31.197Z",
+      "scrapedAt": "2026-09-01T11:17:54.364Z",
       "error": null
     },
     "gp-RjxnbSdRi7aQ": {
@@ -5242,20 +5465,7 @@
         -73.0149486
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:41:38.132Z",
-      "error": null
-    },
-    "gp-RiJo6ATq_vCg": {
-      "id": "gp-RiJo6ATq_vCg",
-      "name": "Tiki Joe's Smith Point",
-      "location": "Shirley, NY",
-      "url": "https://tikijoes.com/",
-      "coords": [
-        40.73396760000001,
-        -72.8614976
-      ],
-      "shows": [],
-      "scrapedAt": "2026-08-31T12:41:47.487Z",
+      "scrapedAt": "2026-09-01T11:18:01.337Z",
       "error": null
     },
     "gp-RWIW6dZkKD1g": {
@@ -5268,7 +5478,7 @@
         -73.59724419999999
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:41:55.499Z",
+      "scrapedAt": "2026-09-01T11:18:09.194Z",
       "error": null
     },
     "gp-RwF1VjJuKNBk": {
@@ -5281,7 +5491,7 @@
         -72.8354974
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:42:08.055Z",
+      "scrapedAt": "2026-09-01T11:18:22.387Z",
       "error": null
     },
     "gp-Rtka3EdovOAg": {
@@ -5294,7 +5504,20 @@
         -73.60073899999999
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:42:15.320Z",
+      "scrapedAt": "2026-09-01T11:18:29.599Z",
+      "error": null
+    },
+    "gp-RVkPsktaRtvg": {
+      "id": "gp-RVkPsktaRtvg",
+      "name": "Toomey's Tavern",
+      "location": "Amityville, NY",
+      "url": "https://www.toomeystavernamityville.com/",
+      "coords": [
+        40.6624316,
+        -73.4240949
+      ],
+      "shows": [],
+      "scrapedAt": "2026-09-01T11:18:37.814Z",
       "error": null
     },
     "gp-RNzUKiLgkycg": {
@@ -5307,7 +5530,7 @@
         -72.8202061
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:42:24.288Z",
+      "scrapedAt": "2026-09-01T11:18:47.035Z",
       "error": null
     },
     "gp-RfUrRlFwGtxk": {
@@ -5320,7 +5543,7 @@
         -73.303607
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:42:31.510Z",
+      "scrapedAt": "2026-09-01T11:18:54.568Z",
       "error": null
     },
     "gp-Rq8nbRM-mkKw": {
@@ -5333,7 +5556,7 @@
         -73.074907
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:42:38.966Z",
+      "scrapedAt": "2026-09-01T11:19:02.360Z",
       "error": null
     },
     "gp-Rw-sGUmhfwzI": {
@@ -5346,7 +5569,7 @@
         -72.424602
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:42:49.104Z",
+      "scrapedAt": "2026-09-01T11:19:13.066Z",
       "error": null
     },
     "gp-RZnnrODfFyek": {
@@ -5359,7 +5582,7 @@
         -72.6624338
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:42:52.640Z",
+      "scrapedAt": "2026-09-01T11:19:16.664Z",
       "error": "Could not load any page for Vail-Leavitt Music Hall"
     },
     "gp-R_JMrImZQ4BY": {
@@ -5372,7 +5595,7 @@
         -73.2747241
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:43:00.404Z",
+      "scrapedAt": "2026-09-01T11:19:27.188Z",
       "error": null
     },
     "gp-RULM6pqJwN-M": {
@@ -5385,7 +5608,7 @@
         -72.6444479
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:43:09.760Z",
+      "scrapedAt": "2026-09-01T11:19:35.811Z",
       "error": null
     },
     "gp-RZTWZ0MtFZeA": {
@@ -5398,7 +5621,7 @@
         -73.0738208
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:43:16.478Z",
+      "scrapedAt": "2026-09-01T11:19:42.916Z",
       "error": null
     },
     "gp-RCSzbOqdSwDM": {
@@ -5411,7 +5634,7 @@
         -73.2845853
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:43:25.899Z",
+      "scrapedAt": "2026-09-01T11:19:51.712Z",
       "error": null
     },
     "gp-Rh3jmrMLwp4Q": {
@@ -5424,7 +5647,7 @@
         -73.8174269
       ],
       "shows": [],
-      "scrapedAt": "2026-08-31T12:43:29.837Z",
+      "scrapedAt": "2026-09-01T11:19:55.297Z",
       "error": "Could not load any page for Xscape NYC"
     }
   }

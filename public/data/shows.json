@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-09-05T10:10:58.888Z",
-  "totalShows": 271,
-  "errors": 0,
+  "lastUpdated": "2026-09-06T10:27:57.826Z",
+  "totalShows": 266,
+  "errors": 1,
   "venues": {
     "89north": {
       "id": "89north",
@@ -13,7 +13,7 @@
         -73.0163
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T09:44:03.997Z",
+      "scrapedAt": "2026-09-06T09:59:48.255Z",
       "error": null
     },
     "boulton": {
@@ -26,7 +26,7 @@
         -73.2449
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T09:44:18.550Z",
+      "scrapedAt": "2026-09-06T10:00:03.563Z",
       "error": null
     },
     "nassaucoliseum": {
@@ -39,7 +39,7 @@
         -73.5932
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T09:44:25.515Z",
+      "scrapedAt": "2026-09-06T10:00:12.349Z",
       "error": null
     },
     "jonesbeach": {
@@ -52,19 +52,6 @@
         -73.5095
       ],
       "shows": [
-        {
-          "id": "jonesbeach-2026-09-05-breaking-benjamin",
-          "title": "Breaking Benjamin",
-          "date": "2026-09-05",
-          "time": "6:00 PM",
-          "doors": null,
-          "ticketUrl": "https://www.ticketmaster.com/breaking-benjamin-wantagh-new-york-09-05-2026/event/1D00644B92932245",
-          "imageUrl": "https://s1.ticketm.net/dam/a/255/f4f5706d-5ec7-4cbe-a6fe-7e76a233e255_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-          "price": null,
-          "ages": null,
-          "description": null,
-          "sourceUrl": "https://www.ticketmaster.com/breaking-benjamin-wantagh-new-york-09-05-2026/event/1D00644B92932245"
-        },
         {
           "id": "jonesbeach-2026-09-11-jason-aldean-songs-about-us-tour-2026",
           "title": "Jason Aldean: Songs About Us Tour 2026",
@@ -222,7 +209,7 @@
           "sourceUrl": "https://www.ticketmaster.com/ashanti-trey-songz-wantagh-new-york-08-27-2027/event/1D006491EF2BA6E6"
         }
       ],
-      "scrapedAt": "2026-09-05T09:44:27.454Z",
+      "scrapedAt": "2026-09-06T10:00:15.164Z",
       "error": null
     },
     "therepublic": {
@@ -235,7 +222,7 @@
         -73.6348
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T09:44:34.133Z",
+      "scrapedAt": "2026-09-06T10:00:21.837Z",
       "error": null
     },
     "thespaceatwestbury": {
@@ -248,7 +235,7 @@
         -73.5766
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T09:44:42.438Z",
+      "scrapedAt": "2026-09-06T10:00:29.080Z",
       "error": null
     },
     "gp-RTzccLb0XGjE": {
@@ -522,7 +509,7 @@
           "sourceUrl": "https://booketing.com/microsite/89northmusicvenue/event/1767/864976/completely-unchained?eventcode=EVE86497600020261010"
         }
       ],
-      "scrapedAt": "2026-09-05T09:44:46.005Z",
+      "scrapedAt": "2026-09-06T10:00:32.465Z",
       "error": null
     },
     "gp-Rg1BoekcLJXE": {
@@ -535,7 +522,7 @@
         -73.45534359999999
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T09:44:54.680Z",
+      "scrapedAt": "2026-09-06T10:00:41.302Z",
       "error": null
     },
     "gp-Rze5NJj4yr6Y": {
@@ -548,7 +535,7 @@
         -73.65077200000002
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T09:45:04.798Z",
+      "scrapedAt": "2026-09-06T10:00:53.147Z",
       "error": null
     },
     "gp-RIEghYHzWE98": {
@@ -561,7 +548,7 @@
         -73.7923212
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T09:45:13.634Z",
+      "scrapedAt": "2026-09-06T10:01:01.356Z",
       "error": null
     },
     "gp-R7XpTLOwZjY8": {
@@ -574,7 +561,7 @@
         -73.79066329999999
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T09:45:21.902Z",
+      "scrapedAt": "2026-09-06T10:01:13.604Z",
       "error": null
     },
     "gp-RiLfdSpbDBAI": {
@@ -587,7 +574,7 @@
         -73.1154071
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T09:45:28.836Z",
+      "scrapedAt": "2026-09-06T10:01:20.893Z",
       "error": null
     },
     "gp-RazNIVr7JMZw": {
@@ -600,7 +587,7 @@
         -73.1066013
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T09:45:35.797Z",
+      "scrapedAt": "2026-09-06T10:01:28.472Z",
       "error": null
     },
     "gp-RwPUP6MQ02HQ": {
@@ -613,7 +600,7 @@
         -72.4435625
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T09:45:44.061Z",
+      "scrapedAt": "2026-09-06T10:01:37.050Z",
       "error": null
     },
     "gp-RkDGZh2q7wgA": {
@@ -626,7 +613,7 @@
         -73.37479549999999
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T09:45:52.639Z",
+      "scrapedAt": "2026-09-06T10:01:44.319Z",
       "error": null
     },
     "gp-ROaro9weorEo": {
@@ -639,7 +626,7 @@
         -73.6114516
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T09:46:01.505Z",
+      "scrapedAt": "2026-09-06T10:01:53.475Z",
       "error": null
     },
     "gp-RiFn0D_gR6k8": {
@@ -652,7 +639,7 @@
         -73.6457695
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T09:46:11.664Z",
+      "scrapedAt": "2026-09-06T10:02:03.309Z",
       "error": null
     },
     "gp-R-TlA5z9K1E4": {
@@ -665,7 +652,7 @@
         -72.295628
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T09:46:19.405Z",
+      "scrapedAt": "2026-09-06T10:02:12.306Z",
       "error": null
     },
     "gp-RBCnbdcQArMM": {
@@ -678,7 +665,7 @@
         -73.179489
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T09:46:27.431Z",
+      "scrapedAt": "2026-09-06T10:02:20.299Z",
       "error": null
     },
     "gp-Rei5cjo5MYxc": {
@@ -691,7 +678,7 @@
         -72.5052603
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T09:46:33.815Z",
+      "scrapedAt": "2026-09-06T10:02:27.078Z",
       "error": null
     },
     "gp-REP1_HX58bZQ": {
@@ -704,7 +691,7 @@
         -73.365021
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T09:46:41.908Z",
+      "scrapedAt": "2026-09-06T10:02:34.625Z",
       "error": null
     },
     "gp-R5pFSi09Vln4": {
@@ -757,7 +744,7 @@
           "sourceUrl": "https://www.besitomexican.com/event-details-registration/sunday-brunch-and-2-for-1-margaritas-besito-mexican-roslyn-2026-09-06-12-00"
         }
       ],
-      "scrapedAt": "2026-09-05T09:46:50.896Z",
+      "scrapedAt": "2026-09-06T10:02:45.495Z",
       "error": null
     },
     "gp-RmaYnDwWsXm0": {
@@ -770,7 +757,7 @@
         -73.8206519
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T09:46:59.516Z",
+      "scrapedAt": "2026-09-06T10:02:53.504Z",
       "error": null
     },
     "gp-Rk3sBsPDf1Qs": {
@@ -783,7 +770,7 @@
         -73.1180294
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T09:47:36.961Z",
+      "scrapedAt": "2026-09-06T10:03:30.654Z",
       "error": null
     },
     "gp-R5XNXSlBFpQU": {
@@ -796,7 +783,7 @@
         -73.6138732
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T09:47:43.396Z",
+      "scrapedAt": "2026-09-06T10:03:37.051Z",
       "error": null
     },
     "gp-RAOIUK1BTs_0": {
@@ -809,7 +796,7 @@
         -73.24866639999999
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T09:47:58.267Z",
+      "scrapedAt": "2026-09-06T10:03:52.260Z",
       "error": null
     },
     "gp-RKut-1EelWRo": {
@@ -822,19 +809,6 @@
         -73.9810749
       ],
       "shows": [
-        {
-          "id": "gp-RKut-1EelWRo-2026-09-05-peter-hook-the-light-north-american-tour-2026",
-          "title": "Peter Hook & The Light -  North American Tour 2026",
-          "date": "2026-09-05",
-          "time": "7:00 PM",
-          "doors": null,
-          "ticketUrl": "https://www.ticketmaster.com/peter-hook-the-light-north-american-brooklyn-new-york-09-05-2026/event/0000630FAB8B2586",
-          "imageUrl": "https://s1.ticketm.net/dam/a/e78/8b376276-0692-4323-99b1-863272154e78_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-          "price": null,
-          "ages": null,
-          "description": null,
-          "sourceUrl": "https://www.ticketmaster.com/peter-hook-the-light-north-american-brooklyn-new-york-09-05-2026/event/0000630FAB8B2586"
-        },
         {
           "id": "gp-RKut-1EelWRo-2026-09-08-lucki",
           "title": "LUCKI",
@@ -1289,9 +1263,22 @@
           "ages": null,
           "description": null,
           "sourceUrl": "https://www.ticketmaster.com/lawrence-staycation-3-day-pass-brooklyn-new-york-10-29-2026/event/000064410845ECF9"
+        },
+        {
+          "id": "gp-RKut-1EelWRo-2026-10-29-lawrence-staycation",
+          "title": "Lawrence - Staycation",
+          "date": "2026-10-29",
+          "time": "6:00 PM",
+          "doors": null,
+          "ticketUrl": "https://www.ticketmaster.com/lawrence-staycation-brooklyn-new-york-10-29-2026/event/00006441083CECE5",
+          "imageUrl": "https://s1.ticketm.net/dam/a/f52/5f3274be-be3f-4e37-9fc4-55ac9c470f52_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+          "price": null,
+          "ages": null,
+          "description": null,
+          "sourceUrl": "https://www.ticketmaster.com/lawrence-staycation-brooklyn-new-york-10-29-2026/event/00006441083CECE5"
         }
       ],
-      "scrapedAt": "2026-09-05T09:48:00.263Z",
+      "scrapedAt": "2026-09-06T10:03:54.756Z",
       "error": null
     },
     "gp-R-iRShvv7Yq8": {
@@ -1304,7 +1291,7 @@
         -73.1227136
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T09:48:09.367Z",
+      "scrapedAt": "2026-09-06T10:04:03.355Z",
       "error": null
     },
     "gp-RKy9lcp2-tJU": {
@@ -1317,7 +1304,7 @@
         -73.33872339999999
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T09:48:15.140Z",
+      "scrapedAt": "2026-09-06T10:04:09.847Z",
       "error": null
     },
     "gp-RlIIomuKFEb8": {
@@ -1330,7 +1317,7 @@
         -73.73609189999999
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T09:49:10.162Z",
+      "scrapedAt": "2026-09-06T10:04:45.525Z",
       "error": null
     },
     "gp-RLV4Ir4J2ka8": {
@@ -1343,7 +1330,7 @@
         -72.82812899999999
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T09:49:21.317Z",
+      "scrapedAt": "2026-09-06T10:05:01.559Z",
       "error": null
     },
     "gp-RPr_aoOa_uBQ": {
@@ -1356,7 +1343,7 @@
         -73.8136576
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T09:49:28.263Z",
+      "scrapedAt": "2026-09-06T10:05:11.239Z",
       "error": null
     },
     "gp-RvfGPGmdyHP4": {
@@ -1369,7 +1356,7 @@
         -73.0905422
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T09:49:36.682Z",
+      "scrapedAt": "2026-09-06T10:05:17.643Z",
       "error": null
     },
     "gp-R0J5P-a1Gdf0": {
@@ -1382,7 +1369,7 @@
         -73.43022169999999
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T09:49:42.421Z",
+      "scrapedAt": "2026-09-06T10:05:24.315Z",
       "error": null
     },
     "gp-RDWv0HGLpaYc": {
@@ -1395,7 +1382,7 @@
         -73.11967849999999
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T09:49:51.039Z",
+      "scrapedAt": "2026-09-06T10:05:34.882Z",
       "error": null
     },
     "gp-RFriA6RCV50s": {
@@ -1408,7 +1395,7 @@
         -73.3366831
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T09:49:57.765Z",
+      "scrapedAt": "2026-09-06T10:05:41.963Z",
       "error": null
     },
     "gp-RI2G62e3O5Y4": {
@@ -1421,7 +1408,7 @@
         -73.5291127
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T09:50:05.066Z",
+      "scrapedAt": "2026-09-06T10:05:51.448Z",
       "error": null
     },
     "gp-REwM-4VZxTmQ": {
@@ -1434,7 +1421,7 @@
         -73.51660319999999
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T09:50:11.857Z",
+      "scrapedAt": "2026-09-06T10:05:58.532Z",
       "error": null
     },
     "gp-R1o-dUQRs98w": {
@@ -1447,7 +1434,7 @@
         -73.7528071
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T09:50:18.164Z",
+      "scrapedAt": "2026-09-06T10:06:04.874Z",
       "error": null
     },
     "gp-RGM6d09fBUHY": {
@@ -1460,7 +1447,7 @@
         -73.5686602
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T09:50:27.387Z",
+      "scrapedAt": "2026-09-06T10:06:14.426Z",
       "error": null
     },
     "gp-RN3kH0EWhJ20": {
@@ -1473,7 +1460,7 @@
         -73.369372
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T09:50:34.818Z",
+      "scrapedAt": "2026-09-06T10:06:21.996Z",
       "error": null
     },
     "gp-R6T82p5EKIdk": {
@@ -1486,7 +1473,7 @@
         -73.20580559999999
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T09:50:45.766Z",
+      "scrapedAt": "2026-09-06T10:06:33.331Z",
       "error": null
     },
     "gp-R8xMnNbLxUQI": {
@@ -1499,7 +1486,7 @@
         -72.5004227
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T09:51:22.578Z",
+      "scrapedAt": "2026-09-06T10:07:10.153Z",
       "error": null
     },
     "gp-Rx-qc0vORGJ8": {
@@ -1512,7 +1499,7 @@
         -73.7882566
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T09:51:33.390Z",
+      "scrapedAt": "2026-09-06T10:07:22.944Z",
       "error": null
     },
     "gp-RYYmuJ8b-3sM": {
@@ -1981,7 +1968,7 @@
           "sourceUrl": "https://www.ticketmaster.com/leonid-friends-westbury-new-york-05-22-2027/event/000065069473BAE6"
         }
       ],
-      "scrapedAt": "2026-09-05T09:51:35.442Z",
+      "scrapedAt": "2026-09-06T10:07:25.247Z",
       "error": null
     },
     "gp-RByPecIS9Xa8": {
@@ -1994,7 +1981,7 @@
         -73.4331964
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T09:51:43.150Z",
+      "scrapedAt": "2026-09-06T10:07:31.846Z",
       "error": null
     },
     "gp-RWZL4FjNHB90": {
@@ -2007,7 +1994,7 @@
         -73.61959829999999
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T09:51:45.276Z",
+      "scrapedAt": "2026-09-06T10:07:34.911Z",
       "error": null
     },
     "gp-RXHXjVn97cpM": {
@@ -2020,7 +2007,7 @@
         -73.826307
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T09:51:51.054Z",
+      "scrapedAt": "2026-09-06T10:07:41.616Z",
       "error": null
     },
     "gp-RkrVrzP7vqUo": {
@@ -2033,7 +2020,7 @@
         -72.36234069999999
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T09:51:59.804Z",
+      "scrapedAt": "2026-09-06T10:07:49.208Z",
       "error": null
     },
     "gp-RzQvDTKYZaIo": {
@@ -2203,7 +2190,7 @@
           "sourceUrl": "https://www.guildhall.org/events/met-live-in-hd-cosi-fan-tutte/"
         }
       ],
-      "scrapedAt": "2026-09-05T09:52:03.567Z",
+      "scrapedAt": "2026-09-06T10:07:52.696Z",
       "error": null
     },
     "gp-R8_7LUKzPWhE": {
@@ -2216,7 +2203,7 @@
         -73.20232589999999
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T09:52:10.746Z",
+      "scrapedAt": "2026-09-06T10:08:04.611Z",
       "error": null
     },
     "gp-RjMWpVub1jGU": {
@@ -2229,7 +2216,7 @@
         -72.60874120000001
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T09:52:48.223Z",
+      "scrapedAt": "2026-09-06T10:08:41.405Z",
       "error": null
     },
     "gp-RpHPr-CFTzVM": {
@@ -2242,7 +2229,7 @@
         -73.804616
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T09:52:57.015Z",
+      "scrapedAt": "2026-09-06T10:08:50.004Z",
       "error": null
     },
     "gp-R905wyCfP6lg": {
@@ -2255,7 +2242,7 @@
         -73.4617559
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T09:53:04.993Z",
+      "scrapedAt": "2026-09-06T10:08:57.041Z",
       "error": null
     },
     "gp-RFK3Oc7SCCzI": {
@@ -2268,7 +2255,7 @@
         -73.729185
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T09:53:13.310Z",
+      "scrapedAt": "2026-09-06T10:09:05.398Z",
       "error": null
     },
     "gp-RNVWCBc7bqkU": {
@@ -2281,7 +2268,7 @@
         -73.5047846
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T09:53:24.318Z",
+      "scrapedAt": "2026-09-06T10:09:16.442Z",
       "error": null
     },
     "gp-RuR4wDjce8pk": {
@@ -2294,7 +2281,7 @@
         -73.6279342
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T09:53:34.288Z",
+      "scrapedAt": "2026-09-06T10:09:24.033Z",
       "error": null
     },
     "gp-RigHJ3vWWH2g": {
@@ -2307,7 +2294,7 @@
         -73.69109279999999
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T09:53:41.342Z",
+      "scrapedAt": "2026-09-06T10:09:31.439Z",
       "error": null
     },
     "gp-RkWAO8bJJPtA": {
@@ -2581,7 +2568,7 @@
           "sourceUrl": "https://www.landmarkonmainstreet.org/event/matthew-morrison/"
         }
       ],
-      "scrapedAt": "2026-09-05T09:53:43.631Z",
+      "scrapedAt": "2026-09-06T10:09:33.993Z",
       "error": null
     },
     "gp-Rj12H5uoF0JU": {
@@ -2594,7 +2581,7 @@
         -73.6007261
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T09:53:50.928Z",
+      "scrapedAt": "2026-09-06T10:09:41.987Z",
       "error": null
     },
     "gp-Rq8TbDjNMI90": {
@@ -2607,7 +2594,7 @@
         -73.34662569999999
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T09:53:58.929Z",
+      "scrapedAt": "2026-09-06T10:09:50.086Z",
       "error": null
     },
     "gp-RMUHShM07tRw": {
@@ -2620,7 +2607,7 @@
         -73.5092251
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T09:54:09.141Z",
+      "scrapedAt": "2026-09-06T10:09:57.019Z",
       "error": null
     },
     "gp-Rv-A4gnJvRG0": {
@@ -2633,7 +2620,7 @@
         -73.8041667
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T09:54:17.628Z",
+      "scrapedAt": "2026-09-06T10:10:06.076Z",
       "error": null
     },
     "gp-RrEgrOH9iF1c": {
@@ -2646,7 +2633,7 @@
         -73.1997222
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T09:54:25.368Z",
+      "scrapedAt": "2026-09-06T10:10:13.598Z",
       "error": null
     },
     "gp-R6SRf4QELNFU": {
@@ -2659,7 +2646,7 @@
         -73.6355809
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T09:54:31.188Z",
+      "scrapedAt": "2026-09-06T10:10:21.134Z",
       "error": null
     },
     "gp-RhUx792Wd48w": {
@@ -2672,7 +2659,7 @@
         -73.8194013
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T09:54:41.382Z",
+      "scrapedAt": "2026-09-06T10:10:31.073Z",
       "error": null
     },
     "gp-R-GS0tjWk5Wc": {
@@ -2685,7 +2672,7 @@
         -73.8156561
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T09:54:48.584Z",
+      "scrapedAt": "2026-09-06T10:10:38.835Z",
       "error": null
     },
     "gp-RXgRP2ZVwJhw": {
@@ -2698,7 +2685,7 @@
         -73.2322669
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T09:54:57.951Z",
+      "scrapedAt": "2026-09-06T10:10:47.233Z",
       "error": null
     },
     "gp-RO3Km8DCZytA": {
@@ -2711,7 +2698,7 @@
         -73.66288759999999
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T09:55:07.749Z",
+      "scrapedAt": "2026-09-06T10:10:55.933Z",
       "error": null
     },
     "gp-RCpc5jJ-HWJI": {
@@ -2724,7 +2711,7 @@
         -73.11222719999999
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T09:55:19.226Z",
+      "scrapedAt": "2026-09-06T10:11:07.915Z",
       "error": null
     },
     "gp-RCbIpRU7yyT0": {
@@ -3037,7 +3024,7 @@
           "sourceUrl": "https://www.lilyflanaganspub.com/musicevents/2026/12/18/happy-hour-band-when-pigs-fly"
         }
       ],
-      "scrapedAt": "2026-09-05T09:55:20.886Z",
+      "scrapedAt": "2026-09-06T10:11:09.758Z",
       "error": null
     },
     "gp-R0fSHmAXOsFU": {
@@ -3050,7 +3037,7 @@
         -73.295793
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T09:56:01.002Z",
+      "scrapedAt": "2026-09-06T10:11:47.314Z",
       "error": null
     },
     "gp-Rt2CLAmdEG3w": {
@@ -3063,7 +3050,7 @@
         -73.7950129
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T09:56:12.678Z",
+      "scrapedAt": "2026-09-06T10:12:24.297Z",
       "error": null
     },
     "gp-RLeNruKsGo90": {
@@ -3076,7 +3063,7 @@
         -73.9587331
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T09:56:19.802Z",
+      "scrapedAt": "2026-09-06T10:12:32.207Z",
       "error": null
     },
     "gp-RR2GVdRIr-Tg": {
@@ -3089,7 +3076,7 @@
         -73.1155958
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T09:56:28.292Z",
+      "scrapedAt": "2026-09-06T10:12:42.266Z",
       "error": null
     },
     "gp-R-stedWO8WKg": {
@@ -3102,7 +3089,7 @@
         -72.2535355
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T09:56:36.071Z",
+      "scrapedAt": "2026-09-06T10:12:51.896Z",
       "error": null
     },
     "gp-RGue9M60p5Zo": {
@@ -3115,7 +3102,7 @@
         -72.9682388
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T09:56:44.788Z",
+      "scrapedAt": "2026-09-06T10:13:00.149Z",
       "error": null
     },
     "gp-R6ZFk3ock3J0": {
@@ -3128,8 +3115,8 @@
         -73.144784
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T09:56:54.091Z",
-      "error": null
+      "scrapedAt": "2026-09-06T10:13:25.667Z",
+      "error": "Could not load any page for Long Island Music & Entertainment Hall of Fame"
     },
     "gp-RQ5mL7h-Gj_k": {
       "id": "gp-RQ5mL7h-Gj_k",
@@ -3141,7 +3128,7 @@
         -72.53477
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T09:56:55.928Z",
+      "scrapedAt": "2026-09-06T10:13:28.179Z",
       "error": null
     },
     "gp-R-xFVaXVmWZs": {
@@ -3350,7 +3337,7 @@
           "sourceUrl": "https://madisontheatreny.org/event/south-shore-symphony-the-perfect-storm/"
         }
       ],
-      "scrapedAt": "2026-09-05T09:56:58.417Z",
+      "scrapedAt": "2026-09-06T10:13:31.265Z",
       "error": null
     },
     "gp-R7rdRjJMbdyA": {
@@ -3363,7 +3350,7 @@
         -73.2840216
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T09:57:16.490Z",
+      "scrapedAt": "2026-09-06T10:13:39.636Z",
       "error": null
     },
     "gp-Rp73LYSrmgBw": {
@@ -3376,19 +3363,6 @@
         -73.92858609999999
       ],
       "shows": [
-        {
-          "id": "gp-Rp73LYSrmgBw-2026-09-05-elephant-30th-anniversary-tour-in-new-york",
-          "title": "Elephant 30th Anniversary Tour in New York",
-          "date": "2026-09-05",
-          "time": null,
-          "doors": null,
-          "ticketUrl": "https://www.melroseballroom.com/events/elephant-30th-anniversary-tour-in-new-york",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/67b34f96a8b4fa734d73351b/1767634171589-V7FLL01ZPJNSNHZ1U6P9/mb09.05.26.png",
-          "price": null,
-          "ages": null,
-          "description": null,
-          "sourceUrl": "https://www.melroseballroom.com/events/elephant-30th-anniversary-tour-in-new-york"
-        },
         {
           "id": "gp-Rp73LYSrmgBw-2026-09-06-perreoland-nyc",
           "title": "PERREOLAND | NYC",
@@ -3572,7 +3546,7 @@
           "sourceUrl": "https://www.melroseballroom.com/events/ny-cocktail-expo-2027"
         }
       ],
-      "scrapedAt": "2026-09-05T09:57:18.254Z",
+      "scrapedAt": "2026-09-06T10:13:41.667Z",
       "error": null
     },
     "gp-RR5EaXRhhSYQ": {
@@ -3585,7 +3559,7 @@
         -73.55017840000001
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T09:57:25.836Z",
+      "scrapedAt": "2026-09-06T10:13:49.058Z",
       "error": null
     },
     "gp-RvBRP5klcaUA": {
@@ -3729,7 +3703,7 @@
           "sourceUrl": "https://liveontheporch.com/events"
         }
       ],
-      "scrapedAt": "2026-09-05T09:57:27.490Z",
+      "scrapedAt": "2026-09-06T10:13:50.807Z",
       "error": null
     },
     "gp-RqpyaLPUtd98": {
@@ -3742,7 +3716,7 @@
         -73.79475339999999
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T09:57:38.349Z",
+      "scrapedAt": "2026-09-06T10:14:02.620Z",
       "error": null
     },
     "gp-RBExR1-iHFFk": {
@@ -3755,7 +3729,7 @@
         -73.686236
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T09:57:46.898Z",
+      "scrapedAt": "2026-09-06T10:14:12.226Z",
       "error": null
     },
     "gp-ReIdOikc17Iw": {
@@ -3768,7 +3742,7 @@
         -73.47636949999999
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T09:58:24.038Z",
+      "scrapedAt": "2026-09-06T10:14:49.174Z",
       "error": null
     },
     "gp-RhsLrbtdvDxg": {
@@ -3781,7 +3755,7 @@
         -73.48753909999999
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T09:58:30.901Z",
+      "scrapedAt": "2026-09-06T10:14:55.965Z",
       "error": null
     },
     "gp-Rd5KA853eGSQ": {
@@ -3794,19 +3768,6 @@
         -73.65224119999999
       ],
       "shows": [
-        {
-          "id": "gp-Rd5KA853eGSQ-2026-09-05-cold-spring-harbor-band",
-          "title": "Cold Spring Harbor Band",
-          "date": "2026-09-05",
-          "time": "8:00 PM",
-          "doors": null,
-          "ticketUrl": "https://www.mfpproductions.com/event-details-registration/cold-spring-harbor-band",
-          "imageUrl": null,
-          "price": null,
-          "ages": null,
-          "description": null,
-          "sourceUrl": "https://www.mfpproductions.com/event-details-registration/cold-spring-harbor-band"
-        },
         {
           "id": "gp-Rd5KA853eGSQ-2026-09-12-apb",
           "title": "APB",
@@ -4027,9 +3988,22 @@
           "ages": null,
           "description": null,
           "sourceUrl": "https://www.mfpproductions.com/event-details-registration/synchronicity-the-police-and-sting-experience"
+        },
+        {
+          "id": "gp-Rd5KA853eGSQ-2026-10-23-total-mass-retain",
+          "title": "TOTAL MASS RETAIN",
+          "date": "2026-10-23",
+          "time": "7:30 PM",
+          "doors": null,
+          "ticketUrl": "https://www.mfpproductions.com/event-details-registration/total-mass-retain-2",
+          "imageUrl": null,
+          "price": null,
+          "ages": null,
+          "description": null,
+          "sourceUrl": "https://www.mfpproductions.com/event-details-registration/total-mass-retain-2"
         }
       ],
-      "scrapedAt": "2026-09-05T09:58:40.201Z",
+      "scrapedAt": "2026-09-06T10:15:04.727Z",
       "error": null
     },
     "gp-RaLUcvs3PddI": {
@@ -4042,7 +4016,7 @@
         -73.5906528
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T09:58:46.698Z",
+      "scrapedAt": "2026-09-06T10:15:11.359Z",
       "error": null
     },
     "gp-RKmI58saIUJM": {
@@ -4055,7 +4029,7 @@
         -73.961316
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T09:58:54.248Z",
+      "scrapedAt": "2026-09-06T10:15:18.997Z",
       "error": null
     },
     "gp-RM0nX6kQACGw": {
@@ -4068,7 +4042,7 @@
         -73.4955075
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T09:59:04.008Z",
+      "scrapedAt": "2026-09-06T10:15:27.219Z",
       "error": null
     },
     "gp-RpbM-AINDb7U": {
@@ -4081,7 +4055,7 @@
         -73.4454744
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T09:59:15.306Z",
+      "scrapedAt": "2026-09-06T10:15:39.962Z",
       "error": null
     },
     "gp-RdMbuhJcf-Kw": {
@@ -4094,7 +4068,7 @@
         -73.8100746
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T09:59:23.238Z",
+      "scrapedAt": "2026-09-06T10:15:48.023Z",
       "error": null
     },
     "gp-RCea6aoH5QYg": {
@@ -4107,7 +4081,7 @@
         -73.3021673
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T09:59:31.576Z",
+      "scrapedAt": "2026-09-06T10:15:56.875Z",
       "error": null
     },
     "gp-RBQeysFZdimQ": {
@@ -4120,7 +4094,7 @@
         -73.8122027
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T09:59:40.008Z",
+      "scrapedAt": "2026-09-06T10:16:04.658Z",
       "error": null
     },
     "gp-RBa3_qDzDl7g": {
@@ -4133,7 +4107,7 @@
         -73.4259385
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T09:59:48.443Z",
+      "scrapedAt": "2026-09-06T10:16:14.003Z",
       "error": null
     },
     "gp-R6JyfEPlAbXA": {
@@ -4146,7 +4120,7 @@
         -73.0134775
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T09:59:56.611Z",
+      "scrapedAt": "2026-09-06T10:16:22.105Z",
       "error": null
     },
     "gp-Rd9KH36jxC60": {
@@ -4159,7 +4133,7 @@
         -73.93267569999999
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T10:00:08.221Z",
+      "scrapedAt": "2026-09-06T10:16:31.350Z",
       "error": null
     },
     "gp-RcszHG3nOdO8": {
@@ -4172,7 +4146,7 @@
         -73.75562459999999
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T10:00:19.944Z",
+      "scrapedAt": "2026-09-06T10:16:44.790Z",
       "error": null
     },
     "gp-RpuqVmVHjcz8": {
@@ -4185,7 +4159,7 @@
         -73.5503095
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T10:00:26.960Z",
+      "scrapedAt": "2026-09-06T10:16:51.979Z",
       "error": null
     },
     "gp-Raqr9sgbQ-7Y": {
@@ -4198,7 +4172,7 @@
         -73.9567063
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T10:00:33.199Z",
+      "scrapedAt": "2026-09-06T10:16:58.905Z",
       "error": null
     },
     "gp-RgI_nTb7ZuAk": {
@@ -4211,7 +4185,7 @@
         -73.640635
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T10:00:40.313Z",
+      "scrapedAt": "2026-09-06T10:17:07.501Z",
       "error": null
     },
     "gp-R6NkXFDhM6M4": {
@@ -4224,7 +4198,7 @@
         -73.4269644
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T10:01:17.092Z",
+      "scrapedAt": "2026-09-06T10:17:44.307Z",
       "error": null
     },
     "gp-RTlizRW_4cwc": {
@@ -4237,7 +4211,7 @@
         -74.0097278
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T10:01:24.923Z",
+      "scrapedAt": "2026-09-06T10:17:51.843Z",
       "error": null
     },
     "gp-RzmSNc7-Eatk": {
@@ -4250,7 +4224,7 @@
         -73.0676936
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T10:01:39.923Z",
+      "scrapedAt": "2026-09-06T10:18:05.126Z",
       "error": null
     },
     "gp-R3MowlmPP4tI": {
@@ -4263,7 +4237,7 @@
         -73.5954951
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T10:02:17.874Z",
+      "scrapedAt": "2026-09-06T10:18:42.333Z",
       "error": null
     },
     "gp-R4S89DMabsTs": {
@@ -4276,7 +4250,7 @@
         -73.3421237
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T10:02:24.054Z",
+      "scrapedAt": "2026-09-06T10:18:48.251Z",
       "error": null
     },
     "gp-RhAPsTrp7Rag": {
@@ -4289,7 +4263,7 @@
         -73.2595236
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T10:02:30.613Z",
+      "scrapedAt": "2026-09-06T10:18:54.548Z",
       "error": null
     },
     "gp-R6FMboYn5k_o": {
@@ -4302,7 +4276,7 @@
         -72.92300209999999
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T10:02:43.404Z",
+      "scrapedAt": "2026-09-06T10:19:07.962Z",
       "error": null
     },
     "gp-RmCFYEJ95-YE": {
@@ -4315,7 +4289,7 @@
         -73.1855241
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T10:02:49.980Z",
+      "scrapedAt": "2026-09-06T10:19:15.194Z",
       "error": null
     },
     "gp-RvkyM2ISnUzQ": {
@@ -4328,7 +4302,7 @@
         -73.0585004
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T10:02:57.508Z",
+      "scrapedAt": "2026-09-06T10:19:25.233Z",
       "error": null
     },
     "gp-RO0spNmQU8Vw": {
@@ -4394,7 +4368,7 @@
           "sourceUrl": "https://www.sjjcc.org/events"
         }
       ],
-      "scrapedAt": "2026-09-05T10:03:00.002Z",
+      "scrapedAt": "2026-09-06T10:19:28.549Z",
       "error": null
     },
     "gp-R8hy8k-bf3ls": {
@@ -4407,7 +4381,7 @@
         -73.7016271
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T10:03:05.622Z",
+      "scrapedAt": "2026-09-06T10:19:34.341Z",
       "error": null
     },
     "gp-RvoTnuTfpOII": {
@@ -4420,7 +4394,7 @@
         -73.373475
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T10:03:42.842Z",
+      "scrapedAt": "2026-09-06T10:20:11.612Z",
       "error": null
     },
     "gp-RKUEryffCTGw": {
@@ -4433,7 +4407,7 @@
         -72.3944794
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T10:03:55.162Z",
+      "scrapedAt": "2026-09-06T10:20:22.785Z",
       "error": null
     },
     "gp-Rv6hy2emZdkI": {
@@ -4446,7 +4420,7 @@
         -73.210055
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T10:04:02.513Z",
+      "scrapedAt": "2026-09-06T10:20:31.400Z",
       "error": null
     },
     "gp-RGCLiR8TB0yA": {
@@ -4459,7 +4433,7 @@
         -73.5820633
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T10:04:12.206Z",
+      "scrapedAt": "2026-09-06T10:20:39.990Z",
       "error": null
     },
     "gp-R-Z0dkyKGgw0": {
@@ -4472,7 +4446,7 @@
         -72.95408479999999
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T10:04:18.214Z",
+      "scrapedAt": "2026-09-06T10:20:49.631Z",
       "error": null
     },
     "gp-ROhQaArvJEas": {
@@ -4485,7 +4459,7 @@
         -72.6623747
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T10:04:27.024Z",
+      "scrapedAt": "2026-09-06T10:20:58.799Z",
       "error": null
     },
     "gp-RgQg3TEV7Vrs": {
@@ -4759,7 +4733,7 @@
           "sourceUrl": "https://www.stallercenter.com/Calendar.php"
         }
       ],
-      "scrapedAt": "2026-09-05T10:04:36.655Z",
+      "scrapedAt": "2026-09-06T10:21:08.328Z",
       "error": null
     },
     "gp-RRt9gTx5x-gs": {
@@ -5033,7 +5007,7 @@
           "sourceUrl": "https://www.stallercenter.com/Calendar.php"
         }
       ],
-      "scrapedAt": "2026-09-05T10:04:45.165Z",
+      "scrapedAt": "2026-09-06T10:21:16.950Z",
       "error": null
     },
     "gp-RyaoSgmSMaww": {
@@ -5046,7 +5020,7 @@
         -73.3731591
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T10:05:21.942Z",
+      "scrapedAt": "2026-09-06T10:21:53.792Z",
       "error": null
     },
     "gp-Rn1R3MswoO7U": {
@@ -5059,7 +5033,7 @@
         -72.6461879
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T10:05:30.723Z",
+      "scrapedAt": "2026-09-06T10:22:03.071Z",
       "error": null
     },
     "gp-RRTHFTRM7C2Y": {
@@ -5072,7 +5046,7 @@
         -72.3640866
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T10:05:42.928Z",
+      "scrapedAt": "2026-09-06T10:22:11.730Z",
       "error": null
     },
     "gp-RON84tLRqDCw": {
@@ -5084,22 +5058,8 @@
         40.696212100000004,
         -73.32371169999999
       ],
-      "shows": [
-        {
-          "id": "gp-RON84tLRqDCw-2026-09-05-make-me-smile-a-tribute-to-chicago",
-          "title": "Make Me Smile - A Tribute to Chicago",
-          "date": "2026-09-05",
-          "time": "8:00 PM",
-          "doors": null,
-          "ticketUrl": null,
-          "imageUrl": "https://www.argyletheatre.com/event-details/[object%20Object]",
-          "price": null,
-          "ages": null,
-          "description": "Friday September 4th, 2026 @ 8:00 pm&#010;Introducing the premier tribute to the legendary rock band Chicago – a musical journey that transcends time and space to bring the iconic sounds of the original group to life.",
-          "sourceUrl": "https://www.argyletheatre.com/event-details/make-me-smile-a-tribute-to-chicago-2"
-        }
-      ],
-      "scrapedAt": "2026-09-05T10:05:44.834Z",
+      "shows": [],
+      "scrapedAt": "2026-09-06T10:22:21.237Z",
       "error": null
     },
     "gp-RUose06XEWcU": {
@@ -5112,7 +5072,7 @@
         -72.2443713
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T10:05:54.108Z",
+      "scrapedAt": "2026-09-06T10:22:30.329Z",
       "error": null
     },
     "gp-ROZsCprmgHB8": {
@@ -5125,7 +5085,7 @@
         -73.4323999
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T10:06:00.224Z",
+      "scrapedAt": "2026-09-06T10:22:36.208Z",
       "error": null
     },
     "gp-R7L-1vkPc_Ig": {
@@ -5138,7 +5098,7 @@
         -73.4459088
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T10:06:09.945Z",
+      "scrapedAt": "2026-09-06T10:22:46.164Z",
       "error": null
     },
     "gp-RoSFh_7smlq0": {
@@ -5151,7 +5111,7 @@
         -73.5975952
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T10:06:16.986Z",
+      "scrapedAt": "2026-09-06T10:22:55.228Z",
       "error": null
     },
     "gp-R-yPKoYbqxTE": {
@@ -5164,7 +5124,7 @@
         -73.5980719
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T10:06:24.457Z",
+      "scrapedAt": "2026-09-06T10:23:04.118Z",
       "error": null
     },
     "gp-Rh1-qn6Tfd1w": {
@@ -5177,32 +5137,6 @@
         -73.0900719
       ],
       "shows": [
-        {
-          "id": "gp-Rh1-qn6Tfd1w-2026-09-05-the-dworld-fire-island-underwear-party",
-          "title": "The Dworld Fire Island Underwear Party",
-          "date": "2026-09-05",
-          "time": "10:00 PM",
-          "doors": null,
-          "ticketUrl": "https://redeyetickets.com/events/dworld-underwear-party-powered-by-ru5h-friday-september-4th",
-          "imageUrl": "https://ml9kkvouff94.i.optimole.com/w:1491/h:1080/q:mauto/f:best/https://icepalace.club/wp-content/uploads/2024/03/dworld-underwear-party-powered-by-ru5h-friday-september-4th-portrait-cover.png",
-          "price": "$",
-          "ages": null,
-          "description": "Daniel Nardicio, the originator of the underwear party craze, brings you\r\nThe Dworld Fire Island Underwear Party powered by RU5H\r\nsponsored by Chris Turk, Just For Fans, Scruff, and GetPrEPWisdom.com\r\nWater Taxis to and from the Grove.\r\n\r\nThe Dworld Underwear Party is a now legendary event. It has b",
-          "sourceUrl": "https://icepalace.club/events/"
-        },
-        {
-          "id": "gp-Rh1-qn6Tfd1w-2026-09-06-the-return-of-jimbo-in-can-we-laugh-the-unofficial-unapprove",
-          "title": "The return of Jimbo! in: Can We Laugh?  The Unofficial, Unapproved and Unfiltered Comedy Tour!",
-          "date": "2026-09-06",
-          "time": "8:00 PM",
-          "doors": null,
-          "ticketUrl": "https://redeyetickets.com/events/the-return-of-jimbo",
-          "imageUrl": "https://ml9kkvouff94.i.optimole.com/w:863/h:1080/q:mauto/f:best/https://icepalace.club/wp-content/uploads/2026/08/the-return-of-jimbo-portrait-cover.png",
-          "price": "$",
-          "ages": null,
-          "description": "The return of Jimbo! in: Can We Laugh? The Unofficial, Unapproved and Unfiltered Comedy Tour!\r\n\r\nWinner of RuPaul’s Drag Race All Stars Season 8 and judge of Canada’s Drag Race: All Stars returns to the Ice Palace",
-          "sourceUrl": "https://icepalace.club/events/"
-        },
         {
           "id": "gp-Rh1-qn6Tfd1w-2026-09-06-flaming-saddles-fire-island-invasion",
           "title": "Flaming Saddles Fire Island Invasion",
@@ -5256,7 +5190,7 @@
           "sourceUrl": "https://icepalace.club/events/"
         }
       ],
-      "scrapedAt": "2026-09-05T10:06:26.097Z",
+      "scrapedAt": "2026-09-06T10:23:05.751Z",
       "error": null
     },
     "gp-RXx1GAgGVW-E": {
@@ -5269,7 +5203,7 @@
         -72.3722767
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T10:06:33.002Z",
+      "scrapedAt": "2026-09-06T10:23:14.173Z",
       "error": null
     },
     "gp-RP32gQtnDV5M": {
@@ -5282,7 +5216,7 @@
         -72.3626068
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T10:06:40.652Z",
+      "scrapedAt": "2026-09-06T10:23:21.818Z",
       "error": null
     },
     "gp-R0QSRhPN3P8I": {
@@ -5295,7 +5229,7 @@
         -73.7845339
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T10:06:46.523Z",
+      "scrapedAt": "2026-09-06T10:23:27.899Z",
       "error": null
     },
     "gp-RmE9GgYPsvUA": {
@@ -5308,7 +5242,7 @@
         -73.99943139999999
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T10:06:54.090Z",
+      "scrapedAt": "2026-09-06T10:23:35.319Z",
       "error": null
     },
     "gp-RbpA8-DGYt08": {
@@ -5321,7 +5255,7 @@
         -74.1963332
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T10:07:30.942Z",
+      "scrapedAt": "2026-09-06T10:24:12.186Z",
       "error": null
     },
     "gp-RZmkkLSJKP0M": {
@@ -5334,7 +5268,7 @@
         -72.1423204
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T10:07:37.515Z",
+      "scrapedAt": "2026-09-06T10:24:19.771Z",
       "error": null
     },
     "gp-RW8LIRAaCEW0": {
@@ -5347,7 +5281,7 @@
         -72.6604274
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T10:07:47.916Z",
+      "scrapedAt": "2026-09-06T10:24:27.786Z",
       "error": null
     },
     "gp-RX5mta0m4e8M": {
@@ -5360,7 +5294,7 @@
         -72.9862442
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T10:08:24.734Z",
+      "scrapedAt": "2026-09-06T10:25:04.596Z",
       "error": null
     },
     "gp-Rrai8sIjm61Y": {
@@ -5373,7 +5307,7 @@
         -72.99762609999999
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T10:08:31.665Z",
+      "scrapedAt": "2026-09-06T10:25:12.389Z",
       "error": null
     },
     "gp-R8rU0-NNG4HQ": {
@@ -5386,7 +5320,7 @@
         -73.4171066
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T10:08:53.218Z",
+      "scrapedAt": "2026-09-06T10:25:34.409Z",
       "error": null
     },
     "gp-RjxnbSdRi7aQ": {
@@ -5399,7 +5333,7 @@
         -73.0149486
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T10:09:00.138Z",
+      "scrapedAt": "2026-09-06T10:25:42.641Z",
       "error": null
     },
     "gp-RWIW6dZkKD1g": {
@@ -5412,7 +5346,7 @@
         -73.59724419999999
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T10:09:07.085Z",
+      "scrapedAt": "2026-09-06T10:25:52.643Z",
       "error": null
     },
     "gp-RwF1VjJuKNBk": {
@@ -5425,7 +5359,7 @@
         -72.8354974
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T10:09:21.013Z",
+      "scrapedAt": "2026-09-06T10:26:05.905Z",
       "error": null
     },
     "gp-Rtka3EdovOAg": {
@@ -5438,7 +5372,7 @@
         -73.60073899999999
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T10:09:28.040Z",
+      "scrapedAt": "2026-09-06T10:26:13.742Z",
       "error": null
     },
     "gp-RVkPsktaRtvg": {
@@ -5451,7 +5385,7 @@
         -73.4240949
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T10:09:36.605Z",
+      "scrapedAt": "2026-09-06T10:26:22.510Z",
       "error": null
     },
     "gp-RNzUKiLgkycg": {
@@ -5464,7 +5398,7 @@
         -72.8202061
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T10:09:47.330Z",
+      "scrapedAt": "2026-09-06T10:26:32.865Z",
       "error": null
     },
     "gp-RfUrRlFwGtxk": {
@@ -5477,7 +5411,7 @@
         -73.303607
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T10:09:54.685Z",
+      "scrapedAt": "2026-09-06T10:26:40.510Z",
       "error": null
     },
     "gp-Rq8nbRM-mkKw": {
@@ -5490,7 +5424,7 @@
         -73.074907
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T10:10:02.094Z",
+      "scrapedAt": "2026-09-06T10:26:48.154Z",
       "error": null
     },
     "gp-Rw-sGUmhfwzI": {
@@ -5503,7 +5437,7 @@
         -72.424602
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T10:10:10.647Z",
+      "scrapedAt": "2026-09-06T10:27:00.918Z",
       "error": null
     },
     "gp-RZnnrODfFyek": {
@@ -5516,7 +5450,7 @@
         -72.6624338
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T10:10:18.613Z",
+      "scrapedAt": "2026-09-06T10:27:10.712Z",
       "error": null
     },
     "gp-R_JMrImZQ4BY": {
@@ -5529,7 +5463,7 @@
         -73.2747241
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T10:10:26.174Z",
+      "scrapedAt": "2026-09-06T10:27:21.880Z",
       "error": null
     },
     "gp-RULM6pqJwN-M": {
@@ -5542,7 +5476,7 @@
         -72.6444479
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T10:10:35.147Z",
+      "scrapedAt": "2026-09-06T10:27:31.204Z",
       "error": null
     },
     "gp-RZTWZ0MtFZeA": {
@@ -5555,7 +5489,7 @@
         -73.0738208
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T10:10:42.054Z",
+      "scrapedAt": "2026-09-06T10:27:38.338Z",
       "error": null
     },
     "gp-RCSzbOqdSwDM": {
@@ -5568,7 +5502,7 @@
         -73.2845853
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T10:10:50.604Z",
+      "scrapedAt": "2026-09-06T10:27:46.637Z",
       "error": null
     },
     "gp-Rh3jmrMLwp4Q": {
@@ -5581,7 +5515,7 @@
         -73.8174269
       ],
       "shows": [],
-      "scrapedAt": "2026-09-05T10:10:57.386Z",
+      "scrapedAt": "2026-09-06T10:27:56.326Z",
       "error": null
     }
   }

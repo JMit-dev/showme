@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-31T15:34:50.053Z",
-  "total": 228,
+  "lastUpdated": "2026-09-07T13:44:25.565Z",
+  "total": 226,
   "venues": [
     {
       "id": "89north",
@@ -632,7 +632,7 @@
       "id": "gp-RIEghYHzWE98",
       "googlePlaceId": "ChIJzWJLof9mwokRIEghYHzWE98",
       "name": "Admirals Club",
-      "location": "Concourse C Gate B42, Jamaica",
+      "location": "Concourse C Gate B42, JFK",
       "coords": [
         40.650110399999996,
         -73.7923212
@@ -692,7 +692,7 @@
       "id": "gp-R7XpTLOwZjY8",
       "googlePlaceId": "ChIJHRyaiPdmwokR7XpTLOwZjY8",
       "name": "American Airlines/British Airways Lounges Terminal 8",
-      "location": "8 Central Terminal Area, Jamaica",
+      "location": "8 Central Terminal Area, JFK",
       "coords": [
         40.6468004,
         -73.79066329999999
@@ -1138,11 +1138,11 @@
         40.843998,
         -73.0219261
       ],
-      "url": null,
-      "eventsUrl": null,
+      "url": "https://www.champbaldhill.com/",
+      "eventsUrl": "https://www.champbaldhill.com/tickets/",
       "facebook": null,
       "instagram": null,
-      "scraper": null,
+      "scraper": "auto",
       "genre": [
         "performing arts"
       ],
@@ -1158,11 +1158,11 @@
         40.8084755,
         -72.82812899999999
       ],
-      "url": "https://cbdboss.org/",
-      "eventsUrl": "https://cbdboss.org/shop/",
+      "url": null,
+      "eventsUrl": null,
       "facebook": null,
       "instagram": null,
-      "scraper": "auto",
+      "scraper": null,
       "genre": [
         "live music"
       ],
@@ -1178,11 +1178,11 @@
         40.7323933,
         -73.4460003
       ],
-      "url": null,
-      "eventsUrl": null,
+      "url": "https://www.charlottesspeakeasy.com/",
+      "eventsUrl": "https://www.charlottesspeakeasy.com/events/",
       "facebook": null,
       "instagram": null,
-      "scraper": null,
+      "scraper": "auto",
       "genre": [
         "live music"
       ],
@@ -1390,26 +1390,6 @@
       "source": "google-places"
     },
     {
-      "id": "gp-RI2G62e3O5Y4",
-      "googlePlaceId": "ChIJ7T_I9L-DwokRI2G62e3O5Y4",
-      "name": "Cooper Bluff - Waterfront Bar",
-      "location": "Oyster Bay, NY",
-      "coords": [
-        40.8774277,
-        -73.5291127
-      ],
-      "url": "https://www.cooperbluffob.com/",
-      "eventsUrl": "https://www.cooperbluffob.com/menu",
-      "facebook": null,
-      "instagram": null,
-      "scraper": "auto",
-      "genre": [
-        "live music"
-      ],
-      "active": true,
-      "source": "google-places"
-    },
-    {
       "id": "gp-REwM-4VZxTmQ",
       "googlePlaceId": "ChIJ537DoLeBwokREwM-4VZxTmQ",
       "name": "Cultural Arts Playhouse",
@@ -1564,6 +1544,26 @@
       "facebook": null,
       "instagram": null,
       "scraper": null,
+      "genre": [
+        "live music"
+      ],
+      "active": true,
+      "source": "google-places"
+    },
+    {
+      "id": "gp-RfSCIO0Dzy0w",
+      "googlePlaceId": "ChIJExEf_n826IkRfSCIO0Dzy0w",
+      "name": "Eleanors Lounge",
+      "location": "Bohemia, NY",
+      "coords": [
+        40.7498779,
+        -73.1350403
+      ],
+      "url": "https://eleanorslounge.com/",
+      "eventsUrl": "https://eleanorslounge.com/events/bingo-night-every-tuesday/",
+      "facebook": null,
+      "instagram": null,
+      "scraper": "auto",
       "genre": [
         "live music"
       ],
@@ -1759,8 +1759,8 @@
         41.1011186,
         -72.36234069999999
       ],
-      "url": "https://www.greenportamericanlegion.org/",
-      "eventsUrl": "https://www.greenportamericanlegion.org/american-legion",
+      "url": "https://www.greenportamericanlegion.org/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=15732913667277182206",
+      "eventsUrl": "https://www.greenportamericanlegion.org/",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -2107,26 +2107,6 @@
       "scraper": "auto",
       "genre": [
         "performing arts"
-      ],
-      "active": true,
-      "source": "google-places"
-    },
-    {
-      "id": "gp-RMUHShM07tRw",
-      "googlePlaceId": "ChIJX-kWX0x4wokRMUHShM07tRw",
-      "name": "Jones Beach Bandshell",
-      "location": "Jones Beach,, Jones Boardwalk, Wantagh, NY 11793, USA",
-      "coords": [
-        40.5943557,
-        -73.5092251
-      ],
-      "url": "https://jonesbeach.com/index.php?option=com_content&view=article&id=442&Itemid=100057",
-      "eventsUrl": "https://tickets.jonesbeach.com/results-venue?venid=77",
-      "facebook": null,
-      "instagram": null,
-      "scraper": "auto",
-      "genre": [
-        "live music"
       ],
       "active": true,
       "source": "google-places"
@@ -2532,26 +2512,6 @@
       "source": "google-places"
     },
     {
-      "id": "gp-RXmu74pgXMc0",
-      "googlePlaceId": "ChIJwenpjOIv6IkRXmu74pgXMc0",
-      "name": "Long Island Music Festival",
-      "location": "Commack, NY",
-      "coords": [
-        40.83796590000001,
-        -73.27791429999999
-      ],
-      "url": null,
-      "eventsUrl": null,
-      "facebook": null,
-      "instagram": null,
-      "scraper": null,
-      "genre": [
-        "live music"
-      ],
-      "active": true,
-      "source": "google-places"
-    },
-    {
       "id": "gp-RQ5mL7h-Gj_k",
       "googlePlaceId": "ChIJ5QHXfD2O6IkRQ5mL7h-Gj_k",
       "name": "Love Lane Kitchen",
@@ -2792,6 +2752,26 @@
       "source": "google-places"
     },
     {
+      "id": "gp-RLMiSzjZtHwo",
+      "googlePlaceId": "ChIJwQCnGmdZwokRLMiSzjZtHwo",
+      "name": "Music Hall of Williamsburg",
+      "location": "Brooklyn, NY",
+      "coords": [
+        40.7191529,
+        -73.96174719999999
+      ],
+      "url": "https://www.bowerypresents.com/music-hall-of-williamsburg/",
+      "eventsUrl": "https://www.bowerypresents.com/calendar",
+      "facebook": null,
+      "instagram": null,
+      "scraper": "auto",
+      "genre": [
+        "live music"
+      ],
+      "active": true,
+      "source": "google-places"
+    },
+    {
       "id": "gp-RUoyCKOP0zeU",
       "googlePlaceId": "ChIJD8ccagCFwokRUoyCKOP0zeU",
       "name": "music pavilion",
@@ -2867,6 +2847,26 @@
       "scraper": "auto",
       "genre": [
         "live music"
+      ],
+      "active": true,
+      "source": "google-places"
+    },
+    {
+      "id": "gp-RdG1py6JVEwQ",
+      "googlePlaceId": "ChIJo46qzlB4wokRdG1py6JVEwQ",
+      "name": "Northwell at Jones Beach Theater",
+      "location": "Wantagh, NY",
+      "coords": [
+        40.600905499999996,
+        -73.5021682
+      ],
+      "url": "https://www.northwellatjonesbeachtheater.com/?utm_source=GMBlisting&utm_medium=organic",
+      "eventsUrl": "https://www.northwellatjonesbeachtheater.com/shows",
+      "facebook": null,
+      "instagram": null,
+      "scraper": "auto",
+      "genre": [
+        "performing arts"
       ],
       "active": true,
       "source": "google-places"
@@ -3012,27 +3012,6 @@
       "source": "google-places"
     },
     {
-      "id": "gp-Rd9KH36jxC60",
-      "googlePlaceId": "ChIJX7RxAwFcwokRd9KH36jxC60",
-      "name": "Pine Box Rock Shop",
-      "location": "Brooklyn, NY",
-      "coords": [
-        40.7052743,
-        -73.93267569999999
-      ],
-      "url": "https://www.pineboxrockshop.com/",
-      "eventsUrl": "https://www.pineboxrockshop.com/event-calender",
-      "facebook": null,
-      "instagram": null,
-      "scraper": "auto",
-      "genre": [
-        "rock",
-        "metal"
-      ],
-      "active": true,
-      "source": "google-places"
-    },
-    {
       "id": "gp-R0hrazkJYOLw",
       "googlePlaceId": "ChIJhcvnOXHV6YkR0hrazkJYOLw",
       "name": "Prohibition",
@@ -3113,6 +3092,26 @@
       "source": "google-places"
     },
     {
+      "id": "gp-Rldqq2YHmxJI",
+      "googlePlaceId": "ChIJPS8b1vhYwokRldqq2YHmxJI",
+      "name": "Radio City Music Hall",
+      "location": "New York, NY",
+      "coords": [
+        40.759975999999995,
+        -73.9799772
+      ],
+      "url": "https://www.msg.com/radio-city-music-hall",
+      "eventsUrl": "https://www.msg.com/calendar?category=music&venues=KovZpZAE7vdA",
+      "facebook": null,
+      "instagram": null,
+      "scraper": "auto",
+      "genre": [
+        "performing arts"
+      ],
+      "active": true,
+      "source": "google-places"
+    },
+    {
       "id": "gp-RpuqVmVHjcz8",
       "googlePlaceId": "ChIJQX5R_gR-wokRpuqVmVHjcz8",
       "name": "RC Dugans Restaurant Sports Bar",
@@ -3143,26 +3142,6 @@
       ],
       "url": "https://www.recordroomlic.com/",
       "eventsUrl": "https://www.recordroomlic.com/drink",
-      "facebook": null,
-      "instagram": null,
-      "scraper": "auto",
-      "genre": [
-        "live music"
-      ],
-      "active": true,
-      "source": "google-places"
-    },
-    {
-      "id": "gp-RgI_nTb7ZuAk",
-      "googlePlaceId": "ChIJ9W9x9Fl9wokRgI_nTb7ZuAk",
-      "name": "Recovery Room Bar & Grill",
-      "location": "Mineola, NY",
-      "coords": [
-        40.740801999999995,
-        -73.640635
-      ],
-      "url": "https://www.recoveryroombar.com/",
-      "eventsUrl": "https://www.recoveryroombar.com/about",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -3483,7 +3462,7 @@
         -73.373475
       ],
       "url": "https://www.southshoretheatre.com/",
-      "eventsUrl": "https://events.ticketleap.com/tickets/south-shore-theatre-experience/south-shore-theatre-experience-15th-annual-one-act-festival",
+      "eventsUrl": "https://events.ticketleap.com/tickets/south-shore-theatre-experience/railroad-torpedoes-by-john-blenn",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -3582,7 +3561,7 @@
         40.9165661,
         -72.6623747
       ],
-      "url": "https://www.facebook.com/spotlighteastend?rdid=N3yJRSbHK2MpgrwB&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1MbPMbNGeK%2F",
+      "url": "https://www.facebook.com/spotlighteastend?rdid=GckyVUF1qMBmUoyx&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1MbPMbNGeK%2F",
       "eventsUrl": "https://www.facebook.com/events",
       "facebook": null,
       "instagram": null,
@@ -3701,6 +3680,26 @@
       "coords": [
         40.8292314,
         -73.3033343
+      ],
+      "url": null,
+      "eventsUrl": null,
+      "facebook": null,
+      "instagram": null,
+      "scraper": null,
+      "genre": [
+        "performing arts"
+      ],
+      "active": true,
+      "source": "google-places"
+    },
+    {
+      "id": "gp-R1p8gkcNDvd4",
+      "googlePlaceId": "ChIJ-TDiTrnqwokR1p8gkcNDvd4",
+      "name": "Tarrytown Music Hall",
+      "location": "Tarrytown, NY",
+      "coords": [
+        41.0764989,
+        -73.8588243
       ],
       "url": null,
       "eventsUrl": null,
@@ -3874,10 +3873,30 @@
       "source": "google-places"
     },
     {
+      "id": "gp-RmXQ955WW6fg",
+      "googlePlaceId": "ChIJQVDz68sr6IkRmXQ955WW6fg",
+      "name": "The Gravity Vault Melville",
+      "location": "Melville, NY",
+      "coords": [
+        40.775380999999996,
+        -73.41332229999999
+      ],
+      "url": "https://gravityvault.com/locations/melville-ny",
+      "eventsUrl": "https://gravityvault.com/",
+      "facebook": null,
+      "instagram": null,
+      "scraper": "auto",
+      "genre": [
+        "live music"
+      ],
+      "active": true,
+      "source": "google-places"
+    },
+    {
       "id": "gp-R_JeaL3UMLn4",
       "googlePlaceId": "ChIJG5cC61VmwokR_JeaL3UMLn4",
       "name": "The Greenwich Lounge",
-      "location": "Jamaica, NY",
+      "location": "JFK International Airport, NY",
       "coords": [
         40.6481845,
         -73.79121169999999
@@ -4176,26 +4195,6 @@
       "source": "google-places"
     },
     {
-      "id": "gp-RXU2ttSMFs3A",
-      "googlePlaceId": "ChIJw3VmR1WFwokRXU2ttSMFs3A",
-      "name": "The Woodshed (Sea Cliff Music)",
-      "location": "Sea Cliff, NY",
-      "coords": [
-        40.84790900000001,
-        -73.6450787
-      ],
-      "url": null,
-      "eventsUrl": null,
-      "facebook": null,
-      "instagram": null,
-      "scraper": null,
-      "genre": [
-        "live music"
-      ],
-      "active": true,
-      "source": "google-places"
-    },
-    {
       "id": "gp-RGaytwY8-IcY",
       "googlePlaceId": "ChIJhX0Y-WZA6IkRGaytwY8-IcY",
       "name": "Theatre Three",
@@ -4236,26 +4235,6 @@
       "source": "google-places"
     },
     {
-      "id": "gp-RiJo6ATq_vCg",
-      "googlePlaceId": "ChIJKbSkEZta6IkRiJo6ATq_vCg",
-      "name": "Tiki Joe's Smith Point",
-      "location": "Shirley, NY",
-      "coords": [
-        40.73396760000001,
-        -72.8614976
-      ],
-      "url": null,
-      "eventsUrl": null,
-      "facebook": null,
-      "instagram": null,
-      "scraper": null,
-      "genre": [
-        "live music"
-      ],
-      "active": true,
-      "source": "google-places"
-    },
-    {
       "id": "gp-RWIW6dZkKD1g",
       "googlePlaceId": "ChIJ4Vj9xw6EwokRWIW6dZkKD1g",
       "name": "Tilles Center",
@@ -4285,7 +4264,7 @@
         -72.8354974
       ],
       "url": "https://tipicannacafe.com/?utm_source=gbp&utm_medium=organic&utm_campaign=profile",
-      "eventsUrl": "https://tipicannacafe.com/events/",
+      "eventsUrl": "https://tipicannacafe.com/",
       "facebook": null,
       "instagram": null,
       "scraper": "auto",
@@ -4311,26 +4290,6 @@
       "scraper": "auto",
       "genre": [
         "performing arts"
-      ],
-      "active": true,
-      "source": "google-places"
-    },
-    {
-      "id": "gp-RVkPsktaRtvg",
-      "googlePlaceId": "ChIJG0cHJLLV6YkRVkPsktaRtvg",
-      "name": "Toomey's Tavern",
-      "location": "Amityville, NY",
-      "coords": [
-        40.6624316,
-        -73.4240949
-      ],
-      "url": "https://www.toomeystavernamityville.com/",
-      "eventsUrl": "https://www.toomeystavernamityville.com/live-music-calendar",
-      "facebook": null,
-      "instagram": null,
-      "scraper": "auto",
-      "genre": [
-        "live music"
       ],
       "active": true,
       "source": "google-places"
@@ -4577,5 +4536,5 @@
       "source": "google-places"
     }
   ],
-  "lastVerified": "2026-08-31T15:43:07.996Z"
+  "lastVerified": "2026-09-07T13:51:09.100Z"
 }

@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-09-15T10:46:04.869Z",
-  "totalShows": 8,
-  "errors": 0,
+  "lastUpdated": "2026-09-16T10:34:47.178Z",
+  "totalShows": 7,
+  "errors": 1,
   "venues": {
     "89north": {
       "id": "89north",
@@ -13,7 +13,7 @@
         -73.0163
       ],
       "shows": [],
-      "scrapedAt": "2026-09-15T10:45:14.826Z",
+      "scrapedAt": "2026-09-16T10:34:09.469Z",
       "error": null
     },
     "boulton": {
@@ -26,7 +26,7 @@
         -73.2449
       ],
       "shows": [],
-      "scrapedAt": "2026-09-15T10:45:32.958Z",
+      "scrapedAt": "2026-09-16T10:34:24.868Z",
       "error": null
     },
     "nassaucoliseum": {
@@ -39,7 +39,7 @@
         -73.5932
       ],
       "shows": [],
-      "scrapedAt": "2026-09-15T10:45:41.326Z",
+      "scrapedAt": "2026-09-16T10:34:32.768Z",
       "error": null
     },
     "jonesbeach": {
@@ -52,19 +52,6 @@
         -73.5095
       ],
       "shows": [
-        {
-          "id": "jonesbeach-2026-09-15-tlc-salt-n-pepa-with-en-vogue-it-s-iconic",
-          "title": "TLC & Salt-N-Pepa with En Vogue - IT'S ICONIC",
-          "date": "2026-09-15",
-          "time": "7:30 PM",
-          "doors": null,
-          "ticketUrl": "https://www.ticketmaster.com/tlc-saltnpepa-with-en-vogue-its-wantagh-new-york-09-15-2026/event/1D006471E1096F3F",
-          "imageUrl": "https://s1.ticketm.net/dam/a/b0b/5d495c78-fdc3-461e-b1f2-51333c23ab0b_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-          "price": null,
-          "ages": null,
-          "description": null,
-          "sourceUrl": "https://www.ticketmaster.com/tlc-saltnpepa-with-en-vogue-its-wantagh-new-york-09-15-2026/event/1D006471E1096F3F"
-        },
         {
           "id": "jonesbeach-2026-09-17-lil-wayne-20-years-of-carter-classics",
           "title": "LIL WAYNE: 20 YEARS OF CARTER CLASSICS",
@@ -157,7 +144,7 @@
           "sourceUrl": "https://www.ticketmaster.com/ashanti-trey-songz-wantagh-new-york-08-27-2027/event/1D006491EF2BA6E6"
         }
       ],
-      "scrapedAt": "2026-09-15T10:45:43.371Z",
+      "scrapedAt": "2026-09-16T10:34:34.832Z",
       "error": null
     },
     "thespaceatwestbury": {
@@ -170,7 +157,7 @@
         -73.5766
       ],
       "shows": [],
-      "scrapedAt": "2026-09-15T10:45:54.857Z",
+      "scrapedAt": "2026-09-16T10:34:43.886Z",
       "error": null
     },
     "ubsarena": {
@@ -183,8 +170,8 @@
         -73.7259
       ],
       "shows": [],
-      "scrapedAt": "2026-09-15T10:46:03.368Z",
-      "error": null
+      "scrapedAt": "2026-09-16T10:34:45.677Z",
+      "error": "Could not load any page for UBS Arena"
     }
   }
 }

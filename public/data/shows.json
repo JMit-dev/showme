@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-09-16T10:34:47.178Z",
-  "totalShows": 7,
-  "errors": 1,
+  "lastUpdated": "2026-09-17T10:44:26.635Z",
+  "totalShows": 6,
+  "errors": 0,
   "venues": {
     "89north": {
       "id": "89north",
@@ -13,7 +13,7 @@
         -73.0163
       ],
       "shows": [],
-      "scrapedAt": "2026-09-16T10:34:09.469Z",
+      "scrapedAt": "2026-09-17T10:43:43.268Z",
       "error": null
     },
     "boulton": {
@@ -26,7 +26,7 @@
         -73.2449
       ],
       "shows": [],
-      "scrapedAt": "2026-09-16T10:34:24.868Z",
+      "scrapedAt": "2026-09-17T10:43:58.590Z",
       "error": null
     },
     "nassaucoliseum": {
@@ -39,7 +39,7 @@
         -73.5932
       ],
       "shows": [],
-      "scrapedAt": "2026-09-16T10:34:32.768Z",
+      "scrapedAt": "2026-09-17T10:44:06.140Z",
       "error": null
     },
     "jonesbeach": {
@@ -52,19 +52,6 @@
         -73.5095
       ],
       "shows": [
-        {
-          "id": "jonesbeach-2026-09-17-lil-wayne-20-years-of-carter-classics",
-          "title": "LIL WAYNE: 20 YEARS OF CARTER CLASSICS",
-          "date": "2026-09-17",
-          "time": "8:00 PM",
-          "doors": null,
-          "ticketUrl": "https://www.ticketmaster.com/lil-wayne-20-years-of-carter-wantagh-new-york-09-16-2026/event/1D006465B1C87CC8",
-          "imageUrl": "https://s1.ticketm.net/dam/a/feb/da63459e-8148-453b-8863-e464f25acfeb_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-          "price": null,
-          "ages": null,
-          "description": null,
-          "sourceUrl": "https://www.ticketmaster.com/lil-wayne-20-years-of-carter-wantagh-new-york-09-16-2026/event/1D006465B1C87CC8"
-        },
         {
           "id": "jonesbeach-2026-09-17-dan-shay-the-young-tour",
           "title": "Dan + Shay: The Young Tour",
@@ -105,19 +92,6 @@
           "sourceUrl": "https://www.ticketmaster.com/logic-geazy-the-endless-summer-tour-wantagh-new-york-09-30-2026/event/1D0064977BC227EC"
         },
         {
-          "id": "jonesbeach-2026-12-31-2026-premium-season-tickets",
-          "title": "2026 Premium Season Tickets",
-          "date": "2026-12-31",
-          "time": "12:00 AM",
-          "doors": null,
-          "ticketUrl": "https://premium.livenation.com/venue/northwell-health-at-jones-beach-theater",
-          "imageUrl": "https://s1.ticketm.net/dam/c/060/c5c08e7a-9912-456c-a060-2758be94e060_105881_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-          "price": null,
-          "ages": null,
-          "description": null,
-          "sourceUrl": "https://premium.livenation.com/venue/northwell-health-at-jones-beach-theater"
-        },
-        {
           "id": "jonesbeach-2027-06-20-stick-figure-enjoy-the-ride-tour",
           "title": "Stick Figure - Enjoy the Ride Tour",
           "date": "2027-06-20",
@@ -142,9 +116,22 @@
           "ages": null,
           "description": null,
           "sourceUrl": "https://www.ticketmaster.com/ashanti-trey-songz-wantagh-new-york-08-27-2027/event/1D006491EF2BA6E6"
+        },
+        {
+          "id": "jonesbeach-2027-12-31-2027-premium-season-tickets-waitlist",
+          "title": "2027 PREMIUM SEASON TICKETS WAITLIST",
+          "date": "2027-12-31",
+          "time": "12:00 AM",
+          "doors": null,
+          "ticketUrl": "https://premium.livenation.com/venue/northwell-health-at-jones-beach-theater",
+          "imageUrl": "https://s1.ticketm.net/dam/c/060/c5c08e7a-9912-456c-a060-2758be94e060_105881_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+          "price": null,
+          "ages": null,
+          "description": null,
+          "sourceUrl": "https://premium.livenation.com/venue/northwell-health-at-jones-beach-theater"
         }
       ],
-      "scrapedAt": "2026-09-16T10:34:34.832Z",
+      "scrapedAt": "2026-09-17T10:44:08.154Z",
       "error": null
     },
     "thespaceatwestbury": {
@@ -157,7 +144,7 @@
         -73.5766
       ],
       "shows": [],
-      "scrapedAt": "2026-09-16T10:34:43.886Z",
+      "scrapedAt": "2026-09-17T10:44:17.031Z",
       "error": null
     },
     "ubsarena": {
@@ -170,8 +157,8 @@
         -73.7259
       ],
       "shows": [],
-      "scrapedAt": "2026-09-16T10:34:45.677Z",
-      "error": "Could not load any page for UBS Arena"
+      "scrapedAt": "2026-09-17T10:44:25.134Z",
+      "error": null
     }
   }
 }

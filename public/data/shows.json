@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-09-17T10:44:26.635Z",
-  "totalShows": 6,
-  "errors": 0,
+  "lastUpdated": "2026-09-18T10:19:40.841Z",
+  "totalShows": 5,
+  "errors": 1,
   "venues": {
     "89north": {
       "id": "89north",
@@ -13,7 +13,7 @@
         -73.0163
       ],
       "shows": [],
-      "scrapedAt": "2026-09-17T10:43:43.268Z",
+      "scrapedAt": "2026-09-18T10:19:03.408Z",
       "error": null
     },
     "boulton": {
@@ -26,7 +26,7 @@
         -73.2449
       ],
       "shows": [],
-      "scrapedAt": "2026-09-17T10:43:58.590Z",
+      "scrapedAt": "2026-09-18T10:19:18.945Z",
       "error": null
     },
     "nassaucoliseum": {
@@ -39,7 +39,7 @@
         -73.5932
       ],
       "shows": [],
-      "scrapedAt": "2026-09-17T10:44:06.140Z",
+      "scrapedAt": "2026-09-18T10:19:27.761Z",
       "error": null
     },
     "jonesbeach": {
@@ -52,19 +52,6 @@
         -73.5095
       ],
       "shows": [
-        {
-          "id": "jonesbeach-2026-09-17-dan-shay-the-young-tour",
-          "title": "Dan + Shay: The Young Tour",
-          "date": "2026-09-17",
-          "time": "7:00 PM",
-          "doors": null,
-          "ticketUrl": "https://www.ticketmaster.com/dan-shay-the-young-tour-wantagh-new-york-09-17-2026/event/1D0064AD90DC3296",
-          "imageUrl": "https://s1.ticketm.net/dam/a/f2e/fe6e5b78-fdee-439b-bf08-cb93c41e1f2e_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-          "price": null,
-          "ages": null,
-          "description": null,
-          "sourceUrl": "https://www.ticketmaster.com/dan-shay-the-young-tour-wantagh-new-york-09-17-2026/event/1D0064AD90DC3296"
-        },
         {
           "id": "jonesbeach-2026-09-18-o-a-r-three-decades-tour",
           "title": "O.A.R. Three Decades Tour",
@@ -131,7 +118,7 @@
           "sourceUrl": "https://premium.livenation.com/venue/northwell-health-at-jones-beach-theater"
         }
       ],
-      "scrapedAt": "2026-09-17T10:44:08.154Z",
+      "scrapedAt": "2026-09-18T10:19:29.886Z",
       "error": null
     },
     "thespaceatwestbury": {
@@ -144,7 +131,7 @@
         -73.5766
       ],
       "shows": [],
-      "scrapedAt": "2026-09-17T10:44:17.031Z",
+      "scrapedAt": "2026-09-18T10:19:37.596Z",
       "error": null
     },
     "ubsarena": {
@@ -157,8 +144,8 @@
         -73.7259
       ],
       "shows": [],
-      "scrapedAt": "2026-09-17T10:44:25.134Z",
-      "error": null
+      "scrapedAt": "2026-09-18T10:19:39.340Z",
+      "error": "Could not load any page for UBS Arena"
     }
   }
 }

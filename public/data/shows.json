@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-18T10:19:40.841Z",
-  "totalShows": 5,
+  "lastUpdated": "2026-09-19T10:02:53.616Z",
+  "totalShows": 4,
   "errors": 1,
   "venues": {
     "89north": {
@@ -13,7 +13,7 @@
         -73.0163
       ],
       "shows": [],
-      "scrapedAt": "2026-09-18T10:19:03.408Z",
+      "scrapedAt": "2026-09-19T10:02:15.347Z",
       "error": null
     },
     "boulton": {
@@ -26,7 +26,7 @@
         -73.2449
       ],
       "shows": [],
-      "scrapedAt": "2026-09-18T10:19:18.945Z",
+      "scrapedAt": "2026-09-19T10:02:30.720Z",
       "error": null
     },
     "nassaucoliseum": {
@@ -39,7 +39,7 @@
         -73.5932
       ],
       "shows": [],
-      "scrapedAt": "2026-09-18T10:19:27.761Z",
+      "scrapedAt": "2026-09-19T10:02:38.872Z",
       "error": null
     },
     "jonesbeach": {
@@ -52,19 +52,6 @@
         -73.5095
       ],
       "shows": [
-        {
-          "id": "jonesbeach-2026-09-18-o-a-r-three-decades-tour",
-          "title": "O.A.R. Three Decades Tour",
-          "date": "2026-09-18",
-          "time": "6:30 PM",
-          "doors": null,
-          "ticketUrl": "https://www.ticketmaster.com/oar-three-decades-tour-wantagh-new-york-09-18-2026/event/1D00635BA6E01CF4",
-          "imageUrl": "https://s1.ticketm.net/dam/a/d65/f66d76e4-476c-4c40-bd37-341041cb8d65_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-          "price": null,
-          "ages": null,
-          "description": null,
-          "sourceUrl": "https://www.ticketmaster.com/oar-three-decades-tour-wantagh-new-york-09-18-2026/event/1D00635BA6E01CF4"
-        },
         {
           "id": "jonesbeach-2026-09-30-logic-g-eazy-the-endless-summer-tour-part-ii",
           "title": "Logic & G-Eazy: The Endless Summer Tour Part II",
@@ -118,7 +105,7 @@
           "sourceUrl": "https://premium.livenation.com/venue/northwell-health-at-jones-beach-theater"
         }
       ],
-      "scrapedAt": "2026-09-18T10:19:29.886Z",
+      "scrapedAt": "2026-09-19T10:02:41.236Z",
       "error": null
     },
     "thespaceatwestbury": {
@@ -131,7 +118,7 @@
         -73.5766
       ],
       "shows": [],
-      "scrapedAt": "2026-09-18T10:19:37.596Z",
+      "scrapedAt": "2026-09-19T10:02:50.406Z",
       "error": null
     },
     "ubsarena": {
@@ -144,7 +131,7 @@
         -73.7259
       ],
       "shows": [],
-      "scrapedAt": "2026-09-18T10:19:39.340Z",
+      "scrapedAt": "2026-09-19T10:02:52.115Z",
       "error": "Could not load any page for UBS Arena"
     }
   }

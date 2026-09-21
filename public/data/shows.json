@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-20T10:22:10.825Z",
+  "lastUpdated": "2026-09-21T11:36:07.974Z",
   "totalShows": 4,
   "errors": 1,
   "venues": {
@@ -13,7 +13,7 @@
         -73.0163
       ],
       "shows": [],
-      "scrapedAt": "2026-09-20T10:21:33.684Z",
+      "scrapedAt": "2026-09-21T11:35:29.482Z",
       "error": null
     },
     "boulton": {
@@ -26,7 +26,7 @@
         -73.2449
       ],
       "shows": [],
-      "scrapedAt": "2026-09-20T10:21:48.881Z",
+      "scrapedAt": "2026-09-21T11:35:44.605Z",
       "error": null
     },
     "nassaucoliseum": {
@@ -39,7 +39,7 @@
         -73.5932
       ],
       "shows": [],
-      "scrapedAt": "2026-09-20T10:21:56.534Z",
+      "scrapedAt": "2026-09-21T11:35:54.440Z",
       "error": null
     },
     "jonesbeach": {
@@ -105,7 +105,7 @@
           "sourceUrl": "https://premium.livenation.com/venue/northwell-health-at-jones-beach-theater"
         }
       ],
-      "scrapedAt": "2026-09-20T10:22:00.045Z",
+      "scrapedAt": "2026-09-21T11:35:56.605Z",
       "error": null
     },
     "thespaceatwestbury": {
@@ -118,7 +118,7 @@
         -73.5766
       ],
       "shows": [],
-      "scrapedAt": "2026-09-20T10:22:07.594Z",
+      "scrapedAt": "2026-09-21T11:36:04.521Z",
       "error": null
     },
     "ubsarena": {
@@ -131,7 +131,7 @@
         -73.7259
       ],
       "shows": [],
-      "scrapedAt": "2026-09-20T10:22:09.323Z",
+      "scrapedAt": "2026-09-21T11:36:06.472Z",
       "error": "Could not load any page for UBS Arena"
     }
   }

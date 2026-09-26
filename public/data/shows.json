@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-25T10:54:34.138Z",
-  "totalShows": 63,
+  "lastUpdated": "2026-09-26T10:34:53.158Z",
+  "totalShows": 62,
   "errors": 0,
   "venues": {
     "89north": {
@@ -13,7 +13,7 @@
         -73.0163
       ],
       "shows": [],
-      "scrapedAt": "2026-09-25T10:54:09.987Z",
+      "scrapedAt": "2026-09-26T10:34:31.067Z",
       "error": null
     },
     "boulton": {
@@ -27,30 +27,17 @@
       ],
       "shows": [
         {
-          "id": "boulton-2026-09-25-events-performances",
+          "id": "boulton-2026-09-26-events-performances",
           "title": "Events & Performances",
-          "date": "2026-09-25",
+          "date": "2026-09-26",
           "time": null,
           "doors": null,
-          "ticketUrl": "https://www.boultoncenter.org/calendar/movie-jaws",
+          "ticketUrl": "https://www.boultoncenter.org/calendar/the-best-of-the-70s-with-dizzyfish-the-uptown-horns",
           "imageUrl": "https://images.squarespace-cdn.com/content/v1/6a4288bd2ff57a5bc6d0d83a/a340debf-54a0-4b0b-95fd-3361e1dcdd36/Top+Tier+Floors+-+Blog+Images.png",
           "price": null,
           "ages": null,
           "description": null,
-          "sourceUrl": "https://www.boultoncenter.org/calendar/movie-jaws"
-        },
-        {
-          "id": "boulton-2026-09-25-movie-jaws",
-          "title": "Movie: Jaws",
-          "date": "2026-09-25",
-          "time": null,
-          "doors": null,
-          "ticketUrl": "https://www.boultoncenter.org/calendar/movie-jaws",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/6a4288bd2ff57a5bc6d0d83a/1788200805022-PXYQDVZCUKHVUB4Q5SF4/2806004-jaws.jpg",
-          "price": null,
-          "ages": null,
-          "description": null,
-          "sourceUrl": "https://www.boultoncenter.org/calendar/movie-jaws"
+          "sourceUrl": "https://www.boultoncenter.org/calendar/the-best-of-the-70s-with-dizzyfish-the-uptown-horns"
         },
         {
           "id": "boulton-2026-09-26-the-best-of-the-seventies-with-dizzyfish-the-uptown-horns",
@@ -794,7 +781,7 @@
           "sourceUrl": "https://www.boultoncenter.org/calendar/four-way-street"
         }
       ],
-      "scrapedAt": "2026-09-25T10:54:12.549Z",
+      "scrapedAt": "2026-09-26T10:34:33.161Z",
       "error": null
     },
     "nassaucoliseum": {
@@ -807,7 +794,7 @@
         -73.5932
       ],
       "shows": [],
-      "scrapedAt": "2026-09-25T10:54:22.238Z",
+      "scrapedAt": "2026-09-26T10:34:41.484Z",
       "error": null
     },
     "jonesbeach": {
@@ -873,7 +860,7 @@
           "sourceUrl": "https://premium.livenation.com/venue/northwell-health-at-jones-beach-theater"
         }
       ],
-      "scrapedAt": "2026-09-25T10:54:24.402Z",
+      "scrapedAt": "2026-09-26T10:34:43.390Z",
       "error": null
     },
     "thespaceatwestbury": {
@@ -886,7 +873,7 @@
         -73.5766
       ],
       "shows": [],
-      "scrapedAt": "2026-09-25T10:54:32.638Z",
+      "scrapedAt": "2026-09-26T10:34:51.657Z",
       "error": null
     }
   }

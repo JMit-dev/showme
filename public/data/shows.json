@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-26T10:34:53.158Z",
+  "lastUpdated": "2026-09-27T11:07:01.468Z",
   "totalShows": 62,
   "errors": 0,
   "venues": {
@@ -13,7 +13,7 @@
         -73.0163
       ],
       "shows": [],
-      "scrapedAt": "2026-09-26T10:34:31.067Z",
+      "scrapedAt": "2026-09-27T11:06:40.688Z",
       "error": null
     },
     "boulton": {
@@ -27,30 +27,17 @@
       ],
       "shows": [
         {
-          "id": "boulton-2026-09-26-events-performances",
+          "id": "boulton-2026-09-27-events-performances",
           "title": "Events & Performances",
-          "date": "2026-09-26",
+          "date": "2026-09-27",
           "time": null,
           "doors": null,
-          "ticketUrl": "https://www.boultoncenter.org/calendar/the-best-of-the-70s-with-dizzyfish-the-uptown-horns",
+          "ticketUrl": "https://www.boultoncenter.org/calendar/sons-of-cream",
           "imageUrl": "https://images.squarespace-cdn.com/content/v1/6a4288bd2ff57a5bc6d0d83a/a340debf-54a0-4b0b-95fd-3361e1dcdd36/Top+Tier+Floors+-+Blog+Images.png",
           "price": null,
           "ages": null,
           "description": null,
-          "sourceUrl": "https://www.boultoncenter.org/calendar/the-best-of-the-70s-with-dizzyfish-the-uptown-horns"
-        },
-        {
-          "id": "boulton-2026-09-26-the-best-of-the-seventies-with-dizzyfish-the-uptown-horns",
-          "title": "The Best Of The Seventies with DizzyFish & The Uptown Horns",
-          "date": "2026-09-26",
-          "time": null,
-          "doors": null,
-          "ticketUrl": "https://www.boultoncenter.org/calendar/the-best-of-the-70s-with-dizzyfish-the-uptown-horns",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/6a4288bd2ff57a5bc6d0d83a/1783961108144-5OASETN50MUE41BMZYLB/imgi_18_0_edited_edited.jpg",
-          "price": null,
-          "ages": null,
-          "description": null,
-          "sourceUrl": "https://www.boultoncenter.org/calendar/the-best-of-the-70s-with-dizzyfish-the-uptown-horns"
+          "sourceUrl": "https://www.boultoncenter.org/calendar/sons-of-cream"
         },
         {
           "id": "boulton-2026-09-27-sons-of-cream",
@@ -194,6 +181,19 @@
           "ages": null,
           "description": null,
           "sourceUrl": "https://www.boultoncenter.org/calendar/reckoning"
+        },
+        {
+          "id": "boulton-2026-10-25-the-best-of-the-seventies",
+          "title": "The Best Of The Seventies",
+          "date": "2026-10-25",
+          "time": null,
+          "doors": null,
+          "ticketUrl": "https://www.boultoncenter.org/calendar/the-best-of-the-70s",
+          "imageUrl": "https://images.squarespace-cdn.com/content/v1/6a4288bd2ff57a5bc6d0d83a/1790483663486-UAK1MJAM9HELZF4XX5RL/ClientFile%28521368%29.jpeg",
+          "price": null,
+          "ages": null,
+          "description": null,
+          "sourceUrl": "https://www.boultoncenter.org/calendar/the-best-of-the-70s"
         },
         {
           "id": "boulton-2026-10-30-the-artimus-pyle-band-honoring-ronnie-van-zant-s-lynyrd-skyn",
@@ -781,7 +781,7 @@
           "sourceUrl": "https://www.boultoncenter.org/calendar/four-way-street"
         }
       ],
-      "scrapedAt": "2026-09-26T10:34:33.161Z",
+      "scrapedAt": "2026-09-27T11:06:42.768Z",
       "error": null
     },
     "nassaucoliseum": {
@@ -794,7 +794,7 @@
         -73.5932
       ],
       "shows": [],
-      "scrapedAt": "2026-09-26T10:34:41.484Z",
+      "scrapedAt": "2026-09-27T11:06:50.196Z",
       "error": null
     },
     "jonesbeach": {
@@ -860,7 +860,7 @@
           "sourceUrl": "https://premium.livenation.com/venue/northwell-health-at-jones-beach-theater"
         }
       ],
-      "scrapedAt": "2026-09-26T10:34:43.390Z",
+      "scrapedAt": "2026-09-27T11:06:52.585Z",
       "error": null
     },
     "thespaceatwestbury": {
@@ -873,7 +873,7 @@
         -73.5766
       ],
       "shows": [],
-      "scrapedAt": "2026-09-26T10:34:51.657Z",
+      "scrapedAt": "2026-09-27T11:06:59.966Z",
       "error": null
     }
   }

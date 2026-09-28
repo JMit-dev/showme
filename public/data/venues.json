@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-21T14:37:42.668Z",
+  "lastUpdated": "2026-09-28T16:08:59.026Z",
   "total": 27,
   "venues": [
     {
@@ -53,7 +53,7 @@
         -73.2449
       ],
       "url": "https://www.boultoncenter.org/",
-      "eventsUrl": "https://www.boultoncenter.org/events",
+      "eventsUrl": "https://www.boultoncenter.org/calendar",
       "facebook": "https://www.facebook.com/BoultonCenter",
       "instagram": null,
       "scraper": "auto",
@@ -545,5 +545,5 @@
       "active": true
     }
   ],
-  "lastVerified": "2026-09-21T14:38:22.919Z"
+  "lastVerified": "2026-09-28T16:09:31.352Z"
 }

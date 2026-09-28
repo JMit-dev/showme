@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-27T11:07:01.468Z",
-  "totalShows": 62,
+  "lastUpdated": "2026-09-28T12:30:37.730Z",
+  "totalShows": 61,
   "errors": 0,
   "venues": {
     "89north": {
@@ -13,7 +13,7 @@
         -73.0163
       ],
       "shows": [],
-      "scrapedAt": "2026-09-27T11:06:40.688Z",
+      "scrapedAt": "2026-09-28T12:30:12.233Z",
       "error": null
     },
     "boulton": {
@@ -27,30 +27,17 @@
       ],
       "shows": [
         {
-          "id": "boulton-2026-09-27-events-performances",
+          "id": "boulton-2026-10-01-events-performances",
           "title": "Events & Performances",
-          "date": "2026-09-27",
+          "date": "2026-10-01",
           "time": null,
           "doors": null,
-          "ticketUrl": "https://www.boultoncenter.org/calendar/sons-of-cream",
+          "ticketUrl": "https://www.boultoncenter.org/calendar/crazy-train-americas-ozzy-tour",
           "imageUrl": "https://images.squarespace-cdn.com/content/v1/6a4288bd2ff57a5bc6d0d83a/a340debf-54a0-4b0b-95fd-3361e1dcdd36/Top+Tier+Floors+-+Blog+Images.png",
           "price": null,
           "ages": null,
           "description": null,
-          "sourceUrl": "https://www.boultoncenter.org/calendar/sons-of-cream"
-        },
-        {
-          "id": "boulton-2026-09-27-sons-of-cream",
-          "title": "Sons of Cream",
-          "date": "2026-09-27",
-          "time": null,
-          "doors": null,
-          "ticketUrl": "https://www.boultoncenter.org/calendar/sons-of-cream",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/6a4288bd2ff57a5bc6d0d83a/1790083975490-DMHAOETJNKKN4X778ZHJ/474212633_122205042704204449_3016498933908438358_n.jpg",
-          "price": null,
-          "ages": null,
-          "description": null,
-          "sourceUrl": "https://www.boultoncenter.org/calendar/sons-of-cream"
+          "sourceUrl": "https://www.boultoncenter.org/calendar/crazy-train-americas-ozzy-tour"
         },
         {
           "id": "boulton-2026-10-01-crazy-train-america-s-ozzy-tour",
@@ -781,7 +768,7 @@
           "sourceUrl": "https://www.boultoncenter.org/calendar/four-way-street"
         }
       ],
-      "scrapedAt": "2026-09-27T11:06:42.768Z",
+      "scrapedAt": "2026-09-28T12:30:14.928Z",
       "error": null
     },
     "nassaucoliseum": {
@@ -794,7 +781,7 @@
         -73.5932
       ],
       "shows": [],
-      "scrapedAt": "2026-09-27T11:06:50.196Z",
+      "scrapedAt": "2026-09-28T12:30:26.089Z",
       "error": null
     },
     "jonesbeach": {
@@ -860,7 +847,7 @@
           "sourceUrl": "https://premium.livenation.com/venue/northwell-health-at-jones-beach-theater"
         }
       ],
-      "scrapedAt": "2026-09-27T11:06:52.585Z",
+      "scrapedAt": "2026-09-28T12:30:28.443Z",
       "error": null
     },
     "thespaceatwestbury": {
@@ -873,7 +860,7 @@
         -73.5766
       ],
       "shows": [],
-      "scrapedAt": "2026-09-27T11:06:59.966Z",
+      "scrapedAt": "2026-09-28T12:30:36.228Z",
       "error": null
     }
   }

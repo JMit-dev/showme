@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-28T12:30:37.730Z",
+  "lastUpdated": "2026-09-29T11:53:34.296Z",
   "totalShows": 61,
   "errors": 0,
   "venues": {
@@ -13,7 +13,7 @@
         -73.0163
       ],
       "shows": [],
-      "scrapedAt": "2026-09-28T12:30:12.233Z",
+      "scrapedAt": "2026-09-29T11:53:09.482Z",
       "error": null
     },
     "boulton": {
@@ -27,30 +27,17 @@
       ],
       "shows": [
         {
-          "id": "boulton-2026-10-01-events-performances",
+          "id": "boulton-2026-10-02-events-performances",
           "title": "Events & Performances",
-          "date": "2026-10-01",
+          "date": "2026-10-02",
           "time": null,
           "doors": null,
-          "ticketUrl": "https://www.boultoncenter.org/calendar/crazy-train-americas-ozzy-tour",
+          "ticketUrl": "https://www.boultoncenter.org/calendar/beginnings",
           "imageUrl": "https://images.squarespace-cdn.com/content/v1/6a4288bd2ff57a5bc6d0d83a/a340debf-54a0-4b0b-95fd-3361e1dcdd36/Top+Tier+Floors+-+Blog+Images.png",
           "price": null,
           "ages": null,
           "description": null,
-          "sourceUrl": "https://www.boultoncenter.org/calendar/crazy-train-americas-ozzy-tour"
-        },
-        {
-          "id": "boulton-2026-10-01-crazy-train-america-s-ozzy-tour",
-          "title": "Crazy Train America's Ozzy Tour",
-          "date": "2026-10-01",
-          "time": null,
-          "doors": null,
-          "ticketUrl": "https://www.boultoncenter.org/calendar/crazy-train-americas-ozzy-tour",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/6a4288bd2ff57a5bc6d0d83a/1783961525029-J3G1UNCH9GDHKPK88TPP/imgi_18_meta_eyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%253D%253D.webp",
-          "price": null,
-          "ages": null,
-          "description": null,
-          "sourceUrl": "https://www.boultoncenter.org/calendar/crazy-train-americas-ozzy-tour"
+          "sourceUrl": "https://www.boultoncenter.org/calendar/beginnings"
         },
         {
           "id": "boulton-2026-10-02-beginnings-a-celebration-of-the-music-of-chicago",
@@ -521,6 +508,19 @@
           "sourceUrl": "https://www.boultoncenter.org/calendar/mullett-the-nations-premier-80s-rock-and-roll-concert-experience"
         },
         {
+          "id": "boulton-2027-01-29-crazy-train-america-s-ozzy-tour",
+          "title": "Crazy Train America's Ozzy Tour",
+          "date": "2027-01-29",
+          "time": null,
+          "doors": null,
+          "ticketUrl": "https://www.boultoncenter.org/calendar/crazy-train-americas-ozzy-tour",
+          "imageUrl": "https://images.squarespace-cdn.com/content/v1/6a4288bd2ff57a5bc6d0d83a/1783961525029-J3G1UNCH9GDHKPK88TPP/imgi_18_meta_eyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%253D%253D.webp",
+          "price": null,
+          "ages": null,
+          "description": null,
+          "sourceUrl": "https://www.boultoncenter.org/calendar/crazy-train-americas-ozzy-tour"
+        },
+        {
           "id": "boulton-2027-01-30-pjny-the-pearl-jam-experience",
           "title": "PJNY: The Pearl Jam Experience",
           "date": "2027-01-30",
@@ -768,7 +768,7 @@
           "sourceUrl": "https://www.boultoncenter.org/calendar/four-way-street"
         }
       ],
-      "scrapedAt": "2026-09-28T12:30:14.928Z",
+      "scrapedAt": "2026-09-29T11:53:11.561Z",
       "error": null
     },
     "nassaucoliseum": {
@@ -781,7 +781,7 @@
         -73.5932
       ],
       "shows": [],
-      "scrapedAt": "2026-09-28T12:30:26.089Z",
+      "scrapedAt": "2026-09-29T11:53:20.986Z",
       "error": null
     },
     "jonesbeach": {
@@ -847,7 +847,7 @@
           "sourceUrl": "https://premium.livenation.com/venue/northwell-health-at-jones-beach-theater"
         }
       ],
-      "scrapedAt": "2026-09-28T12:30:28.443Z",
+      "scrapedAt": "2026-09-29T11:53:23.285Z",
       "error": null
     },
     "thespaceatwestbury": {
@@ -860,7 +860,7 @@
         -73.5766
       ],
       "shows": [],
-      "scrapedAt": "2026-09-28T12:30:36.228Z",
+      "scrapedAt": "2026-09-29T11:53:32.794Z",
       "error": null
     }
   }

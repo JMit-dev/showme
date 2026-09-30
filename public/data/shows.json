@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-29T11:53:34.296Z",
-  "totalShows": 61,
+  "lastUpdated": "2026-09-30T11:40:49.460Z",
+  "totalShows": 60,
   "errors": 0,
   "venues": {
     "89north": {
@@ -13,7 +13,7 @@
         -73.0163
       ],
       "shows": [],
-      "scrapedAt": "2026-09-29T11:53:09.482Z",
+      "scrapedAt": "2026-09-30T11:40:21.609Z",
       "error": null
     },
     "boulton": {
@@ -768,7 +768,7 @@
           "sourceUrl": "https://www.boultoncenter.org/calendar/four-way-street"
         }
       ],
-      "scrapedAt": "2026-09-29T11:53:11.561Z",
+      "scrapedAt": "2026-09-30T11:40:26.525Z",
       "error": null
     },
     "nassaucoliseum": {
@@ -781,7 +781,7 @@
         -73.5932
       ],
       "shows": [],
-      "scrapedAt": "2026-09-29T11:53:20.986Z",
+      "scrapedAt": "2026-09-30T11:40:36.522Z",
       "error": null
     },
     "jonesbeach": {
@@ -794,19 +794,6 @@
         -73.5095
       ],
       "shows": [
-        {
-          "id": "jonesbeach-2026-09-30-logic-g-eazy-the-endless-summer-tour-part-ii",
-          "title": "Logic & G-Eazy: The Endless Summer Tour Part II",
-          "date": "2026-09-30",
-          "time": "7:00 PM",
-          "doors": null,
-          "ticketUrl": "https://www.ticketmaster.com/logic-geazy-the-endless-summer-tour-wantagh-new-york-09-30-2026/event/1D0064977BC227EC",
-          "imageUrl": "https://s1.ticketm.net/dam/e/47c/92822647-37c4-4f16-ac67-146ea612147c_TABLET_LANDSCAPE_LARGE_16_9.jpg",
-          "price": null,
-          "ages": null,
-          "description": null,
-          "sourceUrl": "https://www.ticketmaster.com/logic-geazy-the-endless-summer-tour-wantagh-new-york-09-30-2026/event/1D0064977BC227EC"
-        },
         {
           "id": "jonesbeach-2027-06-20-stick-figure-enjoy-the-ride-tour",
           "title": "Stick Figure - Enjoy the Ride Tour",
@@ -847,7 +834,7 @@
           "sourceUrl": "https://premium.livenation.com/venue/northwell-health-at-jones-beach-theater"
         }
       ],
-      "scrapedAt": "2026-09-29T11:53:23.285Z",
+      "scrapedAt": "2026-09-30T11:40:38.642Z",
       "error": null
     },
     "thespaceatwestbury": {
@@ -860,7 +847,7 @@
         -73.5766
       ],
       "shows": [],
-      "scrapedAt": "2026-09-29T11:53:32.794Z",
+      "scrapedAt": "2026-09-30T11:40:47.958Z",
       "error": null
     }
   }

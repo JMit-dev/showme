@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-30T11:40:49.460Z",
-  "totalShows": 60,
+  "lastUpdated": "2026-10-01T12:09:45.407Z",
+  "totalShows": 62,
   "errors": 0,
   "venues": {
     "89north": {
@@ -13,7 +13,7 @@
         -73.0163
       ],
       "shows": [],
-      "scrapedAt": "2026-09-30T11:40:21.609Z",
+      "scrapedAt": "2026-10-01T12:09:21.439Z",
       "error": null
     },
     "boulton": {
@@ -657,7 +657,7 @@
           "time": null,
           "doors": null,
           "ticketUrl": "https://www.boultoncenter.org/calendar/the-zen-tricksters",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/6a4288bd2ff57a5bc6d0d83a/1790233746732-K1DSQUDKLTS15IWE3FYE/ClientFile%28634680%29.jpeg",
+          "imageUrl": "https://images.squarespace-cdn.com/content/v1/6a4288bd2ff57a5bc6d0d83a/1790798253525-PM46K7WKJWFGTR6DCFP3/Zen+Trickster+Photo.jpeg",
           "price": null,
           "ages": null,
           "description": null,
@@ -755,6 +755,32 @@
           "sourceUrl": "https://www.boultoncenter.org/calendar/jethro-tulls-martin-barre-the-2027-plugged-in-ready-tour"
         },
         {
+          "id": "boulton-2027-05-01-stanley-jordan-plays-jimi-hendrix",
+          "title": "Stanley Jordan Plays Jimi Hendrix",
+          "date": "2027-05-01",
+          "time": null,
+          "doors": null,
+          "ticketUrl": "https://www.boultoncenter.org/calendar/stanley-jordan-plays-jimi-hendrix",
+          "imageUrl": "https://images.squarespace-cdn.com/content/v1/6a4288bd2ff57a5bc6d0d83a/1790836374988-BRX2E4SW7BURFNJJYUB7/ClientFile%28556424%29.jpeg",
+          "price": null,
+          "ages": null,
+          "description": null,
+          "sourceUrl": "https://www.boultoncenter.org/calendar/stanley-jordan-plays-jimi-hendrix"
+        },
+        {
+          "id": "boulton-2027-05-08-the-music-of-the-beach-boys-featuring-pet-sounds-live",
+          "title": "The Music of The Beach Boys Featuring Pet Sounds LIVE!",
+          "date": "2027-05-08",
+          "time": null,
+          "doors": null,
+          "ticketUrl": "https://www.boultoncenter.org/calendar/the-music-of-the-beach-boys",
+          "imageUrl": "https://images.squarespace-cdn.com/content/v1/6a4288bd2ff57a5bc6d0d83a/1790836590685-Z77PHCPFWZQ9O8S3VAL4/ClientFile%28606277%29.png",
+          "price": null,
+          "ages": null,
+          "description": null,
+          "sourceUrl": "https://www.boultoncenter.org/calendar/the-music-of-the-beach-boys"
+        },
+        {
           "id": "boulton-2027-05-15-four-way-street",
           "title": "Four Way Street",
           "date": "2027-05-15",
@@ -768,7 +794,7 @@
           "sourceUrl": "https://www.boultoncenter.org/calendar/four-way-street"
         }
       ],
-      "scrapedAt": "2026-09-30T11:40:26.525Z",
+      "scrapedAt": "2026-10-01T12:09:23.672Z",
       "error": null
     },
     "nassaucoliseum": {
@@ -781,7 +807,7 @@
         -73.5932
       ],
       "shows": [],
-      "scrapedAt": "2026-09-30T11:40:36.522Z",
+      "scrapedAt": "2026-10-01T12:09:32.187Z",
       "error": null
     },
     "jonesbeach": {
@@ -834,7 +860,7 @@
           "sourceUrl": "https://premium.livenation.com/venue/northwell-health-at-jones-beach-theater"
         }
       ],
-      "scrapedAt": "2026-09-30T11:40:38.642Z",
+      "scrapedAt": "2026-10-01T12:09:34.600Z",
       "error": null
     },
     "thespaceatwestbury": {
@@ -847,7 +873,7 @@
         -73.5766
       ],
       "shows": [],
-      "scrapedAt": "2026-09-30T11:40:47.958Z",
+      "scrapedAt": "2026-10-01T12:09:43.905Z",
       "error": null
     }
   }

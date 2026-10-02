@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-01T12:09:45.407Z",
+  "lastUpdated": "2026-10-02T11:39:51.423Z",
   "totalShows": 62,
   "errors": 0,
   "venues": {
@@ -13,7 +13,7 @@
         -73.0163
       ],
       "shows": [],
-      "scrapedAt": "2026-10-01T12:09:21.439Z",
+      "scrapedAt": "2026-10-02T11:39:28.658Z",
       "error": null
     },
     "boulton": {
@@ -794,7 +794,7 @@
           "sourceUrl": "https://www.boultoncenter.org/calendar/four-way-street"
         }
       ],
-      "scrapedAt": "2026-10-01T12:09:23.672Z",
+      "scrapedAt": "2026-10-02T11:39:32.560Z",
       "error": null
     },
     "nassaucoliseum": {
@@ -807,7 +807,7 @@
         -73.5932
       ],
       "shows": [],
-      "scrapedAt": "2026-10-01T12:09:32.187Z",
+      "scrapedAt": "2026-10-02T11:39:40.392Z",
       "error": null
     },
     "jonesbeach": {
@@ -860,7 +860,7 @@
           "sourceUrl": "https://premium.livenation.com/venue/northwell-health-at-jones-beach-theater"
         }
       ],
-      "scrapedAt": "2026-10-01T12:09:34.600Z",
+      "scrapedAt": "2026-10-02T11:39:42.507Z",
       "error": null
     },
     "thespaceatwestbury": {
@@ -873,7 +873,7 @@
         -73.5766
       ],
       "shows": [],
-      "scrapedAt": "2026-10-01T12:09:43.905Z",
+      "scrapedAt": "2026-10-02T11:39:49.922Z",
       "error": null
     }
   }

@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-02T11:39:51.423Z",
-  "totalShows": 62,
+  "lastUpdated": "2026-10-03T10:53:23.041Z",
+  "totalShows": 61,
   "errors": 0,
   "venues": {
     "89north": {
@@ -13,7 +13,7 @@
         -73.0163
       ],
       "shows": [],
-      "scrapedAt": "2026-10-02T11:39:28.658Z",
+      "scrapedAt": "2026-10-03T10:53:01.049Z",
       "error": null
     },
     "boulton": {
@@ -27,30 +27,17 @@
       ],
       "shows": [
         {
-          "id": "boulton-2026-10-02-events-performances",
+          "id": "boulton-2026-10-03-events-performances",
           "title": "Events & Performances",
-          "date": "2026-10-02",
+          "date": "2026-10-03",
           "time": null,
           "doors": null,
-          "ticketUrl": "https://www.boultoncenter.org/calendar/beginnings",
+          "ticketUrl": "https://www.boultoncenter.org/calendar/paradiddle-records-and-the-famous-doctor-scanlon-band-present-from-dublin-to-duluth-by-travis-mckeveny",
           "imageUrl": "https://images.squarespace-cdn.com/content/v1/6a4288bd2ff57a5bc6d0d83a/a340debf-54a0-4b0b-95fd-3361e1dcdd36/Top+Tier+Floors+-+Blog+Images.png",
           "price": null,
           "ages": null,
           "description": null,
-          "sourceUrl": "https://www.boultoncenter.org/calendar/beginnings"
-        },
-        {
-          "id": "boulton-2026-10-02-beginnings-a-celebration-of-the-music-of-chicago",
-          "title": "Beginnings - A Celebration of the Music of Chicago",
-          "date": "2026-10-02",
-          "time": null,
-          "doors": null,
-          "ticketUrl": "https://www.boultoncenter.org/calendar/beginnings",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/6a4288bd2ff57a5bc6d0d83a/1790084472445-VK2QGEVYAL9136VESK84/ClientFile%28547698%29.jpeg",
-          "price": null,
-          "ages": null,
-          "description": null,
-          "sourceUrl": "https://www.boultoncenter.org/calendar/beginnings"
+          "sourceUrl": "https://www.boultoncenter.org/calendar/paradiddle-records-and-the-famous-doctor-scanlon-band-present-from-dublin-to-duluth-by-travis-mckeveny"
         },
         {
           "id": "boulton-2026-10-03-paradiddle-records-and-the-famous-doctor-scanlon-band-presen",
@@ -794,7 +781,7 @@
           "sourceUrl": "https://www.boultoncenter.org/calendar/four-way-street"
         }
       ],
-      "scrapedAt": "2026-10-02T11:39:32.560Z",
+      "scrapedAt": "2026-10-03T10:53:04.663Z",
       "error": null
     },
     "nassaucoliseum": {
@@ -807,7 +794,7 @@
         -73.5932
       ],
       "shows": [],
-      "scrapedAt": "2026-10-02T11:39:40.392Z",
+      "scrapedAt": "2026-10-03T10:53:11.990Z",
       "error": null
     },
     "jonesbeach": {
@@ -860,7 +847,7 @@
           "sourceUrl": "https://premium.livenation.com/venue/northwell-health-at-jones-beach-theater"
         }
       ],
-      "scrapedAt": "2026-10-02T11:39:42.507Z",
+      "scrapedAt": "2026-10-03T10:53:14.119Z",
       "error": null
     },
     "thespaceatwestbury": {
@@ -873,7 +860,7 @@
         -73.5766
       ],
       "shows": [],
-      "scrapedAt": "2026-10-02T11:39:49.922Z",
+      "scrapedAt": "2026-10-03T10:53:21.539Z",
       "error": null
     }
   }

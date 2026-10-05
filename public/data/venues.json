@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-28T16:08:59.026Z",
+  "lastUpdated": "2026-10-05T16:30:36.711Z",
   "total": 27,
   "venues": [
     {
@@ -489,11 +489,11 @@
         40.7268,
         -73.6348
       ],
-      "url": null,
-      "eventsUrl": null,
+      "url": "https://www.hugedomains.com/domain_profile.cfm?d=republicnyc.com",
+      "eventsUrl": "https://www.hugedomains.com/domain_profile.cfm?d=republicnyc.com",
       "facebook": "https://www.facebook.com/RepublicNYC",
       "instagram": "https://www.instagram.com/republicnyc",
-      "scraper": null,
+      "scraper": "auto",
       "genre": [
         "rock",
         "metal",
@@ -531,11 +531,11 @@
         40.704,
         -73.7259
       ],
-      "url": null,
-      "eventsUrl": null,
+      "url": "https://www.ubsarena.com/",
+      "eventsUrl": "https://www.ubsarena.com/",
       "facebook": "https://www.facebook.com/UBSArena",
       "instagram": "https://www.instagram.com/ubsarena",
-      "scraper": null,
+      "scraper": "auto",
       "genre": [
         "rock",
         "metal",
@@ -545,5 +545,5 @@
       "active": true
     }
   ],
-  "lastVerified": "2026-09-28T16:09:31.352Z"
+  "lastVerified": "2026-10-05T16:31:13.941Z"
 }

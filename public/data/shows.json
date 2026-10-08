@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-07T12:24:28.230Z",
+  "lastUpdated": "2026-10-08T12:33:54.505Z",
   "totalShows": 60,
   "errors": 1,
   "venues": {
@@ -13,7 +13,7 @@
         -73.0163
       ],
       "shows": [],
-      "scrapedAt": "2026-10-07T12:23:57.329Z",
+      "scrapedAt": "2026-10-08T12:33:20.206Z",
       "error": null
     },
     "boulton": {
@@ -768,7 +768,7 @@
           "sourceUrl": "https://www.boultoncenter.org/calendar/four-way-street"
         }
       ],
-      "scrapedAt": "2026-10-07T12:23:59.719Z",
+      "scrapedAt": "2026-10-08T12:33:26.259Z",
       "error": null
     },
     "nassaucoliseum": {
@@ -781,7 +781,7 @@
         -73.5932
       ],
       "shows": [],
-      "scrapedAt": "2026-10-07T12:24:08.342Z",
+      "scrapedAt": "2026-10-08T12:33:34.464Z",
       "error": null
     },
     "jonesbeach": {
@@ -834,7 +834,7 @@
           "sourceUrl": "https://premium.livenation.com/venue/northwell-health-at-jones-beach-theater"
         }
       ],
-      "scrapedAt": "2026-10-07T12:24:10.419Z",
+      "scrapedAt": "2026-10-08T12:33:36.439Z",
       "error": null
     },
     "therepublic": {
@@ -847,7 +847,7 @@
         -73.6348
       ],
       "shows": [],
-      "scrapedAt": "2026-10-07T12:24:16.843Z",
+      "scrapedAt": "2026-10-08T12:33:42.995Z",
       "error": null
     },
     "thespaceatwestbury": {
@@ -860,7 +860,7 @@
         -73.5766
       ],
       "shows": [],
-      "scrapedAt": "2026-10-07T12:24:24.746Z",
+      "scrapedAt": "2026-10-08T12:33:51.187Z",
       "error": null
     },
     "ubsarena": {
@@ -873,7 +873,7 @@
         -73.7259
       ],
       "shows": [],
-      "scrapedAt": "2026-10-07T12:24:26.728Z",
+      "scrapedAt": "2026-10-08T12:33:53.004Z",
       "error": "Could not load any page for UBS Arena"
     }
   }

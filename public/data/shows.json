@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-10-08T12:33:54.505Z",
-  "totalShows": 60,
-  "errors": 1,
+  "lastUpdated": "2026-10-09T12:21:57.210Z",
+  "totalShows": 68,
+  "errors": 0,
   "venues": {
     "89north": {
       "id": "89north",
@@ -13,7 +13,7 @@
         -73.0163
       ],
       "shows": [],
-      "scrapedAt": "2026-10-08T12:33:20.206Z",
+      "scrapedAt": "2026-10-09T12:21:22.004Z",
       "error": null
     },
     "boulton": {
@@ -768,7 +768,7 @@
           "sourceUrl": "https://www.boultoncenter.org/calendar/four-way-street"
         }
       ],
-      "scrapedAt": "2026-10-08T12:33:26.259Z",
+      "scrapedAt": "2026-10-09T12:21:23.799Z",
       "error": null
     },
     "nassaucoliseum": {
@@ -781,7 +781,7 @@
         -73.5932
       ],
       "shows": [],
-      "scrapedAt": "2026-10-08T12:33:34.464Z",
+      "scrapedAt": "2026-10-09T12:21:30.899Z",
       "error": null
     },
     "jonesbeach": {
@@ -794,6 +794,110 @@
         -73.5095
       ],
       "shows": [
+        {
+          "id": "jonesbeach-2027-01-03-magic-of-lights-gloey-light-up-necklace-this-is-not-an-event",
+          "title": "Magic Of Lights: Gloey Light-Up Necklace - This is NOT an Event Ticket",
+          "date": "2027-01-03",
+          "time": "5:00 PM",
+          "doors": null,
+          "ticketUrl": "https://www.ticketmaster.com/magic-of-lights-gloey-lightup-necklace-wantagh-new-york-01-03-2027/event/1D006547CDA276F9",
+          "imageUrl": "https://s1.ticketm.net/dam/a/bf2/1f3eb282-effb-40c1-bc91-7f09d2d09bf2_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+          "price": null,
+          "ages": null,
+          "description": null,
+          "sourceUrl": "https://www.ticketmaster.com/magic-of-lights-gloey-lightup-necklace-wantagh-new-york-01-03-2027/event/1D006547CDA276F9"
+        },
+        {
+          "id": "jonesbeach-2027-01-03-magic-of-lights-gloey-adventure-pack-this-is-not-an-event-ti",
+          "title": "Magic Of Lights: Gloey Adventure Pack - This is NOT an Event Ticket",
+          "date": "2027-01-03",
+          "time": "5:00 PM",
+          "doors": null,
+          "ticketUrl": "https://www.ticketmaster.com/magic-of-lights-gloey-adventure-pack-wantagh-new-york-01-03-2027/event/1D006547CD9B76F6",
+          "imageUrl": "https://s1.ticketm.net/dam/a/b89/46d734cd-1230-42f0-a2fa-a2b14e0b4b89_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+          "price": null,
+          "ages": null,
+          "description": null,
+          "sourceUrl": "https://www.ticketmaster.com/magic-of-lights-gloey-adventure-pack-wantagh-new-york-01-03-2027/event/1D006547CD9B76F6"
+        },
+        {
+          "id": "jonesbeach-2027-01-03-magic-of-lights-cozy-carry-bundle-this-is-not-an-event-ticke",
+          "title": "Magic Of Lights: Cozy Carry Bundle - This is NOT an Event Ticket",
+          "date": "2027-01-03",
+          "time": "5:00 PM",
+          "doors": null,
+          "ticketUrl": "https://www.ticketmaster.com/magic-of-lights-cozy-carry-bundle-wantagh-new-york-01-03-2027/event/1D006547CD8F76DE",
+          "imageUrl": "https://s1.ticketm.net/dam/a/7c4/69945df8-0b09-4aca-8504-7a9610dac7c4_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+          "price": null,
+          "ages": null,
+          "description": null,
+          "sourceUrl": "https://www.ticketmaster.com/magic-of-lights-cozy-carry-bundle-wantagh-new-york-01-03-2027/event/1D006547CD8F76DE"
+        },
+        {
+          "id": "jonesbeach-2027-01-03-magic-of-lights-gloey-kids-18-oz-tumbler-this-is-not-an-even",
+          "title": "Magic Of Lights: Gloey Kids 18 oz Tumbler- This is NOT an Event Ticket",
+          "date": "2027-01-03",
+          "time": "5:00 PM",
+          "doors": null,
+          "ticketUrl": "https://www.ticketmaster.com/magic-of-lights-gloey-kids-18-wantagh-new-york-01-03-2027/event/1D006547CD9676E9",
+          "imageUrl": "https://s1.ticketm.net/dam/a/c09/ae7656f5-72f2-47b0-8256-e892f4532c09_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+          "price": null,
+          "ages": null,
+          "description": null,
+          "sourceUrl": "https://www.ticketmaster.com/magic-of-lights-gloey-kids-18-wantagh-new-york-01-03-2027/event/1D006547CD9676E9"
+        },
+        {
+          "id": "jonesbeach-2027-01-03-magic-of-lights-gloey-light-up-snow-spinner-this-is-not-even",
+          "title": "Magic Of Lights: Gloey Light-Up Snow Spinner This is NOT Event Ticket",
+          "date": "2027-01-03",
+          "time": "5:00 PM",
+          "doors": null,
+          "ticketUrl": "https://www.ticketmaster.com/magic-of-lights-gloey-lightup-snow-wantagh-new-york-01-03-2027/event/1D006547CDB57712",
+          "imageUrl": "https://s1.ticketm.net/dam/a/376/7a5e40c1-a75d-4a1d-8447-cdb867d1c376_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+          "price": null,
+          "ages": null,
+          "description": null,
+          "sourceUrl": "https://www.ticketmaster.com/magic-of-lights-gloey-lightup-snow-wantagh-new-york-01-03-2027/event/1D006547CDB57712"
+        },
+        {
+          "id": "jonesbeach-2027-01-03-magic-of-lights-santa-s-official-adventure-pack-not-an-event",
+          "title": "Magic Of Lights: Santa's Official Adventure Pack -NOT an Event Ticket",
+          "date": "2027-01-03",
+          "time": "5:00 PM",
+          "doors": null,
+          "ticketUrl": "https://www.ticketmaster.com/magic-of-lights-santas-official-adventure-wantagh-new-york-01-03-2027/event/1D006547CDB0770A",
+          "imageUrl": "https://s1.ticketm.net/dam/a/928/fb595a58-3c19-4872-874d-4863ead5e928_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+          "price": null,
+          "ages": null,
+          "description": null,
+          "sourceUrl": "https://www.ticketmaster.com/magic-of-lights-santas-official-adventure-wantagh-new-york-01-03-2027/event/1D006547CDB0770A"
+        },
+        {
+          "id": "jonesbeach-2027-01-03-magic-of-lights-santa-s-official-present-protector-not-an-ev",
+          "title": "Magic Of Lights: Santa's Official Present Protector - NOT an Event Tix",
+          "date": "2027-01-03",
+          "time": "5:00 PM",
+          "doors": null,
+          "ticketUrl": "https://www.ticketmaster.com/magic-of-lights-santas-official-present-wantagh-new-york-01-03-2027/event/1D006547CDAB7705",
+          "imageUrl": "https://s1.ticketm.net/dam/a/a54/1feddf2d-91b2-41b5-80b7-a139716f2a54_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+          "price": null,
+          "ages": null,
+          "description": null,
+          "sourceUrl": "https://www.ticketmaster.com/magic-of-lights-santas-official-present-wantagh-new-york-01-03-2027/event/1D006547CDAB7705"
+        },
+        {
+          "id": "jonesbeach-2027-01-03-magic-of-lights-drive-through-holiday-lights-experience",
+          "title": "Magic Of Lights: Drive-Through Holiday Lights Experience",
+          "date": "2027-01-03",
+          "time": "5:00 PM",
+          "doors": null,
+          "ticketUrl": "https://www.ticketmaster.com/magic-of-lights-drivethrough-holiday-lights-wantagh-new-york-01-03-2027/event/1D006546A78E3C92",
+          "imageUrl": "https://s1.ticketm.net/dam/a/ce5/5a55729f-f567-40cd-92b0-8d64d1209ce5_1181471_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+          "price": null,
+          "ages": null,
+          "description": null,
+          "sourceUrl": "https://www.ticketmaster.com/magic-of-lights-drivethrough-holiday-lights-wantagh-new-york-01-03-2027/event/1D006546A78E3C92"
+        },
         {
           "id": "jonesbeach-2027-06-20-stick-figure-enjoy-the-ride-tour",
           "title": "Stick Figure - Enjoy the Ride Tour",
@@ -834,7 +938,7 @@
           "sourceUrl": "https://premium.livenation.com/venue/northwell-health-at-jones-beach-theater"
         }
       ],
-      "scrapedAt": "2026-10-08T12:33:36.439Z",
+      "scrapedAt": "2026-10-09T12:21:32.822Z",
       "error": null
     },
     "therepublic": {
@@ -847,7 +951,7 @@
         -73.6348
       ],
       "shows": [],
-      "scrapedAt": "2026-10-08T12:33:42.995Z",
+      "scrapedAt": "2026-10-09T12:21:40.344Z",
       "error": null
     },
     "thespaceatwestbury": {
@@ -860,7 +964,7 @@
         -73.5766
       ],
       "shows": [],
-      "scrapedAt": "2026-10-08T12:33:51.187Z",
+      "scrapedAt": "2026-10-09T12:21:48.045Z",
       "error": null
     },
     "ubsarena": {
@@ -873,8 +977,8 @@
         -73.7259
       ],
       "shows": [],
-      "scrapedAt": "2026-10-08T12:33:53.004Z",
-      "error": "Could not load any page for UBS Arena"
+      "scrapedAt": "2026-10-09T12:21:55.708Z",
+      "error": null
     }
   }
 }

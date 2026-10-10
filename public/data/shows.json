@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-10-09T12:21:57.210Z",
-  "totalShows": 68,
-  "errors": 0,
+  "lastUpdated": "2026-10-10T11:40:46.583Z",
+  "totalShows": 70,
+  "errors": 1,
   "venues": {
     "89north": {
       "id": "89north",
@@ -13,7 +13,7 @@
         -73.0163
       ],
       "shows": [],
-      "scrapedAt": "2026-10-09T12:21:22.004Z",
+      "scrapedAt": "2026-10-10T11:40:15.134Z",
       "error": null
     },
     "boulton": {
@@ -690,6 +690,19 @@
           "sourceUrl": "https://www.boultoncenter.org/calendar/tommy-castro-and-the-painkillers"
         },
         {
+          "id": "boulton-2027-04-09-livingston-taylor",
+          "title": "Livingston Taylor",
+          "date": "2027-04-09",
+          "time": null,
+          "doors": null,
+          "ticketUrl": "https://www.boultoncenter.org/calendar/livingston-taylor",
+          "imageUrl": "https://images.squarespace-cdn.com/content/v1/6a4288bd2ff57a5bc6d0d83a/1791589573285-XKL2X16PEXL4KMP2MNVR/ClientFile%28573369%29.jpeg",
+          "price": null,
+          "ages": null,
+          "description": null,
+          "sourceUrl": "https://www.boultoncenter.org/calendar/livingston-taylor"
+        },
+        {
           "id": "boulton-2027-04-10-sir-paul-tribute",
           "title": "Sir Paul Tribute",
           "date": "2027-04-10",
@@ -766,9 +779,22 @@
           "ages": null,
           "description": null,
           "sourceUrl": "https://www.boultoncenter.org/calendar/four-way-street"
+        },
+        {
+          "id": "boulton-2027-05-22-davy-knowles",
+          "title": "Davy Knowles",
+          "date": "2027-05-22",
+          "time": null,
+          "doors": null,
+          "ticketUrl": "https://www.boultoncenter.org/calendar/davy-knowles",
+          "imageUrl": "https://images.squarespace-cdn.com/content/v1/6a4288bd2ff57a5bc6d0d83a/1791588870444-ZKAU6LVXSECBVALVR5SX/ClientFile%28636940%29.jpeg",
+          "price": null,
+          "ages": null,
+          "description": null,
+          "sourceUrl": "https://www.boultoncenter.org/calendar/davy-knowles"
         }
       ],
-      "scrapedAt": "2026-10-09T12:21:23.799Z",
+      "scrapedAt": "2026-10-10T11:40:17.431Z",
       "error": null
     },
     "nassaucoliseum": {
@@ -781,7 +807,7 @@
         -73.5932
       ],
       "shows": [],
-      "scrapedAt": "2026-10-09T12:21:30.899Z",
+      "scrapedAt": "2026-10-10T11:40:26.582Z",
       "error": null
     },
     "jonesbeach": {
@@ -938,7 +964,7 @@
           "sourceUrl": "https://premium.livenation.com/venue/northwell-health-at-jones-beach-theater"
         }
       ],
-      "scrapedAt": "2026-10-09T12:21:32.822Z",
+      "scrapedAt": "2026-10-10T11:40:28.925Z",
       "error": null
     },
     "therepublic": {
@@ -951,7 +977,7 @@
         -73.6348
       ],
       "shows": [],
-      "scrapedAt": "2026-10-09T12:21:40.344Z",
+      "scrapedAt": "2026-10-10T11:40:35.329Z",
       "error": null
     },
     "thespaceatwestbury": {
@@ -964,7 +990,7 @@
         -73.5766
       ],
       "shows": [],
-      "scrapedAt": "2026-10-09T12:21:48.045Z",
+      "scrapedAt": "2026-10-10T11:40:43.075Z",
       "error": null
     },
     "ubsarena": {
@@ -977,8 +1003,8 @@
         -73.7259
       ],
       "shows": [],
-      "scrapedAt": "2026-10-09T12:21:55.708Z",
-      "error": null
+      "scrapedAt": "2026-10-10T11:40:45.081Z",
+      "error": "Could not load any page for UBS Arena"
     }
   }
 }

@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-10T11:40:46.583Z",
-  "totalShows": 70,
+  "lastUpdated": "2026-10-11T11:53:37.028Z",
+  "totalShows": 69,
   "errors": 1,
   "venues": {
     "89north": {
@@ -13,7 +13,7 @@
         -73.0163
       ],
       "shows": [],
-      "scrapedAt": "2026-10-10T11:40:15.134Z",
+      "scrapedAt": "2026-10-11T11:53:05.232Z",
       "error": null
     },
     "boulton": {
@@ -27,30 +27,17 @@
       ],
       "shows": [
         {
-          "id": "boulton-2026-10-10-events-performances",
+          "id": "boulton-2026-10-11-events-performances",
           "title": "Events & Performances",
-          "date": "2026-10-10",
+          "date": "2026-10-11",
           "time": null,
           "doors": null,
-          "ticketUrl": "https://www.boultoncenter.org/calendar/carolyn-wonderland",
+          "ticketUrl": "https://www.boultoncenter.org/calendar/so-good-the-neil-diamond-experience-starring-robert-neary",
           "imageUrl": "https://images.squarespace-cdn.com/content/v1/6a4288bd2ff57a5bc6d0d83a/a340debf-54a0-4b0b-95fd-3361e1dcdd36/Top+Tier+Floors+-+Blog+Images.png",
           "price": null,
           "ages": null,
           "description": null,
-          "sourceUrl": "https://www.boultoncenter.org/calendar/carolyn-wonderland"
-        },
-        {
-          "id": "boulton-2026-10-10-carolyn-wonderland",
-          "title": "Carolyn Wonderland",
-          "date": "2026-10-10",
-          "time": null,
-          "doors": null,
-          "ticketUrl": "https://www.boultoncenter.org/calendar/carolyn-wonderland",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/6a4288bd2ff57a5bc6d0d83a/1783962883150-S1GAEQMB2CUFKVZ4MPE3/imgi_18_rr.png",
-          "price": null,
-          "ages": null,
-          "description": null,
-          "sourceUrl": "https://www.boultoncenter.org/calendar/carolyn-wonderland"
+          "sourceUrl": "https://www.boultoncenter.org/calendar/so-good-the-neil-diamond-experience-starring-robert-neary"
         },
         {
           "id": "boulton-2026-10-11-so-good-the-neil-diamond-experience-starring-robert-neary",
@@ -794,7 +781,7 @@
           "sourceUrl": "https://www.boultoncenter.org/calendar/davy-knowles"
         }
       ],
-      "scrapedAt": "2026-10-10T11:40:17.431Z",
+      "scrapedAt": "2026-10-11T11:53:07.331Z",
       "error": null
     },
     "nassaucoliseum": {
@@ -807,7 +794,7 @@
         -73.5932
       ],
       "shows": [],
-      "scrapedAt": "2026-10-10T11:40:26.582Z",
+      "scrapedAt": "2026-10-11T11:53:16.519Z",
       "error": null
     },
     "jonesbeach": {
@@ -964,7 +951,7 @@
           "sourceUrl": "https://premium.livenation.com/venue/northwell-health-at-jones-beach-theater"
         }
       ],
-      "scrapedAt": "2026-10-10T11:40:28.925Z",
+      "scrapedAt": "2026-10-11T11:53:18.545Z",
       "error": null
     },
     "therepublic": {
@@ -977,7 +964,7 @@
         -73.6348
       ],
       "shows": [],
-      "scrapedAt": "2026-10-10T11:40:35.329Z",
+      "scrapedAt": "2026-10-11T11:53:25.008Z",
       "error": null
     },
     "thespaceatwestbury": {
@@ -990,7 +977,7 @@
         -73.5766
       ],
       "shows": [],
-      "scrapedAt": "2026-10-10T11:40:43.075Z",
+      "scrapedAt": "2026-10-11T11:53:33.596Z",
       "error": null
     },
     "ubsarena": {
@@ -1003,7 +990,7 @@
         -73.7259
       ],
       "shows": [],
-      "scrapedAt": "2026-10-10T11:40:45.081Z",
+      "scrapedAt": "2026-10-11T11:53:35.527Z",
       "error": "Could not load any page for UBS Arena"
     }
   }

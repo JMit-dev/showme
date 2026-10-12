@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-11T11:53:37.028Z",
-  "totalShows": 69,
+  "lastUpdated": "2026-10-12T14:02:01.656Z",
+  "totalShows": 68,
   "errors": 1,
   "venues": {
     "89north": {
@@ -13,7 +13,7 @@
         -73.0163
       ],
       "shows": [],
-      "scrapedAt": "2026-10-11T11:53:05.232Z",
+      "scrapedAt": "2026-10-12T14:01:32.773Z",
       "error": null
     },
     "boulton": {
@@ -27,30 +27,17 @@
       ],
       "shows": [
         {
-          "id": "boulton-2026-10-11-events-performances",
+          "id": "boulton-2026-10-16-events-performances",
           "title": "Events & Performances",
-          "date": "2026-10-11",
+          "date": "2026-10-16",
           "time": null,
           "doors": null,
-          "ticketUrl": "https://www.boultoncenter.org/calendar/so-good-the-neil-diamond-experience-starring-robert-neary",
+          "ticketUrl": "https://www.boultoncenter.org/calendar/beginnings-xt9e7",
           "imageUrl": "https://images.squarespace-cdn.com/content/v1/6a4288bd2ff57a5bc6d0d83a/a340debf-54a0-4b0b-95fd-3361e1dcdd36/Top+Tier+Floors+-+Blog+Images.png",
           "price": null,
           "ages": null,
           "description": null,
-          "sourceUrl": "https://www.boultoncenter.org/calendar/so-good-the-neil-diamond-experience-starring-robert-neary"
-        },
-        {
-          "id": "boulton-2026-10-11-so-good-the-neil-diamond-experience-starring-robert-neary",
-          "title": "So Good! The Neil Diamond Experience Starring Robert Neary",
-          "date": "2026-10-11",
-          "time": null,
-          "doors": null,
-          "ticketUrl": "https://www.boultoncenter.org/calendar/so-good-the-neil-diamond-experience-starring-robert-neary",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/6a4288bd2ff57a5bc6d0d83a/1783965647158-RB2CBEOW16UE2DHNBFML/imgi_18_mm.jpg",
-          "price": null,
-          "ages": null,
-          "description": null,
-          "sourceUrl": "https://www.boultoncenter.org/calendar/so-good-the-neil-diamond-experience-starring-robert-neary"
+          "sourceUrl": "https://www.boultoncenter.org/calendar/beginnings-xt9e7"
         },
         {
           "id": "boulton-2026-10-16-american-girl-a-tribute-to-tom-petty",
@@ -781,7 +768,7 @@
           "sourceUrl": "https://www.boultoncenter.org/calendar/davy-knowles"
         }
       ],
-      "scrapedAt": "2026-10-11T11:53:07.331Z",
+      "scrapedAt": "2026-10-12T14:01:34.910Z",
       "error": null
     },
     "nassaucoliseum": {
@@ -794,7 +781,7 @@
         -73.5932
       ],
       "shows": [],
-      "scrapedAt": "2026-10-11T11:53:16.519Z",
+      "scrapedAt": "2026-10-12T14:01:42.362Z",
       "error": null
     },
     "jonesbeach": {
@@ -951,7 +938,7 @@
           "sourceUrl": "https://premium.livenation.com/venue/northwell-health-at-jones-beach-theater"
         }
       ],
-      "scrapedAt": "2026-10-11T11:53:18.545Z",
+      "scrapedAt": "2026-10-12T14:01:44.686Z",
       "error": null
     },
     "therepublic": {
@@ -964,7 +951,7 @@
         -73.6348
       ],
       "shows": [],
-      "scrapedAt": "2026-10-11T11:53:25.008Z",
+      "scrapedAt": "2026-10-12T14:01:51.027Z",
       "error": null
     },
     "thespaceatwestbury": {
@@ -977,7 +964,7 @@
         -73.5766
       ],
       "shows": [],
-      "scrapedAt": "2026-10-11T11:53:33.596Z",
+      "scrapedAt": "2026-10-12T14:01:58.157Z",
       "error": null
     },
     "ubsarena": {
@@ -990,7 +977,7 @@
         -73.7259
       ],
       "shows": [],
-      "scrapedAt": "2026-10-11T11:53:35.527Z",
+      "scrapedAt": "2026-10-12T14:02:00.156Z",
       "error": "Could not load any page for UBS Arena"
     }
   }

@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-10-12T14:02:01.656Z",
+  "lastUpdated": "2026-10-13T13:16:27.981Z",
   "totalShows": 68,
-  "errors": 1,
+  "errors": 0,
   "venues": {
     "89north": {
       "id": "89north",
@@ -13,7 +13,7 @@
         -73.0163
       ],
       "shows": [],
-      "scrapedAt": "2026-10-12T14:01:32.773Z",
+      "scrapedAt": "2026-10-13T13:16:07.399Z",
       "error": null
     },
     "boulton": {
@@ -768,7 +768,7 @@
           "sourceUrl": "https://www.boultoncenter.org/calendar/davy-knowles"
         }
       ],
-      "scrapedAt": "2026-10-12T14:01:34.910Z",
+      "scrapedAt": "2026-10-13T13:16:09.419Z",
       "error": null
     },
     "nassaucoliseum": {
@@ -781,7 +781,7 @@
         -73.5932
       ],
       "shows": [],
-      "scrapedAt": "2026-10-12T14:01:42.362Z",
+      "scrapedAt": "2026-10-13T13:16:16.665Z",
       "error": null
     },
     "jonesbeach": {
@@ -938,20 +938,7 @@
           "sourceUrl": "https://premium.livenation.com/venue/northwell-health-at-jones-beach-theater"
         }
       ],
-      "scrapedAt": "2026-10-12T14:01:44.686Z",
-      "error": null
-    },
-    "therepublic": {
-      "id": "therepublic",
-      "name": "The Republic",
-      "location": "Garden City, NY",
-      "url": "https://www.hugedomains.com/domain_profile.cfm?d=republicnyc.com",
-      "coords": [
-        40.7268,
-        -73.6348
-      ],
-      "shows": [],
-      "scrapedAt": "2026-10-12T14:01:51.027Z",
+      "scrapedAt": "2026-10-13T13:16:18.900Z",
       "error": null
     },
     "thespaceatwestbury": {
@@ -964,21 +951,8 @@
         -73.5766
       ],
       "shows": [],
-      "scrapedAt": "2026-10-12T14:01:58.157Z",
+      "scrapedAt": "2026-10-13T13:16:26.479Z",
       "error": null
-    },
-    "ubsarena": {
-      "id": "ubsarena",
-      "name": "UBS Arena",
-      "location": "Elmont, NY",
-      "url": "https://www.ubsarena.com/",
-      "coords": [
-        40.704,
-        -73.7259
-      ],
-      "shows": [],
-      "scrapedAt": "2026-10-12T14:02:00.156Z",
-      "error": "Could not load any page for UBS Arena"
     }
   }
 }

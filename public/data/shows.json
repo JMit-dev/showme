@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-13T13:16:27.981Z",
-  "totalShows": 68,
+  "lastUpdated": "2026-10-14T10:56:39.210Z",
+  "totalShows": 69,
   "errors": 0,
   "venues": {
     "89north": {
@@ -13,7 +13,7 @@
         -73.0163
       ],
       "shows": [],
-      "scrapedAt": "2026-10-13T13:16:07.399Z",
+      "scrapedAt": "2026-10-14T10:56:17.060Z",
       "error": null
     },
     "boulton": {
@@ -768,7 +768,7 @@
           "sourceUrl": "https://www.boultoncenter.org/calendar/davy-knowles"
         }
       ],
-      "scrapedAt": "2026-10-13T13:16:09.419Z",
+      "scrapedAt": "2026-10-14T10:56:19.098Z",
       "error": null
     },
     "nassaucoliseum": {
@@ -781,7 +781,7 @@
         -73.5932
       ],
       "shows": [],
-      "scrapedAt": "2026-10-13T13:16:16.665Z",
+      "scrapedAt": "2026-10-14T10:56:27.786Z",
       "error": null
     },
     "jonesbeach": {
@@ -912,6 +912,19 @@
           "sourceUrl": "https://www.ticketmaster.com/stick-figure-enjoy-the-ride-tour-wantagh-new-york-06-20-2027/event/1D0064BB86463F59"
         },
         {
+          "id": "jonesbeach-2027-07-18-matchbox-twenty-30",
+          "title": "Matchbox Twenty - 30",
+          "date": "2027-07-18",
+          "time": "7:30 PM",
+          "doors": null,
+          "ticketUrl": "https://www.ticketmaster.com/matchbox-twenty-30-wantagh-new-york-07-18-2027/event/1D006546C7194DC4",
+          "imageUrl": "https://s1.ticketm.net/dam/a/dda/04ee0a18-67ae-41a0-bede-937ba1ebddda_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+          "price": null,
+          "ages": null,
+          "description": null,
+          "sourceUrl": "https://www.ticketmaster.com/matchbox-twenty-30-wantagh-new-york-07-18-2027/event/1D006546C7194DC4"
+        },
+        {
           "id": "jonesbeach-2027-08-27-ashanti-trey-songz",
           "title": "Ashanti & Trey Songz",
           "date": "2027-08-27",
@@ -938,7 +951,7 @@
           "sourceUrl": "https://premium.livenation.com/venue/northwell-health-at-jones-beach-theater"
         }
       ],
-      "scrapedAt": "2026-10-13T13:16:18.900Z",
+      "scrapedAt": "2026-10-14T10:56:29.834Z",
       "error": null
     },
     "thespaceatwestbury": {
@@ -951,7 +964,7 @@
         -73.5766
       ],
       "shows": [],
-      "scrapedAt": "2026-10-13T13:16:26.479Z",
+      "scrapedAt": "2026-10-14T10:56:37.709Z",
       "error": null
     }
   }

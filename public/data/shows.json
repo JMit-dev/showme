@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-16T10:24:56.525Z",
+  "lastUpdated": "2026-10-17T09:57:25.080Z",
   "totalShows": 69,
   "errors": 0,
   "venues": {
@@ -13,7 +13,7 @@
         -73.0163
       ],
       "shows": [],
-      "scrapedAt": "2026-10-16T10:24:35.436Z",
+      "scrapedAt": "2026-10-17T09:57:04.311Z",
       "error": null
     },
     "boulton": {
@@ -27,30 +27,17 @@
       ],
       "shows": [
         {
-          "id": "boulton-2026-10-16-events-performances",
+          "id": "boulton-2026-10-17-events-performances",
           "title": "Events & Performances",
-          "date": "2026-10-16",
+          "date": "2026-10-17",
           "time": null,
           "doors": null,
-          "ticketUrl": "https://www.boultoncenter.org/calendar/beginnings-xt9e7",
+          "ticketUrl": "https://www.boultoncenter.org/calendar/strawberry-fields-the-ultimate-beatles-tribute-band",
           "imageUrl": "https://images.squarespace-cdn.com/content/v1/6a4288bd2ff57a5bc6d0d83a/a340debf-54a0-4b0b-95fd-3361e1dcdd36/Top+Tier+Floors+-+Blog+Images.png",
           "price": null,
           "ages": null,
           "description": null,
-          "sourceUrl": "https://www.boultoncenter.org/calendar/beginnings-xt9e7"
-        },
-        {
-          "id": "boulton-2026-10-16-american-girl-a-tribute-to-tom-petty",
-          "title": "American Girl - A Tribute to Tom Petty",
-          "date": "2026-10-16",
-          "time": null,
-          "doors": null,
-          "ticketUrl": "https://www.boultoncenter.org/calendar/beginnings-xt9e7",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/6a4288bd2ff57a5bc6d0d83a/1790086002465-U8YR7MV92P6WEG5FXGRY/ClientFile%28561415%29.jpeg",
-          "price": null,
-          "ages": null,
-          "description": null,
-          "sourceUrl": "https://www.boultoncenter.org/calendar/beginnings-xt9e7"
+          "sourceUrl": "https://www.boultoncenter.org/calendar/strawberry-fields-the-ultimate-beatles-tribute-band"
         },
         {
           "id": "boulton-2026-10-17-strawberry-fields-the-ultimate-beatles-tribute-band",
@@ -573,6 +560,19 @@
           "sourceUrl": "https://www.boultoncenter.org/calendar/shakedown-citi-celebrating-the-music-of-the-grateful-dead"
         },
         {
+          "id": "boulton-2027-03-05-the-machine-performs-pink-floyd-unplugged",
+          "title": "The Machine Performs Pink Floyd: Unplugged",
+          "date": "2027-03-05",
+          "time": null,
+          "doors": null,
+          "ticketUrl": "https://www.boultoncenter.org/calendar/the-machine-unplugged",
+          "imageUrl": "https://images.squarespace-cdn.com/content/v1/6a4288bd2ff57a5bc6d0d83a/1791979949776-AW004E5WY9GA7W4R2AIU/PREFERRED+-+The+Machine_-48+%28Brett+Armstrong%29.jpg",
+          "price": null,
+          "ages": null,
+          "description": null,
+          "sourceUrl": "https://www.boultoncenter.org/calendar/the-machine-unplugged"
+        },
+        {
           "id": "boulton-2027-03-06-bobby-wilson-the-sounds-of-soul-train-pop-divas-through-the-",
           "title": "Bobby Wilson: The Sounds of Soul Train & Pop Divas Through The Decades Featuring The Chiclettes",
           "date": "2027-03-06",
@@ -768,7 +768,7 @@
           "sourceUrl": "https://www.boultoncenter.org/calendar/davy-knowles"
         }
       ],
-      "scrapedAt": "2026-10-16T10:24:37.294Z",
+      "scrapedAt": "2026-10-17T09:57:06.329Z",
       "error": null
     },
     "nassaucoliseum": {
@@ -781,7 +781,7 @@
         -73.5932
       ],
       "shows": [],
-      "scrapedAt": "2026-10-16T10:24:45.220Z",
+      "scrapedAt": "2026-10-17T09:57:13.798Z",
       "error": null
     },
     "jonesbeach": {
@@ -951,7 +951,7 @@
           "sourceUrl": "https://premium.livenation.com/venue/northwell-health-at-jones-beach-theater"
         }
       ],
-      "scrapedAt": "2026-10-16T10:24:47.185Z",
+      "scrapedAt": "2026-10-17T09:57:16.177Z",
       "error": null
     },
     "thespaceatwestbury": {
@@ -964,7 +964,7 @@
         -73.5766
       ],
       "shows": [],
-      "scrapedAt": "2026-10-16T10:24:55.023Z",
+      "scrapedAt": "2026-10-17T09:57:23.578Z",
       "error": null
     }
   }

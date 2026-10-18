@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-17T09:57:25.080Z",
-  "totalShows": 69,
+  "lastUpdated": "2026-10-18T10:10:11.732Z",
+  "totalShows": 68,
   "errors": 0,
   "venues": {
     "89north": {
@@ -13,7 +13,7 @@
         -73.0163
       ],
       "shows": [],
-      "scrapedAt": "2026-10-17T09:57:04.311Z",
+      "scrapedAt": "2026-10-18T10:09:29.653Z",
       "error": null
     },
     "boulton": {
@@ -27,30 +27,17 @@
       ],
       "shows": [
         {
-          "id": "boulton-2026-10-17-events-performances",
+          "id": "boulton-2026-10-23-events-performances",
           "title": "Events & Performances",
-          "date": "2026-10-17",
+          "date": "2026-10-23",
           "time": null,
           "doors": null,
-          "ticketUrl": "https://www.boultoncenter.org/calendar/strawberry-fields-the-ultimate-beatles-tribute-band",
+          "ticketUrl": "https://www.boultoncenter.org/calendar/manticore-the-tribute-to-emerson-lake-palmer-tuesday-afternoon-a-tribute-to-the-moody-blues",
           "imageUrl": "https://images.squarespace-cdn.com/content/v1/6a4288bd2ff57a5bc6d0d83a/a340debf-54a0-4b0b-95fd-3361e1dcdd36/Top+Tier+Floors+-+Blog+Images.png",
           "price": null,
           "ages": null,
           "description": null,
-          "sourceUrl": "https://www.boultoncenter.org/calendar/strawberry-fields-the-ultimate-beatles-tribute-band"
-        },
-        {
-          "id": "boulton-2026-10-17-strawberry-fields-the-ultimate-beatles-tribute-band",
-          "title": "Strawberry Fields The Ultimate Beatles Tribute Band",
-          "date": "2026-10-17",
-          "time": null,
-          "doors": null,
-          "ticketUrl": "https://www.boultoncenter.org/calendar/strawberry-fields-the-ultimate-beatles-tribute-band",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/6a4288bd2ff57a5bc6d0d83a/1783966185884-PBK3R8ZTC78YB1W1HRQA/imgi_18_PMG_SF_1200x1500.jpg",
-          "price": null,
-          "ages": null,
-          "description": null,
-          "sourceUrl": "https://www.boultoncenter.org/calendar/strawberry-fields-the-ultimate-beatles-tribute-band"
+          "sourceUrl": "https://www.boultoncenter.org/calendar/manticore-the-tribute-to-emerson-lake-palmer-tuesday-afternoon-a-tribute-to-the-moody-blues"
         },
         {
           "id": "boulton-2026-10-23-manticore-the-tribute-to-emerson-lake-palmer-tuesday-afterno",
@@ -768,7 +755,7 @@
           "sourceUrl": "https://www.boultoncenter.org/calendar/davy-knowles"
         }
       ],
-      "scrapedAt": "2026-10-17T09:57:06.329Z",
+      "scrapedAt": "2026-10-18T10:09:31.827Z",
       "error": null
     },
     "nassaucoliseum": {
@@ -781,7 +768,7 @@
         -73.5932
       ],
       "shows": [],
-      "scrapedAt": "2026-10-17T09:57:13.798Z",
+      "scrapedAt": "2026-10-18T10:09:39.610Z",
       "error": null
     },
     "jonesbeach": {
@@ -951,7 +938,7 @@
           "sourceUrl": "https://premium.livenation.com/venue/northwell-health-at-jones-beach-theater"
         }
       ],
-      "scrapedAt": "2026-10-17T09:57:16.177Z",
+      "scrapedAt": "2026-10-18T10:09:41.670Z",
       "error": null
     },
     "thespaceatwestbury": {
@@ -964,7 +951,7 @@
         -73.5766
       ],
       "shows": [],
-      "scrapedAt": "2026-10-17T09:57:23.578Z",
+      "scrapedAt": "2026-10-18T10:10:10.232Z",
       "error": null
     }
   }

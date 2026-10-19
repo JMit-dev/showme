@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-18T10:10:11.732Z",
+  "lastUpdated": "2026-10-19T11:42:54.697Z",
   "totalShows": 68,
   "errors": 0,
   "venues": {
@@ -13,7 +13,7 @@
         -73.0163
       ],
       "shows": [],
-      "scrapedAt": "2026-10-18T10:09:29.653Z",
+      "scrapedAt": "2026-10-19T11:42:31.324Z",
       "error": null
     },
     "boulton": {
@@ -755,7 +755,7 @@
           "sourceUrl": "https://www.boultoncenter.org/calendar/davy-knowles"
         }
       ],
-      "scrapedAt": "2026-10-18T10:09:31.827Z",
+      "scrapedAt": "2026-10-19T11:42:33.406Z",
       "error": null
     },
     "nassaucoliseum": {
@@ -768,7 +768,7 @@
         -73.5932
       ],
       "shows": [],
-      "scrapedAt": "2026-10-18T10:09:39.610Z",
+      "scrapedAt": "2026-10-19T11:42:41.373Z",
       "error": null
     },
     "jonesbeach": {
@@ -938,7 +938,7 @@
           "sourceUrl": "https://premium.livenation.com/venue/northwell-health-at-jones-beach-theater"
         }
       ],
-      "scrapedAt": "2026-10-18T10:09:41.670Z",
+      "scrapedAt": "2026-10-19T11:42:43.346Z",
       "error": null
     },
     "thespaceatwestbury": {
@@ -951,7 +951,7 @@
         -73.5766
       ],
       "shows": [],
-      "scrapedAt": "2026-10-18T10:10:10.232Z",
+      "scrapedAt": "2026-10-19T11:42:53.195Z",
       "error": null
     }
   }

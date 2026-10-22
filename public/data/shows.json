@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-21T10:55:24.049Z",
-  "totalShows": 68,
+  "lastUpdated": "2026-10-22T10:55:32.478Z",
+  "totalShows": 69,
   "errors": 0,
   "venues": {
     "89north": {
@@ -13,7 +13,7 @@
         -73.0163
       ],
       "shows": [],
-      "scrapedAt": "2026-10-21T10:55:03.127Z",
+      "scrapedAt": "2026-10-22T10:55:11.346Z",
       "error": null
     },
     "boulton": {
@@ -716,6 +716,19 @@
           "sourceUrl": "https://www.boultoncenter.org/calendar/stanley-jordan-plays-jimi-hendrix"
         },
         {
+          "id": "boulton-2027-05-07-christian-guardino-american-idol-finalist",
+          "title": "Christian Guardino - American Idol Finalist",
+          "date": "2027-05-07",
+          "time": null,
+          "doors": null,
+          "ticketUrl": "https://www.boultoncenter.org/calendar/christian-guardino-american-idol-finalist",
+          "imageUrl": "https://images.squarespace-cdn.com/content/v1/6a4288bd2ff57a5bc6d0d83a/1792612661501-F0YIKJQEIJVZJGBERB2V/yy.jpg",
+          "price": null,
+          "ages": null,
+          "description": null,
+          "sourceUrl": "https://www.boultoncenter.org/calendar/christian-guardino-american-idol-finalist"
+        },
+        {
           "id": "boulton-2027-05-08-the-music-of-the-beach-boys-featuring-pet-sounds-live",
           "title": "The Music of The Beach Boys Featuring Pet Sounds LIVE!",
           "date": "2027-05-08",
@@ -755,7 +768,7 @@
           "sourceUrl": "https://www.boultoncenter.org/calendar/davy-knowles"
         }
       ],
-      "scrapedAt": "2026-10-21T10:55:05.359Z",
+      "scrapedAt": "2026-10-22T10:55:13.451Z",
       "error": null
     },
     "nassaucoliseum": {
@@ -768,7 +781,7 @@
         -73.5932
       ],
       "shows": [],
-      "scrapedAt": "2026-10-21T10:55:13.031Z",
+      "scrapedAt": "2026-10-22T10:55:21.589Z",
       "error": null
     },
     "jonesbeach": {
@@ -938,7 +951,7 @@
           "sourceUrl": "https://premium.livenation.com/venue/northwell-health-at-jones-beach-theater"
         }
       ],
-      "scrapedAt": "2026-10-21T10:55:15.005Z",
+      "scrapedAt": "2026-10-22T10:55:23.639Z",
       "error": null
     },
     "thespaceatwestbury": {
@@ -951,7 +964,7 @@
         -73.5766
       ],
       "shows": [],
-      "scrapedAt": "2026-10-21T10:55:22.548Z",
+      "scrapedAt": "2026-10-22T10:55:30.976Z",
       "error": null
     }
   }

@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-23T10:47:25.772Z",
-  "totalShows": 69,
+  "lastUpdated": "2026-10-24T10:03:20.599Z",
+  "totalShows": 68,
   "errors": 0,
   "venues": {
     "89north": {
@@ -13,7 +13,7 @@
         -73.0163
       ],
       "shows": [],
-      "scrapedAt": "2026-10-23T10:47:04.057Z",
+      "scrapedAt": "2026-10-24T10:02:59.008Z",
       "error": null
     },
     "boulton": {
@@ -27,30 +27,17 @@
       ],
       "shows": [
         {
-          "id": "boulton-2026-10-23-events-performances",
+          "id": "boulton-2026-10-24-events-performances",
           "title": "Events & Performances",
-          "date": "2026-10-23",
+          "date": "2026-10-24",
           "time": null,
           "doors": null,
-          "ticketUrl": "https://www.boultoncenter.org/calendar/manticore-the-tribute-to-emerson-lake-palmer-tuesday-afternoon-a-tribute-to-the-moody-blues",
+          "ticketUrl": "https://www.boultoncenter.org/calendar/reckoning",
           "imageUrl": "https://images.squarespace-cdn.com/content/v1/6a4288bd2ff57a5bc6d0d83a/a340debf-54a0-4b0b-95fd-3361e1dcdd36/Top+Tier+Floors+-+Blog+Images.png",
           "price": null,
           "ages": null,
           "description": null,
-          "sourceUrl": "https://www.boultoncenter.org/calendar/manticore-the-tribute-to-emerson-lake-palmer-tuesday-afternoon-a-tribute-to-the-moody-blues"
-        },
-        {
-          "id": "boulton-2026-10-23-manticore-the-tribute-to-emerson-lake-palmer-tuesday-afterno",
-          "title": "MANTICORE The Tribute to Emerson, Lake & Palmer TUESDAY AFTERNOON A Tribute to The Moody Blues",
-          "date": "2026-10-23",
-          "time": null,
-          "doors": null,
-          "ticketUrl": "https://www.boultoncenter.org/calendar/manticore-the-tribute-to-emerson-lake-palmer-tuesday-afternoon-a-tribute-to-the-moody-blues",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/6a4288bd2ff57a5bc6d0d83a/1783966652067-X6KLKBTVL5BVBFJ1MNQ4/imgi_18_mant.png",
-          "price": null,
-          "ages": null,
-          "description": null,
-          "sourceUrl": "https://www.boultoncenter.org/calendar/manticore-the-tribute-to-emerson-lake-palmer-tuesday-afternoon-a-tribute-to-the-moody-blues"
+          "sourceUrl": "https://www.boultoncenter.org/calendar/reckoning"
         },
         {
           "id": "boulton-2026-10-24-reckoning",
@@ -768,7 +755,7 @@
           "sourceUrl": "https://www.boultoncenter.org/calendar/davy-knowles"
         }
       ],
-      "scrapedAt": "2026-10-23T10:47:06.516Z",
+      "scrapedAt": "2026-10-24T10:03:01.015Z",
       "error": null
     },
     "nassaucoliseum": {
@@ -781,7 +768,7 @@
         -73.5932
       ],
       "shows": [],
-      "scrapedAt": "2026-10-23T10:47:14.458Z",
+      "scrapedAt": "2026-10-24T10:03:08.382Z",
       "error": null
     },
     "jonesbeach": {
@@ -951,7 +938,7 @@
           "sourceUrl": "https://premium.livenation.com/venue/northwell-health-at-jones-beach-theater"
         }
       ],
-      "scrapedAt": "2026-10-23T10:47:16.789Z",
+      "scrapedAt": "2026-10-24T10:03:11.461Z",
       "error": null
     },
     "thespaceatwestbury": {
@@ -964,7 +951,7 @@
         -73.5766
       ],
       "shows": [],
-      "scrapedAt": "2026-10-23T10:47:24.270Z",
+      "scrapedAt": "2026-10-24T10:03:19.097Z",
       "error": null
     }
   }

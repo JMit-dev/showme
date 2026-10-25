@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-24T10:03:20.599Z",
-  "totalShows": 68,
+  "lastUpdated": "2026-10-25T10:28:44.107Z",
+  "totalShows": 67,
   "errors": 0,
   "venues": {
     "89north": {
@@ -13,7 +13,7 @@
         -73.0163
       ],
       "shows": [],
-      "scrapedAt": "2026-10-24T10:02:59.008Z",
+      "scrapedAt": "2026-10-25T10:28:20.812Z",
       "error": null
     },
     "boulton": {
@@ -27,30 +27,17 @@
       ],
       "shows": [
         {
-          "id": "boulton-2026-10-24-events-performances",
+          "id": "boulton-2026-10-25-events-performances",
           "title": "Events & Performances",
-          "date": "2026-10-24",
+          "date": "2026-10-25",
           "time": null,
           "doors": null,
-          "ticketUrl": "https://www.boultoncenter.org/calendar/reckoning",
+          "ticketUrl": "https://www.boultoncenter.org/calendar/the-best-of-the-70s",
           "imageUrl": "https://images.squarespace-cdn.com/content/v1/6a4288bd2ff57a5bc6d0d83a/a340debf-54a0-4b0b-95fd-3361e1dcdd36/Top+Tier+Floors+-+Blog+Images.png",
           "price": null,
           "ages": null,
           "description": null,
-          "sourceUrl": "https://www.boultoncenter.org/calendar/reckoning"
-        },
-        {
-          "id": "boulton-2026-10-24-reckoning",
-          "title": "Reckoning",
-          "date": "2026-10-24",
-          "time": null,
-          "doors": null,
-          "ticketUrl": "https://www.boultoncenter.org/calendar/reckoning",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/6a4288bd2ff57a5bc6d0d83a/1783968063675-M8VGXTNV8OHMCB04O85V/imgi_18_vv.jpg",
-          "price": null,
-          "ages": null,
-          "description": null,
-          "sourceUrl": "https://www.boultoncenter.org/calendar/reckoning"
+          "sourceUrl": "https://www.boultoncenter.org/calendar/the-best-of-the-70s"
         },
         {
           "id": "boulton-2026-10-25-the-best-of-the-seventies",
@@ -755,7 +742,7 @@
           "sourceUrl": "https://www.boultoncenter.org/calendar/davy-knowles"
         }
       ],
-      "scrapedAt": "2026-10-24T10:03:01.015Z",
+      "scrapedAt": "2026-10-25T10:28:22.966Z",
       "error": null
     },
     "nassaucoliseum": {
@@ -768,7 +755,7 @@
         -73.5932
       ],
       "shows": [],
-      "scrapedAt": "2026-10-24T10:03:08.382Z",
+      "scrapedAt": "2026-10-25T10:28:32.057Z",
       "error": null
     },
     "jonesbeach": {
@@ -938,7 +925,7 @@
           "sourceUrl": "https://premium.livenation.com/venue/northwell-health-at-jones-beach-theater"
         }
       ],
-      "scrapedAt": "2026-10-24T10:03:11.461Z",
+      "scrapedAt": "2026-10-25T10:28:34.502Z",
       "error": null
     },
     "thespaceatwestbury": {
@@ -951,7 +938,7 @@
         -73.5766
       ],
       "shows": [],
-      "scrapedAt": "2026-10-24T10:03:19.097Z",
+      "scrapedAt": "2026-10-25T10:28:42.606Z",
       "error": null
     }
   }

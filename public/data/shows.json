@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-25T10:28:44.107Z",
-  "totalShows": 67,
+  "lastUpdated": "2026-10-26T11:59:21.115Z",
+  "totalShows": 66,
   "errors": 0,
   "venues": {
     "89north": {
@@ -13,7 +13,7 @@
         -73.0163
       ],
       "shows": [],
-      "scrapedAt": "2026-10-25T10:28:20.812Z",
+      "scrapedAt": "2026-10-26T11:59:01.250Z",
       "error": null
     },
     "boulton": {
@@ -27,30 +27,17 @@
       ],
       "shows": [
         {
-          "id": "boulton-2026-10-25-events-performances",
+          "id": "boulton-2026-10-30-events-performances",
           "title": "Events & Performances",
-          "date": "2026-10-25",
+          "date": "2026-10-30",
           "time": null,
           "doors": null,
-          "ticketUrl": "https://www.boultoncenter.org/calendar/the-best-of-the-70s",
+          "ticketUrl": "https://www.boultoncenter.org/calendar/the-artimus-pyle-band-honoring-ronnie-van-zants-lynyrd-skynyrd",
           "imageUrl": "https://images.squarespace-cdn.com/content/v1/6a4288bd2ff57a5bc6d0d83a/a340debf-54a0-4b0b-95fd-3361e1dcdd36/Top+Tier+Floors+-+Blog+Images.png",
           "price": null,
           "ages": null,
           "description": null,
-          "sourceUrl": "https://www.boultoncenter.org/calendar/the-best-of-the-70s"
-        },
-        {
-          "id": "boulton-2026-10-25-the-best-of-the-seventies",
-          "title": "The Best Of The Seventies",
-          "date": "2026-10-25",
-          "time": null,
-          "doors": null,
-          "ticketUrl": "https://www.boultoncenter.org/calendar/the-best-of-the-70s",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/6a4288bd2ff57a5bc6d0d83a/1790483663486-UAK1MJAM9HELZF4XX5RL/ClientFile%28521368%29.jpeg",
-          "price": null,
-          "ages": null,
-          "description": null,
-          "sourceUrl": "https://www.boultoncenter.org/calendar/the-best-of-the-70s"
+          "sourceUrl": "https://www.boultoncenter.org/calendar/the-artimus-pyle-band-honoring-ronnie-van-zants-lynyrd-skynyrd"
         },
         {
           "id": "boulton-2026-10-30-the-artimus-pyle-band-honoring-ronnie-van-zant-s-lynyrd-skyn",
@@ -742,7 +729,7 @@
           "sourceUrl": "https://www.boultoncenter.org/calendar/davy-knowles"
         }
       ],
-      "scrapedAt": "2026-10-25T10:28:22.966Z",
+      "scrapedAt": "2026-10-26T11:59:03.376Z",
       "error": null
     },
     "nassaucoliseum": {
@@ -755,7 +742,7 @@
         -73.5932
       ],
       "shows": [],
-      "scrapedAt": "2026-10-25T10:28:32.057Z",
+      "scrapedAt": "2026-10-26T11:59:10.484Z",
       "error": null
     },
     "jonesbeach": {
@@ -925,7 +912,7 @@
           "sourceUrl": "https://premium.livenation.com/venue/northwell-health-at-jones-beach-theater"
         }
       ],
-      "scrapedAt": "2026-10-25T10:28:34.502Z",
+      "scrapedAt": "2026-10-26T11:59:12.528Z",
       "error": null
     },
     "thespaceatwestbury": {
@@ -938,7 +925,7 @@
         -73.5766
       ],
       "shows": [],
-      "scrapedAt": "2026-10-25T10:28:42.606Z",
+      "scrapedAt": "2026-10-26T11:59:19.615Z",
       "error": null
     }
   }

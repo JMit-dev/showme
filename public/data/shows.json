@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-26T11:59:21.115Z",
+  "lastUpdated": "2026-10-27T11:20:51.407Z",
   "totalShows": 66,
   "errors": 0,
   "venues": {
@@ -13,7 +13,7 @@
         -73.0163
       ],
       "shows": [],
-      "scrapedAt": "2026-10-26T11:59:01.250Z",
+      "scrapedAt": "2026-10-27T11:20:18.867Z",
       "error": null
     },
     "boulton": {
@@ -729,7 +729,7 @@
           "sourceUrl": "https://www.boultoncenter.org/calendar/davy-knowles"
         }
       ],
-      "scrapedAt": "2026-10-26T11:59:03.376Z",
+      "scrapedAt": "2026-10-27T11:20:23.653Z",
       "error": null
     },
     "nassaucoliseum": {
@@ -742,7 +742,7 @@
         -73.5932
       ],
       "shows": [],
-      "scrapedAt": "2026-10-26T11:59:10.484Z",
+      "scrapedAt": "2026-10-27T11:20:32.149Z",
       "error": null
     },
     "jonesbeach": {
@@ -912,7 +912,7 @@
           "sourceUrl": "https://premium.livenation.com/venue/northwell-health-at-jones-beach-theater"
         }
       ],
-      "scrapedAt": "2026-10-26T11:59:12.528Z",
+      "scrapedAt": "2026-10-27T11:20:34.341Z",
       "error": null
     },
     "thespaceatwestbury": {
@@ -925,7 +925,20 @@
         -73.5766
       ],
       "shows": [],
-      "scrapedAt": "2026-10-26T11:59:19.615Z",
+      "scrapedAt": "2026-10-27T11:20:41.883Z",
+      "error": null
+    },
+    "ubsarena": {
+      "id": "ubsarena",
+      "name": "UBS Arena",
+      "location": "Elmont, NY",
+      "url": "https://www.ubsarena.com/",
+      "coords": [
+        40.704,
+        -73.7259
+      ],
+      "shows": [],
+      "scrapedAt": "2026-10-27T11:20:49.905Z",
       "error": null
     }
   }

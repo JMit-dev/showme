@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-06T13:31:22.553Z",
-  "totalShows": 73,
+  "lastUpdated": "2026-11-07T12:11:15.652Z",
+  "totalShows": 72,
   "errors": 1,
   "venues": {
     "89north": {
@@ -13,7 +13,7 @@
         -73.0163
       ],
       "shows": [],
-      "scrapedAt": "2026-11-06T13:30:58.352Z",
+      "scrapedAt": "2026-11-07T12:10:53.215Z",
       "error": null
     },
     "boulton": {
@@ -27,30 +27,17 @@
       ],
       "shows": [
         {
-          "id": "boulton-2026-11-06-events-performances",
+          "id": "boulton-2026-11-07-events-performances",
           "title": "Events & Performances",
-          "date": "2026-11-06",
+          "date": "2026-11-07",
           "time": null,
           "doors": null,
-          "ticketUrl": "https://www.boultoncenter.org/calendar/ramble-on-the-led-zeppelin-musical-experience",
+          "ticketUrl": "https://www.boultoncenter.org/calendar/islip-food-for-hope-charity-fundraiser-starring-comedian-joey-kola",
           "imageUrl": "https://images.squarespace-cdn.com/content/v1/6a4288bd2ff57a5bc6d0d83a/a340debf-54a0-4b0b-95fd-3361e1dcdd36/Top+Tier+Floors+-+Blog+Images.png",
           "price": null,
           "ages": null,
           "description": null,
-          "sourceUrl": "https://www.boultoncenter.org/calendar/ramble-on-the-led-zeppelin-musical-experience"
-        },
-        {
-          "id": "boulton-2026-11-06-ramble-on-the-led-zeppelin-musical-experience",
-          "title": "Ramble On The Led Zeppelin Musical Experience",
-          "date": "2026-11-06",
-          "time": null,
-          "doors": null,
-          "ticketUrl": "https://www.boultoncenter.org/calendar/ramble-on-the-led-zeppelin-musical-experience",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/6a4288bd2ff57a5bc6d0d83a/1783986016215-OJ9LMU2JO4800PETPSIH/imgi_18_Outlook-vyqg2jny.jpg",
-          "price": null,
-          "ages": null,
-          "description": null,
-          "sourceUrl": "https://www.boultoncenter.org/calendar/ramble-on-the-led-zeppelin-musical-experience"
+          "sourceUrl": "https://www.boultoncenter.org/calendar/islip-food-for-hope-charity-fundraiser-starring-comedian-joey-kola"
         },
         {
           "id": "boulton-2026-11-07-islip-food-for-hope-charity-fundraiser-starring-comedian-joe",
@@ -820,7 +807,7 @@
           "sourceUrl": "https://www.boultoncenter.org/calendar/davy-knowles"
         }
       ],
-      "scrapedAt": "2026-11-06T13:31:00.306Z",
+      "scrapedAt": "2026-11-07T12:10:55.243Z",
       "error": null
     },
     "nassaucoliseum": {
@@ -833,7 +820,7 @@
         -73.5932
       ],
       "shows": [],
-      "scrapedAt": "2026-11-06T13:31:08.095Z",
+      "scrapedAt": "2026-11-07T12:11:02.825Z",
       "error": null
     },
     "jonesbeach": {
@@ -1003,7 +990,7 @@
           "sourceUrl": "https://premium.livenation.com/venue/northwell-health-at-jones-beach-theater"
         }
       ],
-      "scrapedAt": "2026-11-06T13:31:10.490Z",
+      "scrapedAt": "2026-11-07T12:11:04.723Z",
       "error": null
     },
     "thespaceatwestbury": {
@@ -1016,7 +1003,7 @@
         -73.5766
       ],
       "shows": [],
-      "scrapedAt": "2026-11-06T13:31:19.166Z",
+      "scrapedAt": "2026-11-07T12:11:12.515Z",
       "error": null
     },
     "ubsarena": {
@@ -1029,7 +1016,7 @@
         -73.7259
       ],
       "shows": [],
-      "scrapedAt": "2026-11-06T13:31:21.052Z",
+      "scrapedAt": "2026-11-07T12:11:14.152Z",
       "error": "Could not load any page for UBS Arena"
     }
   }

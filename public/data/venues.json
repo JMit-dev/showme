@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-02T17:30:18.250Z",
+  "lastUpdated": "2026-11-09T17:53:31.588Z",
   "total": 27,
   "venues": [
     {
@@ -531,11 +531,11 @@
         40.704,
         -73.7259
       ],
-      "url": "https://www.ubsarena.com/",
-      "eventsUrl": "https://www.ubsarena.com/",
+      "url": null,
+      "eventsUrl": null,
       "facebook": "https://www.facebook.com/UBSArena",
       "instagram": "https://www.instagram.com/ubsarena",
-      "scraper": "auto",
+      "scraper": null,
       "genre": [
         "rock",
         "metal",
@@ -545,5 +545,5 @@
       "active": true
     }
   ],
-  "lastVerified": "2026-11-02T17:30:52.426Z"
+  "lastVerified": "2026-11-09T17:54:01.480Z"
 }

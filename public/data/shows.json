@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-11-09T14:48:52.559Z",
+  "lastUpdated": "2026-11-10T14:01:39.562Z",
   "totalShows": 72,
-  "errors": 1,
+  "errors": 0,
   "venues": {
     "89north": {
       "id": "89north",
@@ -13,7 +13,7 @@
         -73.0163
       ],
       "shows": [],
-      "scrapedAt": "2026-11-09T14:48:28.489Z",
+      "scrapedAt": "2026-11-10T14:01:18.705Z",
       "error": null
     },
     "boulton": {
@@ -807,7 +807,7 @@
           "sourceUrl": "https://www.boultoncenter.org/calendar/absolute-adele-jennifer-cella"
         }
       ],
-      "scrapedAt": "2026-11-09T14:48:30.807Z",
+      "scrapedAt": "2026-11-10T14:01:20.638Z",
       "error": null
     },
     "nassaucoliseum": {
@@ -820,7 +820,7 @@
         -73.5932
       ],
       "shows": [],
-      "scrapedAt": "2026-11-09T14:48:39.245Z",
+      "scrapedAt": "2026-11-10T14:01:28.383Z",
       "error": null
     },
     "jonesbeach": {
@@ -990,7 +990,7 @@
           "sourceUrl": "https://premium.livenation.com/venue/northwell-health-at-jones-beach-theater"
         }
       ],
-      "scrapedAt": "2026-11-09T14:48:41.329Z",
+      "scrapedAt": "2026-11-10T14:01:30.356Z",
       "error": null
     },
     "thespaceatwestbury": {
@@ -1003,21 +1003,8 @@
         -73.5766
       ],
       "shows": [],
-      "scrapedAt": "2026-11-09T14:48:49.118Z",
+      "scrapedAt": "2026-11-10T14:01:38.061Z",
       "error": null
-    },
-    "ubsarena": {
-      "id": "ubsarena",
-      "name": "UBS Arena",
-      "location": "Elmont, NY",
-      "url": "https://www.ubsarena.com/",
-      "coords": [
-        40.704,
-        -73.7259
-      ],
-      "shows": [],
-      "scrapedAt": "2026-11-09T14:48:51.059Z",
-      "error": "Could not load any page for UBS Arena"
     }
   }
 }

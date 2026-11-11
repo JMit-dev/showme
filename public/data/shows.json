@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-10T14:01:39.562Z",
-  "totalShows": 72,
+  "lastUpdated": "2026-11-11T13:18:37.019Z",
+  "totalShows": 73,
   "errors": 0,
   "venues": {
     "89north": {
@@ -13,7 +13,7 @@
         -73.0163
       ],
       "shows": [],
-      "scrapedAt": "2026-11-10T14:01:18.705Z",
+      "scrapedAt": "2026-11-11T13:18:14.995Z",
       "error": null
     },
     "boulton": {
@@ -729,6 +729,19 @@
           "sourceUrl": "https://www.boultoncenter.org/calendar/jethro-tulls-martin-barre-the-2027-plugged-in-ready-tour"
         },
         {
+          "id": "boulton-2027-04-30-the-the-band-band-tribute-to-the-band",
+          "title": "The THE BAND Band - Tribute to THE BAND",
+          "date": "2027-04-30",
+          "time": null,
+          "doors": null,
+          "ticketUrl": "https://www.boultoncenter.org/calendar/the-the-band-band",
+          "imageUrl": "https://images.squarespace-cdn.com/content/v1/6a4288bd2ff57a5bc6d0d83a/1794347364487-Y3ASTR108D1TIJ24C217/thumbnail_TTBB+square+promo.jpg",
+          "price": null,
+          "ages": null,
+          "description": null,
+          "sourceUrl": "https://www.boultoncenter.org/calendar/the-the-band-band"
+        },
+        {
           "id": "boulton-2027-05-01-stanley-jordan-plays-jimi-hendrix",
           "title": "Stanley Jordan Plays Jimi Hendrix",
           "date": "2027-05-01",
@@ -807,7 +820,7 @@
           "sourceUrl": "https://www.boultoncenter.org/calendar/absolute-adele-jennifer-cella"
         }
       ],
-      "scrapedAt": "2026-11-10T14:01:20.638Z",
+      "scrapedAt": "2026-11-11T13:18:16.938Z",
       "error": null
     },
     "nassaucoliseum": {
@@ -820,7 +833,7 @@
         -73.5932
       ],
       "shows": [],
-      "scrapedAt": "2026-11-10T14:01:28.383Z",
+      "scrapedAt": "2026-11-11T13:18:25.181Z",
       "error": null
     },
     "jonesbeach": {
@@ -990,7 +1003,7 @@
           "sourceUrl": "https://premium.livenation.com/venue/northwell-health-at-jones-beach-theater"
         }
       ],
-      "scrapedAt": "2026-11-10T14:01:30.356Z",
+      "scrapedAt": "2026-11-11T13:18:27.693Z",
       "error": null
     },
     "thespaceatwestbury": {
@@ -1003,7 +1016,7 @@
         -73.5766
       ],
       "shows": [],
-      "scrapedAt": "2026-11-10T14:01:38.061Z",
+      "scrapedAt": "2026-11-11T13:18:35.517Z",
       "error": null
     }
   }

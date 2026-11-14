@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-13T13:42:38.864Z",
-  "totalShows": 73,
+  "lastUpdated": "2026-11-14T12:47:00.077Z",
+  "totalShows": 72,
   "errors": 0,
   "venues": {
     "89north": {
@@ -13,7 +13,7 @@
         -73.0163
       ],
       "shows": [],
-      "scrapedAt": "2026-11-13T13:42:15.520Z",
+      "scrapedAt": "2026-11-14T12:46:38.078Z",
       "error": null
     },
     "boulton": {
@@ -27,30 +27,17 @@
       ],
       "shows": [
         {
-          "id": "boulton-2026-11-13-events-performances",
+          "id": "boulton-2026-11-14-events-performances",
           "title": "Events & Performances",
-          "date": "2026-11-13",
+          "date": "2026-11-14",
           "time": null,
           "doors": null,
-          "ticketUrl": "https://www.boultoncenter.org/calendar/rich-mahogany",
+          "ticketUrl": "https://www.boultoncenter.org/calendar/the-joni-project-celebrating-the-music-of-joni-mitchell",
           "imageUrl": "https://images.squarespace-cdn.com/content/v1/6a4288bd2ff57a5bc6d0d83a/a340debf-54a0-4b0b-95fd-3361e1dcdd36/Top+Tier+Floors+-+Blog+Images.png",
           "price": null,
           "ages": null,
           "description": null,
-          "sourceUrl": "https://www.boultoncenter.org/calendar/rich-mahogany"
-        },
-        {
-          "id": "boulton-2026-11-13-rich-mahogany",
-          "title": "Rich Mahogany",
-          "date": "2026-11-13",
-          "time": null,
-          "doors": null,
-          "ticketUrl": "https://www.boultoncenter.org/calendar/rich-mahogany",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/6a4288bd2ff57a5bc6d0d83a/1783986929176-4AUUAC0X29FBV66L62LE/imgi_18_rich.jpg",
-          "price": null,
-          "ages": null,
-          "description": null,
-          "sourceUrl": "https://www.boultoncenter.org/calendar/rich-mahogany"
+          "sourceUrl": "https://www.boultoncenter.org/calendar/the-joni-project-celebrating-the-music-of-joni-mitchell"
         },
         {
           "id": "boulton-2026-11-14-the-joni-project-celebrating-the-music-of-joni-mitchell",
@@ -820,7 +807,7 @@
           "sourceUrl": "https://www.boultoncenter.org/calendar/absolute-adele-jennifer-cella"
         }
       ],
-      "scrapedAt": "2026-11-13T13:42:20.407Z",
+      "scrapedAt": "2026-11-14T12:46:40.268Z",
       "error": null
     },
     "nassaucoliseum": {
@@ -833,7 +820,7 @@
         -73.5932
       ],
       "shows": [],
-      "scrapedAt": "2026-11-13T13:42:27.579Z",
+      "scrapedAt": "2026-11-14T12:46:49.141Z",
       "error": null
     },
     "jonesbeach": {
@@ -1003,7 +990,7 @@
           "sourceUrl": "https://premium.livenation.com/venue/northwell-health-at-jones-beach-theater"
         }
       ],
-      "scrapedAt": "2026-11-13T13:42:29.709Z",
+      "scrapedAt": "2026-11-14T12:46:51.415Z",
       "error": null
     },
     "thespaceatwestbury": {
@@ -1016,7 +1003,7 @@
         -73.5766
       ],
       "shows": [],
-      "scrapedAt": "2026-11-13T13:42:37.362Z",
+      "scrapedAt": "2026-11-14T12:46:58.575Z",
       "error": null
     }
   }

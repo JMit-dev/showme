@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-14T12:47:00.077Z",
-  "totalShows": 72,
+  "lastUpdated": "2026-11-15T13:14:35.648Z",
+  "totalShows": 71,
   "errors": 0,
   "venues": {
     "89north": {
@@ -13,7 +13,7 @@
         -73.0163
       ],
       "shows": [],
-      "scrapedAt": "2026-11-14T12:46:38.078Z",
+      "scrapedAt": "2026-11-15T13:14:14.830Z",
       "error": null
     },
     "boulton": {
@@ -27,30 +27,17 @@
       ],
       "shows": [
         {
-          "id": "boulton-2026-11-14-events-performances",
+          "id": "boulton-2026-11-15-events-performances",
           "title": "Events & Performances",
-          "date": "2026-11-14",
+          "date": "2026-11-15",
           "time": null,
           "doors": null,
-          "ticketUrl": "https://www.boultoncenter.org/calendar/the-joni-project-celebrating-the-music-of-joni-mitchell",
+          "ticketUrl": "https://www.boultoncenter.org/calendar/rockouthunger",
           "imageUrl": "https://images.squarespace-cdn.com/content/v1/6a4288bd2ff57a5bc6d0d83a/a340debf-54a0-4b0b-95fd-3361e1dcdd36/Top+Tier+Floors+-+Blog+Images.png",
           "price": null,
           "ages": null,
           "description": null,
-          "sourceUrl": "https://www.boultoncenter.org/calendar/the-joni-project-celebrating-the-music-of-joni-mitchell"
-        },
-        {
-          "id": "boulton-2026-11-14-the-joni-project-celebrating-the-music-of-joni-mitchell",
-          "title": "The Joni Project Celebrating The Music of Joni Mitchell",
-          "date": "2026-11-14",
-          "time": null,
-          "doors": null,
-          "ticketUrl": "https://www.boultoncenter.org/calendar/the-joni-project-celebrating-the-music-of-joni-mitchell",
-          "imageUrl": "https://images.squarespace-cdn.com/content/v1/6a4288bd2ff57a5bc6d0d83a/1783990614697-XQ7RIZXRAA4E62RRW3XT/imgi_18_nn+%281%29.jpg",
-          "price": null,
-          "ages": null,
-          "description": null,
-          "sourceUrl": "https://www.boultoncenter.org/calendar/the-joni-project-celebrating-the-music-of-joni-mitchell"
+          "sourceUrl": "https://www.boultoncenter.org/calendar/rockouthunger"
         },
         {
           "id": "boulton-2026-11-15-rock-out-hunger",
@@ -807,7 +794,7 @@
           "sourceUrl": "https://www.boultoncenter.org/calendar/absolute-adele-jennifer-cella"
         }
       ],
-      "scrapedAt": "2026-11-14T12:46:40.268Z",
+      "scrapedAt": "2026-11-15T13:14:16.834Z",
       "error": null
     },
     "nassaucoliseum": {
@@ -820,7 +807,7 @@
         -73.5932
       ],
       "shows": [],
-      "scrapedAt": "2026-11-14T12:46:49.141Z",
+      "scrapedAt": "2026-11-15T13:14:25.068Z",
       "error": null
     },
     "jonesbeach": {
@@ -990,7 +977,7 @@
           "sourceUrl": "https://premium.livenation.com/venue/northwell-health-at-jones-beach-theater"
         }
       ],
-      "scrapedAt": "2026-11-14T12:46:51.415Z",
+      "scrapedAt": "2026-11-15T13:14:27.005Z",
       "error": null
     },
     "thespaceatwestbury": {
@@ -1003,7 +990,7 @@
         -73.5766
       ],
       "shows": [],
-      "scrapedAt": "2026-11-14T12:46:58.575Z",
+      "scrapedAt": "2026-11-15T13:14:34.146Z",
       "error": null
     }
   }
